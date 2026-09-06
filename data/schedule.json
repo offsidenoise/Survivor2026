@@ -1,0 +1,7 @@
+{
+  "updated": null,
+  "season": null,
+  "currentWeek": null,
+  "weeks": {},
+  "_note": "Placeholder. Real data is written here by .github/workflows/fetch-odds.yml (scripts/fetch-espn.js) once it runs — either on its schedule or via 'Run workflow' in the Actions tab."
+}
