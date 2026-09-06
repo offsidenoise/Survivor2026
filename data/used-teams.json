@@ -1,0 +1,4 @@
+{
+  "used": [],
+  "_note": "Edit this by hand after each week's pick — add the team's canonical name (matching schedule.json's team.name, e.g. 'Dallas Cowboys' -> use 'Cowboys' as it appears in the display name matching, or just copy the exact name shown on the site). The daily recommendation job reads this to know what's off-limits. Easiest edit path: open this file on github.com or the GitHub mobile app, tap edit, add the team, commit directly to main."
+}
