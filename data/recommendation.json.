@@ -1,0 +1,8 @@
+{
+  "updated": null,
+  "usedTeamsConsidered": [],
+  "remainingWeeks": [],
+  "powerIndexHealthy": false,
+  "recommendation": null,
+  "_note": "Placeholder. Written by scripts/recommend.js in the Action once schedule + odds data exist."
+}
