@@ -1,0 +1,64 @@
+:root{
+  --navy-dark: #0b1826;
+  --navy: #132840;
+  --navy-line: #274766;
+  --white: #f7f9fb;
+  --ice: #6fb3e0;
+  --steel: #8ea4bb;
+  --crimson: #c0392b;
+}
+*{box-sizing:border-box;}
+body{
+  margin:0;
+  background:var(--navy-dark);
+  color:var(--white);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+.field{
+  background-image: repeating-linear-gradient(115deg, rgba(111,179,224,0.08) 0 2px, transparent 2px 34px);
+  background-color:var(--navy);
+  padding:18px 14px 14px;
+  border-bottom:2px solid var(--navy-line);
+}
+.headline{
+  font-family:Georgia,'Times New Roman',serif;
+  font-weight:700;
+  font-size:24px;
+  margin:0 0 2px;
+  color:var(--white);
+}
+.sub{
+  color:var(--steel);
+  font-size:13px;
+  margin:0 0 14px;
+}
+
+.week-tabs{
+  display:flex;
+  gap:6px;
+  overflow-x:auto;
+  padding-bottom:4px;
+  -webkit-overflow-scrolling:touch;
+  scrollbar-width:none;
+}
+.week-tabs::-webkit-scrollbar{display:none;}
+.week-tab{
+  flex:0 0 auto;
+  background:var(--navy-dark);
+  color:var(--steel);
+  border:1px solid var(--navy-line);
+  border-radius:5px;
+  padding:7px 12px;
+  font-size:13px;
+  cursor:pointer;
+  white-space:nowrap;
+}
+.week-tab.active{
+  background:var(--ice);
+  color:var(--navy-dark);
+  font-weight:700;
+  border-color:var(--ice);
+}
+.week-tab.current::after{
+  content:" \
