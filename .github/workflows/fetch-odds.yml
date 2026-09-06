@@ -1,0 +1,41 @@
+name: Fetch NFL schedule + Kalshi odds
+
+on:
+  schedule:
+    # Every 6 hours. Tighten this closer to game day if you want fresher
+    # prices (e.g. every 30 min on Sundays) — just add more cron lines.
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch ESPN schedule
+        run: node scripts/fetch-espn.js
+
+      - name: Fetch Kalshi odds
+        run: node scripts/fetch-kalshi.js
+
+      - name: Fetch ESPN power index (best-effort, unverified endpoint)
+        run: node scripts/fetch-powerindex.js || true
+
+      - name: Compute season-optimal recommendation
+        run: node scripts/recommend.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/schedule.json data/kalshi-odds.json data/powerindex.json data/recommendation.json
+          git diff --staged --quiet || git commit -m "Update schedule + odds + recommendation [skip ci]"
+          git push
