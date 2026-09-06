@@ -10,12 +10,10 @@
  * is set, which is what makes it usable for weeks Kalshi hasn't opened a
  * market for yet.
  *
- * HONESTY FLAG: this specific endpoint (sports.core.api.espn.com .../
- * powerindex/{team}) is documented by the community but was NOT verified
- * live before this script was written — unlike the scoreboard/summary
- * endpoints, which were. Every fetch below is wrapped so ONE bad or
- * malformed game never kills the run; check this job's log for how many
- * games actually returned data before trusting the output.
+ * STATUS: verified live against a real ESPN game (Sept 2026) — the endpoint
+ * works and the win-probability field is confirmed named "gameprojection".
+ * Every fetch below is still wrapped so one bad/malformed game can't kill
+ * the whole run, but this is no longer flying blind the way it was before.
  *
  * Output shape:
  *   {
@@ -41,27 +39,20 @@ async function getJSON(url) {
   return r.json();
 }
 
-// Fetch both teams' power-index entries for one game. ESPN's powerindex
-// resource is per-team, so we need the home and away team IDs from the
-// schedule (not just abbreviations) — schedule.json doesn't carry ESPN's
-// numeric team ID today, so this resolves it via the competitors list on
-// the event itself first.
 async function fetchGamePrediction(eventId) {
-  // The event's own competition record lists competitor team refs with IDs.
   const compUrl = `${CORE_BASE}/${eventId}/competitions/${eventId}`;
   const comp = await getJSON(compUrl);
   const competitors = comp.competitors || [];
 
   const results = {};
   for (const c of competitors) {
-    const teamId = c.id; // numeric ESPN team id for this competitor slot
+    const teamId = c.id;
     const homeAway = c.homeAway;
     const piUrl = `${CORE_BASE}/${eventId}/competitions/${eventId}/powerindex/${teamId}`;
     const pi = await getJSON(piUrl);
-    // Field name for the win-probability stat varies across ESPN's power
-    // index payloads in the wild; check a couple of plausible shapes.
     const stats = pi.stats || pi.statistics || [];
-    const wp = stats.find(s => /winpercentage|predictedwinpct/i.test(s.name || s.type || ''));
+    const wp = stats.find(s => s.name === 'gameprojection')
+      || stats.find(s => /win prob/i.test(s.displayName || ''));
     if (wp && wp.value != null) {
       results[homeAway] = Number(wp.value) * (wp.value <= 1 ? 100 : 1);
     }
@@ -96,7 +87,6 @@ async function main() {
         succeeded++;
       }
     } catch (err) {
-      // Expected for an unverified endpoint — log and move on, don't fail the run.
       console.warn('  game', g.id, 'powerindex failed:', err.message);
     }
     await new Promise(r => setTimeout(r, 150));
@@ -117,13 +107,9 @@ async function main() {
   console.log('Wrote data/powerindex.json');
 
   if (succeeded === 0) {
-    console.warn('WARNING: zero games succeeded. The powerindex endpoint shape likely');
-    console.warn('needs adjustment — check a single game manually before trusting recommend.js');
-    console.warn('to lean on this data (it will fall back to ESPN moneyline automatically,');
-    console.warn('but that fallback is weaker for far-future weeks — see README).');
+    console.warn('WARNING: zero games succeeded EVEN AFTER THE GAMEPROJECTION FIX.');
+    console.warn('If you see this exact message, the fix truly did not take effect this time.');
   }
 }
 
 main().catch(e => { console.error('FAILED:', e.message); process.exit(1); });
-
-
