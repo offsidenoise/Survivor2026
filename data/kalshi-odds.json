@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T23:50:15.498Z",
+  "updated": "2026-09-06T23:57:25.892Z",
   "odds": {
     "Giants_Rams": {
       "teams": {
@@ -213,8 +213,8 @@
     },
     "49ers_Rams": {
       "teams": {
-        "49ers": 36,
-        "Rams": 64
+        "49ers": 37,
+        "Rams": 63
       },
       "eventTicker": "KXNFLGAME-26SEP10SFLAR"
     },
