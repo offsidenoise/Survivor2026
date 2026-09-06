@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NFL Week Odds</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="field">
+  <p class="headline">NFL Week Odds</p>
+  <p class="sub">scheduled games and market-implied winners</p>
+  <div class="view-tabs" id="view-tabs">
+    <button class="view-tab active" data-view="schedule">Schedule</button>
+    <button class="view-tab" data-view="recommendation">Recommendation</button>
+    <button class="view-tab" data-view="actuals">Actuals</button>
+  </div>
+  <div class="week-tabs" id="week-tabs"></div>
+</header>
+
+<main>
+  <div id="view-schedule" class="view-panel active">
+    <div id="status" class="empty">Loading current week's games&hellip;</div>
+    <div id="games"></div>
+    <p class="source-note" id="source-note"></p>
+  </div>
+
+  <div id="view-recommendation" class="view-panel">
+    <div id="rec-content"></div>
+  </div>
+
+  <div id="view-actuals" class="view-panel">
+    <p class="sub">Record which team you actually picked each week. Saved on this device only.</p>
+    <div id="actuals-list"></div>
+    <div class="copy-block" id="copy-block" style="display:none;">
+      <p class="sub" style="margin-bottom:6px;">Paste this into <code>data/used-teams.json</code> on GitHub:</p>
+      <textarea id="copy-json" readonly rows="4"></textarea>
+      <button id="copy-btn" class="ctl-btn">Copy JSON</button>
+    </div>
+  </div>
+</main>
+
+<script src="app.js"></script>
+</body>
+</html>
