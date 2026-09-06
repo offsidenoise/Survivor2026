@@ -1,0 +1,84 @@
+{
+  "updated": "2026-09-06T23:31:46.680Z",
+  "usedTeamsConsidered": [],
+  "remainingWeeks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "powerIndexHealthy": false,
+  "recommendation": {
+    "week": 1,
+    "pick": {
+      "team": "Jacksonville Jaguars",
+      "prob": 77,
+      "source": "kalshi",
+      "opponent": "Cleveland Browns"
+    },
+    "fullSeasonPlan": {
+      "1": {
+        "team": "Jacksonville Jaguars",
+        "prob": 77,
+        "source": "kalshi",
+        "opponent": "Cleveland Browns"
+      },
+      "2": {
+        "team": "San Francisco 49ers",
+        "prob": 83,
+        "source": "kalshi",
+        "opponent": "Miami Dolphins"
+      },
+      "8": {
+        "team": "Philadelphia Eagles",
+        "prob": 67,
+        "source": "kalshi",
+        "opponent": "Washington Commanders"
+      },
+      "9": {
+        "team": "Seattle Seahawks",
+        "prob": 82,
+        "source": "kalshi",
+        "opponent": "Arizona Cardinals"
+      },
+      "10": {
+        "team": "Minnesota Vikings",
+        "prob": 53,
+        "source": "kalshi",
+        "opponent": "Green Bay Packers"
+      },
+      "14": {
+        "team": "Los Angeles Chargers",
+        "prob": 76,
+        "source": "kalshi",
+        "opponent": "Las Vegas Raiders"
+      },
+      "17": {
+        "team": "Dallas Cowboys",
+        "prob": 60,
+        "source": "kalshi",
+        "opponent": "New York Giants"
+      },
+      "18": {
+        "team": "Chicago Bears",
+        "prob": 64,
+        "source": "kalshi",
+        "opponent": "Minnesota Vikings"
+      }
+    }
+  }
+}

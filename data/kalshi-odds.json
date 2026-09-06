@@ -1,6 +1,230 @@
 {
-  "updated": null,
-  "odds": {},
-  "unmapped": [],
-  "_note": "Placeholder. Real data is written here by .github/workflows/fetch-odds.yml (scripts/fetch-kalshi.js) once it runs."
+  "updated": "2026-09-06T23:30:14.828Z",
+  "odds": {
+    "Giants_Rams": {
+      "teams": {
+        "Giants": 22,
+        "Rams": 78
+      },
+      "eventTicker": "KXNFLGAME-26SEP21NYGLAR"
+    },
+    "Chiefs_Colts": {
+      "teams": {
+        "Chiefs": 75,
+        "Colts": 25
+      },
+      "eventTicker": "KXNFLGAME-26SEP20INDKC"
+    },
+    "Commanders_Cowboys": {
+      "teams": {
+        "Commanders": 35,
+        "Cowboys": 65
+      },
+      "eventTicker": "KXNFLGAME-26SEP20WASDAL"
+    },
+    "49ers_Dolphins": {
+      "teams": {
+        "49ers": 83,
+        "Dolphins": 17
+      },
+      "eventTicker": "KXNFLGAME-26SEP20MIASF"
+    },
+    "Cardinals_Seahawks": {
+      "teams": {
+        "Seahawks": 82,
+        "Cardinals": 18
+      },
+      "eventTicker": "KXNFLGAME-26SEP20SEAARI"
+    },
+    "Chargers_Raiders": {
+      "teams": {
+        "Raiders": 24,
+        "Chargers": 76
+      },
+      "eventTicker": "KXNFLGAME-26SEP20LVLAC"
+    },
+    "Broncos_Jaguars": {
+      "teams": {
+        "Jaguars": 42,
+        "Broncos": 58
+      },
+      "eventTicker": "KXNFLGAME-26SEP20JACDEN"
+    },
+    "Browns_Buccaneers": {
+      "teams": {
+        "Buccaneers": 72,
+        "Browns": 28
+      },
+      "eventTicker": "KXNFLGAME-26SEP20CLETB"
+    },
+    "Bengals_Texans": {
+      "teams": {
+        "Texans": 56,
+        "Bengals": 44
+      },
+      "eventTicker": "KXNFLGAME-26SEP20CINHOU"
+    },
+    "Ravens_Saints": {
+      "teams": {
+        "Saints": 25,
+        "Ravens": 75
+      },
+      "eventTicker": "KXNFLGAME-26SEP20NOBAL"
+    },
+    "Jets_Packers": {
+      "teams": {
+        "Jets": 31,
+        "Packers": 69
+      },
+      "eventTicker": "KXNFLGAME-26SEP20GBNYJ"
+    },
+    "Falcons_Panthers": {
+      "teams": {
+        "Panthers": 47,
+        "Falcons": 53
+      },
+      "eventTicker": "KXNFLGAME-26SEP20CARATL"
+    },
+    "Bears_Vikings": {
+      "teams": {
+        "Vikings": 36,
+        "Bears": 64
+      },
+      "eventTicker": "KXNFLGAME-26SEP20MINCHI"
+    },
+    "Patriots_Steelers": {
+      "teams": {
+        "Steelers": 32,
+        "Patriots": 68
+      },
+      "eventTicker": "KXNFLGAME-26SEP20PITNE"
+    },
+    "Eagles_Titans": {
+      "teams": {
+        "Titans": 34,
+        "Eagles": 66
+      },
+      "eventTicker": "KXNFLGAME-26SEP20PHITEN"
+    },
+    "Bills_Lions": {
+      "teams": {
+        "Lions": 40,
+        "Bills": 60
+      },
+      "eventTicker": "KXNFLGAME-26SEP17DETBUF"
+    },
+    "Broncos_Chiefs": {
+      "teams": {
+        "Chiefs": 55,
+        "Broncos": 45
+      },
+      "eventTicker": "KXNFLGAME-26SEP14DENKC"
+    },
+    "Cowboys_Giants": {
+      "teams": {
+        "Giants": 40,
+        "Cowboys": 60
+      },
+      "eventTicker": "KXNFLGAME-26SEP13DALNYG"
+    },
+    "Commanders_Eagles": {
+      "teams": {
+        "Commanders": 33,
+        "Eagles": 67
+      },
+      "eventTicker": "KXNFLGAME-26SEP13WASPHI"
+    },
+    "Dolphins_Raiders": {
+      "teams": {
+        "Dolphins": 38,
+        "Raiders": 62
+      },
+      "eventTicker": "KXNFLGAME-26SEP13MIALV"
+    },
+    "Packers_Vikings": {
+      "teams": {
+        "Vikings": 53,
+        "Packers": 47
+      },
+      "eventTicker": "KXNFLGAME-26SEP13GBMIN"
+    },
+    "Cardinals_Chargers": {
+      "teams": {
+        "Chargers": 81,
+        "Cardinals": 19
+      },
+      "eventTicker": "KXNFLGAME-26SEP13ARILAC"
+    },
+    "Bills_Texans": {
+      "teams": {
+        "Texans": 50,
+        "Bills": 50
+      },
+      "eventTicker": "KXNFLGAME-26SEP13BUFHOU"
+    },
+    "Lions_Saints": {
+      "teams": {
+        "Saints": 26,
+        "Lions": 74
+      },
+      "eventTicker": "KXNFLGAME-26SEP13NODET"
+    },
+    "Jets_Titans": {
+      "teams": {
+        "Titans": 53,
+        "Jets": 47
+      },
+      "eventTicker": "KXNFLGAME-26SEP13NYJTEN"
+    },
+    "Bengals_Buccaneers": {
+      "teams": {
+        "Buccaneers": 35,
+        "Bengals": 65
+      },
+      "eventTicker": "KXNFLGAME-26SEP13TBCIN"
+    },
+    "Browns_Jaguars": {
+      "teams": {
+        "Jaguars": 77,
+        "Browns": 23
+      },
+      "eventTicker": "KXNFLGAME-26SEP13CLEJAC"
+    },
+    "Falcons_Steelers": {
+      "teams": {
+        "Steelers": 63,
+        "Falcons": 37
+      },
+      "eventTicker": "KXNFLGAME-26SEP13ATLPIT"
+    },
+    "Colts_Ravens": {
+      "teams": {
+        "Colts": 37,
+        "Ravens": 63
+      },
+      "eventTicker": "KXNFLGAME-26SEP13BALIND"
+    },
+    "Bears_Panthers": {
+      "teams": {
+        "Bears": 59,
+        "Panthers": 41
+      },
+      "eventTicker": "KXNFLGAME-26SEP13CHICAR"
+    },
+    "49ers_Rams": {
+      "teams": {
+        "49ers": 36,
+        "Rams": 64
+      },
+      "eventTicker": "KXNFLGAME-26SEP10SFLAR"
+    },
+    "Patriots_Seahawks": {
+      "teams": {
+        "Seahawks": 62,
+        "Patriots": 38
+      },
+      "eventTicker": "KXNFLGAME-26SEP09NESEA"
+    }
+  },
+  "unmapped": []
 }
