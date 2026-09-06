@@ -1,0 +1,6 @@
+{
+  "updated": null,
+  "odds": {},
+  "unmapped": [],
+  "_note": "Placeholder. Real data is written here by .github/workflows/fetch-odds.yml (scripts/fetch-kalshi.js) once it runs."
+}
