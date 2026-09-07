@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T03:04:55.970Z",
+  "updated": "2026-09-07T11:40:29.578Z",
   "odds": {
     "Giants_Rams": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Commanders_Cowboys": {
       "teams": {
-        "Commanders": 36,
-        "Cowboys": 64
+        "Commanders": 35,
+        "Cowboys": 65
       },
       "eventTicker": "KXNFLGAME-26SEP20WASDAL"
     },
@@ -45,8 +45,8 @@
     },
     "Broncos_Jaguars": {
       "teams": {
-        "Jaguars": 42,
-        "Broncos": 58
+        "Jaguars": 41,
+        "Broncos": 59
       },
       "eventTicker": "KXNFLGAME-26SEP20JACDEN"
     },
@@ -122,15 +122,15 @@
     },
     "Cowboys_Giants": {
       "teams": {
-        "Giants": 40,
-        "Cowboys": 60
+        "Giants": 41,
+        "Cowboys": 59
       },
       "eventTicker": "KXNFLGAME-26SEP13DALNYG"
     },
     "Commanders_Eagles": {
       "teams": {
-        "Commanders": 33,
-        "Eagles": 67
+        "Commanders": 32,
+        "Eagles": 68
       },
       "eventTicker": "KXNFLGAME-26SEP13WASPHI"
     },
@@ -143,8 +143,8 @@
     },
     "Packers_Vikings": {
       "teams": {
-        "Vikings": 53,
-        "Packers": 47
+        "Vikings": 52,
+        "Packers": 48
       },
       "eventTicker": "KXNFLGAME-26SEP13GBMIN"
     },
@@ -192,8 +192,8 @@
     },
     "Falcons_Steelers": {
       "teams": {
-        "Steelers": 63,
-        "Falcons": 37
+        "Steelers": 62,
+        "Falcons": 38
       },
       "eventTicker": "KXNFLGAME-26SEP13ATLPIT"
     },
