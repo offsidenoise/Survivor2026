@@ -303,6 +303,12 @@ function computeLiveRecommendation(){
       return Math.log(entry.prob / 100);
     })
   );
+        const entry = weekTeamProb[wk] && weekTeamProb[wk][team];
+      if(!entry || entry.prob == null || entry.prob <= 0) return null;
+      return Math.log(entry.prob / 100);
+    })
+  );
+
   const assignment = hungarianMaxAssignment(scoreMatrix);
   const weekAssignments = {};
   const teamsInPlan = new Set();
@@ -400,7 +406,7 @@ async function renderRecommendation(){
       row.className = 'season-plan-row';
       row.innerHTML = `
         <span class="spw">#${i+2}</span>
-        <span class="spt">${alt.team} <span style="color:var(--steel);font-size:11px;">vs ${alt.opponent}</span></span>
+        <span class="spt">${alt.team} <span style="color:var(--text-dim);font-size:11px;">vs ${alt.opponent}</span></span>
         <span class="spp">${Math.round(alt.prob)}%</span>
       `;
       altList.appendChild(row);
@@ -419,7 +425,6 @@ async function renderRecommendation(){
   const note2 = document.createElement('p');
   note2.className = 'sub';
   note2.style.marginBottom = '10px';
-  note2.style.marginTop = '10px';
   note2.textContent = 'This is the pick that maximizes your odds of surviving the whole remaining season, not just this week — see the full plan below. Recomputed live in this browser, so it updates instantly as you fill in Actuals.';
   el.appendChild(note2);
 
@@ -455,7 +460,7 @@ async function renderRecommendation(){
     el.appendChild(note3);
     const chips = document.createElement('div');
     chips.style.fontSize = '12px';
-    chips.style.color = 'var(--steel)';
+    chips.style.color = 'var(--text-dim)';
     chips.textContent = live.teamsNotInPlan.join(', ');
     el.appendChild(chips);
   }
@@ -568,5 +573,34 @@ async function init(){
   try{
     scheduleData = await getJSON('data/schedule.json');
     try{ kalshiData = await getJSON('data/kalshi-odds.json'); }
-    catch(err){ console.war
+    catch(err){ console.warn('Kalshi data unavailable:', err.message); }
+    try{ powerIndexData = await getJSON('data/powerindex.json'); }
+    catch(err){ console.warn('Power index data unavailable:', err.message); }
+    try{ serverRec = await getJSON('data/recommendation.json'); }
+    catch(err){ console.warn('Server recommendation unavailable:', err.message); }
 
+    const weekNums = Object.keys(scheduleData.weeks || {}).map(Number);
+    if(weekNums.length === 0){
+      setStatus('No week data yet. Has the fetch workflow run?');
+      return;
+    }
+    activeWeek = scheduleData.currentWeek && scheduleData.weeks[scheduleData.currentWeek]
+      ? scheduleData.currentWeek
+      : weekNums.sort((a,b)=>a-b)[0];
+
+    renderTabs();
+    renderWeek();
+    renderActuals();
+  }catch(err){
+    console.error(err);
+    setStatus("Couldn't load game data: " + err.message + '. Has the fetch workflow run yet?', true);
+  }
+
+  renderRecommendation();
+}
+
+init();
+
+
+
+  
