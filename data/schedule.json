@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T23:57:25.689Z",
+  "updated": "2026-09-07T03:04:55.623Z",
   "season": 2026,
   "currentWeek": 1,
   "weeks": {
@@ -1778,7 +1778,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
           },
           "espnOdds": {
-            "details": "SEA -2.5",
+            "details": "SEA -1.5",
             "overUnder": 43.5,
             "provider": "DraftKings",
             "homeProb": null,
