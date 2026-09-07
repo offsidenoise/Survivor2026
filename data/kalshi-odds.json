@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-07T11:40:29.578Z",
+  "updated": "2026-09-07T17:18:50.076Z",
   "odds": {
     "Giants_Rams": {
       "teams": {
-        "Giants": 23,
-        "Rams": 77
+        "Giants": 22,
+        "Rams": 78
       },
       "eventTicker": "KXNFLGAME-26SEP21NYGLAR"
     },
     "Chiefs_Colts": {
       "teams": {
-        "Chiefs": 75,
-        "Colts": 25
+        "Chiefs": 74,
+        "Colts": 26
       },
       "eventTicker": "KXNFLGAME-26SEP20INDKC"
     },
@@ -45,8 +45,8 @@
     },
     "Broncos_Jaguars": {
       "teams": {
-        "Jaguars": 41,
-        "Broncos": 59
+        "Jaguars": 42,
+        "Broncos": 58
       },
       "eventTicker": "KXNFLGAME-26SEP20JACDEN"
     },
@@ -80,8 +80,8 @@
     },
     "Falcons_Panthers": {
       "teams": {
-        "Panthers": 46,
-        "Falcons": 54
+        "Panthers": 47,
+        "Falcons": 53
       },
       "eventTicker": "KXNFLGAME-26SEP20CARATL"
     },
@@ -115,15 +115,15 @@
     },
     "Broncos_Chiefs": {
       "teams": {
-        "Chiefs": 55,
-        "Broncos": 45
+        "Chiefs": 56,
+        "Broncos": 44
       },
       "eventTicker": "KXNFLGAME-26SEP14DENKC"
     },
     "Cowboys_Giants": {
       "teams": {
-        "Giants": 41,
-        "Cowboys": 59
+        "Giants": 40,
+        "Cowboys": 60
       },
       "eventTicker": "KXNFLGAME-26SEP13DALNYG"
     },
@@ -136,15 +136,15 @@
     },
     "Dolphins_Raiders": {
       "teams": {
-        "Dolphins": 38,
-        "Raiders": 62
+        "Dolphins": 37,
+        "Raiders": 63
       },
       "eventTicker": "KXNFLGAME-26SEP13MIALV"
     },
     "Packers_Vikings": {
       "teams": {
-        "Vikings": 52,
-        "Packers": 48
+        "Vikings": 53,
+        "Packers": 47
       },
       "eventTicker": "KXNFLGAME-26SEP13GBMIN"
     },
@@ -192,8 +192,8 @@
     },
     "Falcons_Steelers": {
       "teams": {
-        "Steelers": 62,
-        "Falcons": 38
+        "Steelers": 63,
+        "Falcons": 37
       },
       "eventTicker": "KXNFLGAME-26SEP13ATLPIT"
     },
