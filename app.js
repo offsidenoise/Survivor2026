@@ -191,6 +191,7 @@ function renderWeek(){
     `&middot; ESPN power index ${timeAgo(powerIndexData && powerIndexData.updated)}. ` +
     `All refresh on a schedule via GitHub Actions, not on page load.`;
 }
+
 // ---------- Live recommendation engine (mirrors scripts/recommend.js) ----------
 
 function hungarianMaxAssignment(scoreMatrix){
@@ -292,7 +293,7 @@ function computeLiveRecommendation(){
   const availableTeams = Array.from(allTeamsSeen).filter(t => !excludedTeams.has(t));
 
   if(remainingWeeks.length === 0 || availableTeams.length === 0){
-    return { remainingWeeks, availableTeams, weekAssignments:{}, pick:null, teamsNotInPlan:[] };
+    return { remainingWeeks, availableTeams, weekAssignments:{}, pick:null, teamsNotInPlan:[], alternatives:[] };
   }
 
   const scoreMatrix = availableTeams.map(team =>
@@ -302,7 +303,6 @@ function computeLiveRecommendation(){
       return Math.log(entry.prob / 100);
     })
   );
-
   const assignment = hungarianMaxAssignment(scoreMatrix);
   const weekAssignments = {};
   const teamsInPlan = new Set();
@@ -320,12 +320,30 @@ function computeLiveRecommendation(){
   const teamsNotInPlan = availableTeams.filter(t => !teamsInPlan.has(t));
   const thisWeek = remainingWeeks[0];
 
+  // Top alternatives for THIS week specifically — ranked by that week's win
+  // probability alone, not the season-long assignment. This is a different
+  // question ("what are my best options this week") than the main pick
+  // ("what does the optimal full-season plan say"), so it can legitimately
+  // include teams the season-long plan chose to save for later.
+  const primaryTeam = weekAssignments[thisWeek] ? weekAssignments[thisWeek].team : null;
+  const alternatives = availableTeams
+    .filter(t => t !== primaryTeam)
+    .map(t => {
+      const entry = weekTeamProb[thisWeek] && weekTeamProb[thisWeek][t];
+      if(!entry || entry.prob == null) return null;
+      return { team: t, prob: entry.prob, opponent: entry.opponent, sourceLabel: entry.sourceLabel };
+    })
+    .filter(Boolean)
+    .sort((a,b) => b.prob - a.prob)
+    .slice(0, 3);
+
   return {
     remainingWeeks,
     availableTeams,
     weekAssignments,
     pick: weekAssignments[thisWeek] ? { week: thisWeek, ...weekAssignments[thisWeek] } : null,
-    teamsNotInPlan
+    teamsNotInPlan,
+    alternatives
   };
 }
 
@@ -370,9 +388,38 @@ async function renderRecommendation(){
   `;
   el.appendChild(hero);
 
+  if(live.alternatives && live.alternatives.length){
+    const altBtn = document.createElement('button');
+    altBtn.className = 'ctl-btn';
+    altBtn.textContent = 'Show top ' + live.alternatives.length + ' options for Week ' + pick.week;
+    const altList = document.createElement('div');
+    altList.style.display = 'none';
+    altList.style.marginTop = '8px';
+    live.alternatives.forEach((alt, i)=>{
+      const row = document.createElement('div');
+      row.className = 'season-plan-row';
+      row.innerHTML = `
+        <span class="spw">#${i+2}</span>
+        <span class="spt">${alt.team} <span style="color:var(--steel);font-size:11px;">vs ${alt.opponent}</span></span>
+        <span class="spp">${Math.round(alt.prob)}%</span>
+      `;
+      altList.appendChild(row);
+    });
+    altBtn.addEventListener('click', ()=>{
+      const showing = altList.style.display !== 'none';
+      altList.style.display = showing ? 'none' : 'block';
+      altBtn.textContent = showing
+        ? 'Show top ' + live.alternatives.length + ' options for Week ' + pick.week
+        : 'Hide options';
+    });
+    el.appendChild(altBtn);
+    el.appendChild(altList);
+  }
+
   const note2 = document.createElement('p');
   note2.className = 'sub';
   note2.style.marginBottom = '10px';
+  note2.style.marginTop = '10px';
   note2.textContent = 'This is the pick that maximizes your odds of surviving the whole remaining season, not just this week — see the full plan below. Recomputed live in this browser, so it updates instantly as you fill in Actuals.';
   el.appendChild(note2);
 
@@ -521,30 +568,5 @@ async function init(){
   try{
     scheduleData = await getJSON('data/schedule.json');
     try{ kalshiData = await getJSON('data/kalshi-odds.json'); }
-    catch(err){ console.warn('Kalshi data unavailable:', err.message); }
-    try{ powerIndexData = await getJSON('data/powerindex.json'); }
-    catch(err){ console.warn('Power index data unavailable:', err.message); }
-    try{ serverRec = await getJSON('data/recommendation.json'); }
-    catch(err){ console.warn('Server recommendation unavailable:', err.message); }
+    catch(err){ console.war
 
-    const weekNums = Object.keys(scheduleData.weeks || {}).map(Number);
-    if(weekNums.length === 0){
-      setStatus('No week data yet. Has the fetch workflow run?');
-      return;
-    }
-    activeWeek = scheduleData.currentWeek && scheduleData.weeks[scheduleData.currentWeek]
-      ? scheduleData.currentWeek
-      : weekNums.sort((a,b)=>a-b)[0];
-
-    renderTabs();
-    renderWeek();
-    renderActuals();
-  }catch(err){
-    console.error(err);
-    setStatus("Couldn't load game data: " + err.message + '. Has the fetch workflow run yet?', true);
-  }
-
-  renderRecommendation();
-}
-
-init();
