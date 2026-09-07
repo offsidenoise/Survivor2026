@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-07T17:18:50.076Z",
+  "updated": "2026-09-07T21:09:29.986Z",
   "odds": {
     "Giants_Rams": {
       "teams": {
-        "Giants": 22,
-        "Rams": 78
+        "Giants": 23,
+        "Rams": 77
       },
       "eventTicker": "KXNFLGAME-26SEP21NYGLAR"
     },
@@ -52,8 +52,8 @@
     },
     "Browns_Buccaneers": {
       "teams": {
-        "Buccaneers": 71,
-        "Browns": 29
+        "Buccaneers": 72,
+        "Browns": 28
       },
       "eventTicker": "KXNFLGAME-26SEP20CLETB"
     },
@@ -66,8 +66,8 @@
     },
     "Ravens_Saints": {
       "teams": {
-        "Saints": 25,
-        "Ravens": 75
+        "Saints": 24,
+        "Ravens": 76
       },
       "eventTicker": "KXNFLGAME-26SEP20NOBAL"
     },
@@ -199,8 +199,8 @@
     },
     "Colts_Ravens": {
       "teams": {
-        "Colts": 37,
-        "Ravens": 63
+        "Colts": 38,
+        "Ravens": 62
       },
       "eventTicker": "KXNFLGAME-26SEP13BALIND"
     },
