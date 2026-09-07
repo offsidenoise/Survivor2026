@@ -303,11 +303,6 @@ function computeLiveRecommendation(){
       return Math.log(entry.prob / 100);
     })
   );
-        const entry = weekTeamProb[wk] && weekTeamProb[wk][team];
-      if(!entry || entry.prob == null || entry.prob <= 0) return null;
-      return Math.log(entry.prob / 100);
-    })
-  );
 
   const assignment = hungarianMaxAssignment(scoreMatrix);
   const weekAssignments = {};
@@ -327,10 +322,7 @@ function computeLiveRecommendation(){
   const thisWeek = remainingWeeks[0];
 
   // Top alternatives for THIS week specifically — ranked by that week's win
-  // probability alone, not the season-long assignment. This is a different
-  // question ("what are my best options this week") than the main pick
-  // ("what does the optimal full-season plan say"), so it can legitimately
-  // include teams the season-long plan chose to save for later.
+  // probability alone, not the season-long assignment.
   const primaryTeam = weekAssignments[thisWeek] ? weekAssignments[thisWeek].team : null;
   const alternatives = availableTeams
     .filter(t => t !== primaryTeam)
@@ -600,7 +592,3 @@ async function init(){
 }
 
 init();
-
-
-
-  
