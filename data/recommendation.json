@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T03:15:08.848Z",
+  "updated": "2026-09-08T10:40:45.789Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     1,
@@ -26,14 +26,14 @@
     "week": 1,
     "pick": {
       "team": "Los Angeles Chargers",
-      "prob": 82,
+      "prob": 81,
       "source": "kalshi",
       "opponent": "Arizona Cardinals"
     },
     "fullSeasonPlan": {
       "1": {
         "team": "Los Angeles Chargers",
-        "prob": 82,
+        "prob": 81,
         "source": "kalshi",
         "opponent": "Arizona Cardinals"
       },
