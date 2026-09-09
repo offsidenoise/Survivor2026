@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T20:46:43.431Z",
+  "updated": "2026-09-09T03:17:55.462Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     1,
@@ -81,7 +81,7 @@
       },
       "9": {
         "team": "Seattle Seahawks",
-        "prob": 82,
+        "prob": 81,
         "source": "kalshi",
         "opponent": "Arizona Cardinals"
       },
