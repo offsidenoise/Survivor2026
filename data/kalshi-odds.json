@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T03:16:38.655Z",
+  "updated": "2026-09-09T10:49:01.652Z",
   "odds": {
     "Giants_Rams": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Commanders_Cowboys": {
       "teams": {
-        "Commanders": 35,
-        "Cowboys": 65
+        "Commanders": 34,
+        "Cowboys": 66
       },
       "eventTicker": "KXNFLGAME-26SEP20WASDAL"
     },
@@ -66,15 +66,15 @@
     },
     "Ravens_Saints": {
       "teams": {
-        "Saints": 23,
-        "Ravens": 77
+        "Saints": 22,
+        "Ravens": 78
       },
       "eventTicker": "KXNFLGAME-26SEP20NOBAL"
     },
     "Jets_Packers": {
       "teams": {
-        "Jets": 31,
-        "Packers": 69
+        "Jets": 32,
+        "Packers": 68
       },
       "eventTicker": "KXNFLGAME-26SEP20GBNYJ"
     },
@@ -178,15 +178,15 @@
     },
     "Bengals_Buccaneers": {
       "teams": {
-        "Buccaneers": 35,
-        "Bengals": 65
+        "Buccaneers": 36,
+        "Bengals": 64
       },
       "eventTicker": "KXNFLGAME-26SEP13TBCIN"
     },
     "Browns_Jaguars": {
       "teams": {
-        "Jaguars": 77,
-        "Browns": 23
+        "Jaguars": 78,
+        "Browns": 22
       },
       "eventTicker": "KXNFLGAME-26SEP13CLEJAC"
     },
@@ -220,8 +220,8 @@
     },
     "Patriots_Seahawks": {
       "teams": {
-        "Seahawks": 62,
-        "Patriots": 38
+        "Seahawks": 61,
+        "Patriots": 39
       },
       "eventTicker": "KXNFLGAME-26SEP09NESEA"
     }
