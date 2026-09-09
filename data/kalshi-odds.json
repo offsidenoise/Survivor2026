@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T10:49:01.652Z",
+  "updated": "2026-09-09T15:58:35.682Z",
   "odds": {
     "Giants_Rams": {
       "teams": {
@@ -24,8 +24,8 @@
     },
     "49ers_Dolphins": {
       "teams": {
-        "49ers": 85,
-        "Dolphins": 15
+        "49ers": 86,
+        "Dolphins": 14
       },
       "eventTicker": "KXNFLGAME-26SEP20MIASF"
     },
@@ -45,8 +45,8 @@
     },
     "Broncos_Jaguars": {
       "teams": {
-        "Jaguars": 42,
-        "Broncos": 58
+        "Jaguars": 43,
+        "Broncos": 57
       },
       "eventTicker": "KXNFLGAME-26SEP20JACDEN"
     },
@@ -66,15 +66,15 @@
     },
     "Ravens_Saints": {
       "teams": {
-        "Saints": 22,
-        "Ravens": 78
+        "Saints": 23,
+        "Ravens": 77
       },
       "eventTicker": "KXNFLGAME-26SEP20NOBAL"
     },
     "Jets_Packers": {
       "teams": {
-        "Jets": 32,
-        "Packers": 68
+        "Jets": 31,
+        "Packers": 69
       },
       "eventTicker": "KXNFLGAME-26SEP20GBNYJ"
     },
@@ -87,8 +87,8 @@
     },
     "Bears_Vikings": {
       "teams": {
-        "Vikings": 39,
-        "Bears": 61
+        "Vikings": 40,
+        "Bears": 60
       },
       "eventTicker": "KXNFLGAME-26SEP20MINCHI"
     },
@@ -101,15 +101,15 @@
     },
     "Eagles_Titans": {
       "teams": {
-        "Titans": 32,
-        "Eagles": 68
+        "Titans": 31,
+        "Eagles": 69
       },
       "eventTicker": "KXNFLGAME-26SEP20PHITEN"
     },
     "Bills_Lions": {
       "teams": {
-        "Lions": 40,
-        "Bills": 60
+        "Lions": 39,
+        "Bills": 61
       },
       "eventTicker": "KXNFLGAME-26SEP17DETBUF"
     },
