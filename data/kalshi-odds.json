@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-09T20:28:57.600Z",
+  "updated": "2026-09-10T03:15:54.342Z",
   "odds": {
     "Giants_Rams": {
       "teams": {
-        "Giants": 18,
-        "Rams": 82
+        "Giants": 19,
+        "Rams": 81
       },
       "eventTicker": "KXNFLGAME-26SEP21NYGLAR"
     },
@@ -17,8 +17,8 @@
     },
     "Commanders_Cowboys": {
       "teams": {
-        "Commanders": 33,
-        "Cowboys": 67
+        "Commanders": 35,
+        "Cowboys": 65
       },
       "eventTicker": "KXNFLGAME-26SEP20WASDAL"
     },
@@ -31,8 +31,8 @@
     },
     "Cardinals_Seahawks": {
       "teams": {
-        "Seahawks": 81,
-        "Cardinals": 19
+        "Seahawks": 72,
+        "Cardinals": 28
       },
       "eventTicker": "KXNFLGAME-26SEP20SEAARI"
     },
@@ -45,15 +45,15 @@
     },
     "Broncos_Jaguars": {
       "teams": {
-        "Jaguars": 43,
-        "Broncos": 57
+        "Jaguars": 42,
+        "Broncos": 58
       },
       "eventTicker": "KXNFLGAME-26SEP20JACDEN"
     },
     "Browns_Buccaneers": {
       "teams": {
-        "Buccaneers": 72,
-        "Browns": 28
+        "Buccaneers": 73,
+        "Browns": 27
       },
       "eventTicker": "KXNFLGAME-26SEP20CLETB"
     },
@@ -80,8 +80,8 @@
     },
     "Falcons_Panthers": {
       "teams": {
-        "Panthers": 48,
-        "Falcons": 52
+        "Panthers": 47,
+        "Falcons": 53
       },
       "eventTicker": "KXNFLGAME-26SEP20CARATL"
     },
@@ -94,8 +94,8 @@
     },
     "Patriots_Steelers": {
       "teams": {
-        "Steelers": 32,
-        "Patriots": 68
+        "Steelers": 33,
+        "Patriots": 67
       },
       "eventTicker": "KXNFLGAME-26SEP20PITNE"
     },
@@ -192,8 +192,8 @@
     },
     "Falcons_Steelers": {
       "teams": {
-        "Steelers": 63,
-        "Falcons": 37
+        "Steelers": 62,
+        "Falcons": 38
       },
       "eventTicker": "KXNFLGAME-26SEP13ATLPIT"
     },
@@ -206,8 +206,8 @@
     },
     "Bears_Panthers": {
       "teams": {
-        "Bears": 60,
-        "Panthers": 40
+        "Bears": 59,
+        "Panthers": 41
       },
       "eventTicker": "KXNFLGAME-26SEP13CHICAR"
     },
@@ -220,8 +220,8 @@
     },
     "Patriots_Seahawks": {
       "teams": {
-        "Seahawks": 61,
-        "Patriots": 39
+        "Seahawks": 56,
+        "Patriots": 44
       },
       "eventTicker": "KXNFLGAME-26SEP09NESEA"
     }

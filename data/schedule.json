@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T20:28:57.289Z",
+  "updated": "2026-09-10T03:15:54.068Z",
   "season": 2026,
   "currentWeek": 1,
   "weeks": {
@@ -19,13 +19,7 @@
             "name": "Seattle Seahawks",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
           },
-          "espnOdds": {
-            "details": "SEA -3",
-            "overUnder": 44.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401872657",
@@ -175,7 +169,7 @@
           },
           "espnOdds": {
             "details": "CHI -3",
-            "overUnder": 47.5,
+            "overUnder": 46.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -377,7 +371,7 @@
           },
           "espnOdds": {
             "details": "BUF -3",
-            "overUnder": 52.5,
+            "overUnder": 51.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -596,7 +590,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png"
           },
           "espnOdds": {
-            "details": "LAC -8.5",
+            "details": "LAC -9.5",
             "overUnder": 42.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -1778,7 +1772,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
           },
           "espnOdds": {
-            "details": "SEA -2.5",
+            "details": "SEA -1.5",
             "overUnder": 43.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -2600,7 +2594,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
           },
           "espnOdds": {
-            "details": "LAR -3.5",
+            "details": "LAR -4.5",
             "overUnder": 48.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -3936,7 +3930,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
           },
           "espnOdds": {
-            "details": "SF -1.5",
+            "details": "SEA -1.5",
             "overUnder": 46.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -4160,7 +4154,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png"
           },
           "espnOdds": {
-            "details": null,
+            "details": "LAC -2.5",
             "overUnder": 46.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -4894,7 +4888,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png"
           },
           "espnOdds": {
-            "details": "ARI -1.5",
+            "details": "NYJ -1.5",
             "overUnder": 41.5,
             "provider": "DraftKings",
             "homeProb": null,
