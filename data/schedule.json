@@ -1,26 +1,10 @@
 {
-  "updated": "2026-09-10T03:15:54.068Z",
+  "updated": "2026-09-10T10:42:04.620Z",
   "season": 2026,
   "currentWeek": 1,
   "weeks": {
     "1": {
       "games": [
-        {
-          "id": "401872656",
-          "date": "2026-09-10T00:20Z",
-          "shortName": "NE @ SEA",
-          "away": {
-            "code": "NE",
-            "name": "New England Patriots",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png"
-          },
-          "home": {
-            "code": "SEA",
-            "name": "Seattle Seahawks",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
-          },
-          "espnOdds": null
-        },
         {
           "id": "401872657",
           "date": "2026-09-11T00:35Z",
@@ -42,6 +26,22 @@
             "homeProb": null,
             "awayProb": null
           }
+        },
+        {
+          "id": "401872656",
+          "date": "2026-09-10T00:20Z",
+          "shortName": "NE @ SEA",
+          "away": {
+            "code": "NE",
+            "name": "New England Patriots",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png"
+          },
+          "home": {
+            "code": "SEA",
+            "name": "Seattle Seahawks",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
+          },
+          "espnOdds": null
         },
         {
           "id": "401872925",
