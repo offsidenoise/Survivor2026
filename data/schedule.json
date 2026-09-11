@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T15:55:37.209Z",
+  "updated": "2026-09-11T20:30:31.836Z",
   "season": 2026,
   "currentWeek": 1,
   "weeks": {
@@ -140,7 +140,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png"
           },
           "espnOdds": {
-            "details": "PIT -5.5",
+            "details": "PIT -6",
             "overUnder": 41.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -387,7 +387,7 @@
           },
           "espnOdds": {
             "details": "ATL -1.5",
-            "overUnder": 43.5,
+            "overUnder": 42.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
