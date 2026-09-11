@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T20:27:45.788Z",
+  "updated": "2026-09-11T03:11:22.039Z",
   "season": 2026,
   "currentWeek": 1,
   "weeks": {
@@ -19,13 +19,7 @@
             "name": "Los Angeles Rams",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
           },
-          "espnOdds": {
-            "details": "LAR -3.5",
-            "overUnder": 48.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401872656",
@@ -81,7 +75,7 @@
           },
           "espnOdds": {
             "details": "DET -7",
-            "overUnder": 50.5,
+            "overUnder": 49.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -278,7 +272,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png"
           },
           "espnOdds": {
-            "details": "PHI -5.5",
+            "details": "PHI -6",
             "overUnder": 44.5,
             "provider": "DraftKings",
             "homeProb": null,

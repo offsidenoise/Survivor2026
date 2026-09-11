@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T20:29:00.321Z",
+  "updated": "2026-09-11T03:12:24.013Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     1,
@@ -38,10 +38,10 @@
         "opponent": "Arizona Cardinals"
       },
       "2": {
-        "team": "San Francisco 49ers",
-        "prob": 86,
+        "team": "Tampa Bay Buccaneers",
+        "prob": 73,
         "source": "kalshi",
-        "opponent": "Miami Dolphins"
+        "opponent": "Cleveland Browns"
       },
       "3": {
         "team": "Detroit Lions",
@@ -50,10 +50,10 @@
         "opponent": "New York Jets"
       },
       "4": {
-        "team": "Minnesota Vikings",
-        "prob": 73.548,
+        "team": "Chicago Bears",
+        "prob": 75.295,
         "source": "powerindex",
-        "opponent": "Miami Dolphins"
+        "opponent": "New York Jets"
       },
       "5": {
         "team": "Cincinnati Bengals",
@@ -81,7 +81,7 @@
       },
       "9": {
         "team": "Seattle Seahawks",
-        "prob": 73,
+        "prob": 75,
         "source": "kalshi",
         "opponent": "Arizona Cardinals"
       },
@@ -110,10 +110,10 @@
         "opponent": "Miami Dolphins"
       },
       "14": {
-        "team": "Chicago Bears",
-        "prob": 71.475,
-        "source": "powerindex",
-        "opponent": "Miami Dolphins"
+        "team": "San Francisco 49ers",
+        "prob": 99,
+        "source": "kalshi",
+        "opponent": "Los Angeles Rams"
       },
       "15": {
         "team": "Green Bay Packers",
