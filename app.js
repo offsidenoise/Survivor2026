@@ -9,11 +9,11 @@
 //     recommendation shown is recomputed live in the browser, see below)
 //
 // LIVE RECOMMENDATION: the Hungarian assignment algorithm from
-// scripts/recommend.js is duplicated here so the Recommendation tab can
-// react instantly to picks made in the Actuals tab, without waiting for a
-// round trip through GitHub. Server-side used-teams.json (via
-// recommendation.json's usedTeamsConsidered) and this browser's local
-// Actuals picks are merged as the exclusion set.
+// scripts/recommend.js is duplicated here (buildProbTable / hungarianMax
+// Assignment) so the Recommendation tab can react instantly to picks made
+// in the Actuals tab, without waiting for a round trip through GitHub.
+// Server-side used-teams.json (via recommendation.json's usedTeamsConsidered)
+// and this browser's local Actuals picks are merged as the exclusion set.
 //
 // The Actuals tab itself is still genuinely client-side only: there's no
 // backend here, so "which team did I actually pick" can't write back into
@@ -94,8 +94,19 @@ function powerIndexEntryFor(gameId){
   return null;
 }
 
-// Returns { awayProb, homeProb, source, sourceLabel, updated }
+// Returns { awayProb, homeProb, source, sourceLabel, updated, completed, awayScore, homeScore }
 function resolveGameOdds(g){
+  if(g.completed){
+    return {
+      completed: true,
+      awayScore: g.awayScore, homeScore: g.homeScore,
+      awayWinner: g.awayWinner, homeWinner: g.homeWinner,
+      awayProb: g.awayWinner ? 100 : (g.homeWinner ? 0 : null),
+      homeProb: g.homeWinner ? 100 : (g.awayWinner ? 0 : null),
+      source: 'final-result', sourceLabel: 'Final',
+      updated: scheduleData && scheduleData.updated
+    };
+  }
   const kalshi = kalshiEntryFor(g.away.name, g.home.name);
   if(kalshi){
     return { ...kalshi, source:'kalshi', sourceLabel:'Kalshi market',
@@ -153,19 +164,26 @@ function renderWeek(){
       weekday:'short', month:'short', day:'numeric', hour:'numeric', minute:'2-digit'
     }) : '';
 
+    const awayLabel = g.completed && g.awayScore != null
+      ? g.awayScore + (g.awayWinner ? ' \u2713' : '')
+      : (awayProb != null ? Math.round(awayProb) + '% implied' : '');
+    const homeLabel = g.completed && g.homeScore != null
+      ? g.homeScore + (g.homeWinner ? ' \u2713' : '')
+      : (homeProb != null ? Math.round(homeProb) + '% implied' : '');
+
     const card = document.createElement('div');
     card.className = 'game-card';
     card.innerHTML = `
       <div class="game-meta">
         <span>${g.shortName || ''}</span>
-        <span>${kickoff}</span>
+        <span>${g.completed ? 'FINAL' : kickoff}</span>
       </div>
       <div class="matchup">
         <div class="team ${homeFav === false ? 'favorite' : ''}">
           <img class="team-logo" src="${g.away.logo || ''}" alt="" onerror="this.style.display='none'">
           <div>
             <div class="team-name">${g.away.name}</div>
-            <div class="team-prob">${awayProb != null ? Math.round(awayProb) + '% implied' : ''}</div>
+            <div class="team-prob">${awayLabel}</div>
           </div>
         </div>
         <span class="vs">@</span>
@@ -173,14 +191,16 @@ function renderWeek(){
           <img class="team-logo" src="${g.home.logo || ''}" alt="" onerror="this.style.display='none'">
           <div>
             <div class="team-name">${g.home.name}</div>
-            <div class="team-prob">${homeProb != null ? Math.round(homeProb) + '% implied' : ''}</div>
+            <div class="team-prob">${homeLabel}</div>
           </div>
         </div>
       </div>
       <div class="odds-line">
-        ${odds ? 'Source: ' + odds.sourceLabel + ' &middot; updated ' + timeAgo(odds.updated) : 'No odds available yet for this game.'}
-        ${g.espnOdds && g.espnOdds.details ? ' &middot; ' + g.espnOdds.details : ''}
-        ${g.espnOdds && g.espnOdds.overUnder ? ' &middot; O/U ' + g.espnOdds.overUnder : ''}
+        ${g.completed
+          ? 'Game complete \u2014 locked out of future recommendations for this week'
+          : (odds ? 'Source: ' + odds.sourceLabel + ' &middot; updated ' + timeAgo(odds.updated) : 'No odds available yet for this game.')}
+        ${!g.completed && g.espnOdds && g.espnOdds.details ? ' &middot; ' + g.espnOdds.details : ''}
+        ${!g.completed && g.espnOdds && g.espnOdds.overUnder ? ' &middot; O/U ' + g.espnOdds.overUnder : ''}
       </div>
     `;
     gamesEl.appendChild(card);
@@ -267,6 +287,20 @@ function computeLiveRecommendation(){
     for(const g of scheduleData.weeks[wk].games || []){
       const away = g.away.name, home = g.home.name;
       allTeamsSeen.add(away); allTeamsSeen.add(home);
+
+      // COMPLETED GAME: known outcome, not a probability. Winner is a
+      // certain (100%) entry for this week; loser gets no entry at all —
+      // you can't retroactively pick a team for a game already lost, and a
+      // 0% entry would produce -Infinity in the log-based scoring below.
+      if(g.completed){
+        if(g.awayWinner){
+          weekTeamProb[wk][away] = { prob: 100, source: 'final-result', sourceLabel: 'Final', opponent: home };
+        } else if(g.homeWinner){
+          weekTeamProb[wk][home] = { prob: 100, source: 'final-result', sourceLabel: 'Final', opponent: away };
+        }
+        continue;
+      }
+
       const odds = resolveGameOdds(g);
       if(!odds) continue;
       weekTeamProb[wk][away] = { prob: odds.awayProb, source: odds.source, sourceLabel: odds.sourceLabel, opponent: home };
@@ -322,7 +356,10 @@ function computeLiveRecommendation(){
   const thisWeek = remainingWeeks[0];
 
   // Top alternatives for THIS week specifically — ranked by that week's win
-  // probability alone, not the season-long assignment.
+  // probability alone, not the season-long assignment. This is a different
+  // question ("what are my best options this week") than the main pick
+  // ("what does the optimal full-season plan say"), so it can legitimately
+  // include teams the season-long plan chose to save for later.
   const primaryTeam = weekAssignments[thisWeek] ? weekAssignments[thisWeek].team : null;
   const alternatives = availableTeams
     .filter(t => t !== primaryTeam)
@@ -522,6 +559,8 @@ function renderActuals(){
       else { delete current[wk]; }
       saveActualPicks(current);
       updateCopyBlock();
+      // Live-update the Recommendation tab immediately, whether or not
+      // it's the active tab right now, so switching to it shows the change.
       renderRecommendation();
     });
     listEl.appendChild(row);
