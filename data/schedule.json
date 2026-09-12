@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T15:03:12.789Z",
+  "updated": "2026-09-12T20:13:49.909Z",
   "season": 2026,
   "currentWeek": 1,
   "weeks": {
@@ -250,7 +250,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png"
           },
           "espnOdds": {
-            "details": "MIN -1.5",
+            "details": "MIN -2.5",
             "overUnder": 46.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -4882,7 +4882,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png"
           },
           "espnOdds": {
-            "details": "NYJ -1.5",
+            "details": "ARI -1.5",
             "overUnder": 41.5,
             "provider": "DraftKings",
             "homeProb": null,
