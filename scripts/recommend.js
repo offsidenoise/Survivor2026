@@ -30,6 +30,11 @@
  * the season — i.e. maximizing the chance of surviving every remaining week,
  * not just this one.
  *
+ * COMPLETED GAMES: a finished game is no longer a probability — the winner
+ * becomes a certain (100%) pick for that week, and the loser is excluded
+ * entirely from that week (you can't retroactively pick a team whose game
+ * already happened and was lost).
+ *
  * Output: data/recommendation.json
  */
 
@@ -94,6 +99,21 @@ for (const wk in schedule.weeks) {
   for (const g of schedule.weeks[wk].games || []) {
     const away = g.away.name, home = g.home.name;
     allTeamsSeen.add(away); allTeamsSeen.add(home);
+
+    // COMPLETED GAME: the outcome is known, not a probability anymore. The
+    // winner is a certain (100%) pick for this week; the loser is not a
+    // viable choice for this week at all (you can't retroactively win a
+    // game that's already over), so it gets no entry rather than a 0%
+    // entry — 0% would produce -Infinity in the log-based scoring below.
+    if (g.completed) {
+      if (g.awayWinner) {
+        weekTeamProb[wk][away] = { prob: 100, source: 'final-result', opponent: home };
+      } else if (g.homeWinner) {
+        weekTeamProb[wk][home] = { prob: 100, source: 'final-result', opponent: away };
+      }
+      // A tie leaves both out — neither actually "won" the week.
+      continue;
+    }
 
     const best = kalshiProbFor(away, home) || powerIndexProbFor(g.id) || espnMoneylineProbFor(g.espnOdds);
     if (!best) continue;
