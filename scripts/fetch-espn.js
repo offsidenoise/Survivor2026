@@ -79,10 +79,22 @@ function parseGames(data) {
     const away = competitors.find(c => c.homeAway === 'away');
     if (!home || !away) continue;
 
+    const statusType = evt.status && evt.status.type;
+    const completed = !!(statusType && statusType.completed);
+    const awayScore = away.score != null ? Number(away.score) : null;
+    const homeScore = home.score != null ? Number(home.score) : null;
+    const awayWinner = away.winner === true;
+    const homeWinner = home.winner === true;
+
     games.push({
       id: evt.id,
       date: evt.date,
       shortName: evt.shortName || '',
+      completed,
+      awayScore,
+      homeScore,
+      awayWinner,
+      homeWinner,
       away: {
         code: away.team.abbreviation,
         name: away.team.displayName,
