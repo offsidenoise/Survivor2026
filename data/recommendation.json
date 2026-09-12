@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T03:18:33.267Z",
+  "updated": "2026-09-12T10:11:06.937Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     1,
@@ -25,17 +25,17 @@
   "recommendation": {
     "week": 1,
     "pick": {
-      "team": "Jacksonville Jaguars",
-      "prob": 78,
+      "team": "Los Angeles Chargers",
+      "prob": 81,
       "source": "kalshi",
-      "opponent": "Cleveland Browns"
+      "opponent": "Arizona Cardinals"
     },
     "fullSeasonPlan": {
       "1": {
-        "team": "Jacksonville Jaguars",
-        "prob": 78,
+        "team": "Los Angeles Chargers",
+        "prob": 81,
         "source": "kalshi",
-        "opponent": "Cleveland Browns"
+        "opponent": "Arizona Cardinals"
       },
       "2": {
         "team": "San Francisco 49ers",
@@ -45,97 +45,97 @@
       },
       "3": {
         "team": "Detroit Lions",
-        "prob": 79.97800000000001,
+        "prob": 79.12,
         "source": "powerindex",
         "opponent": "New York Jets"
       },
       "4": {
-        "team": "Chicago Bears",
-        "prob": 76.821,
+        "team": "Minnesota Vikings",
+        "prob": 74.407,
         "source": "powerindex",
-        "opponent": "New York Jets"
+        "opponent": "Miami Dolphins"
       },
       "5": {
         "team": "Cincinnati Bengals",
-        "prob": 73.39099999999999,
+        "prob": 72.543,
         "source": "powerindex",
         "opponent": "Miami Dolphins"
       },
       "6": {
-        "team": "Philadelphia Eagles",
-        "prob": 71.88600000000001,
+        "team": "Los Angeles Rams",
+        "prob": 82.041,
         "source": "powerindex",
-        "opponent": "Carolina Panthers"
+        "opponent": "Arizona Cardinals"
       },
       "7": {
-        "team": "Los Angeles Rams",
-        "prob": 72.677,
+        "team": "Houston Texans",
+        "prob": 65.79700000000001,
         "source": "powerindex",
-        "opponent": "Las Vegas Raiders"
+        "opponent": "New York Giants"
       },
       "8": {
         "team": "Dallas Cowboys",
-        "prob": 76.529,
+        "prob": 76.434,
         "source": "powerindex",
         "opponent": "Arizona Cardinals"
       },
       "9": {
         "team": "Seattle Seahawks",
-        "prob": 81,
+        "prob": 80,
         "source": "kalshi",
         "opponent": "Arizona Cardinals"
       },
       "10": {
         "team": "Indianapolis Colts",
-        "prob": 74.193,
+        "prob": 73.631,
         "source": "powerindex",
         "opponent": "Miami Dolphins"
       },
       "11": {
         "team": "Kansas City Chiefs",
-        "prob": 79.149,
+        "prob": 78.539,
         "source": "powerindex",
         "opponent": "Arizona Cardinals"
       },
       "12": {
-        "team": "Tampa Bay Buccaneers",
-        "prob": 63.928,
+        "team": "Jacksonville Jaguars",
+        "prob": 69.765,
         "source": "powerindex",
-        "opponent": "Carolina Panthers"
+        "opponent": "Tennessee Titans"
       },
       "13": {
         "team": "Denver Broncos",
-        "prob": 79.001,
+        "prob": 78.991,
         "source": "powerindex",
         "opponent": "Miami Dolphins"
       },
       "14": {
-        "team": "Los Angeles Chargers",
-        "prob": 80,
-        "source": "kalshi",
-        "opponent": "Las Vegas Raiders"
+        "team": "Chicago Bears",
+        "prob": 71.935,
+        "source": "powerindex",
+        "opponent": "Miami Dolphins"
       },
       "15": {
         "team": "Green Bay Packers",
-        "prob": 81.795,
+        "prob": 81.932,
         "source": "powerindex",
         "opponent": "Miami Dolphins"
       },
       "16": {
         "team": "Baltimore Ravens",
-        "prob": 79.974,
+        "prob": 80.264,
         "source": "powerindex",
         "opponent": "Cleveland Browns"
       },
       "17": {
         "team": "Buffalo Bills",
-        "prob": 78.199,
+        "prob": 79.038,
         "source": "powerindex",
         "opponent": "Miami Dolphins"
       },
       "18": {
         "team": "New England Patriots",
-        "prob": 78.739,
+        "prob": 78.176,
         "source": "powerindex",
         "opponent": "Miami Dolphins"
       }

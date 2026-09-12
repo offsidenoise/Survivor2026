@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T03:17:36.109Z",
+  "updated": "2026-09-12T10:09:46.510Z",
   "odds": {
     "Giants_Rams": {
       "teams": {
@@ -31,8 +31,8 @@
     },
     "Cardinals_Seahawks": {
       "teams": {
-        "Seahawks": 81,
-        "Cardinals": 19
+        "Seahawks": 80,
+        "Cardinals": 20
       },
       "eventTicker": "KXNFLGAME-26SEP20SEAARI"
     },
@@ -45,8 +45,8 @@
     },
     "Broncos_Jaguars": {
       "teams": {
-        "Jaguars": 43,
-        "Broncos": 57
+        "Jaguars": 42,
+        "Broncos": 58
       },
       "eventTicker": "KXNFLGAME-26SEP20JACDEN"
     },
@@ -59,29 +59,29 @@
     },
     "Bengals_Texans": {
       "teams": {
-        "Texans": 56,
-        "Bengals": 44
+        "Texans": 57,
+        "Bengals": 43
       },
       "eventTicker": "KXNFLGAME-26SEP20CINHOU"
     },
     "Ravens_Saints": {
       "teams": {
-        "Saints": 23,
-        "Ravens": 77
+        "Saints": 22,
+        "Ravens": 78
       },
       "eventTicker": "KXNFLGAME-26SEP20NOBAL"
     },
     "Jets_Packers": {
       "teams": {
-        "Jets": 32,
-        "Packers": 68
+        "Jets": 31,
+        "Packers": 69
       },
       "eventTicker": "KXNFLGAME-26SEP20GBNYJ"
     },
     "Falcons_Panthers": {
       "teams": {
-        "Panthers": 48,
-        "Falcons": 52
+        "Panthers": 49,
+        "Falcons": 51
       },
       "eventTicker": "KXNFLGAME-26SEP20CARATL"
     },
@@ -115,8 +115,8 @@
     },
     "Broncos_Chiefs": {
       "teams": {
-        "Chiefs": 56,
-        "Broncos": 44
+        "Chiefs": 55,
+        "Broncos": 45
       },
       "eventTicker": "KXNFLGAME-26SEP14DENKC"
     },
