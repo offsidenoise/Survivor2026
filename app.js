@@ -166,17 +166,21 @@ function renderWeek(){
 
     const awayLabel = g.completed && g.awayScore != null
       ? g.awayScore + (g.awayWinner ? ' \u2713' : '')
-      : (awayProb != null ? Math.round(awayProb) + '% implied' : '');
+      : g.inProgress && g.awayScore != null
+        ? g.awayScore + ' \u2014 ' + (awayProb != null ? Math.round(awayProb) + '% pregame' : '')
+        : (awayProb != null ? Math.round(awayProb) + '% implied' : '');
     const homeLabel = g.completed && g.homeScore != null
       ? g.homeScore + (g.homeWinner ? ' \u2713' : '')
-      : (homeProb != null ? Math.round(homeProb) + '% implied' : '');
+      : g.inProgress && g.homeScore != null
+        ? g.homeScore + ' \u2014 ' + (homeProb != null ? Math.round(homeProb) + '% pregame' : '')
+        : (homeProb != null ? Math.round(homeProb) + '% implied' : '');
 
     const card = document.createElement('div');
     card.className = 'game-card';
     card.innerHTML = `
       <div class="game-meta">
         <span>${g.shortName || ''}</span>
-        <span>${g.completed ? 'FINAL' : kickoff}</span>
+        <span>${g.completed ? 'FINAL' : g.inProgress ? '<span class="live-badge">\u25CF LIVE</span>' : kickoff}</span>
       </div>
       <div class="matchup">
         <div class="team ${homeFav === false ? 'favorite' : ''}">
