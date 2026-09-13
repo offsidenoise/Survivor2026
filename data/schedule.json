@@ -1,52 +1,10 @@
 {
-  "updated": "2026-09-13T03:22:18.371Z",
+  "updated": "2026-09-13T11:09:10.406Z",
   "season": 2026,
   "currentWeek": 1,
   "weeks": {
     "1": {
       "games": [
-        {
-          "id": "401872656",
-          "date": "2026-09-10T00:20Z",
-          "shortName": "NE @ SEA",
-          "completed": true,
-          "awayScore": 10,
-          "homeScore": 13,
-          "awayWinner": false,
-          "homeWinner": true,
-          "away": {
-            "code": "NE",
-            "name": "New England Patriots",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png"
-          },
-          "home": {
-            "code": "SEA",
-            "name": "Seattle Seahawks",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
-          },
-          "espnOdds": null
-        },
-        {
-          "id": "401872657",
-          "date": "2026-09-11T00:35Z",
-          "shortName": "SF VS LAR",
-          "completed": true,
-          "awayScore": 27,
-          "homeScore": 7,
-          "awayWinner": true,
-          "homeWinner": false,
-          "away": {
-            "code": "SF",
-            "name": "San Francisco 49ers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
-          },
-          "home": {
-            "code": "LAR",
-            "name": "Los Angeles Rams",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
-          },
-          "espnOdds": null
-        },
         {
           "id": "401872925",
           "date": "2026-09-13T17:00Z",
@@ -175,7 +133,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png"
           },
           "espnOdds": {
-            "details": "PIT -6",
+            "details": "PIT -6.5",
             "overUnder": 40.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -397,6 +355,48 @@
             "homeProb": null,
             "awayProb": null
           }
+        },
+        {
+          "id": "401872656",
+          "date": "2026-09-10T00:20Z",
+          "shortName": "NE @ SEA",
+          "completed": true,
+          "awayScore": 10,
+          "homeScore": 13,
+          "awayWinner": false,
+          "homeWinner": true,
+          "away": {
+            "code": "NE",
+            "name": "New England Patriots",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png"
+          },
+          "home": {
+            "code": "SEA",
+            "name": "Seattle Seahawks",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
+          },
+          "espnOdds": null
+        },
+        {
+          "id": "401872657",
+          "date": "2026-09-11T00:35Z",
+          "shortName": "SF VS LAR",
+          "completed": true,
+          "awayScore": 27,
+          "homeScore": 7,
+          "awayWinner": true,
+          "homeWinner": false,
+          "away": {
+            "code": "SF",
+            "name": "San Francisco 49ers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
+          },
+          "home": {
+            "code": "LAR",
+            "name": "Los Angeles Rams",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
+          },
+          "espnOdds": null
         },
         {
           "id": "401872931",
