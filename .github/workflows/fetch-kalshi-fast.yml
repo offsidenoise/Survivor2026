@@ -1,0 +1,38 @@
+name: Fetch Kalshi odds (fast)
+
+on:
+  schedule:
+    # 5 minutes is GitHub Actions' actual floor for scheduled workflows —
+    # there is no way to go faster than this, even with a tighter cron
+    # expression (GitHub documents this explicitly). This workflow is kept
+    # separate from fetch-odds.yml on purpose: fetch-kalshi.js is a couple
+    # of quick API calls, but the full pipeline (18 weeks of ESPN calls +
+    # power index across ~270 games) takes several minutes to run and would
+    # get hammered/rate-limited if forced onto this same tight schedule.
+    - cron: '*/5 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-kalshi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch Kalshi odds
+        run: node scripts/fetch-kalshi.js
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/kalshi-odds.json
+          git diff --staged --quiet || git commit -m "Update Kalshi odds [skip ci]"
+          git pull --rebase
+          git push
