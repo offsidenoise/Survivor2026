@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T20:15:00.917Z",
+  "updated": "2026-09-13T03:23:16.110Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     1,
@@ -25,23 +25,23 @@
   "recommendation": {
     "week": 1,
     "pick": {
-      "team": "Los Angeles Chargers",
-      "prob": 81,
-      "source": "kalshi",
-      "opponent": "Arizona Cardinals"
+      "team": "Seattle Seahawks",
+      "prob": 100,
+      "source": "final-result",
+      "opponent": "New England Patriots"
     },
     "fullSeasonPlan": {
       "1": {
-        "team": "Los Angeles Chargers",
-        "prob": 81,
-        "source": "kalshi",
-        "opponent": "Arizona Cardinals"
+        "team": "Seattle Seahawks",
+        "prob": 100,
+        "source": "final-result",
+        "opponent": "New England Patriots"
       },
       "2": {
-        "team": "Seattle Seahawks",
-        "prob": 77,
+        "team": "Tampa Bay Buccaneers",
+        "prob": 73,
         "source": "kalshi",
-        "opponent": "Arizona Cardinals"
+        "opponent": "Cleveland Browns"
       },
       "3": {
         "team": "Detroit Lions",
@@ -50,10 +50,10 @@
         "opponent": "New York Jets"
       },
       "4": {
-        "team": "Minnesota Vikings",
-        "prob": 74.407,
+        "team": "Chicago Bears",
+        "prob": 74.574,
         "source": "powerindex",
-        "opponent": "Miami Dolphins"
+        "opponent": "New York Jets"
       },
       "5": {
         "team": "Cincinnati Bengals",
@@ -110,10 +110,10 @@
         "opponent": "Miami Dolphins"
       },
       "14": {
-        "team": "Chicago Bears",
-        "prob": 71.935,
-        "source": "powerindex",
-        "opponent": "Miami Dolphins"
+        "team": "Los Angeles Chargers",
+        "prob": 79,
+        "source": "kalshi",
+        "opponent": "Las Vegas Raiders"
       },
       "15": {
         "team": "Green Bay Packers",
