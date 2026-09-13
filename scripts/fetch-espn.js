@@ -81,6 +81,7 @@ function parseGames(data) {
 
     const statusType = evt.status && evt.status.type;
     const completed = !!(statusType && statusType.completed);
+    const inProgress = !!(statusType && statusType.state === 'in');
     const awayScore = away.score != null ? Number(away.score) : null;
     const homeScore = home.score != null ? Number(home.score) : null;
     const awayWinner = away.winner === true;
@@ -91,6 +92,7 @@ function parseGames(data) {
       date: evt.date,
       shortName: evt.shortName || '',
       completed,
+      inProgress,
       awayScore,
       homeScore,
       awayWinner,
