@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T15:41:56.438Z",
+  "updated": "2026-09-13T19:09:32.170Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     1,
@@ -25,23 +25,23 @@
   "recommendation": {
     "week": 1,
     "pick": {
-      "team": "Seattle Seahawks",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "New England Patriots"
+      "team": "Jacksonville Jaguars",
+      "prob": 99,
+      "source": "kalshi",
+      "opponent": "Cleveland Browns"
     },
     "fullSeasonPlan": {
       "1": {
-        "team": "Seattle Seahawks",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "New England Patriots"
-      },
-      "2": {
-        "team": "Tampa Bay Buccaneers",
-        "prob": 73,
+        "team": "Jacksonville Jaguars",
+        "prob": 99,
         "source": "kalshi",
         "opponent": "Cleveland Browns"
+      },
+      "2": {
+        "team": "San Francisco 49ers",
+        "prob": 86,
+        "source": "kalshi",
+        "opponent": "Miami Dolphins"
       },
       "3": {
         "team": "Detroit Lions",
@@ -50,16 +50,16 @@
         "opponent": "New York Jets"
       },
       "4": {
-        "team": "Chicago Bears",
-        "prob": 74.996,
-        "source": "powerindex",
-        "opponent": "New York Jets"
-      },
-      "5": {
-        "team": "Cincinnati Bengals",
-        "prob": 72.571,
+        "team": "Minnesota Vikings",
+        "prob": 74.382,
         "source": "powerindex",
         "opponent": "Miami Dolphins"
+      },
+      "5": {
+        "team": "New England Patriots",
+        "prob": 74.253,
+        "source": "powerindex",
+        "opponent": "Las Vegas Raiders"
       },
       "6": {
         "team": "Los Angeles Rams",
@@ -80,10 +80,10 @@
         "opponent": "Arizona Cardinals"
       },
       "9": {
-        "team": "San Francisco 49ers",
-        "prob": 85.349,
-        "source": "powerindex",
-        "opponent": "Las Vegas Raiders"
+        "team": "Seattle Seahawks",
+        "prob": 81,
+        "source": "kalshi",
+        "opponent": "Arizona Cardinals"
       },
       "10": {
         "team": "Indianapolis Colts",
@@ -92,16 +92,16 @@
         "opponent": "Miami Dolphins"
       },
       "11": {
-        "team": "Kansas City Chiefs",
-        "prob": 78.261,
+        "team": "Los Angeles Chargers",
+        "prob": 78.50200000000001,
         "source": "powerindex",
-        "opponent": "Arizona Cardinals"
+        "opponent": "New York Jets"
       },
       "12": {
-        "team": "Jacksonville Jaguars",
-        "prob": 69.585,
+        "team": "Cincinnati Bengals",
+        "prob": 70.00800000000001,
         "source": "powerindex",
-        "opponent": "Tennessee Titans"
+        "opponent": "New Orleans Saints"
       },
       "13": {
         "team": "Denver Broncos",
@@ -110,10 +110,10 @@
         "opponent": "Miami Dolphins"
       },
       "14": {
-        "team": "Los Angeles Chargers",
-        "prob": 78,
-        "source": "kalshi",
-        "opponent": "Las Vegas Raiders"
+        "team": "Chicago Bears",
+        "prob": 72.121,
+        "source": "powerindex",
+        "opponent": "Miami Dolphins"
       },
       "15": {
         "team": "Green Bay Packers",
@@ -134,10 +134,10 @@
         "opponent": "Miami Dolphins"
       },
       "18": {
-        "team": "New England Patriots",
-        "prob": 78.276,
+        "team": "Kansas City Chiefs",
+        "prob": 75.86500000000001,
         "source": "powerindex",
-        "opponent": "Miami Dolphins"
+        "opponent": "Las Vegas Raiders"
       }
     }
   }
