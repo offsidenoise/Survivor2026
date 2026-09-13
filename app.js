@@ -31,6 +31,7 @@ const viewTabsEl = document.getElementById('view-tabs');
 let scheduleData = null;
 let kalshiData = null;
 let powerIndexData = null;
+let yahooCrowdData = null;
 let serverRec = null;
 let activeWeek = null;
 
@@ -65,6 +66,7 @@ viewTabsEl.querySelectorAll('.view-tab').forEach(tab=>{
     document.getElementById('view-' + tab.dataset.view).classList.add('active');
     document.getElementById('week-tabs').style.display = tab.dataset.view === 'schedule' ? 'flex' : 'none';
     if(tab.dataset.view === 'recommendation') renderRecommendation();
+    if(tab.dataset.view === 'crowd') renderCrowdInputs();
   });
 });
 
@@ -164,16 +166,23 @@ function renderWeek(){
       weekday:'short', month:'short', day:'numeric', hour:'numeric', minute:'2-digit'
     }) : '';
 
-    const awayLabel = g.completed && g.awayScore != null
-      ? g.awayScore + (g.awayWinner ? ' \u2713' : '')
-      : g.inProgress && g.awayScore != null
-        ? g.awayScore + ' \u2014 ' + (awayProb != null ? Math.round(awayProb) + '% pregame' : '')
-        : (awayProb != null ? Math.round(awayProb) + '% implied' : '');
-    const homeLabel = g.completed && g.homeScore != null
-      ? g.homeScore + (g.homeWinner ? ' \u2713' : '')
-      : g.inProgress && g.homeScore != null
-        ? g.homeScore + ' \u2014 ' + (homeProb != null ? Math.round(homeProb) + '% pregame' : '')
-        : (homeProb != null ? Math.round(homeProb) + '% implied' : '');
+    // Score is shown as its own badge, separate from the probability text —
+    // never bundled into one small line where it's easy to miss.
+    const awayScoreBadge = (g.completed || g.inProgress) && g.awayScore != null
+      ? `<span class="score-badge${g.awayWinner ? ' winner' : ''}">${g.awayScore}</span>` : '';
+    const homeScoreBadge = (g.completed || g.inProgress) && g.homeScore != null
+      ? `<span class="score-badge${g.homeWinner ? ' winner' : ''}">${g.homeScore}</span>` : '';
+
+    // Probability text: same wording whether pregame or in-progress — Kalshi
+    // trades continuously through the game (refreshed every 5 min), so a
+    // "live" number here is genuinely current, not a stale pregame snapshot.
+    // Only a truly completed game skips this in favor of the final checkmark.
+    const awayLabel = g.completed
+      ? (g.awayWinner ? '\u2713 Won' : '')
+      : (awayProb != null ? Math.round(awayProb) + '% implied' : '');
+    const homeLabel = g.completed
+      ? (g.homeWinner ? '\u2713 Won' : '')
+      : (homeProb != null ? Math.round(homeProb) + '% implied' : '');
 
     const card = document.createElement('div');
     card.className = 'game-card';
@@ -186,7 +195,7 @@ function renderWeek(){
         <div class="team ${homeFav === false ? 'favorite' : ''}">
           <img class="team-logo" src="${g.away.logo || ''}" alt="" onerror="this.style.display='none'">
           <div>
-            <div class="team-name">${g.away.name}</div>
+            <div class="team-name">${g.away.name} ${awayScoreBadge}</div>
             <div class="team-prob">${awayLabel}</div>
           </div>
         </div>
@@ -194,7 +203,7 @@ function renderWeek(){
         <div class="team ${homeFav === true ? 'favorite' : ''}">
           <img class="team-logo" src="${g.home.logo || ''}" alt="" onerror="this.style.display='none'">
           <div>
-            <div class="team-name">${g.home.name}</div>
+            <div class="team-name">${g.home.name} ${homeScoreBadge}</div>
             <div class="team-prob">${homeLabel}</div>
           </div>
         </div>
@@ -202,7 +211,9 @@ function renderWeek(){
       <div class="odds-line">
         ${g.completed
           ? 'Game complete \u2014 locked out of future recommendations for this week'
-          : (odds ? 'Source: ' + odds.sourceLabel + ' &middot; updated ' + timeAgo(odds.updated) : 'No odds available yet for this game.')}
+          : g.inProgress
+            ? 'Live odds \u2014 Source: ' + (odds ? odds.sourceLabel : 'unavailable') + ' &middot; updated ' + (odds ? timeAgo(odds.updated) : '')
+            : (odds ? 'Source: ' + odds.sourceLabel + ' &middot; updated ' + timeAgo(odds.updated) : 'No odds available yet for this game.')}
         ${!g.completed && g.espnOdds && g.espnOdds.details ? ' &middot; ' + g.espnOdds.details : ''}
         ${!g.completed && g.espnOdds && g.espnOdds.overUnder ? ' &middot; O/U ' + g.espnOdds.overUnder : ''}
       </div>
@@ -279,7 +290,76 @@ function hungarianMaxAssignment(scoreMatrix){
   return rowToCol;
 }
 
-function computeLiveRecommendation(){
+// ---------- Crowd % ----------
+// Primary source: data/yahoo-crowd.json — auto-fetched server-side from
+// Yahoo's public Survival Football pick-distribution page (national %,
+// current week only, since Yahoo doesn't show future weeks). Falls back to
+// manually-entered data (Crowd % tab, localStorage) for any team/week the
+// auto-fetch didn't cover — e.g. if the scrape failed, or for a team Yahoo's
+// page didn't match cleanly.
+const CROWD_STORAGE_KEY = 'survivor-crowd-picks';
+// Your pool size — used to scale national % into an estimated headcount for
+// the EV simulation below.
+const POOL_SIZE = 39;
+
+function loadCrowdPicks(){
+  try{ return JSON.parse(localStorage.getItem(CROWD_STORAGE_KEY) || '{}'); }
+  catch(e){ return {}; }
+}
+function saveCrowdPicks(data){
+  localStorage.setItem(CROWD_STORAGE_KEY, JSON.stringify(data));
+}
+function yahooCrowdPctFor(week, teamFullName){
+  if(!yahooCrowdData || !yahooCrowdData.parseHealthy) return null;
+  if(Number(week) !== (scheduleData && scheduleData.currentWeek)) return null;
+  for(const nickname in yahooCrowdData.picks){
+    if(teamFullName.includes(nickname)) return yahooCrowdData.picks[nickname];
+  }
+  return null;
+}
+function crowdPctFor(week, team){
+  const auto = yahooCrowdPctFor(week, team);
+  if(auto != null) return auto;
+  const wk = loadCrowdPicks()[week];
+  const v = wk && wk[team];
+  return (typeof v === 'number' && v >= 0 && v <= 100) ? v : null;
+}
+
+// Real expected-pool-share simulation (SurvivorGrid's published method,
+// verified against their own worked FAQ example: a 10-person, 2-team case
+// where the less-crowded team correctly came out with higher value — 0.126
+// vs 0.086 — despite a lower win probability). Enumerates every possible
+// combination of GAME results for the week — each game has exactly ONE
+// winner (teams facing each other are mutually exclusive outcomes of the
+// same game, not independent events) — and a team's value rises when
+// winning leaves you in a smaller, less-split group of survivors. Not a
+// tunable penalty — every number here is computed, not chosen.
+function computeWeekEV(games){
+  // games: [{ home, away, homeProb, awayProb, homePickCount, awayPickCount }]
+  // — ONE entry per MATCHUP, not per team.
+  const n = games.length;
+  if(n === 0 || n > 20) return {};
+  const ev = {};
+  games.forEach(g => { ev[g.home] = 0; ev[g.away] = 0; });
+  const totalOutcomes = 1 << n;
+  for(let mask = 0; mask < totalOutcomes; mask++){
+    let jointProb = 1, survivors = 0;
+    for(let i=0;i<n;i++){
+      const homeWins = !!(mask & (1 << i));
+      jointProb *= homeWins ? games[i].homeProb : games[i].awayProb;
+      survivors += homeWins ? games[i].homePickCount : games[i].awayPickCount;
+    }
+    if(survivors === 0 || jointProb === 0) continue;
+    for(let i=0;i<n;i++){
+      const homeWins = !!(mask & (1 << i));
+      const winner = homeWins ? games[i].home : games[i].away;
+      ev[winner] += jointProb / survivors;
+    }
+  }
+  return ev;
+}
+
+function computeLiveRecommendation(ignoreCrowd){
   if(!scheduleData || !scheduleData.weeks) return null;
 
   // weekTeamProb[week][teamName] = { prob, source, sourceLabel, opponent }
@@ -307,8 +387,37 @@ function computeLiveRecommendation(){
 
       const odds = resolveGameOdds(g);
       if(!odds) continue;
-      weekTeamProb[wk][away] = { prob: odds.awayProb, source: odds.source, sourceLabel: odds.sourceLabel, opponent: home };
-      weekTeamProb[wk][home] = { prob: odds.homeProb, source: odds.source, sourceLabel: odds.sourceLabel, opponent: away };
+      weekTeamProb[wk][away] = { prob: odds.awayProb, source: odds.source, sourceLabel: odds.sourceLabel, opponent: home,
+        crowdPct: crowdPctFor(wk, away) };
+      weekTeamProb[wk][home] = { prob: odds.homeProb, source: odds.source, sourceLabel: odds.sourceLabel, opponent: away,
+        crowdPct: crowdPctFor(wk, home) };
+    }
+  }
+
+  // Run the real EV simulation for the current week only — the only week
+  // with actual crowd data — built per MATCHUP so each game correctly has
+  // exactly one winner (see computeWeekEV's comment above).
+  const currentWeekKey = String(scheduleData.currentWeek || 1);
+  if(scheduleData.weeks[currentWeekKey]){
+    const evInputGames = [];
+    for(const g of scheduleData.weeks[currentWeekKey].games || []){
+      if(g.completed) continue;
+      const awayEntry = weekTeamProb[currentWeekKey][g.away.name];
+      const homeEntry = weekTeamProb[currentWeekKey][g.home.name];
+      if(!awayEntry || !homeEntry) continue;
+      if(awayEntry.crowdPct == null || homeEntry.crowdPct == null) continue;
+      evInputGames.push({
+        home: g.home.name, away: g.away.name,
+        homeProb: homeEntry.prob/100, awayProb: awayEntry.prob/100,
+        homePickCount: Math.round((homeEntry.crowdPct/100) * POOL_SIZE),
+        awayPickCount: Math.round((awayEntry.crowdPct/100) * POOL_SIZE)
+      });
+    }
+    if(evInputGames.length >= 1){
+      const evResults = computeWeekEV(evInputGames);
+      for(const team in evResults){
+        if(weekTeamProb[currentWeekKey][team]) weekTeamProb[currentWeekKey][team].ev = evResults[team];
+      }
     }
   }
 
@@ -334,10 +443,15 @@ function computeLiveRecommendation(){
     return { remainingWeeks, availableTeams, weekAssignments:{}, pick:null, teamsNotInPlan:[], alternatives:[] };
   }
 
+  // Score = log(win probability), OR log(simulated EV) when that's available
+  // for this team/week and not explicitly ignored. No tunable constant.
   const scoreMatrix = availableTeams.map(team =>
     remainingWeeks.map(wk => {
       const entry = weekTeamProb[wk] && weekTeamProb[wk][team];
       if(!entry || entry.prob == null || entry.prob <= 0) return null;
+      if(!ignoreCrowd && entry.ev != null && entry.ev > 0){
+        return Math.log(entry.ev);
+      }
       return Math.log(entry.prob / 100);
     })
   );
@@ -351,7 +465,7 @@ function computeLiveRecommendation(){
     const team = availableTeams[teamIdx];
     const entry = weekTeamProb[wk] && weekTeamProb[wk][team];
     if(entry && entry.prob != null){
-      weekAssignments[wk] = { team, prob: entry.prob, source: entry.source, sourceLabel: entry.sourceLabel, opponent: entry.opponent };
+      weekAssignments[wk] = { team, prob: entry.prob, source: entry.source, sourceLabel: entry.sourceLabel, opponent: entry.opponent, crowdPct: entry.crowdPct, ev: entry.ev };
       teamsInPlan.add(team);
     }
   });
@@ -388,31 +502,21 @@ function computeLiveRecommendation(){
 
 // ---------- Recommendation view ----------
 
-async function renderRecommendation(){
-  const el = document.getElementById('rec-content');
-  el.innerHTML = '<p class="empty">Computing live recommendation&hellip;</p>';
+function renderOneModel(el, title, live, showCrowdTag){
+  const box = document.createElement('div');
+  box.style.marginBottom = '18px';
 
-  if(!scheduleData){
-    el.innerHTML = `<p class="empty error">Schedule data hasn't loaded yet.</p>`;
-    return;
-  }
-
-  const live = computeLiveRecommendation();
-  el.innerHTML = '';
-
-  const actualPicks = loadActualPicks();
-  if(Object.keys(actualPicks).length){
-    const note = document.createElement('p');
-    note.className = 'sub';
-    note.style.marginBottom = '10px';
-    const listTxt = Object.keys(actualPicks).map(Number).sort((a,b)=>a-b)
-      .map(wk => 'Wk ' + wk + ': ' + actualPicks[wk]).join(', ');
-    note.textContent = 'Adjusted for your Actuals picks (' + listTxt + ') — excluded from the plan below.';
-    el.appendChild(note);
-  }
+  const heading = document.createElement('div');
+  heading.className = 'sub';
+  heading.style.marginBottom = '6px';
+  heading.style.fontWeight = '700';
+  heading.style.color = 'var(--text-dark)';
+  heading.textContent = title;
+  box.appendChild(heading);
 
   if(!live || !live.pick){
-    el.innerHTML += `<p class="empty">No pick could be computed &mdash; check that schedule/odds data is populated and you have unused teams left.</p>`;
+    box.innerHTML += `<p class="empty">No pick could be computed.</p>`;
+    el.appendChild(box);
     return;
   }
 
@@ -420,17 +524,19 @@ async function renderRecommendation(){
   const hero = document.createElement('div');
   hero.className = 'rec-hero';
   hero.innerHTML = `
-    <div class="rec-week">WEEK ${pick.week} RECOMMENDATION</div>
+    <div class="rec-week">WEEK ${pick.week}</div>
     <div class="rec-team">${pick.team}</div>
     <div class="rec-detail">vs ${pick.opponent} &middot; ${Math.round(pick.prob)}% win probability</div>
-    <div class="rec-source">${pick.sourceLabel}</div>
+    <div class="rec-source">${pick.sourceLabel || ''}</div>
+    ${showCrowdTag && pick.crowdPct != null ? `<div class="rec-source" style="margin-left:6px;border-color:var(--crimson);color:var(--crimson);">${pick.crowdPct}% national pick</div>` : ''}
+    ${showCrowdTag && pick.ev != null ? `<div class="rec-source" style="margin-left:6px;">EV ${pick.ev.toFixed(4)}</div>` : ''}
   `;
-  el.appendChild(hero);
+  box.appendChild(hero);
 
   if(live.alternatives && live.alternatives.length){
     const altBtn = document.createElement('button');
     altBtn.className = 'ctl-btn';
-    altBtn.textContent = 'Show top ' + live.alternatives.length + ' options for Week ' + pick.week;
+    altBtn.textContent = 'Show top ' + live.alternatives.length + ' options';
     const altList = document.createElement('div');
     altList.style.display = 'none';
     altList.style.marginTop = '8px';
@@ -447,25 +553,18 @@ async function renderRecommendation(){
     altBtn.addEventListener('click', ()=>{
       const showing = altList.style.display !== 'none';
       altList.style.display = showing ? 'none' : 'block';
-      altBtn.textContent = showing
-        ? 'Show top ' + live.alternatives.length + ' options for Week ' + pick.week
-        : 'Hide options';
+      altBtn.textContent = showing ? 'Show top ' + live.alternatives.length + ' options' : 'Hide options';
     });
-    el.appendChild(altBtn);
-    el.appendChild(altList);
+    box.appendChild(altBtn);
+    box.appendChild(altList);
   }
-
-  const note2 = document.createElement('p');
-  note2.className = 'sub';
-  note2.style.marginBottom = '10px';
-  note2.textContent = 'This is the pick that maximizes your odds of surviving the whole remaining season, not just this week — see the full plan below. Recomputed live in this browser, so it updates instantly as you fill in Actuals.';
-  el.appendChild(note2);
 
   const planLabel = document.createElement('div');
   planLabel.className = 'sub';
+  planLabel.style.marginTop = '10px';
   planLabel.style.marginBottom = '4px';
-  planLabel.textContent = 'FULL SEASON PLAN (subject to change as data updates)';
-  el.appendChild(planLabel);
+  planLabel.textContent = 'FULL SEASON PLAN';
+  box.appendChild(planLabel);
 
   Object.keys(live.weekAssignments).map(Number).sort((a,b)=>a-b).forEach(wk=>{
     const p = live.weekAssignments[wk];
@@ -476,31 +575,62 @@ async function renderRecommendation(){
       <span class="spt">${p.team}</span>
       <span class="spp">${Math.round(p.prob)}%</span>
     `;
-    el.appendChild(row);
+    box.appendChild(row);
   });
 
-  if(live.teamsNotInPlan && live.teamsNotInPlan.length){
-    const label = document.createElement('div');
-    label.className = 'sub';
-    label.style.marginTop = '14px';
-    label.style.marginBottom = '4px';
-    label.textContent = 'AVAILABLE BUT NOT CURRENTLY IN THE PLAN';
-    el.appendChild(label);
-    const note3 = document.createElement('p');
-    note3.className = 'sub';
-    note3.style.marginBottom = '6px';
-    note3.textContent = 'Not gone — just not part of the current best arrangement. Could reappear in a future plan as odds update.';
-    el.appendChild(note3);
-    const chips = document.createElement('div');
-    chips.style.fontSize = '12px';
-    chips.style.color = 'var(--text-dim)';
-    chips.textContent = live.teamsNotInPlan.join(', ');
-    el.appendChild(chips);
+  el.appendChild(box);
+}
+
+function renderRecommendation(){
+  const el = document.getElementById('rec-content');
+  el.innerHTML = '';
+
+  if(!scheduleData){
+    el.innerHTML = `<p class="empty error">Schedule data hasn't loaded yet.</p>`;
+    return;
+  }
+
+  const actualPicks = loadActualPicks();
+  if(Object.keys(actualPicks).length){
+    const note = document.createElement('p');
+    note.className = 'sub';
+    note.style.marginBottom = '10px';
+    const listTxt = Object.keys(actualPicks).map(Number).sort((a,b)=>a-b)
+      .map(wk => 'Wk ' + wk + ': ' + actualPicks[wk]).join(', ');
+    note.textContent = 'Adjusted for your Actuals picks (' + listTxt + ') — excluded from both plans below.';
+    el.appendChild(note);
+  }
+
+  const original = computeLiveRecommendation(true);
+  const crowdAdjusted = computeLiveRecommendation(false);
+
+  const same = original && crowdAdjusted && original.pick && crowdAdjusted.pick
+    && original.pick.team === crowdAdjusted.pick.team;
+
+  renderOneModel(el, 'MODEL A \u2014 WIN PROBABILITY ONLY', original, false);
+
+  if(same){
+    const note = document.createElement('p');
+    note.className = 'sub';
+    note.style.marginTop = '-8px';
+    note.style.marginBottom = '14px';
+    note.textContent = 'Both models agree this week \u2014 the crowd size didn\u2019t outweigh the win-probability edge.';
+    el.appendChild(note);
+  }
+
+  renderOneModel(el, 'MODEL B \u2014 EXPECTED POOL SHARE (SIMULATED)', crowdAdjusted, true);
+
+  const yahooNote = document.createElement('p');
+  yahooNote.className = 'sub';
+  yahooNote.style.marginTop = '10px';
+  if(!yahooCrowdData || !yahooCrowdData.parseHealthy){
+    yahooNote.textContent = 'Note: national pick-% data hasn\u2019t loaded successfully yet, so Model B is currently identical to Model A.';
+    el.appendChild(yahooNote);
   }
 
   const powerIndexNote = document.createElement('p');
   powerIndexNote.className = 'sub';
-  powerIndexNote.style.marginTop = '10px';
+  powerIndexNote.style.marginTop = '4px';
   if(!powerIndexData || !powerIndexData.verifiedThisRun){
     powerIndexNote.textContent = 'Note: the ESPN power-index feed hasn\u2019t returned data yet, so far-future weeks are leaning on ESPN\u2019s moneyline odds instead.';
     el.appendChild(powerIndexNote);
@@ -510,7 +640,8 @@ async function renderRecommendation(){
   updated.className = 'source-note';
   updated.textContent = 'Data as of: schedule ' + timeAgo(scheduleData.updated) +
     ', Kalshi ' + timeAgo(kalshiData && kalshiData.updated) +
-    ', power index ' + timeAgo(powerIndexData && powerIndexData.updated) + '.';
+    ', power index ' + timeAgo(powerIndexData && powerIndexData.updated) +
+    ', national picks ' + timeAgo(yahooCrowdData && yahooCrowdData.updated) + '.';
   el.appendChild(updated);
 }
 
@@ -601,6 +732,59 @@ function renderActuals(){
   updateCopyBlock();
 }
 
+// ---------- Crowd % view ----------
+// Only shows the CURRENT week's teams — pick-percentage data only exists
+// once a week's picking window is actually open, so there's nothing
+// meaningful to enter for future weeks yet.
+
+function renderCrowdInputs(){
+  const listEl = document.getElementById('crowd-list');
+  if(!scheduleData || !scheduleData.currentWeek){
+    listEl.innerHTML = '<p class="empty">No current week to show yet.</p>';
+    return;
+  }
+  const wk = scheduleData.currentWeek;
+  const week = scheduleData.weeks[wk];
+  const games = (week && week.games) || [];
+  const stored = loadCrowdPicks();
+  const wkStored = stored[wk] || {};
+
+  listEl.innerHTML = '';
+  if(games.length === 0){
+    listEl.innerHTML = '<p class="empty">No games found for the current week.</p>';
+    return;
+  }
+
+  games.forEach(g=>{
+    [g.away, g.home].forEach(team=>{
+      const row = document.createElement('div');
+      row.className = 'actual-row';
+      const existing = wkStored[team.name];
+      row.innerHTML = `
+        <span class="aw" style="width:auto;flex:1;">${team.name}</span>
+        <input type="number" min="0" max="100" step="1" placeholder="%"
+          style="width:70px;background:#ffffff;border:1px solid var(--card-border);color:var(--text-dark);border-radius:5px;padding:7px 6px;font-size:13px;"
+          value="${existing != null ? existing : ''}">
+      `;
+      const input = row.querySelector('input');
+      input.addEventListener('change', ()=>{
+        const data = loadCrowdPicks();
+        if(!data[wk]) data[wk] = {};
+        const val = input.value === '' ? null : Number(input.value);
+        if(val == null || isNaN(val)){
+          delete data[wk][team.name];
+        } else {
+          data[wk][team.name] = Math.max(0, Math.min(100, val));
+        }
+        saveCrowdPicks(data);
+        // Live-update the recommendation immediately, same as Actuals does.
+        renderRecommendation();
+      });
+      listEl.appendChild(row);
+    });
+  });
+}
+
 // ---------- Init ----------
 
 async function init(){
@@ -611,6 +795,8 @@ async function init(){
     catch(err){ console.warn('Kalshi data unavailable:', err.message); }
     try{ powerIndexData = await getJSON('data/powerindex.json'); }
     catch(err){ console.warn('Power index data unavailable:', err.message); }
+    try{ yahooCrowdData = await getJSON('data/yahoo-crowd.json'); }
+    catch(err){ console.warn('Yahoo crowd data unavailable:', err.message); }
     try{ serverRec = await getJSON('data/recommendation.json'); }
     catch(err){ console.warn('Server recommendation unavailable:', err.message); }
 
