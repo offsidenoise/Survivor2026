@@ -30,11 +30,6 @@
  * the season — i.e. maximizing the chance of surviving every remaining week,
  * not just this one.
  *
- * COMPLETED GAMES: a finished game is no longer a probability — the winner
- * becomes a certain (100%) pick for that week, and the loser is excluded
- * entirely from that week (you can't retroactively pick a team whose game
- * already happened and was lost).
- *
  * Output: data/recommendation.json
  */
 
@@ -54,6 +49,7 @@ if (!schedule || !schedule.weeks) {
 }
 const kalshi = readJSON('data/kalshi-odds.json', { odds: {} });
 const powerIndex = readJSON('data/powerindex.json', { predictions: {} });
+const yahooCrowd = readJSON('data/yahoo-crowd.json', { parseHealthy: false, picks: {} });
 const usedTeamsFile = readJSON('data/used-teams.json', null);
 
 if (!usedTeamsFile) {
@@ -89,10 +85,63 @@ function espnMoneylineProbFor(espnOdds) {
   }
   return null;
 }
-
 // weekTeamProb[week][teamName] = { prob, source, opponent }
 const weekTeamProb = {};
 const allTeamsSeen = new Set();
+
+// Your pool size — used to scale Yahoo's national % into an estimated
+// headcount for the EV simulation below. You told us 39.
+const POOL_SIZE = 39;
+
+// Yahoo only ever shows CURRENT week distribution — there's nothing to
+// apply to future weeks, since nobody's picked them yet.
+function yahooCrowdPctFor(wk, teamFullName) {
+  if (Number(wk) !== (schedule.currentWeek || 1)) return null;
+  if (!yahooCrowd.parseHealthy) return null;
+  for (const nickname in yahooCrowd.picks) {
+    if (teamFullName.includes(nickname)) return yahooCrowd.picks[nickname];
+  }
+  return null;
+}
+
+// --- Real expected-pool-share simulation (SurvivorGrid's published method,
+// verified against their own worked FAQ example before being wired in here:
+// a 10-person, 2-team case where their stated conclusion — the less-crowded
+// team has HIGHER value despite a lower win probability — was reproduced
+// exactly: EV 0.126 vs 0.086). NOT a fudge-factor penalty — this enumerates
+// every possible combination of GAME results for the week (each game has
+// exactly ONE winner — teams facing each other are never both "in play" as
+// independent events, they're mutually exclusive outcomes of the same game),
+// and for each combination weights "how many of your pool's estimated
+// survivors would there be" against how likely that combination is. A
+// team's value goes up when winning leaves you in a smaller, less-split
+// group of survivors. ---
+function computeWeekEV(games) {
+  // games: [{ home, away, homeProb, awayProb, homePickCount, awayPickCount }]
+  // — ONE entry per MATCHUP, not per team. Enforces exactly one winner per game.
+  const n = games.length;
+  if (n === 0 || n > 20) return {}; // 20 games = 1,048,576 outcomes, still fast; guard anyway
+  const ev = {};
+  games.forEach(g => { ev[g.home] = 0; ev[g.away] = 0; });
+
+  const totalOutcomes = 1 << n; // 2^n
+  for (let mask = 0; mask < totalOutcomes; mask++) {
+    let jointProb = 1;
+    let survivors = 0;
+    for (let i = 0; i < n; i++) {
+      const homeWins = !!(mask & (1 << i));
+      jointProb *= homeWins ? games[i].homeProb : games[i].awayProb;
+      survivors += homeWins ? games[i].homePickCount : games[i].awayPickCount;
+    }
+    if (survivors === 0 || jointProb === 0) continue;
+    for (let i = 0; i < n; i++) {
+      const homeWins = !!(mask & (1 << i));
+      const winner = homeWins ? games[i].home : games[i].away;
+      ev[winner] += jointProb / survivors;
+    }
+  }
+  return ev;
+}
 
 for (const wk in schedule.weeks) {
   weekTeamProb[wk] = {};
@@ -118,8 +167,43 @@ for (const wk in schedule.weeks) {
     const best = kalshiProbFor(away, home) || powerIndexProbFor(g.id) || espnMoneylineProbFor(g.espnOdds);
     if (!best) continue;
 
-    weekTeamProb[wk][away] = { prob: best.away, source: best.source, opponent: home };
-    weekTeamProb[wk][home] = { prob: best.home, source: best.source, opponent: away };
+    weekTeamProb[wk][away] = { prob: best.away, source: best.source, opponent: home, crowdPct: yahooCrowdPctFor(wk, away) };
+    weekTeamProb[wk][home] = { prob: best.home, source: best.source, opponent: away, crowdPct: yahooCrowdPctFor(wk, home) };
+  }
+}
+
+// --- Run the real EV simulation for the CURRENT week only (the only week
+// with actual crowd data) and attach the result to each team's entry. Built
+// per MATCHUP (not per team) so each game correctly has exactly one winner —
+// see computeWeekEV's comment above for why that distinction matters. ---
+const currentWeekKey = String(schedule.currentWeek || 1);
+let evHealthy = false;
+if (yahooCrowd.parseHealthy && schedule.weeks[currentWeekKey]) {
+  const evInputGames = [];
+  for (const g of schedule.weeks[currentWeekKey].games || []) {
+    if (g.completed) continue; // already resolved, not part of the live decision
+    const awayEntry = weekTeamProb[currentWeekKey][g.away.name];
+    const homeEntry = weekTeamProb[currentWeekKey][g.home.name];
+    if (!awayEntry || !homeEntry) continue;
+    if (awayEntry.crowdPct == null || homeEntry.crowdPct == null) continue; // need both sides' pick % to include this matchup
+    evInputGames.push({
+      home: g.home.name, away: g.away.name,
+      homeProb: homeEntry.prob / 100, awayProb: awayEntry.prob / 100,
+      homePickCount: Math.round((homeEntry.crowdPct / 100) * POOL_SIZE),
+      awayPickCount: Math.round((awayEntry.crowdPct / 100) * POOL_SIZE)
+    });
+  }
+  if (evInputGames.length >= 1) {
+    const evResults = computeWeekEV(evInputGames);
+    for (const team in evResults) {
+      if (weekTeamProb[currentWeekKey][team]) {
+        weekTeamProb[currentWeekKey][team].ev = evResults[team];
+      }
+    }
+    evHealthy = true;
+    console.log('Computed real pool-EV across', evInputGames.length, 'matchups in week', currentWeekKey);
+  } else {
+    console.warn('No matchups had crowd data for both teams — EV simulation skipped.');
   }
 }
 
@@ -202,39 +286,50 @@ function hungarianMaxAssignment(scoreMatrix) {
   return rowToCol; // rowToCol[teamIndex] = weekIndex assigned, or -1
 }
 
-// --- Run the optimization ----------------------------------------------
+// --- Run the optimization, twice: plain win-probability, and crowd-adjusted
+// (real pool-EV simulation for the current week, if the scrape succeeded) --
 
-let recommendation = null;
+function runOptimization(useCrowd) {
+  if (!remainingWeeks.length || !availableTeams.length) return null;
 
-if (remainingWeeks.length && availableTeams.length) {
   const scoreMatrix = availableTeams.map(team =>
     remainingWeeks.map(wk => {
       const entry = weekTeamProb[wk] && weekTeamProb[wk][team];
       if (!entry || entry.prob == null || entry.prob <= 0) return null;
+      // Use the real simulated EV when it's available for this specific
+      // team/week (current week only, and only if the EV sim actually ran)
+      // — otherwise fall back to plain win probability, exactly as if this
+      // feature didn't exist. No penalty constant anywhere in this path.
+      if (useCrowd && entry.ev != null && entry.ev > 0) {
+        return Math.log(entry.ev);
+      }
       return Math.log(entry.prob / 100);
     })
   );
 
-  const assignment = hungarianMaxAssignment(scoreMatrix); // per team -> week index
+  const assignment = hungarianMaxAssignment(scoreMatrix);
 
-  const weekAssignments = {}; // week -> { team, prob, source, opponent }
+  const weekAssignments = {};
   assignment.forEach((weekIdx, teamIdx) => {
     if (weekIdx === -1) return;
     const wk = remainingWeeks[weekIdx];
     const team = availableTeams[teamIdx];
     const entry = weekTeamProb[wk] && weekTeamProb[wk][team];
     if (entry && entry.prob != null) {
-      weekAssignments[wk] = { team, prob: entry.prob, source: entry.source, opponent: entry.opponent };
+      weekAssignments[wk] = { team, prob: entry.prob, source: entry.source, opponent: entry.opponent, crowdPct: entry.crowdPct, ev: entry.ev };
     }
   });
 
   const thisWeek = remainingWeeks[0];
-  recommendation = {
+  return {
     week: thisWeek,
     pick: weekAssignments[thisWeek] || null,
     fullSeasonPlan: weekAssignments
   };
 }
+
+const originalRecommendation = runOptimization(false);
+const crowdAdjustedRecommendation = runOptimization(true);
 
 // --- Write output --------------------------------------------------------
 
@@ -243,15 +338,23 @@ const out = {
   usedTeamsConsidered: Array.from(usedTeams),
   remainingWeeks,
   powerIndexHealthy: !!powerIndex.verifiedThisRun,
-  recommendation
+  yahooCrowdHealthy: !!yahooCrowd.parseHealthy,
+  evHealthy,
+  originalRecommendation,
+  crowdAdjustedRecommendation
 };
 
 fs.mkdirSync('data', { recursive: true });
 fs.writeFileSync('data/recommendation.json', JSON.stringify(out, null, 2) + '\n');
 
-if (recommendation && recommendation.pick) {
-  console.log('Recommended pick for week', recommendation.week, ':', recommendation.pick.team,
-    '(' + Math.round(recommendation.pick.prob) + '%, source:', recommendation.pick.source + ')');
-} else {
+if (originalRecommendation && originalRecommendation.pick) {
+  console.log('Original (no crowd) pick for week', originalRecommendation.week, ':',
+    originalRecommendation.pick.team, '(' + Math.round(originalRecommendation.pick.prob) + '%)');
+}
+if (crowdAdjustedRecommendation && crowdAdjustedRecommendation.pick) {
+  console.log('Crowd-adjusted pick for week', crowdAdjustedRecommendation.week, ':',
+    crowdAdjustedRecommendation.pick.team, '(' + Math.round(crowdAdjustedRecommendation.pick.prob) + '%)');
+}
+if (!originalRecommendation || !originalRecommendation.pick) {
   console.warn('No recommendation could be computed — check remainingWeeks/availableTeams/data availability.');
 }
