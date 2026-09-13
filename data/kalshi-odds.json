@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T20:14:21.781Z",
+  "updated": "2026-09-13T20:23:01.101Z",
   "odds": {
     "Giants_Rams": {
       "teams": {
@@ -31,22 +31,22 @@
     },
     "Cardinals_Seahawks": {
       "teams": {
-        "Seahawks": 83,
-        "Cardinals": 17
+        "Seahawks": 82,
+        "Cardinals": 18
       },
       "eventTicker": "KXNFLGAME-26SEP20SEAARI"
     },
     "Chargers_Raiders": {
       "teams": {
-        "Raiders": 30,
-        "Chargers": 70
+        "Raiders": 29,
+        "Chargers": 71
       },
       "eventTicker": "KXNFLGAME-26SEP20LVLAC"
     },
     "Broncos_Jaguars": {
       "teams": {
-        "Jaguars": 44,
-        "Broncos": 56
+        "Jaguars": 45,
+        "Broncos": 55
       },
       "eventTicker": "KXNFLGAME-26SEP20JACDEN"
     },
@@ -80,8 +80,8 @@
     },
     "Falcons_Panthers": {
       "teams": {
-        "Panthers": 51,
-        "Falcons": 49
+        "Panthers": 52,
+        "Falcons": 48
       },
       "eventTicker": "KXNFLGAME-26SEP20CARATL"
     },
@@ -108,8 +108,8 @@
     },
     "Bills_Lions": {
       "teams": {
-        "Lions": 40,
-        "Bills": 60
+        "Lions": 39,
+        "Bills": 61
       },
       "eventTicker": "KXNFLGAME-26SEP17DETBUF"
     },
@@ -122,8 +122,8 @@
     },
     "Cowboys_Giants": {
       "teams": {
-        "Giants": 39,
-        "Cowboys": 61
+        "Giants": 40,
+        "Cowboys": 60
       },
       "eventTicker": "KXNFLGAME-26SEP13DALNYG"
     },
@@ -157,24 +157,17 @@
     },
     "Bills_Texans": {
       "teams": {
-        "Texans": 34,
-        "Bills": 66
+        "Texans": 1,
+        "Bills": 99
       },
       "eventTicker": "KXNFLGAME-26SEP13BUFHOU"
     },
     "Lions_Saints": {
       "teams": {
-        "Saints": 37,
-        "Lions": 63
+        "Saints": 41,
+        "Lions": 59
       },
       "eventTicker": "KXNFLGAME-26SEP13NODET"
-    },
-    "Jets_Titans": {
-      "teams": {
-        "Titans": 1,
-        "Jets": 99
-      },
-      "eventTicker": "KXNFLGAME-26SEP13NYJTEN"
     },
     "Bengals_Buccaneers": {
       "teams": {
