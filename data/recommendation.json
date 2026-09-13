@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T11:10:38.883Z",
+  "updated": "2026-09-13T15:41:56.438Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     1,
@@ -39,7 +39,7 @@
       },
       "2": {
         "team": "Tampa Bay Buccaneers",
-        "prob": 74,
+        "prob": 73,
         "source": "kalshi",
         "opponent": "Cleveland Browns"
       },
@@ -111,7 +111,7 @@
       },
       "14": {
         "team": "Los Angeles Chargers",
-        "prob": 79,
+        "prob": 78,
         "source": "kalshi",
         "opponent": "Las Vegas Raiders"
       },

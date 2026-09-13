@@ -1,45 +1,45 @@
 {
-  "updated": "2026-09-13T11:09:10.672Z",
+  "updated": "2026-09-13T15:40:37.809Z",
   "odds": {
     "Giants_Rams": {
       "teams": {
-        "Giants": 23,
-        "Rams": 77
+        "Giants": 24,
+        "Rams": 76
       },
       "eventTicker": "KXNFLGAME-26SEP21NYGLAR"
     },
     "Chiefs_Colts": {
       "teams": {
-        "Chiefs": 71,
-        "Colts": 29
+        "Chiefs": 70,
+        "Colts": 30
       },
       "eventTicker": "KXNFLGAME-26SEP20INDKC"
     },
     "Commanders_Cowboys": {
       "teams": {
-        "Commanders": 33,
-        "Cowboys": 67
+        "Commanders": 34,
+        "Cowboys": 66
       },
       "eventTicker": "KXNFLGAME-26SEP20WASDAL"
     },
     "49ers_Dolphins": {
       "teams": {
-        "49ers": 86,
-        "Dolphins": 14
+        "49ers": 85,
+        "Dolphins": 15
       },
       "eventTicker": "KXNFLGAME-26SEP20MIASF"
     },
     "Cardinals_Seahawks": {
       "teams": {
-        "Seahawks": 78,
-        "Cardinals": 22
+        "Seahawks": 79,
+        "Cardinals": 21
       },
       "eventTicker": "KXNFLGAME-26SEP20SEAARI"
     },
     "Chargers_Raiders": {
       "teams": {
-        "Raiders": 21,
-        "Chargers": 79
+        "Raiders": 22,
+        "Chargers": 78
       },
       "eventTicker": "KXNFLGAME-26SEP20LVLAC"
     },
@@ -52,15 +52,15 @@
     },
     "Browns_Buccaneers": {
       "teams": {
-        "Buccaneers": 74,
-        "Browns": 26
+        "Buccaneers": 73,
+        "Browns": 27
       },
       "eventTicker": "KXNFLGAME-26SEP20CLETB"
     },
     "Bengals_Texans": {
       "teams": {
-        "Texans": 56,
-        "Bengals": 44
+        "Texans": 57,
+        "Bengals": 43
       },
       "eventTicker": "KXNFLGAME-26SEP20CINHOU"
     },
@@ -87,15 +87,15 @@
     },
     "Bears_Vikings": {
       "teams": {
-        "Vikings": 42,
-        "Bears": 58
+        "Vikings": 43,
+        "Bears": 57
       },
       "eventTicker": "KXNFLGAME-26SEP20MINCHI"
     },
     "Patriots_Steelers": {
       "teams": {
-        "Steelers": 37,
-        "Patriots": 63
+        "Steelers": 38,
+        "Patriots": 62
       },
       "eventTicker": "KXNFLGAME-26SEP20PITNE"
     },
@@ -129,8 +129,8 @@
     },
     "Commanders_Eagles": {
       "teams": {
-        "Commanders": 32,
-        "Eagles": 68
+        "Commanders": 31,
+        "Eagles": 69
       },
       "eventTicker": "KXNFLGAME-26SEP13WASPHI"
     },
