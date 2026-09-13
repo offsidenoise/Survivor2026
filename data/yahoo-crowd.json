@@ -1,0 +1,7 @@
+{
+  "updated": null,
+  "parseHealthy": false,
+  "teamsMatched": 0,
+  "picks": {},
+  "_note": "Placeholder. Written by .github/workflows/fetch-odds.yml (scripts/fetch-yahoo-crowd.js) once it runs."
+}
