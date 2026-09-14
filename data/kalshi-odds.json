@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-14T13:00:48.750Z",
+  "updated": "2026-09-14T17:46:10.692Z",
   "odds": {
     "Giants_Rams": {
       "teams": {
-        "Giants": 24,
-        "Rams": 76
+        "Giants": 25,
+        "Rams": 75
       },
       "eventTicker": "KXNFLGAME-26SEP21NYGLAR"
     },
     "Chiefs_Colts": {
       "teams": {
-        "Chiefs": 72,
-        "Colts": 28
+        "Chiefs": 73,
+        "Colts": 27
       },
       "eventTicker": "KXNFLGAME-26SEP20INDKC"
     },
@@ -24,8 +24,8 @@
     },
     "49ers_Dolphins": {
       "teams": {
-        "49ers": 89,
-        "Dolphins": 11
+        "49ers": 88,
+        "Dolphins": 12
       },
       "eventTicker": "KXNFLGAME-26SEP20MIASF"
     },
@@ -38,22 +38,22 @@
     },
     "Chargers_Raiders": {
       "teams": {
-        "Raiders": 26,
-        "Chargers": 74
+        "Raiders": 27,
+        "Chargers": 73
       },
       "eventTicker": "KXNFLGAME-26SEP20LVLAC"
     },
     "Broncos_Jaguars": {
       "teams": {
-        "Jaguars": 43,
-        "Broncos": 57
+        "Jaguars": 44,
+        "Broncos": 56
       },
       "eventTicker": "KXNFLGAME-26SEP20JACDEN"
     },
     "Browns_Buccaneers": {
       "teams": {
-        "Buccaneers": 79,
-        "Browns": 21
+        "Buccaneers": 78,
+        "Browns": 22
       },
       "eventTicker": "KXNFLGAME-26SEP20CLETB"
     },
@@ -73,15 +73,15 @@
     },
     "Jets_Packers": {
       "teams": {
-        "Jets": 34,
-        "Packers": 66
+        "Jets": 36,
+        "Packers": 64
       },
       "eventTicker": "KXNFLGAME-26SEP20GBNYJ"
     },
     "Falcons_Panthers": {
       "teams": {
-        "Panthers": 52,
-        "Falcons": 48
+        "Panthers": 53,
+        "Falcons": 47
       },
       "eventTicker": "KXNFLGAME-26SEP20CARATL"
     },
@@ -94,8 +94,8 @@
     },
     "Patriots_Steelers": {
       "teams": {
-        "Steelers": 31,
-        "Patriots": 69
+        "Steelers": 32,
+        "Patriots": 68
       },
       "eventTicker": "KXNFLGAME-26SEP20PITNE"
     },
@@ -108,15 +108,15 @@
     },
     "Bills_Lions": {
       "teams": {
-        "Lions": 35,
-        "Bills": 65
+        "Lions": 34,
+        "Bills": 66
       },
       "eventTicker": "KXNFLGAME-26SEP17DETBUF"
     },
     "Broncos_Chiefs": {
       "teams": {
-        "Chiefs": 55,
-        "Broncos": 45
+        "Chiefs": 54,
+        "Broncos": 46
       },
       "eventTicker": "KXNFLGAME-26SEP14DENKC"
     }
