@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-14T03:33:42.627Z",
+  "updated": "2026-09-14T06:15:06.800Z",
   "odds": {
     "Giants_Rams": {
       "teams": {
-        "Giants": 23,
-        "Rams": 77
+        "Giants": 24,
+        "Rams": 76
       },
       "eventTicker": "KXNFLGAME-26SEP21NYGLAR"
     },
@@ -17,8 +17,8 @@
     },
     "Commanders_Cowboys": {
       "teams": {
-        "Commanders": 43,
-        "Cowboys": 57
+        "Commanders": 36,
+        "Cowboys": 64
       },
       "eventTicker": "KXNFLGAME-26SEP20WASDAL"
     },
@@ -45,29 +45,29 @@
     },
     "Broncos_Jaguars": {
       "teams": {
-        "Jaguars": 44,
-        "Broncos": 56
+        "Jaguars": 43,
+        "Broncos": 57
       },
       "eventTicker": "KXNFLGAME-26SEP20JACDEN"
     },
     "Browns_Buccaneers": {
       "teams": {
-        "Buccaneers": 79,
-        "Browns": 21
+        "Buccaneers": 78,
+        "Browns": 22
       },
       "eventTicker": "KXNFLGAME-26SEP20CLETB"
     },
     "Bengals_Texans": {
       "teams": {
-        "Texans": 57,
-        "Bengals": 43
+        "Texans": 58,
+        "Bengals": 42
       },
       "eventTicker": "KXNFLGAME-26SEP20CINHOU"
     },
     "Ravens_Saints": {
       "teams": {
-        "Saints": 21,
-        "Ravens": 79
+        "Saints": 22,
+        "Ravens": 78
       },
       "eventTicker": "KXNFLGAME-26SEP20NOBAL"
     },
@@ -80,8 +80,8 @@
     },
     "Falcons_Panthers": {
       "teams": {
-        "Panthers": 50,
-        "Falcons": 50
+        "Panthers": 51,
+        "Falcons": 49
       },
       "eventTicker": "KXNFLGAME-26SEP20CARATL"
     },
@@ -94,8 +94,8 @@
     },
     "Patriots_Steelers": {
       "teams": {
-        "Steelers": 31,
-        "Patriots": 69
+        "Steelers": 32,
+        "Patriots": 68
       },
       "eventTicker": "KXNFLGAME-26SEP20PITNE"
     },
@@ -108,15 +108,15 @@
     },
     "Bills_Lions": {
       "teams": {
-        "Lions": 37,
-        "Bills": 63
+        "Lions": 36,
+        "Bills": 64
       },
       "eventTicker": "KXNFLGAME-26SEP17DETBUF"
     },
     "Broncos_Chiefs": {
       "teams": {
-        "Chiefs": 56,
-        "Broncos": 44
+        "Chiefs": 55,
+        "Broncos": 45
       },
       "eventTicker": "KXNFLGAME-26SEP14DENKC"
     }
