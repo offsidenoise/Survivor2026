@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T03:35:15.548Z",
+  "updated": "2026-09-14T11:55:44.407Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     1,
@@ -27,17 +27,17 @@
   "originalRecommendation": {
     "week": 1,
     "pick": {
-      "team": "New York Giants",
+      "team": "Seattle Seahawks",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Dallas Cowboys"
+      "opponent": "New England Patriots"
     },
     "fullSeasonPlan": {
       "1": {
-        "team": "New York Giants",
+        "team": "Seattle Seahawks",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Dallas Cowboys"
+        "opponent": "New England Patriots"
       },
       "2": {
         "team": "Tampa Bay Buccaneers",
@@ -125,7 +125,7 @@
       },
       "14": {
         "team": "Los Angeles Chargers",
-        "prob": 73,
+        "prob": 74,
         "source": "kalshi",
         "opponent": "Las Vegas Raiders",
         "crowdPct": null
@@ -163,17 +163,17 @@
   "crowdAdjustedRecommendation": {
     "week": 1,
     "pick": {
-      "team": "New York Giants",
+      "team": "Seattle Seahawks",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Dallas Cowboys"
+      "opponent": "New England Patriots"
     },
     "fullSeasonPlan": {
       "1": {
-        "team": "New York Giants",
+        "team": "Seattle Seahawks",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Dallas Cowboys"
+        "opponent": "New England Patriots"
       },
       "2": {
         "team": "Tampa Bay Buccaneers",
@@ -261,7 +261,7 @@
       },
       "14": {
         "team": "Los Angeles Chargers",
-        "prob": 73,
+        "prob": 74,
         "source": "kalshi",
         "opponent": "Las Vegas Raiders",
         "crowdPct": null
