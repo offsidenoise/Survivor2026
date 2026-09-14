@@ -1,24 +1,24 @@
 {
-  "updated": "2026-09-14T01:06:37.539Z",
+  "updated": "2026-09-14T03:33:42.627Z",
   "odds": {
     "Giants_Rams": {
       "teams": {
-        "Giants": 19,
-        "Rams": 81
+        "Giants": 23,
+        "Rams": 77
       },
       "eventTicker": "KXNFLGAME-26SEP21NYGLAR"
     },
     "Chiefs_Colts": {
       "teams": {
-        "Chiefs": 71,
-        "Colts": 29
+        "Chiefs": 72,
+        "Colts": 28
       },
       "eventTicker": "KXNFLGAME-26SEP20INDKC"
     },
     "Commanders_Cowboys": {
       "teams": {
-        "Commanders": 32,
-        "Cowboys": 68
+        "Commanders": 43,
+        "Cowboys": 57
       },
       "eventTicker": "KXNFLGAME-26SEP20WASDAL"
     },
@@ -31,15 +31,15 @@
     },
     "Cardinals_Seahawks": {
       "teams": {
-        "Seahawks": 69,
-        "Cardinals": 31
+        "Seahawks": 67,
+        "Cardinals": 33
       },
       "eventTicker": "KXNFLGAME-26SEP20SEAARI"
     },
     "Chargers_Raiders": {
       "teams": {
-        "Raiders": 26,
-        "Chargers": 74
+        "Raiders": 27,
+        "Chargers": 73
       },
       "eventTicker": "KXNFLGAME-26SEP20LVLAC"
     },
@@ -66,8 +66,8 @@
     },
     "Ravens_Saints": {
       "teams": {
-        "Saints": 22,
-        "Ravens": 78
+        "Saints": 21,
+        "Ravens": 79
       },
       "eventTicker": "KXNFLGAME-26SEP20NOBAL"
     },
@@ -80,8 +80,8 @@
     },
     "Falcons_Panthers": {
       "teams": {
-        "Panthers": 51,
-        "Falcons": 49
+        "Panthers": 50,
+        "Falcons": 50
       },
       "eventTicker": "KXNFLGAME-26SEP20CARATL"
     },
@@ -94,8 +94,8 @@
     },
     "Patriots_Steelers": {
       "teams": {
-        "Steelers": 32,
-        "Patriots": 68
+        "Steelers": 31,
+        "Patriots": 69
       },
       "eventTicker": "KXNFLGAME-26SEP20PITNE"
     },
@@ -119,13 +119,6 @@
         "Broncos": 44
       },
       "eventTicker": "KXNFLGAME-26SEP14DENKC"
-    },
-    "Cowboys_Giants": {
-      "teams": {
-        "Giants": 59,
-        "Cowboys": 41
-      },
-      "eventTicker": "KXNFLGAME-26SEP13DALNYG"
     }
   },
   "unmapped": []
