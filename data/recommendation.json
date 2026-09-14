@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T17:47:31.650Z",
+  "updated": "2026-09-14T21:33:36.389Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     1,
@@ -41,7 +41,7 @@
       },
       "2": {
         "team": "San Francisco 49ers",
-        "prob": 88,
+        "prob": 89,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -177,7 +177,7 @@
       },
       "2": {
         "team": "San Francisco 49ers",
-        "prob": 88,
+        "prob": 89,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
