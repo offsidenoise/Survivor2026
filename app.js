@@ -490,13 +490,25 @@ function computeLiveRecommendation(ignoreCrowd){
     .sort((a,b) => b.prob - a.prob)
     .slice(0, 3);
 
+  // Full diagnostic table for the CURRENT week — every team with data,
+  // showing win% / national% / EV side by side, so you can actually see the
+  // simulation working instead of just trusting the final pick. Sorted by
+  // EV where it exists, otherwise by win probability.
+  const currentWeekDiagnostic = Object.keys(weekTeamProb[currentWeekKey] || {})
+    .map(t => {
+      const e = weekTeamProb[currentWeekKey][t];
+      return { team: t, opponent: e.opponent, prob: e.prob, crowdPct: e.crowdPct, ev: e.ev, excluded: excludedTeams.has(t) };
+    })
+    .sort((a,b) => (b.ev != null ? b.ev : -1) - (a.ev != null ? a.ev : -1) || b.prob - a.prob);
+
   return {
     remainingWeeks,
     availableTeams,
     weekAssignments,
     pick: weekAssignments[thisWeek] ? { week: thisWeek, ...weekAssignments[thisWeek] } : null,
     teamsNotInPlan,
-    alternatives
+    alternatives,
+    currentWeekDiagnostic
   };
 }
 
@@ -604,6 +616,24 @@ function renderRecommendation(){
   const original = computeLiveRecommendation(true);
   const crowdAdjusted = computeLiveRecommendation(false);
 
+  // Health check — verifies at a glance whether the two data feeds Model B
+  // depends on are actually working, before you even look at a single pick.
+  const healthBox = document.createElement('div');
+  healthBox.className = 'game-card';
+  healthBox.style.marginBottom = '14px';
+  const yahooOk = !!(yahooCrowdData && yahooCrowdData.parseHealthy);
+  const evOk = !!(crowdAdjusted && crowdAdjusted.currentWeekDiagnostic
+    && crowdAdjusted.currentWeekDiagnostic.some(d => d.ev != null));
+  healthBox.innerHTML = `
+    <div class="game-meta" style="margin-bottom:0;">
+      <span>${yahooOk ? '\u2713' : '\u2717'} Yahoo national data: ${yahooOk ? (yahooCrowdData.teamsMatched + '/32 teams matched') : 'not loaded'}</span>
+    </div>
+    <div class="game-meta" style="margin-bottom:0;margin-top:4px;">
+      <span>${evOk ? '\u2713' : '\u2717'} EV simulation: ${evOk ? 'running' : 'not running \u2014 Model B = Model A right now'}</span>
+    </div>
+  `;
+  el.appendChild(healthBox);
+
   const same = original && crowdAdjusted && original.pick && crowdAdjusted.pick
     && original.pick.team === crowdAdjusted.pick.team;
 
@@ -619,6 +649,51 @@ function renderRecommendation(){
   }
 
   renderOneModel(el, 'MODEL B \u2014 EXPECTED POOL SHARE (SIMULATED)', crowdAdjusted, true);
+
+  // Full comparison table — every team in this week's slate with win% /
+  // national% / EV side by side, so you can see the simulation actually
+  // working, not just trust the single headline pick.
+  if(evOk && crowdAdjusted.currentWeekDiagnostic.length){
+    const cmpBtn = document.createElement('button');
+    cmpBtn.className = 'ctl-btn';
+    cmpBtn.textContent = 'Show full week comparison table';
+    const cmpBox = document.createElement('div');
+    cmpBox.style.display = 'none';
+    cmpBox.style.marginTop = '8px';
+    cmpBox.style.marginBottom = '14px';
+
+    const header = document.createElement('div');
+    header.className = 'season-plan-row';
+    header.style.fontWeight = '700';
+    header.style.fontSize = '11px';
+    header.style.color = 'var(--text-dim)';
+    header.innerHTML = `
+      <span class="spw">Team</span>
+      <span class="spt">Win% &middot; Nat%</span>
+      <span class="spp">EV</span>
+    `;
+    cmpBox.appendChild(header);
+
+    crowdAdjusted.currentWeekDiagnostic.forEach(d=>{
+      const row = document.createElement('div');
+      row.className = 'season-plan-row';
+      if(d.excluded) row.style.opacity = '0.4';
+      row.innerHTML = `
+        <span class="spw" style="width:auto;flex:1;">${d.team}${d.excluded ? ' <span style="font-size:10px;">(used)</span>' : ''}</span>
+        <span class="spt" style="flex:0 0 90px;color:var(--text-dim);font-size:11px;">${Math.round(d.prob)}% &middot; ${d.crowdPct != null ? d.crowdPct + '%' : '\u2014'}</span>
+        <span class="spp">${d.ev != null ? d.ev.toFixed(4) : '\u2014'}</span>
+      `;
+      cmpBox.appendChild(row);
+    });
+
+    cmpBtn.addEventListener('click', ()=>{
+      const showing = cmpBox.style.display !== 'none';
+      cmpBox.style.display = showing ? 'none' : 'block';
+      cmpBtn.textContent = showing ? 'Show full week comparison table' : 'Hide comparison table';
+    });
+    el.appendChild(cmpBtn);
+    el.appendChild(cmpBox);
+  }
 
   const yahooNote = document.createElement('p');
   yahooNote.className = 'sub';
