@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T21:33:36.389Z",
+  "updated": "2026-09-15T03:35:40.546Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     1,
@@ -23,7 +23,7 @@
   ],
   "powerIndexHealthy": true,
   "yahooCrowdHealthy": true,
-  "evHealthy": true,
+  "evHealthy": false,
   "originalRecommendation": {
     "week": 1,
     "pick": {
@@ -41,7 +41,7 @@
       },
       "2": {
         "team": "San Francisco 49ers",
-        "prob": 89,
+        "prob": 88,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -177,7 +177,7 @@
       },
       "2": {
         "team": "San Francisco 49ers",
-        "prob": 89,
+        "prob": 88,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
