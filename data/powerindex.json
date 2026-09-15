@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-15T11:11:10.007Z",
+  "updated": "2026-09-15T16:22:29.714Z",
   "verifiedThisRun": true,
   "gamesAttempted": 272,
-  "gamesSucceeded": 272,
+  "gamesSucceeded": 266,
   "predictions": {
     "401872656": {
       "awayProb": 38.578,
@@ -604,14 +604,6 @@
       "awayProb": 29.304999999999996,
       "homeProb": 70.46
     },
-    "401873066": {
-      "awayProb": 32.202999999999996,
-      "homeProb": 67.538
-    },
-    "401873067": {
-      "awayProb": 21.482,
-      "homeProb": 78.346
-    },
     "401873068": {
       "awayProb": 69.372,
       "homeProb": 30.384
@@ -620,25 +612,13 @@
       "awayProb": 57.008,
       "homeProb": 42.65
     },
-    "401873070": {
-      "awayProb": 10.984,
-      "homeProb": 88.928
-    },
     "401873071": {
       "awayProb": 29.426999999999996,
       "homeProb": 70.337
     },
-    "401873072": {
-      "awayProb": 40.102,
-      "homeProb": 59.57599999999999
-    },
     "401873073": {
       "awayProb": 24.329,
       "homeProb": 75.476
-    },
-    "401873074": {
-      "awayProb": 31.974999999999998,
-      "homeProb": 67.768
     },
     "401873075": {
       "awayProb": 35.331,
@@ -663,10 +643,6 @@
     "401873080": {
       "awayProb": 44.283,
       "homeProb": 55.361000000000004
-    },
-    "401873081": {
-      "awayProb": 49.248,
-      "homeProb": 50.356
     },
     "401873082": {
       "awayProb": 42.759,

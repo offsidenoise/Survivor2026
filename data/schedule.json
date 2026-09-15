@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T11:09:51.698Z",
+  "updated": "2026-09-15T16:20:59.244Z",
   "season": 2026,
   "currentWeek": 1,
   "weeks": {
@@ -410,7 +410,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png"
           },
           "espnOdds": {
-            "details": "CAR -1.5",
+            "details": "CAR -2.5",
             "overUnder": 43.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -439,7 +439,7 @@
           },
           "espnOdds": {
             "details": "CHI -5.5",
-            "overUnder": 49.5,
+            "overUnder": 48.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -495,7 +495,7 @@
           },
           "espnOdds": {
             "details": "NE -5.5",
-            "overUnder": 42.5,
+            "overUnder": 41.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -606,7 +606,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png"
           },
           "espnOdds": {
-            "details": "HOU -3",
+            "details": "HOU -2.5",
             "overUnder": 46.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -746,7 +746,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
           },
           "espnOdds": {
-            "details": "SF -13.5",
+            "details": "SF -12.5",
             "overUnder": 45.5,
             "provider": "DraftKings",
             "homeProb": null,
