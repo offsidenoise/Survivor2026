@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T10:10:48.993Z",
+  "updated": "2026-09-15T11:09:51.926Z",
   "odds": {
     "Giants_Rams": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Commanders_Cowboys": {
       "teams": {
-        "Commanders": 36,
-        "Cowboys": 64
+        "Commanders": 35,
+        "Cowboys": 65
       },
       "eventTicker": "KXNFLGAME-26SEP20WASDAL"
     },
