@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T05:16:13.277Z",
+  "updated": "2026-09-15T10:10:48.993Z",
   "odds": {
     "Giants_Rams": {
       "teams": {
@@ -10,15 +10,15 @@
     },
     "Chiefs_Colts": {
       "teams": {
-        "Chiefs": 73,
-        "Colts": 27
+        "Chiefs": 74,
+        "Colts": 26
       },
       "eventTicker": "KXNFLGAME-26SEP20INDKC"
     },
     "Commanders_Cowboys": {
       "teams": {
-        "Commanders": 35,
-        "Cowboys": 65
+        "Commanders": 36,
+        "Cowboys": 64
       },
       "eventTicker": "KXNFLGAME-26SEP20WASDAL"
     },
@@ -59,8 +59,8 @@
     },
     "Bengals_Texans": {
       "teams": {
-        "Texans": 59,
-        "Bengals": 41
+        "Texans": 60,
+        "Bengals": 40
       },
       "eventTicker": "KXNFLGAME-26SEP20CINHOU"
     },
@@ -108,8 +108,8 @@
     },
     "Bills_Lions": {
       "teams": {
-        "Lions": 33,
-        "Bills": 67
+        "Lions": 34,
+        "Bills": 66
       },
       "eventTicker": "KXNFLGAME-26SEP17DETBUF"
     }
