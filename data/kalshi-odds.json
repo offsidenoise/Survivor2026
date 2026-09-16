@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T04:52:11.395Z",
+  "updated": "2026-09-16T09:38:29.146Z",
   "odds": {
     "Bears_Eagles": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Cowboys_Ravens": {
       "teams": {
-        "Cowboys": 43,
-        "Ravens": 57
+        "Cowboys": 42,
+        "Ravens": 58
       },
       "eventTicker": "KXNFLGAME-26SEP27BALDAL"
     },
@@ -52,8 +52,8 @@
     },
     "Commanders_Seahawks": {
       "teams": {
-        "Commanders": 46,
-        "Seahawks": 54
+        "Commanders": 45,
+        "Seahawks": 55
       },
       "eventTicker": "KXNFLGAME-26SEP27SEAWAS"
     },
@@ -73,8 +73,8 @@
     },
     "Bills_Chargers": {
       "teams": {
-        "Chargers": 35,
-        "Bills": 65
+        "Chargers": 34,
+        "Bills": 66
       },
       "eventTicker": "KXNFLGAME-26SEP27LACBUF"
     },
@@ -122,8 +122,8 @@
     },
     "Chiefs_Colts": {
       "teams": {
-        "Chiefs": 73,
-        "Colts": 27
+        "Chiefs": 72,
+        "Colts": 28
       },
       "eventTicker": "KXNFLGAME-26SEP20INDKC"
     },
