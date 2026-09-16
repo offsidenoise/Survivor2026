@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T20:55:07.346Z",
+  "updated": "2026-09-16T03:32:08.073Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     1,
@@ -48,7 +48,7 @@
       },
       "3": {
         "team": "Kansas City Chiefs",
-        "prob": 81,
+        "prob": 83,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -61,10 +61,10 @@
         "crowdPct": null
       },
       "5": {
-        "team": "Houston Texans",
-        "prob": 71.095,
+        "team": "Cincinnati Bengals",
+        "prob": 75.376,
         "source": "powerindex",
-        "opponent": "Tennessee Titans",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "6": {
@@ -82,24 +82,24 @@
         "crowdPct": null
       },
       "8": {
-        "team": "Cincinnati Bengals",
-        "prob": 76.393,
-        "source": "powerindex",
-        "opponent": "Tennessee Titans",
-        "crowdPct": null
-      },
-      "9": {
-        "team": "New Orleans Saints",
-        "prob": 74.358,
+        "team": "Pittsburgh Steelers",
+        "prob": 74.485,
         "source": "powerindex",
         "opponent": "Cleveland Browns",
         "crowdPct": null
       },
-      "10": {
-        "team": "Indianapolis Colts",
-        "prob": 75.35,
+      "9": {
+        "team": "Detroit Lions",
+        "prob": 75.608,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
+        "crowdPct": null
+      },
+      "10": {
+        "team": "Houston Texans",
+        "prob": 75.661,
+        "source": "powerindex",
+        "opponent": "Cleveland Browns",
         "crowdPct": null
       },
       "11": {
@@ -184,7 +184,7 @@
       },
       "3": {
         "team": "Kansas City Chiefs",
-        "prob": 81,
+        "prob": 83,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -197,10 +197,10 @@
         "crowdPct": null
       },
       "5": {
-        "team": "Houston Texans",
-        "prob": 71.095,
+        "team": "Cincinnati Bengals",
+        "prob": 75.376,
         "source": "powerindex",
-        "opponent": "Tennessee Titans",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "6": {
@@ -218,24 +218,24 @@
         "crowdPct": null
       },
       "8": {
-        "team": "Cincinnati Bengals",
-        "prob": 76.393,
-        "source": "powerindex",
-        "opponent": "Tennessee Titans",
-        "crowdPct": null
-      },
-      "9": {
-        "team": "New Orleans Saints",
-        "prob": 74.358,
+        "team": "Pittsburgh Steelers",
+        "prob": 74.485,
         "source": "powerindex",
         "opponent": "Cleveland Browns",
         "crowdPct": null
       },
-      "10": {
-        "team": "Indianapolis Colts",
-        "prob": 75.35,
+      "9": {
+        "team": "Detroit Lions",
+        "prob": 75.608,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
+        "crowdPct": null
+      },
+      "10": {
+        "team": "Houston Texans",
+        "prob": 75.661,
+        "source": "powerindex",
+        "opponent": "Cleveland Browns",
         "crowdPct": null
       },
       "11": {
