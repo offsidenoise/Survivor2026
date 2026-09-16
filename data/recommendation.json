@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T10:57:26.812Z",
+  "updated": "2026-09-16T16:13:52.926Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     2,
@@ -30,8 +30,8 @@
       "prob": 88,
       "source": "kalshi",
       "opponent": "Miami Dolphins",
-      "crowdPct": 33.41,
-      "ev": 0.02256410256410276
+      "crowdPct": 34.08,
+      "ev": 0.02315789473684229
     },
     "fullSeasonPlan": {
       "2": {
@@ -39,14 +39,14 @@
         "prob": 88,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
-        "crowdPct": 33.41,
-        "ev": 0.02256410256410276
+        "crowdPct": 34.08,
+        "ev": 0.02315789473684229
       },
       "3": {
-        "team": "Kansas City Chiefs",
-        "prob": 82,
+        "team": "Detroit Lions",
+        "prob": 76,
         "source": "kalshi",
-        "opponent": "Miami Dolphins",
+        "opponent": "New York Jets",
         "crowdPct": null
       },
       "4": {
@@ -85,10 +85,10 @@
         "crowdPct": null
       },
       "9": {
-        "team": "Detroit Lions",
-        "prob": 75.19500000000001,
+        "team": "Kansas City Chiefs",
+        "prob": 80.845,
         "source": "powerindex",
-        "opponent": "Miami Dolphins",
+        "opponent": "New York Jets",
         "crowdPct": null
       },
       "10": {
@@ -163,8 +163,8 @@
       "prob": 88,
       "source": "kalshi",
       "opponent": "Miami Dolphins",
-      "crowdPct": 33.41,
-      "ev": 0.02256410256410276
+      "crowdPct": 34.08,
+      "ev": 0.02315789473684229
     },
     "fullSeasonPlan": {
       "2": {
@@ -172,14 +172,14 @@
         "prob": 88,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
-        "crowdPct": 33.41,
-        "ev": 0.02256410256410276
+        "crowdPct": 34.08,
+        "ev": 0.02315789473684229
       },
       "3": {
-        "team": "Kansas City Chiefs",
-        "prob": 82,
+        "team": "Detroit Lions",
+        "prob": 76,
         "source": "kalshi",
-        "opponent": "Miami Dolphins",
+        "opponent": "New York Jets",
         "crowdPct": null
       },
       "4": {
@@ -218,10 +218,10 @@
         "crowdPct": null
       },
       "9": {
-        "team": "Detroit Lions",
-        "prob": 75.19500000000001,
+        "team": "Kansas City Chiefs",
+        "prob": 80.845,
         "source": "powerindex",
-        "opponent": "Miami Dolphins",
+        "opponent": "New York Jets",
         "crowdPct": null
       },
       "10": {
