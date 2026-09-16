@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T03:30:47.399Z",
+  "updated": "2026-09-16T04:52:11.395Z",
   "odds": {
     "Bears_Eagles": {
       "teams": {
@@ -87,8 +87,8 @@
     },
     "Giants_Titans": {
       "teams": {
-        "Titans": 32,
-        "Giants": 68
+        "Titans": 30,
+        "Giants": 70
       },
       "eventTicker": "KXNFLGAME-26SEP27TENNYG"
     },
@@ -101,8 +101,8 @@
     },
     "Chiefs_Dolphins": {
       "teams": {
-        "Dolphins": 17,
-        "Chiefs": 83
+        "Dolphins": 18,
+        "Chiefs": 82
       },
       "eventTicker": "KXNFLGAME-26SEP27KCMIA"
     },
@@ -164,8 +164,8 @@
     },
     "Browns_Buccaneers": {
       "teams": {
-        "Buccaneers": 79,
-        "Browns": 21
+        "Buccaneers": 78,
+        "Browns": 22
       },
       "eventTicker": "KXNFLGAME-26SEP20CLETB"
     },
@@ -213,8 +213,8 @@
     },
     "Eagles_Titans": {
       "teams": {
-        "Titans": 24,
-        "Eagles": 76
+        "Titans": 25,
+        "Eagles": 75
       },
       "eventTicker": "KXNFLGAME-26SEP20PHITEN"
     },
