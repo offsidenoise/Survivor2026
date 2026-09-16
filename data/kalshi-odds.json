@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T09:38:29.146Z",
+  "updated": "2026-09-16T10:54:46.127Z",
   "odds": {
     "Bears_Eagles": {
       "teams": {
@@ -94,8 +94,8 @@
     },
     "Browns_Panthers": {
       "teams": {
-        "Browns": 43,
-        "Panthers": 57
+        "Browns": 42,
+        "Panthers": 58
       },
       "eventTicker": "KXNFLGAME-26SEP27CARCLE"
     },
@@ -206,8 +206,8 @@
     },
     "Patriots_Steelers": {
       "teams": {
-        "Steelers": 32,
-        "Patriots": 68
+        "Steelers": 33,
+        "Patriots": 67
       },
       "eventTicker": "KXNFLGAME-26SEP20PITNE"
     },
