@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T20:54:44.758Z",
+  "updated": "2026-09-16T21:26:03.901Z",
   "odds": {
     "Bears_Eagles": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Cowboys_Ravens": {
       "teams": {
-        "Cowboys": 42,
-        "Ravens": 58
+        "Cowboys": 41,
+        "Ravens": 59
       },
       "eventTicker": "KXNFLGAME-26SEP27BALDAL"
     },
@@ -220,8 +220,8 @@
     },
     "Bills_Lions": {
       "teams": {
-        "Lions": 33,
-        "Bills": 67
+        "Lions": 32,
+        "Bills": 68
       },
       "eventTicker": "KXNFLGAME-26SEP17DETBUF"
     }
