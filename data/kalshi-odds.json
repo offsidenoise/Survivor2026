@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T11:02:37.813Z",
+  "updated": "2026-09-17T12:13:53.927Z",
   "odds": {
     "Bears_Eagles": {
       "teams": {
@@ -115,8 +115,8 @@
     },
     "Giants_Rams": {
       "teams": {
-        "Giants": 27,
-        "Rams": 73
+        "Giants": 26,
+        "Rams": 74
       },
       "eventTicker": "KXNFLGAME-26SEP21NYGLAR"
     },
