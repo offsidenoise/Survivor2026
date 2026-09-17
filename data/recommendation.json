@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T16:20:30.187Z",
+  "updated": "2026-09-17T21:00:12.721Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     2,
@@ -27,20 +27,20 @@
     "week": 2,
     "pick": {
       "team": "San Francisco 49ers",
-      "prob": 88,
+      "prob": 89,
       "source": "kalshi",
       "opponent": "Miami Dolphins",
       "crowdPct": 33.39,
-      "ev": 0.023157894736842037
+      "ev": 0.023421052631578853
     },
     "fullSeasonPlan": {
       "2": {
         "team": "San Francisco 49ers",
-        "prob": 88,
+        "prob": 89,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": 33.39,
-        "ev": 0.023157894736842037
+        "ev": 0.023421052631578853
       },
       "3": {
         "team": "Kansas City Chiefs",
@@ -160,20 +160,20 @@
     "week": 2,
     "pick": {
       "team": "San Francisco 49ers",
-      "prob": 88,
+      "prob": 89,
       "source": "kalshi",
       "opponent": "Miami Dolphins",
       "crowdPct": 33.39,
-      "ev": 0.023157894736842037
+      "ev": 0.023421052631578853
     },
     "fullSeasonPlan": {
       "2": {
         "team": "San Francisco 49ers",
-        "prob": 88,
+        "prob": 89,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": 33.39,
-        "ev": 0.023157894736842037
+        "ev": 0.023421052631578853
       },
       "3": {
         "team": "Kansas City Chiefs",
