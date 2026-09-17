@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T06:46:53.564Z",
+  "updated": "2026-09-17T11:02:37.813Z",
   "odds": {
     "Bears_Eagles": {
       "teams": {
@@ -101,15 +101,15 @@
     },
     "Chiefs_Dolphins": {
       "teams": {
-        "Dolphins": 18,
-        "Chiefs": 82
+        "Dolphins": 17,
+        "Chiefs": 83
       },
       "eventTicker": "KXNFLGAME-26SEP27KCMIA"
     },
     "Falcons_Packers": {
       "teams": {
-        "Packers": 73,
-        "Falcons": 27
+        "Packers": 72,
+        "Falcons": 28
       },
       "eventTicker": "KXNFLGAME-26SEP24ATLGB"
     },
