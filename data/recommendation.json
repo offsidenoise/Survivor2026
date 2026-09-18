@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T21:00:12.721Z",
+  "updated": "2026-09-18T03:23:44.050Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     2,
@@ -31,7 +31,7 @@
       "source": "kalshi",
       "opponent": "Miami Dolphins",
       "crowdPct": 33.39,
-      "ev": 0.023421052631578853
+      "ev": 0.023421052631579016
     },
     "fullSeasonPlan": {
       "2": {
@@ -40,11 +40,11 @@
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": 33.39,
-        "ev": 0.023421052631578853
+        "ev": 0.023421052631579016
       },
       "3": {
         "team": "Kansas City Chiefs",
-        "prob": 83,
+        "prob": 82,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -164,7 +164,7 @@
       "source": "kalshi",
       "opponent": "Miami Dolphins",
       "crowdPct": 33.39,
-      "ev": 0.023421052631578853
+      "ev": 0.023421052631579016
     },
     "fullSeasonPlan": {
       "2": {
@@ -173,11 +173,11 @@
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": 33.39,
-        "ev": 0.023421052631578853
+        "ev": 0.023421052631579016
       },
       "3": {
         "team": "Kansas City Chiefs",
-        "prob": 83,
+        "prob": 82,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
