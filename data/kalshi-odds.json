@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T15:54:08.945Z",
+  "updated": "2026-09-18T17:54:15.745Z",
   "odds": {
     "Bears_Eagles": {
       "teams": {
@@ -38,8 +38,8 @@
     },
     "49ers_Cardinals": {
       "teams": {
-        "49ers": 81,
-        "Cardinals": 19
+        "49ers": 82,
+        "Cardinals": 18
       },
       "eventTicker": "KXNFLGAME-26SEP27ARISF"
     },
@@ -59,8 +59,8 @@
     },
     "Colts_Texans": {
       "teams": {
-        "Colts": 44,
-        "Texans": 56
+        "Colts": 43,
+        "Texans": 57
       },
       "eventTicker": "KXNFLGAME-26SEP27HOUIND"
     },
@@ -192,8 +192,8 @@
     },
     "Falcons_Panthers": {
       "teams": {
-        "Panthers": 56,
-        "Falcons": 44
+        "Panthers": 57,
+        "Falcons": 43
       },
       "eventTicker": "KXNFLGAME-26SEP20CARATL"
     },
