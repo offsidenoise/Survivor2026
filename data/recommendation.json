@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T03:20:14.740Z",
+  "updated": "2026-09-19T10:24:04.495Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     2,
@@ -30,7 +30,7 @@
       "prob": 89,
       "source": "kalshi",
       "opponent": "Miami Dolphins",
-      "crowdPct": 33.07,
+      "crowdPct": 33,
       "ev": 0.023421052631578936
     },
     "fullSeasonPlan": {
@@ -39,7 +39,7 @@
         "prob": 89,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
-        "crowdPct": 33.07,
+        "crowdPct": 33,
         "ev": 0.023421052631578936
       },
       "3": {
