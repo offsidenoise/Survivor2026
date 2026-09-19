@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-19T03:19:05.989Z",
+  "updated": "2026-09-19T05:09:39.901Z",
   "odds": {
     "Bears_Eagles": {
       "teams": {
-        "Eagles": 48,
-        "Bears": 52
+        "Eagles": 49,
+        "Bears": 51
       },
       "eventTicker": "KXNFLGAME-26SEP28PHICHI"
     },
@@ -24,8 +24,8 @@
     },
     "Raiders_Saints": {
       "teams": {
-        "Saints": 61,
-        "Raiders": 39
+        "Saints": 60,
+        "Raiders": 40
       },
       "eventTicker": "KXNFLGAME-26SEP27LVNO"
     },
@@ -45,8 +45,8 @@
     },
     "Bengals_Steelers": {
       "teams": {
-        "Steelers": 45,
-        "Bengals": 55
+        "Steelers": 46,
+        "Bengals": 54
       },
       "eventTicker": "KXNFLGAME-26SEP27CINPIT"
     },
@@ -80,8 +80,8 @@
     },
     "Jaguars_Patriots": {
       "teams": {
-        "Patriots": 45,
-        "Jaguars": 55
+        "Patriots": 46,
+        "Jaguars": 54
       },
       "eventTicker": "KXNFLGAME-26SEP27NEJAC"
     },
@@ -101,8 +101,8 @@
     },
     "Chiefs_Dolphins": {
       "teams": {
-        "Dolphins": 18,
-        "Chiefs": 82
+        "Dolphins": 17,
+        "Chiefs": 83
       },
       "eventTicker": "KXNFLGAME-26SEP27KCMIA"
     },
