@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T18:56:10.035Z",
+  "updated": "2026-09-19T20:06:28.975Z",
   "odds": {
     "Bears_Eagles": {
       "teams": {
@@ -24,15 +24,15 @@
     },
     "Raiders_Saints": {
       "teams": {
-        "Saints": 60,
-        "Raiders": 40
+        "Saints": 61,
+        "Raiders": 39
       },
       "eventTicker": "KXNFLGAME-26SEP27LVNO"
     },
     "Buccaneers_Vikings": {
       "teams": {
-        "Buccaneers": 52,
-        "Vikings": 48
+        "Buccaneers": 53,
+        "Vikings": 47
       },
       "eventTicker": "KXNFLGAME-26SEP27MINTB"
     },
