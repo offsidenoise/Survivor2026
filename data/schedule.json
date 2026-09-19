@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T10:22:50.279Z",
+  "updated": "2026-09-19T15:25:28.343Z",
   "season": 2026,
   "currentWeek": 2,
   "weeks": {
@@ -433,7 +433,7 @@
           },
           "espnOdds": {
             "details": "CHI -4.5",
-            "overUnder": 48.5,
+            "overUnder": 47.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -768,7 +768,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png"
           },
           "espnOdds": {
-            "details": "KC -6.5",
+            "details": "KC -6",
             "overUnder": 46.5,
             "provider": "DraftKings",
             "homeProb": null,
