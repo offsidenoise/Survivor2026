@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T14:55:08.424Z",
+  "updated": "2026-09-20T15:30:34.440Z",
   "odds": {
     "Bears_Eagles": {
       "teams": {
@@ -108,8 +108,8 @@
     },
     "Falcons_Packers": {
       "teams": {
-        "Packers": 74,
-        "Falcons": 26
+        "Packers": 73,
+        "Falcons": 27
       },
       "eventTicker": "KXNFLGAME-26SEP24ATLGB"
     },
@@ -150,8 +150,8 @@
     },
     "Chargers_Raiders": {
       "teams": {
-        "Raiders": 28,
-        "Chargers": 72
+        "Raiders": 27,
+        "Chargers": 73
       },
       "eventTicker": "KXNFLGAME-26SEP20LVLAC"
     },
