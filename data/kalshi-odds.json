@@ -1,31 +1,31 @@
 {
-  "updated": "2026-09-20T22:44:23.116Z",
+  "updated": "2026-09-21T00:33:56.926Z",
   "odds": {
     "Bears_Eagles": {
       "teams": {
-        "Eagles": 66,
-        "Bears": 34
+        "Eagles": 65,
+        "Bears": 35
       },
       "eventTicker": "KXNFLGAME-26SEP28PHICHI"
     },
     "Broncos_Rams": {
       "teams": {
-        "Rams": 55,
-        "Broncos": 45
+        "Rams": 57,
+        "Broncos": 43
       },
       "eventTicker": "KXNFLGAME-26SEP27LARDEN"
     },
     "Cowboys_Ravens": {
       "teams": {
-        "Cowboys": 41,
-        "Ravens": 59
+        "Cowboys": 42,
+        "Ravens": 58
       },
       "eventTicker": "KXNFLGAME-26SEP27BALDAL"
     },
     "Raiders_Saints": {
       "teams": {
-        "Saints": 64,
-        "Raiders": 36
+        "Saints": 61,
+        "Raiders": 39
       },
       "eventTicker": "KXNFLGAME-26SEP27LVNO"
     },
@@ -38,22 +38,22 @@
     },
     "49ers_Cardinals": {
       "teams": {
-        "49ers": 82,
-        "Cardinals": 18
+        "49ers": 78,
+        "Cardinals": 22
       },
       "eventTicker": "KXNFLGAME-26SEP27ARISF"
     },
     "Bengals_Steelers": {
       "teams": {
-        "Steelers": 39,
-        "Bengals": 61
+        "Steelers": 38,
+        "Bengals": 62
       },
       "eventTicker": "KXNFLGAME-26SEP27CINPIT"
     },
     "Commanders_Seahawks": {
       "teams": {
-        "Commanders": 31,
-        "Seahawks": 69
+        "Commanders": 29,
+        "Seahawks": 71
       },
       "eventTicker": "KXNFLGAME-26SEP27SEAWAS"
     },
@@ -73,22 +73,22 @@
     },
     "Bills_Chargers": {
       "teams": {
-        "Chargers": 26,
-        "Bills": 74
+        "Chargers": 25,
+        "Bills": 75
       },
       "eventTicker": "KXNFLGAME-26SEP27LACBUF"
     },
     "Jaguars_Patriots": {
       "teams": {
-        "Patriots": 46,
-        "Jaguars": 54
+        "Patriots": 43,
+        "Jaguars": 57
       },
       "eventTicker": "KXNFLGAME-26SEP27NEJAC"
     },
     "Giants_Titans": {
       "teams": {
-        "Titans": 31,
-        "Giants": 69
+        "Titans": 30,
+        "Giants": 70
       },
       "eventTicker": "KXNFLGAME-26SEP27TENNYG"
     },
@@ -101,8 +101,8 @@
     },
     "Chiefs_Dolphins": {
       "teams": {
-        "Dolphins": 17,
-        "Chiefs": 83
+        "Dolphins": 16,
+        "Chiefs": 84
       },
       "eventTicker": "KXNFLGAME-26SEP27KCMIA"
     },
@@ -122,45 +122,10 @@
     },
     "Chiefs_Colts": {
       "teams": {
-        "Chiefs": 71,
-        "Colts": 29
+        "Chiefs": 57,
+        "Colts": 43
       },
       "eventTicker": "KXNFLGAME-26SEP20INDKC"
-    },
-    "Commanders_Cowboys": {
-      "teams": {
-        "Commanders": 8,
-        "Cowboys": 92
-      },
-      "eventTicker": "KXNFLGAME-26SEP20WASDAL"
-    },
-    "49ers_Dolphins": {
-      "teams": {
-        "49ers": 99,
-        "Dolphins": 1
-      },
-      "eventTicker": "KXNFLGAME-26SEP20MIASF"
-    },
-    "Cardinals_Seahawks": {
-      "teams": {
-        "Seahawks": 96,
-        "Cardinals": 4
-      },
-      "eventTicker": "KXNFLGAME-26SEP20SEAARI"
-    },
-    "Chargers_Raiders": {
-      "teams": {
-        "Raiders": 57,
-        "Chargers": 43
-      },
-      "eventTicker": "KXNFLGAME-26SEP20LVLAC"
-    },
-    "Broncos_Jaguars": {
-      "teams": {
-        "Jaguars": 11,
-        "Broncos": 89
-      },
-      "eventTicker": "KXNFLGAME-26SEP20JACDEN"
     }
   },
   "unmapped": []
