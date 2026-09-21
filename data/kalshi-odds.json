@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-21T03:30:28.644Z",
+  "updated": "2026-09-21T05:26:15.849Z",
   "odds": {
     "Bears_Eagles": {
       "teams": {
-        "Eagles": 66,
-        "Bears": 34
+        "Eagles": 65,
+        "Bears": 35
       },
       "eventTicker": "KXNFLGAME-26SEP28PHICHI"
     },
@@ -31,8 +31,8 @@
     },
     "Buccaneers_Vikings": {
       "teams": {
-        "Buccaneers": 44,
-        "Vikings": 56
+        "Buccaneers": 45,
+        "Vikings": 55
       },
       "eventTicker": "KXNFLGAME-26SEP27MINTB"
     },
@@ -59,8 +59,8 @@
     },
     "Colts_Texans": {
       "teams": {
-        "Colts": 47,
-        "Texans": 53
+        "Colts": 45,
+        "Texans": 55
       },
       "eventTicker": "KXNFLGAME-26SEP27HOUIND"
     },
@@ -87,8 +87,8 @@
     },
     "Giants_Titans": {
       "teams": {
-        "Titans": 30,
-        "Giants": 70
+        "Titans": 29,
+        "Giants": 71
       },
       "eventTicker": "KXNFLGAME-26SEP27TENNYG"
     },
@@ -101,8 +101,8 @@
     },
     "Chiefs_Dolphins": {
       "teams": {
-        "Dolphins": 18,
-        "Chiefs": 82
+        "Dolphins": 16,
+        "Chiefs": 84
       },
       "eventTicker": "KXNFLGAME-26SEP27KCMIA"
     },
@@ -119,13 +119,6 @@
         "Rams": 73
       },
       "eventTicker": "KXNFLGAME-26SEP21NYGLAR"
-    },
-    "Chiefs_Colts": {
-      "teams": {
-        "Chiefs": 72,
-        "Colts": 28
-      },
-      "eventTicker": "KXNFLGAME-26SEP20INDKC"
     }
   },
   "unmapped": []
