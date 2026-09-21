@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T20:24:11.698Z",
+  "updated": "2026-09-21T03:32:07.792Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     2,
@@ -26,21 +26,21 @@
   "originalRecommendation": {
     "week": 2,
     "pick": {
-      "team": "New Orleans Saints",
+      "team": "Seattle Seahawks",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Baltimore Ravens"
+      "opponent": "Arizona Cardinals"
     },
     "fullSeasonPlan": {
       "2": {
-        "team": "New Orleans Saints",
+        "team": "Seattle Seahawks",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Baltimore Ravens"
+        "opponent": "Arizona Cardinals"
       },
       "3": {
         "team": "Kansas City Chiefs",
-        "prob": 84,
+        "prob": 82,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -155,21 +155,21 @@
   "crowdAdjustedRecommendation": {
     "week": 2,
     "pick": {
-      "team": "New Orleans Saints",
+      "team": "Seattle Seahawks",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Baltimore Ravens"
+      "opponent": "Arizona Cardinals"
     },
     "fullSeasonPlan": {
       "2": {
-        "team": "New Orleans Saints",
+        "team": "Seattle Seahawks",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Baltimore Ravens"
+        "opponent": "Arizona Cardinals"
       },
       "3": {
         "team": "Kansas City Chiefs",
-        "prob": 84,
+        "prob": 82,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null

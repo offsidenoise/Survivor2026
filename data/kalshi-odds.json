@@ -1,38 +1,38 @@
 {
-  "updated": "2026-09-21T00:33:56.926Z",
+  "updated": "2026-09-21T03:30:28.644Z",
   "odds": {
     "Bears_Eagles": {
       "teams": {
-        "Eagles": 65,
-        "Bears": 35
+        "Eagles": 66,
+        "Bears": 34
       },
       "eventTicker": "KXNFLGAME-26SEP28PHICHI"
     },
     "Broncos_Rams": {
       "teams": {
-        "Rams": 57,
-        "Broncos": 43
+        "Rams": 55,
+        "Broncos": 45
       },
       "eventTicker": "KXNFLGAME-26SEP27LARDEN"
     },
     "Cowboys_Ravens": {
       "teams": {
-        "Cowboys": 42,
-        "Ravens": 58
+        "Cowboys": 41,
+        "Ravens": 59
       },
       "eventTicker": "KXNFLGAME-26SEP27BALDAL"
     },
     "Raiders_Saints": {
       "teams": {
-        "Saints": 61,
-        "Raiders": 39
+        "Saints": 62,
+        "Raiders": 38
       },
       "eventTicker": "KXNFLGAME-26SEP27LVNO"
     },
     "Buccaneers_Vikings": {
       "teams": {
-        "Buccaneers": 45,
-        "Vikings": 55
+        "Buccaneers": 44,
+        "Vikings": 56
       },
       "eventTicker": "KXNFLGAME-26SEP27MINTB"
     },
@@ -52,36 +52,36 @@
     },
     "Commanders_Seahawks": {
       "teams": {
-        "Commanders": 29,
-        "Seahawks": 71
+        "Commanders": 28,
+        "Seahawks": 72
       },
       "eventTicker": "KXNFLGAME-26SEP27SEAWAS"
     },
     "Colts_Texans": {
       "teams": {
-        "Colts": 45,
-        "Texans": 55
+        "Colts": 47,
+        "Texans": 53
       },
       "eventTicker": "KXNFLGAME-26SEP27HOUIND"
     },
     "Jets_Lions": {
       "teams": {
-        "Jets": 26,
-        "Lions": 74
+        "Jets": 27,
+        "Lions": 73
       },
       "eventTicker": "KXNFLGAME-26SEP27NYJDET"
     },
     "Bills_Chargers": {
       "teams": {
-        "Chargers": 25,
-        "Bills": 75
+        "Chargers": 26,
+        "Bills": 74
       },
       "eventTicker": "KXNFLGAME-26SEP27LACBUF"
     },
     "Jaguars_Patriots": {
       "teams": {
-        "Patriots": 43,
-        "Jaguars": 57
+        "Patriots": 42,
+        "Jaguars": 58
       },
       "eventTicker": "KXNFLGAME-26SEP27NEJAC"
     },
@@ -101,8 +101,8 @@
     },
     "Chiefs_Dolphins": {
       "teams": {
-        "Dolphins": 16,
-        "Chiefs": 84
+        "Dolphins": 18,
+        "Chiefs": 82
       },
       "eventTicker": "KXNFLGAME-26SEP27KCMIA"
     },
@@ -122,8 +122,8 @@
     },
     "Chiefs_Colts": {
       "teams": {
-        "Chiefs": 57,
-        "Colts": 43
+        "Chiefs": 72,
+        "Colts": 28
       },
       "eventTicker": "KXNFLGAME-26SEP20INDKC"
     }
