@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T21:45:17.934Z",
+  "updated": "2026-09-22T03:30:39.413Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     2,
@@ -22,7 +22,7 @@
   ],
   "powerIndexHealthy": true,
   "yahooCrowdHealthy": true,
-  "evHealthy": true,
+  "evHealthy": false,
   "originalRecommendation": {
     "week": 2,
     "pick": {
