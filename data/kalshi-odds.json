@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T21:43:53.562Z",
+  "updated": "2026-09-22T00:01:17.492Z",
   "odds": {
     "Bears_Eagles": {
       "teams": {
@@ -31,8 +31,8 @@
     },
     "Buccaneers_Vikings": {
       "teams": {
-        "Buccaneers": 46,
-        "Vikings": 54
+        "Buccaneers": 47,
+        "Vikings": 53
       },
       "eventTicker": "KXNFLGAME-26SEP27MINTB"
     },
@@ -108,15 +108,15 @@
     },
     "Falcons_Packers": {
       "teams": {
-        "Packers": 73,
-        "Falcons": 27
+        "Packers": 72,
+        "Falcons": 28
       },
       "eventTicker": "KXNFLGAME-26SEP24ATLGB"
     },
     "Giants_Rams": {
       "teams": {
-        "Giants": 27,
-        "Rams": 73
+        "Giants": 29,
+        "Rams": 71
       },
       "eventTicker": "KXNFLGAME-26SEP21NYGLAR"
     }
