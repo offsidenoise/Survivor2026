@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T03:29:31.832Z",
+  "updated": "2026-09-22T11:01:26.362Z",
   "season": 2026,
   "currentWeek": 2,
   "weeks": {
@@ -362,28 +362,6 @@
     "2": {
       "games": [
         {
-          "id": "401872947",
-          "date": "2026-09-22T00:15Z",
-          "shortName": "NYG @ LAR",
-          "completed": true,
-          "inProgress": false,
-          "awayScore": 6,
-          "homeScore": 28,
-          "awayWinner": false,
-          "homeWinner": true,
-          "away": {
-            "code": "NYG",
-            "name": "New York Giants",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png"
-          },
-          "home": {
-            "code": "LAR",
-            "name": "Los Angeles Rams",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
-          },
-          "espnOdds": null
-        },
-        {
           "id": "401872932",
           "date": "2026-09-18T00:15Z",
           "shortName": "DET @ BUF",
@@ -712,6 +690,28 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png"
           },
           "espnOdds": null
+        },
+        {
+          "id": "401872947",
+          "date": "2026-09-22T00:15Z",
+          "shortName": "NYG @ LAR",
+          "completed": true,
+          "inProgress": false,
+          "awayScore": 6,
+          "homeScore": 28,
+          "awayWinner": false,
+          "homeWinner": true,
+          "away": {
+            "code": "NYG",
+            "name": "New York Giants",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png"
+          },
+          "home": {
+            "code": "LAR",
+            "name": "Los Angeles Rams",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
+          },
+          "espnOdds": null
         }
       ]
     },
@@ -738,8 +738,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
           },
           "espnOdds": {
-            "details": "GB -6.5",
-            "overUnder": 43.5,
+            "details": "GB -6",
+            "overUnder": 44.5,
             "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
@@ -906,8 +906,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png"
           },
           "espnOdds": {
-            "details": "NYG -6",
-            "overUnder": 42.5,
+            "details": "NYG -3.5",
+            "overUnder": 40.5,
             "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
