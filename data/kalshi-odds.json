@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-22T11:01:26.651Z",
+  "updated": "2026-09-22T14:08:57.950Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
-        "Saints": 60,
-        "Falcons": 40
+        "Saints": 61,
+        "Falcons": 39
       },
       "eventTicker": "KXNFLGAME-26OCT05ATLNO"
     },
     "Lions_Panthers": {
       "teams": {
-        "Lions": 53,
-        "Panthers": 47
+        "Lions": 56,
+        "Panthers": 44
       },
       "eventTicker": "KXNFLGAME-26OCT04DETCAR"
     },
@@ -31,8 +31,8 @@
     },
     "Chiefs_Raiders": {
       "teams": {
-        "Raiders": 40,
-        "Chiefs": 60
+        "Raiders": 38,
+        "Chiefs": 62
       },
       "eventTicker": "KXNFLGAME-26OCT04KCLV"
     },
@@ -52,15 +52,15 @@
     },
     "Ravens_Titans": {
       "teams": {
-        "Titans": 26,
-        "Ravens": 74
+        "Titans": 27,
+        "Ravens": 73
       },
       "eventTicker": "KXNFLGAME-26OCT04TENBAL"
     },
     "Buccaneers_Packers": {
       "teams": {
-        "Buccaneers": 41,
-        "Packers": 59
+        "Buccaneers": 42,
+        "Packers": 58
       },
       "eventTicker": "KXNFLGAME-26OCT04GBTB"
     },
@@ -80,22 +80,22 @@
     },
     "Bears_Jets": {
       "teams": {
-        "Jets": 42,
-        "Bears": 58
+        "Jets": 43,
+        "Bears": 57
       },
       "eventTicker": "KXNFLGAME-26OCT04NYJCHI"
     },
     "Bills_Patriots": {
       "teams": {
-        "Patriots": 35,
-        "Bills": 65
+        "Patriots": 36,
+        "Bills": 64
       },
       "eventTicker": "KXNFLGAME-26OCT04NEBUF"
     },
     "Cardinals_Giants": {
       "teams": {
-        "Giants": 49,
-        "Cardinals": 51
+        "Giants": 50,
+        "Cardinals": 50
       },
       "eventTicker": "KXNFLGAME-26OCT04ARINYG"
     },
@@ -108,8 +108,8 @@
     },
     "Browns_Steelers": {
       "teams": {
-        "Steelers": 59,
-        "Browns": 41
+        "Steelers": 56,
+        "Browns": 44
       },
       "eventTicker": "KXNFLGAME-26OCT01PITCLE"
     },
@@ -192,15 +192,15 @@
     },
     "Jaguars_Patriots": {
       "teams": {
-        "Patriots": 42,
-        "Jaguars": 58
+        "Patriots": 41,
+        "Jaguars": 59
       },
       "eventTicker": "KXNFLGAME-26SEP27NEJAC"
     },
     "Giants_Titans": {
       "teams": {
-        "Titans": 38,
-        "Giants": 62
+        "Titans": 39,
+        "Giants": 61
       },
       "eventTicker": "KXNFLGAME-26SEP27TENNYG"
     },
