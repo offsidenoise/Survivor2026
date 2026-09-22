@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T16:21:00.308Z",
+  "updated": "2026-09-22T18:05:07.208Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
@@ -10,106 +10,106 @@
     },
     "Lions_Panthers": {
       "teams": {
-        "Lions": 56,
-        "Panthers": 44
+        "Lions": 55,
+        "Panthers": 45
       },
       "eventTicker": "KXNFLGAME-26OCT04DETCAR"
     },
     "49ers_Broncos": {
       "teams": {
-        "49ers": 65,
-        "Broncos": 35
+        "49ers": 63,
+        "Broncos": 37
       },
       "eventTicker": "KXNFLGAME-26OCT04DENSF"
     },
     "Chargers_Seahawks": {
       "teams": {
-        "Seahawks": 68,
-        "Chargers": 32
+        "Seahawks": 75,
+        "Chargers": 25
       },
       "eventTicker": "KXNFLGAME-26OCT04LACSEA"
     },
     "Chiefs_Raiders": {
       "teams": {
-        "Raiders": 39,
-        "Chiefs": 61
+        "Raiders": 35,
+        "Chiefs": 65
       },
       "eventTicker": "KXNFLGAME-26OCT04KCLV"
     },
     "Dolphins_Vikings": {
       "teams": {
-        "Vikings": 72,
-        "Dolphins": 28
+        "Vikings": 82,
+        "Dolphins": 18
       },
       "eventTicker": "KXNFLGAME-26OCT04MIAMIN"
     },
     "Bengals_Jaguars": {
       "teams": {
-        "Jaguars": 49,
-        "Bengals": 51
+        "Jaguars": 45,
+        "Bengals": 55
       },
       "eventTicker": "KXNFLGAME-26OCT04JACCIN"
     },
     "Ravens_Titans": {
       "teams": {
-        "Titans": 27,
-        "Ravens": 73
+        "Titans": 16,
+        "Ravens": 84
       },
       "eventTicker": "KXNFLGAME-26OCT04TENBAL"
     },
     "Buccaneers_Packers": {
       "teams": {
-        "Buccaneers": 41,
-        "Packers": 59
+        "Buccaneers": 49,
+        "Packers": 51
       },
       "eventTicker": "KXNFLGAME-26OCT04GBTB"
     },
     "Eagles_Rams": {
       "teams": {
-        "Eagles": 46,
-        "Rams": 54
+        "Eagles": 45,
+        "Rams": 55
       },
       "eventTicker": "KXNFLGAME-26OCT04LARPHI"
     },
     "Cowboys_Texans": {
       "teams": {
-        "Texans": 50,
-        "Cowboys": 50
+        "Texans": 53,
+        "Cowboys": 47
       },
       "eventTicker": "KXNFLGAME-26OCT04DALHOU"
     },
     "Bears_Jets": {
       "teams": {
-        "Jets": 42,
-        "Bears": 58
+        "Jets": 37,
+        "Bears": 63
       },
       "eventTicker": "KXNFLGAME-26OCT04NYJCHI"
     },
     "Bills_Patriots": {
       "teams": {
-        "Patriots": 35,
-        "Bills": 65
+        "Patriots": 32,
+        "Bills": 68
       },
       "eventTicker": "KXNFLGAME-26OCT04NEBUF"
     },
     "Cardinals_Giants": {
       "teams": {
-        "Giants": 51,
-        "Cardinals": 49
+        "Giants": 53,
+        "Cardinals": 47
       },
       "eventTicker": "KXNFLGAME-26OCT04ARINYG"
     },
     "Colts_Commanders": {
       "teams": {
-        "Commanders": 37,
-        "Colts": 63
+        "Commanders": 33,
+        "Colts": 67
       },
       "eventTicker": "KXNFLGAME-26OCT04INDWAS"
     },
     "Browns_Steelers": {
       "teams": {
-        "Steelers": 53,
-        "Browns": 47
+        "Steelers": 55,
+        "Browns": 45
       },
       "eventTicker": "KXNFLGAME-26OCT01PITCLE"
     },
@@ -136,15 +136,15 @@
     },
     "Raiders_Saints": {
       "teams": {
-        "Saints": 62,
-        "Raiders": 38
+        "Saints": 61,
+        "Raiders": 39
       },
       "eventTicker": "KXNFLGAME-26SEP27LVNO"
     },
     "Buccaneers_Vikings": {
       "teams": {
-        "Buccaneers": 47,
-        "Vikings": 53
+        "Buccaneers": 48,
+        "Vikings": 52
       },
       "eventTicker": "KXNFLGAME-26SEP27MINTB"
     },
@@ -199,8 +199,8 @@
     },
     "Giants_Titans": {
       "teams": {
-        "Titans": 41,
-        "Giants": 59
+        "Titans": 42,
+        "Giants": 58
       },
       "eventTicker": "KXNFLGAME-26SEP27TENNYG"
     },
@@ -213,8 +213,8 @@
     },
     "Chiefs_Dolphins": {
       "teams": {
-        "Dolphins": 14,
-        "Chiefs": 86
+        "Dolphins": 15,
+        "Chiefs": 85
       },
       "eventTicker": "KXNFLGAME-26SEP27KCMIA"
     },
