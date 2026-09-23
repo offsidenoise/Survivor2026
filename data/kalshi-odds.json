@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T20:31:37.523Z",
+  "updated": "2026-09-23T21:08:02.634Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
@@ -178,8 +178,8 @@
     },
     "Jets_Lions": {
       "teams": {
-        "Jets": 27,
-        "Lions": 73
+        "Jets": 28,
+        "Lions": 72
       },
       "eventTicker": "KXNFLGAME-26SEP27NYJDET"
     },
