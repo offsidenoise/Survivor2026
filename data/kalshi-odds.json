@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T21:08:02.634Z",
+  "updated": "2026-09-23T23:06:44.638Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
@@ -31,8 +31,8 @@
     },
     "Chiefs_Raiders": {
       "teams": {
-        "Raiders": 31,
-        "Chiefs": 69
+        "Raiders": 32,
+        "Chiefs": 68
       },
       "eventTicker": "KXNFLGAME-26OCT04KCLV"
     },
@@ -94,15 +94,15 @@
     },
     "Cardinals_Giants": {
       "teams": {
-        "Giants": 56,
-        "Cardinals": 44
+        "Giants": 55,
+        "Cardinals": 45
       },
       "eventTicker": "KXNFLGAME-26OCT04ARINYG"
     },
     "Colts_Commanders": {
       "teams": {
-        "Commanders": 34,
-        "Colts": 66
+        "Commanders": 33,
+        "Colts": 67
       },
       "eventTicker": "KXNFLGAME-26OCT04INDWAS"
     },
@@ -136,8 +136,8 @@
     },
     "Raiders_Saints": {
       "teams": {
-        "Saints": 62,
-        "Raiders": 38
+        "Saints": 61,
+        "Raiders": 39
       },
       "eventTicker": "KXNFLGAME-26SEP27LVNO"
     },
