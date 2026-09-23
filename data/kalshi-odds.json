@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T10:50:20.121Z",
+  "updated": "2026-09-23T12:19:59.974Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "49ers_Broncos": {
       "teams": {
-        "49ers": 65,
-        "Broncos": 35
+        "49ers": 66,
+        "Broncos": 34
       },
       "eventTicker": "KXNFLGAME-26OCT04DENSF"
     },
@@ -73,8 +73,8 @@
     },
     "Cowboys_Texans": {
       "teams": {
-        "Texans": 59,
-        "Cowboys": 41
+        "Texans": 58,
+        "Cowboys": 42
       },
       "eventTicker": "KXNFLGAME-26OCT04DALHOU"
     },
