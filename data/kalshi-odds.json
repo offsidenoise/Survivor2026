@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T01:48:03.815Z",
+  "updated": "2026-09-23T03:29:51.337Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "49ers_Broncos": {
       "teams": {
-        "49ers": 63,
-        "Broncos": 37
+        "49ers": 64,
+        "Broncos": 36
       },
       "eventTicker": "KXNFLGAME-26OCT04DENSF"
     },
@@ -38,8 +38,8 @@
     },
     "Dolphins_Vikings": {
       "teams": {
-        "Vikings": 83,
-        "Dolphins": 17
+        "Vikings": 84,
+        "Dolphins": 16
       },
       "eventTicker": "KXNFLGAME-26OCT04MIAMIN"
     },
