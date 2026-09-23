@@ -1,8 +1,7 @@
 {
-  "updated": "2026-09-23T03:31:05.395Z",
+  "updated": "2026-09-23T10:51:47.514Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
-    2,
     3,
     4,
     5,
@@ -22,32 +21,29 @@
   ],
   "powerIndexHealthy": true,
   "yahooCrowdHealthy": true,
-  "evHealthy": false,
+  "evHealthy": true,
   "originalRecommendation": {
-    "week": 2,
+    "week": 3,
     "pick": {
-      "team": "Cleveland Browns",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "Tampa Bay Buccaneers"
+      "team": "Kansas City Chiefs",
+      "prob": 85,
+      "source": "kalshi",
+      "opponent": "Miami Dolphins",
+      "crowdPct": 46.31,
+      "ev": 0.023611111111110826
     },
     "fullSeasonPlan": {
-      "2": {
-        "team": "Cleveland Browns",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "Tampa Bay Buccaneers"
-      },
       "3": {
         "team": "Kansas City Chiefs",
         "prob": 85,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
-        "crowdPct": null
+        "crowdPct": 46.31,
+        "ev": 0.023611111111110826
       },
       "4": {
         "team": "Minnesota Vikings",
-        "prob": 84,
+        "prob": 83,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -61,7 +57,7 @@
       },
       "6": {
         "team": "Los Angeles Rams",
-        "prob": 85.207,
+        "prob": 85.26899999999999,
         "source": "powerindex",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
@@ -82,7 +78,7 @@
       },
       "9": {
         "team": "Philadelphia Eagles",
-        "prob": 84.327,
+        "prob": 84.184,
         "source": "powerindex",
         "opponent": "New York Giants",
         "crowdPct": null
@@ -96,7 +92,7 @@
       },
       "11": {
         "team": "Buffalo Bills",
-        "prob": 91.221,
+        "prob": 91.302,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -131,7 +127,7 @@
       },
       "16": {
         "team": "Detroit Lions",
-        "prob": 81.033,
+        "prob": 81.595,
         "source": "powerindex",
         "opponent": "New York Giants",
         "crowdPct": null
@@ -153,30 +149,27 @@
     }
   },
   "crowdAdjustedRecommendation": {
-    "week": 2,
+    "week": 3,
     "pick": {
-      "team": "Cleveland Browns",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "Tampa Bay Buccaneers"
+      "team": "Kansas City Chiefs",
+      "prob": 85,
+      "source": "kalshi",
+      "opponent": "Miami Dolphins",
+      "crowdPct": 46.31,
+      "ev": 0.023611111111110826
     },
     "fullSeasonPlan": {
-      "2": {
-        "team": "Cleveland Browns",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "Tampa Bay Buccaneers"
-      },
       "3": {
         "team": "Kansas City Chiefs",
         "prob": 85,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
-        "crowdPct": null
+        "crowdPct": 46.31,
+        "ev": 0.023611111111110826
       },
       "4": {
         "team": "Minnesota Vikings",
-        "prob": 84,
+        "prob": 83,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -190,7 +183,7 @@
       },
       "6": {
         "team": "Los Angeles Rams",
-        "prob": 85.207,
+        "prob": 85.26899999999999,
         "source": "powerindex",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
@@ -211,7 +204,7 @@
       },
       "9": {
         "team": "Philadelphia Eagles",
-        "prob": 84.327,
+        "prob": 84.184,
         "source": "powerindex",
         "opponent": "New York Giants",
         "crowdPct": null
@@ -225,7 +218,7 @@
       },
       "11": {
         "team": "Buffalo Bills",
-        "prob": 91.221,
+        "prob": 91.302,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -260,7 +253,7 @@
       },
       "16": {
         "team": "Detroit Lions",
-        "prob": 81.033,
+        "prob": 81.595,
         "source": "powerindex",
         "opponent": "New York Giants",
         "crowdPct": null
