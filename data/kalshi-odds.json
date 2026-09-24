@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T17:07:39.333Z",
+  "updated": "2026-09-24T20:29:26.708Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
@@ -66,8 +66,8 @@
     },
     "Eagles_Rams": {
       "teams": {
-        "Eagles": 43,
-        "Rams": 57
+        "Eagles": 42,
+        "Rams": 58
       },
       "eventTicker": "KXNFLGAME-26OCT04LARPHI"
     },
@@ -80,22 +80,22 @@
     },
     "Bears_Jets": {
       "teams": {
-        "Jets": 38,
-        "Bears": 62
+        "Jets": 37,
+        "Bears": 63
       },
       "eventTicker": "KXNFLGAME-26OCT04NYJCHI"
     },
     "Bills_Patriots": {
       "teams": {
-        "Patriots": 30,
-        "Bills": 70
+        "Patriots": 31,
+        "Bills": 69
       },
       "eventTicker": "KXNFLGAME-26OCT04NEBUF"
     },
     "Cardinals_Giants": {
       "teams": {
-        "Giants": 55,
-        "Cardinals": 45
+        "Giants": 53,
+        "Cardinals": 47
       },
       "eventTicker": "KXNFLGAME-26OCT04ARINYG"
     },
@@ -108,15 +108,15 @@
     },
     "Browns_Steelers": {
       "teams": {
-        "Steelers": 56,
-        "Browns": 44
+        "Steelers": 55,
+        "Browns": 45
       },
       "eventTicker": "KXNFLGAME-26OCT01PITCLE"
     },
     "Bears_Eagles": {
       "teams": {
-        "Eagles": 69,
-        "Bears": 31
+        "Eagles": 68,
+        "Bears": 32
       },
       "eventTicker": "KXNFLGAME-26SEP28PHICHI"
     },
@@ -143,8 +143,8 @@
     },
     "Buccaneers_Vikings": {
       "teams": {
-        "Buccaneers": 47,
-        "Vikings": 53
+        "Buccaneers": 48,
+        "Vikings": 52
       },
       "eventTicker": "KXNFLGAME-26SEP27MINTB"
     },
@@ -164,8 +164,8 @@
     },
     "Commanders_Seahawks": {
       "teams": {
-        "Commanders": 26,
-        "Seahawks": 74
+        "Commanders": 25,
+        "Seahawks": 75
       },
       "eventTicker": "KXNFLGAME-26SEP27SEAWAS"
     },
@@ -206,8 +206,8 @@
     },
     "Browns_Panthers": {
       "teams": {
-        "Browns": 42,
-        "Panthers": 58
+        "Browns": 43,
+        "Panthers": 57
       },
       "eventTicker": "KXNFLGAME-26SEP27CARCLE"
     },
