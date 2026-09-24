@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T03:21:23.907Z",
+  "updated": "2026-09-24T11:11:26.554Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     3,
@@ -29,8 +29,8 @@
       "prob": 85,
       "source": "kalshi",
       "opponent": "Miami Dolphins",
-      "crowdPct": 46.31,
-      "ev": 0.023611111111111808
+      "crowdPct": 45.38,
+      "ev": 0.02297297297297317
     },
     "fullSeasonPlan": {
       "3": {
@@ -38,8 +38,8 @@
         "prob": 85,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
-        "crowdPct": 46.31,
-        "ev": 0.023611111111111808
+        "crowdPct": 45.38,
+        "ev": 0.02297297297297317
       },
       "4": {
         "team": "Minnesota Vikings",
@@ -155,8 +155,8 @@
       "prob": 85,
       "source": "kalshi",
       "opponent": "Miami Dolphins",
-      "crowdPct": 46.31,
-      "ev": 0.023611111111111808
+      "crowdPct": 45.38,
+      "ev": 0.02297297297297317
     },
     "fullSeasonPlan": {
       "3": {
@@ -164,8 +164,8 @@
         "prob": 85,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
-        "crowdPct": 46.31,
-        "ev": 0.023611111111111808
+        "crowdPct": 45.38,
+        "ev": 0.02297297297297317
       },
       "4": {
         "team": "Minnesota Vikings",
