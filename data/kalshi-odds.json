@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T20:29:26.708Z",
+  "updated": "2026-09-24T21:11:03.552Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
@@ -59,15 +59,15 @@
     },
     "Buccaneers_Packers": {
       "teams": {
-        "Buccaneers": 49,
-        "Packers": 51
+        "Buccaneers": 50,
+        "Packers": 50
       },
       "eventTicker": "KXNFLGAME-26OCT04GBTB"
     },
     "Eagles_Rams": {
       "teams": {
-        "Eagles": 42,
-        "Rams": 58
+        "Eagles": 43,
+        "Rams": 57
       },
       "eventTicker": "KXNFLGAME-26OCT04LARPHI"
     },
@@ -80,8 +80,8 @@
     },
     "Bears_Jets": {
       "teams": {
-        "Jets": 37,
-        "Bears": 63
+        "Jets": 36,
+        "Bears": 64
       },
       "eventTicker": "KXNFLGAME-26OCT04NYJCHI"
     },
