@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T11:10:25.516Z",
+  "updated": "2026-09-24T16:34:03.454Z",
   "season": 2026,
   "currentWeek": 3,
   "weeks": {
@@ -850,7 +850,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png"
           },
           "espnOdds": {
-            "details": "HOU -2.5",
+            "details": "HOU -1.5",
             "overUnder": 42.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -879,7 +879,7 @@
           },
           "espnOdds": {
             "details": "KC -10.5",
-            "overUnder": 46.5,
+            "overUnder": 45.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -906,8 +906,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png"
           },
           "espnOdds": {
-            "details": "NYG -3",
-            "overUnder": 39.5,
+            "details": "NYG -2.5",
+            "overUnder": 38.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
