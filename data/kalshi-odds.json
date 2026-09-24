@@ -1,17 +1,17 @@
 {
-  "updated": "2026-09-24T21:11:03.552Z",
+  "updated": "2026-09-24T23:23:33.946Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
-        "Saints": 63,
-        "Falcons": 37
+        "Saints": 64,
+        "Falcons": 36
       },
       "eventTicker": "KXNFLGAME-26OCT05ATLNO"
     },
     "Lions_Panthers": {
       "teams": {
-        "Lions": 57,
-        "Panthers": 43
+        "Lions": 56,
+        "Panthers": 44
       },
       "eventTicker": "KXNFLGAME-26OCT04DETCAR"
     },
@@ -31,8 +31,8 @@
     },
     "Chiefs_Raiders": {
       "teams": {
-        "Raiders": 32,
-        "Chiefs": 68
+        "Raiders": 31,
+        "Chiefs": 69
       },
       "eventTicker": "KXNFLGAME-26OCT04KCLV"
     },
@@ -45,8 +45,8 @@
     },
     "Bengals_Jaguars": {
       "teams": {
-        "Jaguars": 43,
-        "Bengals": 57
+        "Jaguars": 42,
+        "Bengals": 58
       },
       "eventTicker": "KXNFLGAME-26OCT04JACCIN"
     },
@@ -80,15 +80,15 @@
     },
     "Bears_Jets": {
       "teams": {
-        "Jets": 36,
-        "Bears": 64
+        "Jets": 37,
+        "Bears": 63
       },
       "eventTicker": "KXNFLGAME-26OCT04NYJCHI"
     },
     "Bills_Patriots": {
       "teams": {
-        "Patriots": 31,
-        "Bills": 69
+        "Patriots": 30,
+        "Bills": 70
       },
       "eventTicker": "KXNFLGAME-26OCT04NEBUF"
     },
@@ -108,8 +108,8 @@
     },
     "Browns_Steelers": {
       "teams": {
-        "Steelers": 55,
-        "Browns": 45
+        "Steelers": 56,
+        "Browns": 44
       },
       "eventTicker": "KXNFLGAME-26OCT01PITCLE"
     },
@@ -122,8 +122,8 @@
     },
     "Broncos_Rams": {
       "teams": {
-        "Rams": 57,
-        "Broncos": 43
+        "Rams": 55,
+        "Broncos": 45
       },
       "eventTicker": "KXNFLGAME-26SEP27LARDEN"
     },
