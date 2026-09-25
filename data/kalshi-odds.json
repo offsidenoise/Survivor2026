@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T11:14:37.191Z",
+  "updated": "2026-09-25T12:18:40.035Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "49ers_Broncos": {
       "teams": {
-        "49ers": 66,
-        "Broncos": 34
+        "49ers": 65,
+        "Broncos": 35
       },
       "eventTicker": "KXNFLGAME-26OCT04DENSF"
     },
