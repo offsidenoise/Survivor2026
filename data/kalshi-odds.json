@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-25T12:18:40.035Z",
+  "updated": "2026-09-25T16:38:08.409Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
-        "Saints": 62,
-        "Falcons": 38
+        "Saints": 61,
+        "Falcons": 39
       },
       "eventTicker": "KXNFLGAME-26OCT05ATLNO"
     },
@@ -17,8 +17,8 @@
     },
     "49ers_Broncos": {
       "teams": {
-        "49ers": 65,
-        "Broncos": 35
+        "49ers": 58,
+        "Broncos": 42
       },
       "eventTicker": "KXNFLGAME-26OCT04DENSF"
     },
@@ -31,15 +31,15 @@
     },
     "Chiefs_Raiders": {
       "teams": {
-        "Raiders": 31,
-        "Chiefs": 69
+        "Raiders": 30,
+        "Chiefs": 70
       },
       "eventTicker": "KXNFLGAME-26OCT04KCLV"
     },
     "Dolphins_Vikings": {
       "teams": {
-        "Vikings": 83,
-        "Dolphins": 17
+        "Vikings": 84,
+        "Dolphins": 16
       },
       "eventTicker": "KXNFLGAME-26OCT04MIAMIN"
     },
@@ -80,15 +80,15 @@
     },
     "Bears_Jets": {
       "teams": {
-        "Jets": 38,
-        "Bears": 62
+        "Jets": 37,
+        "Bears": 63
       },
       "eventTicker": "KXNFLGAME-26OCT04NYJCHI"
     },
     "Bills_Patriots": {
       "teams": {
-        "Patriots": 29,
-        "Bills": 71
+        "Patriots": 30,
+        "Bills": 70
       },
       "eventTicker": "KXNFLGAME-26OCT04NEBUF"
     },
@@ -122,8 +122,8 @@
     },
     "Broncos_Rams": {
       "teams": {
-        "Rams": 55,
-        "Broncos": 45
+        "Rams": 54,
+        "Broncos": 46
       },
       "eventTicker": "KXNFLGAME-26SEP27LARDEN"
     },
@@ -136,8 +136,8 @@
     },
     "Raiders_Saints": {
       "teams": {
-        "Saints": 61,
-        "Raiders": 39
+        "Saints": 62,
+        "Raiders": 38
       },
       "eventTicker": "KXNFLGAME-26SEP27LVNO"
     },
@@ -150,8 +150,8 @@
     },
     "49ers_Cardinals": {
       "teams": {
-        "49ers": 78,
-        "Cardinals": 22
+        "49ers": 77,
+        "Cardinals": 23
       },
       "eventTicker": "KXNFLGAME-26SEP27ARISF"
     },
@@ -199,8 +199,8 @@
     },
     "Giants_Titans": {
       "teams": {
-        "Titans": 44,
-        "Giants": 56
+        "Titans": 45,
+        "Giants": 55
       },
       "eventTicker": "KXNFLGAME-26SEP27TENNYG"
     },
