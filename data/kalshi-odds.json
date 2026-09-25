@@ -1,24 +1,24 @@
 {
-  "updated": "2026-09-25T17:21:05.464Z",
+  "updated": "2026-09-25T20:36:28.731Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
-        "Saints": 61,
-        "Falcons": 39
+        "Saints": 59,
+        "Falcons": 41
       },
       "eventTicker": "KXNFLGAME-26OCT05ATLNO"
     },
     "Lions_Panthers": {
       "teams": {
-        "Lions": 56,
-        "Panthers": 44
+        "Lions": 55,
+        "Panthers": 45
       },
       "eventTicker": "KXNFLGAME-26OCT04DETCAR"
     },
     "49ers_Broncos": {
       "teams": {
-        "49ers": 59,
-        "Broncos": 41
+        "49ers": 58,
+        "Broncos": 42
       },
       "eventTicker": "KXNFLGAME-26OCT04DENSF"
     },
@@ -31,8 +31,8 @@
     },
     "Chiefs_Raiders": {
       "teams": {
-        "Raiders": 30,
-        "Chiefs": 70
+        "Raiders": 31,
+        "Chiefs": 69
       },
       "eventTicker": "KXNFLGAME-26OCT04KCLV"
     },
@@ -45,8 +45,8 @@
     },
     "Bengals_Jaguars": {
       "teams": {
-        "Jaguars": 43,
-        "Bengals": 57
+        "Jaguars": 42,
+        "Bengals": 58
       },
       "eventTicker": "KXNFLGAME-26OCT04JACCIN"
     },
@@ -59,15 +59,15 @@
     },
     "Buccaneers_Packers": {
       "teams": {
-        "Buccaneers": 49,
-        "Packers": 51
+        "Buccaneers": 48,
+        "Packers": 52
       },
       "eventTicker": "KXNFLGAME-26OCT04GBTB"
     },
     "Eagles_Rams": {
       "teams": {
-        "Eagles": 43,
-        "Rams": 57
+        "Eagles": 42,
+        "Rams": 58
       },
       "eventTicker": "KXNFLGAME-26OCT04LARPHI"
     },
@@ -80,8 +80,8 @@
     },
     "Bears_Jets": {
       "teams": {
-        "Jets": 37,
-        "Bears": 63
+        "Jets": 38,
+        "Bears": 62
       },
       "eventTicker": "KXNFLGAME-26OCT04NYJCHI"
     },
@@ -101,15 +101,15 @@
     },
     "Colts_Commanders": {
       "teams": {
-        "Commanders": 33,
-        "Colts": 67
+        "Commanders": 34,
+        "Colts": 66
       },
       "eventTicker": "KXNFLGAME-26OCT04INDWAS"
     },
     "Browns_Steelers": {
       "teams": {
-        "Steelers": 56,
-        "Browns": 44
+        "Steelers": 55,
+        "Browns": 45
       },
       "eventTicker": "KXNFLGAME-26OCT01PITCLE"
     },
