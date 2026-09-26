@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T23:32:35.604Z",
+  "updated": "2026-09-26T01:56:07.060Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
@@ -31,8 +31,8 @@
     },
     "Chiefs_Raiders": {
       "teams": {
-        "Raiders": 31,
-        "Chiefs": 69
+        "Raiders": 32,
+        "Chiefs": 68
       },
       "eventTicker": "KXNFLGAME-26OCT04KCLV"
     },
