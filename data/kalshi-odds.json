@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T20:41:03.958Z",
+  "updated": "2026-09-26T22:02:40.239Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
@@ -66,15 +66,15 @@
     },
     "Eagles_Rams": {
       "teams": {
-        "Eagles": 43,
-        "Rams": 57
+        "Eagles": 44,
+        "Rams": 56
       },
       "eventTicker": "KXNFLGAME-26OCT04LARPHI"
     },
     "Cowboys_Texans": {
       "teams": {
-        "Texans": 57,
-        "Cowboys": 43
+        "Texans": 56,
+        "Cowboys": 44
       },
       "eventTicker": "KXNFLGAME-26OCT04DALHOU"
     },
