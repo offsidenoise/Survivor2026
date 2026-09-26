@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T03:43:11.762Z",
+  "updated": "2026-09-26T10:52:18.750Z",
   "season": 2026,
   "currentWeek": 3,
   "weeks": {
@@ -901,7 +901,7 @@
           },
           "espnOdds": {
             "details": "NYG -2.5",
-            "overUnder": 38.5,
+            "overUnder": 37.5,
             "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
