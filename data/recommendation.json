@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T03:52:50.563Z",
+  "updated": "2026-09-27T11:29:36.089Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     3,
@@ -39,7 +39,7 @@
       },
       "4": {
         "team": "Minnesota Vikings",
-        "prob": 83,
+        "prob": 82,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -161,7 +161,7 @@
       },
       "4": {
         "team": "Minnesota Vikings",
-        "prob": 83,
+        "prob": 82,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null

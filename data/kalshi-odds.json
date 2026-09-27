@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T10:47:21.030Z",
+  "updated": "2026-09-27T11:28:24.375Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
@@ -73,8 +73,8 @@
     },
     "Cowboys_Texans": {
       "teams": {
-        "Texans": 57,
-        "Cowboys": 43
+        "Texans": 58,
+        "Cowboys": 42
       },
       "eventTicker": "KXNFLGAME-26OCT04DALHOU"
     },

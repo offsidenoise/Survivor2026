@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T03:52:50.478Z",
+  "updated": "2026-09-27T11:29:35.999Z",
   "verifiedThisRun": true,
   "gamesAttempted": 272,
   "gamesSucceeded": 272,
@@ -193,8 +193,8 @@
       "homeProb": 35.524
     },
     "401872963": {
-      "awayProb": 58.879999999999995,
-      "homeProb": 40.792
+      "awayProb": 57.28,
+      "homeProb": 42.38
     },
     "401872964": {
       "awayProb": 59.51499999999999,
