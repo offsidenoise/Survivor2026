@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-27T15:22:56.499Z",
+  "updated": "2026-09-27T16:28:01.986Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
-        "Saints": 60,
-        "Falcons": 40
+        "Saints": 61,
+        "Falcons": 39
       },
       "eventTicker": "KXNFLGAME-26OCT05ATLNO"
     },
@@ -17,8 +17,8 @@
     },
     "49ers_Broncos": {
       "teams": {
-        "49ers": 59,
-        "Broncos": 41
+        "49ers": 58,
+        "Broncos": 42
       },
       "eventTicker": "KXNFLGAME-26OCT04DENSF"
     },
@@ -38,8 +38,8 @@
     },
     "Dolphins_Vikings": {
       "teams": {
-        "Vikings": 80,
-        "Dolphins": 20
+        "Vikings": 81,
+        "Dolphins": 19
       },
       "eventTicker": "KXNFLGAME-26OCT04MIAMIN"
     },
@@ -94,29 +94,29 @@
     },
     "Cardinals_Giants": {
       "teams": {
-        "Giants": 54,
-        "Cardinals": 46
+        "Giants": 55,
+        "Cardinals": 45
       },
       "eventTicker": "KXNFLGAME-26OCT04ARINYG"
     },
     "Colts_Commanders": {
       "teams": {
-        "Commanders": 33,
-        "Colts": 67
+        "Commanders": 34,
+        "Colts": 66
       },
       "eventTicker": "KXNFLGAME-26OCT04INDWAS"
     },
     "Browns_Steelers": {
       "teams": {
-        "Steelers": 56,
-        "Browns": 44
+        "Steelers": 55,
+        "Browns": 45
       },
       "eventTicker": "KXNFLGAME-26OCT01PITCLE"
     },
     "Bears_Eagles": {
       "teams": {
-        "Eagles": 63,
-        "Bears": 37
+        "Eagles": 64,
+        "Bears": 36
       },
       "eventTicker": "KXNFLGAME-26SEP28PHICHI"
     },
@@ -136,8 +136,8 @@
     },
     "Raiders_Saints": {
       "teams": {
-        "Saints": 61,
-        "Raiders": 39
+        "Saints": 62,
+        "Raiders": 38
       },
       "eventTicker": "KXNFLGAME-26SEP27LVNO"
     },
@@ -178,8 +178,8 @@
     },
     "Jets_Lions": {
       "teams": {
-        "Jets": 28,
-        "Lions": 72
+        "Jets": 27,
+        "Lions": 73
       },
       "eventTicker": "KXNFLGAME-26SEP27NYJDET"
     },
