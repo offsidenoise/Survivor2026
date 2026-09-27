@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-27T11:28:24.375Z",
+  "updated": "2026-09-27T15:22:56.499Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
-        "Saints": 61,
-        "Falcons": 39
+        "Saints": 60,
+        "Falcons": 40
       },
       "eventTicker": "KXNFLGAME-26OCT05ATLNO"
     },
@@ -24,22 +24,22 @@
     },
     "Chargers_Seahawks": {
       "teams": {
-        "Seahawks": 74,
-        "Chargers": 26
+        "Seahawks": 73,
+        "Chargers": 27
       },
       "eventTicker": "KXNFLGAME-26OCT04LACSEA"
     },
     "Chiefs_Raiders": {
       "teams": {
-        "Raiders": 31,
-        "Chiefs": 69
+        "Raiders": 32,
+        "Chiefs": 68
       },
       "eventTicker": "KXNFLGAME-26OCT04KCLV"
     },
     "Dolphins_Vikings": {
       "teams": {
-        "Vikings": 82,
-        "Dolphins": 18
+        "Vikings": 80,
+        "Dolphins": 20
       },
       "eventTicker": "KXNFLGAME-26OCT04MIAMIN"
     },
@@ -52,8 +52,8 @@
     },
     "Ravens_Titans": {
       "teams": {
-        "Titans": 17,
-        "Ravens": 83
+        "Titans": 18,
+        "Ravens": 82
       },
       "eventTicker": "KXNFLGAME-26OCT04TENBAL"
     },
@@ -66,22 +66,22 @@
     },
     "Eagles_Rams": {
       "teams": {
-        "Eagles": 42,
-        "Rams": 58
+        "Eagles": 43,
+        "Rams": 57
       },
       "eventTicker": "KXNFLGAME-26OCT04LARPHI"
     },
     "Cowboys_Texans": {
       "teams": {
-        "Texans": 58,
-        "Cowboys": 42
+        "Texans": 57,
+        "Cowboys": 43
       },
       "eventTicker": "KXNFLGAME-26OCT04DALHOU"
     },
     "Bears_Jets": {
       "teams": {
-        "Jets": 37,
-        "Bears": 63
+        "Jets": 39,
+        "Bears": 61
       },
       "eventTicker": "KXNFLGAME-26OCT04NYJCHI"
     },
@@ -164,8 +164,8 @@
     },
     "Commanders_Seahawks": {
       "teams": {
-        "Commanders": 24,
-        "Seahawks": 76
+        "Commanders": 23,
+        "Seahawks": 77
       },
       "eventTicker": "KXNFLGAME-26SEP27SEAWAS"
     },
@@ -206,15 +206,15 @@
     },
     "Browns_Panthers": {
       "teams": {
-        "Browns": 45,
-        "Panthers": 55
+        "Browns": 46,
+        "Panthers": 54
       },
       "eventTicker": "KXNFLGAME-26SEP27CARCLE"
     },
     "Chiefs_Dolphins": {
       "teams": {
-        "Dolphins": 15,
-        "Chiefs": 85
+        "Dolphins": 16,
+        "Chiefs": 84
       },
       "eventTicker": "KXNFLGAME-26SEP27KCMIA"
     }
