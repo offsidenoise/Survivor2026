@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T00:30:32.717Z",
+  "updated": "2026-09-27T03:51:54.493Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
@@ -45,8 +45,8 @@
     },
     "Bengals_Jaguars": {
       "teams": {
-        "Jaguars": 42,
-        "Bengals": 58
+        "Jaguars": 43,
+        "Bengals": 57
       },
       "eventTicker": "KXNFLGAME-26OCT04JACCIN"
     },
@@ -59,8 +59,8 @@
     },
     "Buccaneers_Packers": {
       "teams": {
-        "Buccaneers": 48,
-        "Packers": 52
+        "Buccaneers": 49,
+        "Packers": 51
       },
       "eventTicker": "KXNFLGAME-26OCT04GBTB"
     },
@@ -73,8 +73,8 @@
     },
     "Cowboys_Texans": {
       "teams": {
-        "Texans": 58,
-        "Cowboys": 42
+        "Texans": 57,
+        "Cowboys": 43
       },
       "eventTicker": "KXNFLGAME-26OCT04DALHOU"
     },
