@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T13:00:33.673Z",
+  "updated": "2026-09-28T13:42:27.410Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
@@ -108,8 +108,8 @@
     },
     "Browns_Steelers": {
       "teams": {
-        "Steelers": 55,
-        "Browns": 45
+        "Steelers": 56,
+        "Browns": 44
       },
       "eventTicker": "KXNFLGAME-26OCT01PITCLE"
     },
