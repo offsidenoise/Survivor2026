@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T22:57:42.483Z",
+  "updated": "2026-09-29T00:25:05.770Z",
   "odds": {
     "Falcons_Saints": {
       "teams": {
@@ -115,8 +115,8 @@
     },
     "Bears_Eagles": {
       "teams": {
-        "Eagles": 63,
-        "Bears": 37
+        "Eagles": 50,
+        "Bears": 50
       },
       "eventTicker": "KXNFLGAME-26SEP28PHICHI"
     }
