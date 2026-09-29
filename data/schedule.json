@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T22:57:42.121Z",
+  "updated": "2026-09-29T04:26:20.619Z",
   "season": 2026,
   "currentWeek": 3,
   "weeks": {
@@ -718,34 +718,6 @@
     "3": {
       "games": [
         {
-          "id": "401872963",
-          "date": "2026-09-29T00:15Z",
-          "shortName": "PHI @ CHI",
-          "completed": false,
-          "inProgress": false,
-          "awayScore": 0,
-          "homeScore": 0,
-          "awayWinner": false,
-          "homeWinner": false,
-          "away": {
-            "code": "PHI",
-            "name": "Philadelphia Eagles",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png"
-          },
-          "home": {
-            "code": "CHI",
-            "name": "Chicago Bears",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png"
-          },
-          "espnOdds": {
-            "details": "PHI -3.5",
-            "overUnder": 42.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
-        },
-        {
           "id": "401872948",
           "date": "2026-09-25T00:15Z",
           "shortName": "ATL @ GB",
@@ -1074,6 +1046,28 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
           },
           "espnOdds": null
+        },
+        {
+          "id": "401872963",
+          "date": "2026-09-29T00:15Z",
+          "shortName": "PHI @ CHI",
+          "completed": true,
+          "inProgress": false,
+          "awayScore": 7,
+          "homeScore": 27,
+          "awayWinner": false,
+          "homeWinner": true,
+          "away": {
+            "code": "PHI",
+            "name": "Philadelphia Eagles",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png"
+          },
+          "home": {
+            "code": "CHI",
+            "name": "Chicago Bears",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png"
+          },
+          "espnOdds": null
         }
       ]
     },
@@ -1184,8 +1178,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png"
           },
           "espnOdds": {
-            "details": "CHI -3",
-            "overUnder": 43.5,
+            "details": "CHI -3.5",
+            "overUnder": 42.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -1269,7 +1263,7 @@
           },
           "espnOdds": {
             "details": "LAR -2.5",
-            "overUnder": 45.5,
+            "overUnder": 44.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -1465,7 +1459,7 @@
           },
           "espnOdds": {
             "details": "SEA -7",
-            "overUnder": 43.5,
+            "overUnder": 42.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -1520,7 +1514,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png"
           },
           "espnOdds": {
-            "details": "NO -2.5",
+            "details": "NO -3",
             "overUnder": 48.5,
             "provider": "DraftKings",
             "homeProb": null,
