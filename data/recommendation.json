@@ -1,8 +1,7 @@
 {
-  "updated": "2026-09-30T04:11:07.222Z",
+  "updated": "2026-09-30T11:59:53.251Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
-    3,
     4,
     5,
     6,
@@ -21,32 +20,29 @@
   ],
   "powerIndexHealthy": true,
   "yahooCrowdHealthy": true,
-  "evHealthy": false,
+  "evHealthy": true,
   "originalRecommendation": {
-    "week": 3,
+    "week": 4,
     "pick": {
-      "team": "Las Vegas Raiders",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "New Orleans Saints"
+      "team": "Baltimore Ravens",
+      "prob": 84,
+      "source": "kalshi",
+      "opponent": "Tennessee Titans",
+      "crowdPct": 45.08,
+      "ev": 0.02270270270270294
     },
     "fullSeasonPlan": {
-      "3": {
-        "team": "Las Vegas Raiders",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "New Orleans Saints"
-      },
       "4": {
         "team": "Baltimore Ravens",
         "prob": 84,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
-        "crowdPct": null
+        "crowdPct": 45.08,
+        "ev": 0.02270270270270294
       },
       "5": {
         "team": "Cincinnati Bengals",
-        "prob": 82,
+        "prob": 83,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -145,30 +141,27 @@
     }
   },
   "crowdAdjustedRecommendation": {
-    "week": 3,
+    "week": 4,
     "pick": {
-      "team": "Las Vegas Raiders",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "New Orleans Saints"
+      "team": "Baltimore Ravens",
+      "prob": 84,
+      "source": "kalshi",
+      "opponent": "Tennessee Titans",
+      "crowdPct": 45.08,
+      "ev": 0.02270270270270294
     },
     "fullSeasonPlan": {
-      "3": {
-        "team": "Las Vegas Raiders",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "New Orleans Saints"
-      },
       "4": {
         "team": "Baltimore Ravens",
         "prob": 84,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
-        "crowdPct": null
+        "crowdPct": 45.08,
+        "ev": 0.02270270270270294
       },
       "5": {
         "team": "Cincinnati Bengals",
-        "prob": 82,
+        "prob": 83,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
