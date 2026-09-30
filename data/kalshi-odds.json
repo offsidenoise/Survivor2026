@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T11:58:38.324Z",
+  "updated": "2026-09-30T13:52:28.785Z",
   "odds": {
     "Bills_Rams": {
       "teams": {
@@ -10,8 +10,8 @@
     },
     "Falcons_Ravens": {
       "teams": {
-        "Ravens": 75,
-        "Falcons": 25
+        "Ravens": 74,
+        "Falcons": 26
       },
       "eventTicker": "KXNFLGAME-26OCT11BALATL"
     },
@@ -24,8 +24,8 @@
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 36,
-        "Seahawks": 64
+        "49ers": 38,
+        "Seahawks": 62
       },
       "eventTicker": "KXNFLGAME-26OCT11SFSEA"
     },
@@ -38,8 +38,8 @@
     },
     "Broncos_Chargers": {
       "teams": {
-        "Chargers": 47,
-        "Broncos": 53
+        "Chargers": 46,
+        "Broncos": 54
       },
       "eventTicker": "KXNFLGAME-26OCT11DENLAC"
     },
@@ -52,8 +52,8 @@
     },
     "Colts_Steelers": {
       "teams": {
-        "Steelers": 55,
-        "Colts": 45
+        "Steelers": 56,
+        "Colts": 44
       },
       "eventTicker": "KXNFLGAME-26OCT11INDPIT"
     },
@@ -80,8 +80,8 @@
     },
     "Texans_Titans": {
       "teams": {
-        "Titans": 25,
-        "Texans": 75
+        "Titans": 26,
+        "Texans": 74
       },
       "eventTicker": "KXNFLGAME-26OCT11HOUTEN"
     },
@@ -101,15 +101,15 @@
     },
     "Buccaneers_Cowboys": {
       "teams": {
-        "Buccaneers": 18,
-        "Cowboys": 82
+        "Buccaneers": 19,
+        "Cowboys": 81
       },
       "eventTicker": "KXNFLGAME-26OCT08TBDAL"
     },
     "Falcons_Saints": {
       "teams": {
-        "Saints": 57,
-        "Falcons": 43
+        "Saints": 58,
+        "Falcons": 42
       },
       "eventTicker": "KXNFLGAME-26OCT05ATLNO"
     },
@@ -157,8 +157,8 @@
     },
     "Ravens_Titans": {
       "teams": {
-        "Titans": 16,
-        "Ravens": 84
+        "Titans": 15,
+        "Ravens": 85
       },
       "eventTicker": "KXNFLGAME-26OCT04TENBAL"
     },
@@ -185,8 +185,8 @@
     },
     "Bears_Jets": {
       "teams": {
-        "Jets": 39,
-        "Bears": 61
+        "Jets": 38,
+        "Bears": 62
       },
       "eventTicker": "KXNFLGAME-26OCT04NYJCHI"
     },
