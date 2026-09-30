@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T18:47:24.998Z",
+  "updated": "2026-09-30T22:01:24.138Z",
   "odds": {
     "Bills_Rams": {
       "teams": {
@@ -17,15 +17,15 @@
     },
     "Bears_Packers": {
       "teams": {
-        "Packers": 54,
-        "Bears": 46
+        "Packers": 53,
+        "Bears": 47
       },
       "eventTicker": "KXNFLGAME-26OCT11CHIGB"
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 38,
-        "Seahawks": 62
+        "49ers": 39,
+        "Seahawks": 61
       },
       "eventTicker": "KXNFLGAME-26OCT11SFSEA"
     },
@@ -45,15 +45,15 @@
     },
     "Commanders_Giants": {
       "teams": {
-        "Commanders": 56,
-        "Giants": 44
+        "Commanders": 57,
+        "Giants": 43
       },
       "eventTicker": "KXNFLGAME-26OCT11NYGWAS"
     },
     "Colts_Steelers": {
       "teams": {
-        "Steelers": 56,
-        "Colts": 44
+        "Steelers": 57,
+        "Colts": 43
       },
       "eventTicker": "KXNFLGAME-26OCT11INDPIT"
     },
@@ -66,8 +66,8 @@
     },
     "Patriots_Raiders": {
       "teams": {
-        "Patriots": 62,
-        "Raiders": 38
+        "Patriots": 59,
+        "Raiders": 41
       },
       "eventTicker": "KXNFLGAME-26OCT11LVNE"
     },
@@ -94,15 +94,15 @@
     },
     "Eagles_Jaguars": {
       "teams": {
-        "Eagles": 43,
-        "Jaguars": 57
+        "Eagles": 42,
+        "Jaguars": 58
       },
       "eventTicker": "KXNFLGAME-26OCT11PHIJAC"
     },
     "Buccaneers_Cowboys": {
       "teams": {
-        "Buccaneers": 19,
-        "Cowboys": 81
+        "Buccaneers": 20,
+        "Cowboys": 80
       },
       "eventTicker": "KXNFLGAME-26OCT08TBDAL"
     },
@@ -122,8 +122,8 @@
     },
     "49ers_Broncos": {
       "teams": {
-        "49ers": 57,
-        "Broncos": 43
+        "49ers": 56,
+        "Broncos": 44
       },
       "eventTicker": "KXNFLGAME-26OCT04DENSF"
     },
@@ -171,8 +171,8 @@
     },
     "Eagles_Rams": {
       "teams": {
-        "Eagles": 40,
-        "Rams": 60
+        "Eagles": 39,
+        "Rams": 61
       },
       "eventTicker": "KXNFLGAME-26OCT04LARPHI"
     },
