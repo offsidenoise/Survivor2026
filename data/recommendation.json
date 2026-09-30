@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T11:59:53.251Z",
+  "updated": "2026-09-30T17:58:10.406Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     4,
@@ -25,20 +25,20 @@
     "week": 4,
     "pick": {
       "team": "Baltimore Ravens",
-      "prob": 84,
+      "prob": 85,
       "source": "kalshi",
       "opponent": "Tennessee Titans",
       "crowdPct": 45.08,
-      "ev": 0.02270270270270294
+      "ev": 0.02297297297297284
     },
     "fullSeasonPlan": {
       "4": {
         "team": "Baltimore Ravens",
-        "prob": 84,
+        "prob": 85,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": 45.08,
-        "ev": 0.02270270270270294
+        "ev": 0.02297297297297284
       },
       "5": {
         "team": "Cincinnati Bengals",
@@ -144,20 +144,20 @@
     "week": 4,
     "pick": {
       "team": "Baltimore Ravens",
-      "prob": 84,
+      "prob": 85,
       "source": "kalshi",
       "opponent": "Tennessee Titans",
       "crowdPct": 45.08,
-      "ev": 0.02270270270270294
+      "ev": 0.02297297297297284
     },
     "fullSeasonPlan": {
       "4": {
         "team": "Baltimore Ravens",
-        "prob": 84,
+        "prob": 85,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": 45.08,
-        "ev": 0.02270270270270294
+        "ev": 0.02297297297297284
       },
       "5": {
         "team": "Cincinnati Bengals",
