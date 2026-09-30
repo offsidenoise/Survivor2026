@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T21:56:24.503Z",
+  "updated": "2026-09-30T04:11:07.222Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     3,
@@ -39,7 +39,7 @@
       },
       "4": {
         "team": "Baltimore Ravens",
-        "prob": 85,
+        "prob": 84,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": null
@@ -161,7 +161,7 @@
       },
       "4": {
         "team": "Baltimore Ravens",
-        "prob": 85,
+        "prob": 84,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": null
