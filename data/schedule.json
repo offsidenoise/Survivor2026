@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T12:30:52.532Z",
+  "updated": "2026-10-01T22:22:45.688Z",
   "season": 2026,
   "currentWeek": 4,
   "weeks": {
@@ -1123,7 +1123,7 @@
           },
           "espnOdds": {
             "details": "IND -3.5",
-            "overUnder": 47.5,
+            "overUnder": 48.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -1150,7 +1150,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
           },
           "espnOdds": {
-            "details": "BUF -6.5",
+            "details": "BUF -7",
             "overUnder": 48.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -1262,7 +1262,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png"
           },
           "espnOdds": {
-            "details": "LAR -3",
+            "details": "LAR -3.5",
             "overUnder": 43.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -1487,7 +1487,7 @@
           },
           "espnOdds": {
             "details": "DET -3.5",
-            "overUnder": 51.5,
+            "overUnder": 50.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
