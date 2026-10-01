@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T04:23:27.508Z",
+  "updated": "2026-10-01T12:32:22.270Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     4,
@@ -28,8 +28,8 @@
       "prob": 85,
       "source": "kalshi",
       "opponent": "Tennessee Titans",
-      "crowdPct": 45.08,
-      "ev": 0.022972972972972978
+      "crowdPct": 43.42,
+      "ev": 0.022972972972973002
     },
     "fullSeasonPlan": {
       "4": {
@@ -37,12 +37,12 @@
         "prob": 85,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
-        "crowdPct": 45.08,
-        "ev": 0.022972972972972978
+        "crowdPct": 43.42,
+        "ev": 0.022972972972973002
       },
       "5": {
         "team": "Cincinnati Bengals",
-        "prob": 81,
+        "prob": 82,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -147,8 +147,8 @@
       "prob": 85,
       "source": "kalshi",
       "opponent": "Tennessee Titans",
-      "crowdPct": 45.08,
-      "ev": 0.022972972972972978
+      "crowdPct": 43.42,
+      "ev": 0.022972972972973002
     },
     "fullSeasonPlan": {
       "4": {
@@ -156,12 +156,12 @@
         "prob": 85,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
-        "crowdPct": 45.08,
-        "ev": 0.022972972972972978
+        "crowdPct": 43.42,
+        "ev": 0.022972972972973002
       },
       "5": {
         "team": "Cincinnati Bengals",
-        "prob": 81,
+        "prob": 82,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
