@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T03:58:17.819Z",
+  "updated": "2026-10-03T11:10:43.390Z",
   "verifiedThisRun": true,
   "gamesAttempted": 272,
   "gamesSucceeded": 272,
@@ -201,8 +201,8 @@
       "homeProb": 44.571
     },
     "401872965": {
-      "awayProb": 54.996,
-      "homeProb": 44.646
+      "awayProb": 56.401,
+      "homeProb": 43.251
     },
     "401872966": {
       "awayProb": 52.494,
@@ -229,8 +229,8 @@
       "homeProb": 70.45700000000001
     },
     "401872972": {
-      "awayProb": 37.126,
-      "homeProb": 62.576
+      "awayProb": 31.938,
+      "homeProb": 67.805
     },
     "401872973": {
       "awayProb": 15.828000000000001,
