@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T18:21:28.397Z",
+  "updated": "2026-10-03T20:38:03.334Z",
   "odds": {
     "Bills_Rams": {
       "teams": {
@@ -45,8 +45,8 @@
     },
     "Commanders_Giants": {
       "teams": {
-        "Commanders": 58,
-        "Giants": 42
+        "Commanders": 60,
+        "Giants": 40
       },
       "eventTicker": "KXNFLGAME-26OCT11NYGWAS"
     },
@@ -73,8 +73,8 @@
     },
     "Bengals_Dolphins": {
       "teams": {
-        "Dolphins": 18,
-        "Bengals": 82
+        "Dolphins": 16,
+        "Bengals": 84
       },
       "eventTicker": "KXNFLGAME-26OCT11CINMIA"
     },
@@ -101,8 +101,8 @@
     },
     "Buccaneers_Cowboys": {
       "teams": {
-        "Buccaneers": 19,
-        "Cowboys": 81
+        "Buccaneers": 20,
+        "Cowboys": 80
       },
       "eventTicker": "KXNFLGAME-26OCT08TBDAL"
     },

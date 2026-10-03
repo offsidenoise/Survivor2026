@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T15:46:05.242Z",
+  "updated": "2026-10-03T20:38:03.139Z",
   "season": 2026,
   "currentWeek": 4,
   "weeks": {
@@ -1285,7 +1285,7 @@
           },
           "espnOdds": {
             "details": "GB -3",
-            "overUnder": 39.5,
+            "overUnder": 38.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
