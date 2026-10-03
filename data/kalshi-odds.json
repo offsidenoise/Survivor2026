@@ -1,31 +1,31 @@
 {
-  "updated": "2026-10-03T03:57:02.466Z",
+  "updated": "2026-10-03T05:08:53.402Z",
   "odds": {
     "Bills_Rams": {
       "teams": {
-        "Rams": 55,
-        "Bills": 45
+        "Rams": 53,
+        "Bills": 47
       },
       "eventTicker": "KXNFLGAME-26OCT12BUFLAR"
     },
     "Falcons_Ravens": {
       "teams": {
-        "Ravens": 72,
-        "Falcons": 28
+        "Ravens": 71,
+        "Falcons": 29
       },
       "eventTicker": "KXNFLGAME-26OCT11BALATL"
     },
     "Bears_Packers": {
       "teams": {
-        "Packers": 55,
-        "Bears": 45
+        "Packers": 51,
+        "Bears": 49
       },
       "eventTicker": "KXNFLGAME-26OCT11CHIGB"
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 37,
-        "Seahawks": 63
+        "49ers": 39,
+        "Seahawks": 61
       },
       "eventTicker": "KXNFLGAME-26OCT11SFSEA"
     },
@@ -59,22 +59,22 @@
     },
     "Browns_Jets": {
       "teams": {
-        "Jets": 53,
-        "Browns": 47
+        "Jets": 51,
+        "Browns": 49
       },
       "eventTicker": "KXNFLGAME-26OCT11CLENYJ"
     },
     "Patriots_Raiders": {
       "teams": {
-        "Patriots": 61,
-        "Raiders": 39
+        "Patriots": 58,
+        "Raiders": 42
       },
       "eventTicker": "KXNFLGAME-26OCT11LVNE"
     },
     "Bengals_Dolphins": {
       "teams": {
-        "Dolphins": 18,
-        "Bengals": 82
+        "Dolphins": 19,
+        "Bengals": 81
       },
       "eventTicker": "KXNFLGAME-26OCT11CINMIA"
     },
@@ -122,8 +122,8 @@
     },
     "49ers_Broncos": {
       "teams": {
-        "49ers": 56,
-        "Broncos": 44
+        "49ers": 57,
+        "Broncos": 43
       },
       "eventTicker": "KXNFLGAME-26OCT04DENSF"
     },
@@ -136,8 +136,8 @@
     },
     "Chiefs_Raiders": {
       "teams": {
-        "Raiders": 35,
-        "Chiefs": 65
+        "Raiders": 34,
+        "Chiefs": 66
       },
       "eventTicker": "KXNFLGAME-26OCT04KCLV"
     },
