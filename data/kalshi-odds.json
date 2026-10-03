@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T15:46:05.401Z",
+  "updated": "2026-10-03T18:21:28.397Z",
   "odds": {
     "Bills_Rams": {
       "teams": {
@@ -87,8 +87,8 @@
     },
     "Saints_Vikings": {
       "teams": {
-        "Saints": 47,
-        "Vikings": 53
+        "Saints": 46,
+        "Vikings": 54
       },
       "eventTicker": "KXNFLGAME-26OCT11MINNO"
     },
@@ -101,8 +101,8 @@
     },
     "Buccaneers_Cowboys": {
       "teams": {
-        "Buccaneers": 20,
-        "Cowboys": 80
+        "Buccaneers": 19,
+        "Cowboys": 81
       },
       "eventTicker": "KXNFLGAME-26OCT08TBDAL"
     },
@@ -164,8 +164,8 @@
     },
     "Buccaneers_Packers": {
       "teams": {
-        "Buccaneers": 38,
-        "Packers": 62
+        "Buccaneers": 40,
+        "Packers": 60
       },
       "eventTicker": "KXNFLGAME-26OCT04GBTB"
     },
