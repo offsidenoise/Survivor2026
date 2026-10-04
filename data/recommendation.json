@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T16:31:15.721Z",
+  "updated": "2026-10-04T20:55:20.480Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     4,
@@ -24,21 +24,21 @@
   "originalRecommendation": {
     "week": 4,
     "pick": {
-      "team": "Cleveland Browns",
+      "team": "Baltimore Ravens",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Pittsburgh Steelers"
+      "opponent": "Tennessee Titans"
     },
     "fullSeasonPlan": {
       "4": {
-        "team": "Cleveland Browns",
+        "team": "Baltimore Ravens",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Pittsburgh Steelers"
+        "opponent": "Tennessee Titans"
       },
       "5": {
         "team": "Cincinnati Bengals",
-        "prob": 83,
+        "prob": 79,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -139,21 +139,21 @@
   "crowdAdjustedRecommendation": {
     "week": 4,
     "pick": {
-      "team": "Cleveland Browns",
+      "team": "Baltimore Ravens",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Pittsburgh Steelers"
+      "opponent": "Tennessee Titans"
     },
     "fullSeasonPlan": {
       "4": {
-        "team": "Cleveland Browns",
+        "team": "Baltimore Ravens",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Pittsburgh Steelers"
+        "opponent": "Tennessee Titans"
       },
       "5": {
         "team": "Cincinnati Bengals",
-        "prob": 83,
+        "prob": 79,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
