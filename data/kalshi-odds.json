@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T16:29:43.383Z",
+  "updated": "2026-10-04T19:10:00.647Z",
   "odds": {
     "Bills_Rams": {
       "teams": {
@@ -17,15 +17,15 @@
     },
     "Bears_Packers": {
       "teams": {
-        "Packers": 54,
-        "Bears": 46
+        "Packers": 51,
+        "Bears": 49
       },
       "eventTicker": "KXNFLGAME-26OCT11CHIGB"
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 37,
-        "Seahawks": 63
+        "49ers": 45,
+        "Seahawks": 55
       },
       "eventTicker": "KXNFLGAME-26OCT11SFSEA"
     },
@@ -45,8 +45,8 @@
     },
     "Commanders_Giants": {
       "teams": {
-        "Commanders": 59,
-        "Giants": 41
+        "Commanders": 60,
+        "Giants": 40
       },
       "eventTicker": "KXNFLGAME-26OCT11NYGWAS"
     },
@@ -66,22 +66,22 @@
     },
     "Patriots_Raiders": {
       "teams": {
-        "Patriots": 63,
-        "Raiders": 37
+        "Patriots": 62,
+        "Raiders": 38
       },
       "eventTicker": "KXNFLGAME-26OCT11LVNE"
     },
     "Bengals_Dolphins": {
       "teams": {
-        "Dolphins": 17,
-        "Bengals": 83
+        "Dolphins": 20,
+        "Bengals": 80
       },
       "eventTicker": "KXNFLGAME-26OCT11CINMIA"
     },
     "Texans_Titans": {
       "teams": {
-        "Titans": 25,
-        "Texans": 75
+        "Titans": 24,
+        "Texans": 76
       },
       "eventTicker": "KXNFLGAME-26OCT11HOUTEN"
     },
@@ -94,15 +94,15 @@
     },
     "Eagles_Jaguars": {
       "teams": {
-        "Eagles": 41,
-        "Jaguars": 59
+        "Eagles": 43,
+        "Jaguars": 57
       },
       "eventTicker": "KXNFLGAME-26OCT11PHIJAC"
     },
     "Buccaneers_Cowboys": {
       "teams": {
-        "Buccaneers": 19,
-        "Cowboys": 81
+        "Buccaneers": 20,
+        "Cowboys": 80
       },
       "eventTicker": "KXNFLGAME-26OCT08TBDAL"
     },
@@ -115,15 +115,15 @@
     },
     "Lions_Panthers": {
       "teams": {
-        "Lions": 65,
-        "Panthers": 35
+        "Lions": 64,
+        "Panthers": 36
       },
       "eventTicker": "KXNFLGAME-26OCT04DETCAR"
     },
     "49ers_Broncos": {
       "teams": {
-        "49ers": 58,
-        "Broncos": 42
+        "49ers": 59,
+        "Broncos": 41
       },
       "eventTicker": "KXNFLGAME-26OCT04DENSF"
     },
@@ -150,66 +150,59 @@
     },
     "Bengals_Jaguars": {
       "teams": {
-        "Jaguars": 44,
-        "Bengals": 56
+        "Jaguars": 69,
+        "Bengals": 31
       },
       "eventTicker": "KXNFLGAME-26OCT04JACCIN"
     },
     "Ravens_Titans": {
       "teams": {
-        "Titans": 15,
-        "Ravens": 85
+        "Titans": 3,
+        "Ravens": 97
       },
       "eventTicker": "KXNFLGAME-26OCT04TENBAL"
     },
     "Buccaneers_Packers": {
       "teams": {
-        "Buccaneers": 42,
-        "Packers": 58
+        "Buccaneers": 22,
+        "Packers": 78
       },
       "eventTicker": "KXNFLGAME-26OCT04GBTB"
     },
     "Eagles_Rams": {
       "teams": {
-        "Eagles": 36,
-        "Rams": 64
+        "Eagles": 79,
+        "Rams": 21
       },
       "eventTicker": "KXNFLGAME-26OCT04LARPHI"
     },
     "Cowboys_Texans": {
       "teams": {
-        "Texans": 57,
-        "Cowboys": 43
+        "Texans": 67,
+        "Cowboys": 33
       },
       "eventTicker": "KXNFLGAME-26OCT04DALHOU"
     },
     "Bears_Jets": {
       "teams": {
-        "Jets": 37,
-        "Bears": 63
+        "Jets": 4,
+        "Bears": 96
       },
       "eventTicker": "KXNFLGAME-26OCT04NYJCHI"
     },
     "Bills_Patriots": {
       "teams": {
-        "Patriots": 26,
-        "Bills": 74
+        "Patriots": 53,
+        "Bills": 47
       },
       "eventTicker": "KXNFLGAME-26OCT04NEBUF"
     },
     "Cardinals_Giants": {
       "teams": {
-        "Giants": 45,
-        "Cardinals": 55
+        "Giants": 42,
+        "Cardinals": 58
       },
       "eventTicker": "KXNFLGAME-26OCT04ARINYG"
-    },
-    "Colts_Commanders": {
-      "teams": {
-        "Commanders": 1,
-        "Colts": 99
-      },
-      "eventTicker": "KXNFLGAME-26OCT04INDWAS"
     }
   },
   "unmapped": []
