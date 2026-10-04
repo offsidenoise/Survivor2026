@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T20:39:05.126Z",
+  "updated": "2026-10-04T04:31:04.444Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     4,
@@ -38,7 +38,7 @@
       },
       "5": {
         "team": "Cincinnati Bengals",
-        "prob": 84,
+        "prob": 81,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -153,7 +153,7 @@
       },
       "5": {
         "team": "Cincinnati Bengals",
-        "prob": 84,
+        "prob": 81,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null

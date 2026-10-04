@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-04T00:02:03.695Z",
+  "updated": "2026-10-04T04:29:59.147Z",
   "odds": {
     "Bills_Rams": {
       "teams": {
-        "Rams": 54,
-        "Bills": 46
+        "Rams": 53,
+        "Bills": 47
       },
       "eventTicker": "KXNFLGAME-26OCT12BUFLAR"
     },
@@ -17,15 +17,15 @@
     },
     "Bears_Packers": {
       "teams": {
-        "Packers": 55,
-        "Bears": 45
+        "Packers": 51,
+        "Bears": 49
       },
       "eventTicker": "KXNFLGAME-26OCT11CHIGB"
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 37,
-        "Seahawks": 63
+        "49ers": 39,
+        "Seahawks": 61
       },
       "eventTicker": "KXNFLGAME-26OCT11SFSEA"
     },
@@ -52,29 +52,29 @@
     },
     "Colts_Steelers": {
       "teams": {
-        "Steelers": 55,
-        "Colts": 45
+        "Steelers": 56,
+        "Colts": 44
       },
       "eventTicker": "KXNFLGAME-26OCT11INDPIT"
     },
     "Browns_Jets": {
       "teams": {
-        "Jets": 53,
-        "Browns": 47
+        "Jets": 52,
+        "Browns": 48
       },
       "eventTicker": "KXNFLGAME-26OCT11CLENYJ"
     },
     "Patriots_Raiders": {
       "teams": {
-        "Patriots": 63,
-        "Raiders": 37
+        "Patriots": 59,
+        "Raiders": 41
       },
       "eventTicker": "KXNFLGAME-26OCT11LVNE"
     },
     "Bengals_Dolphins": {
       "teams": {
-        "Dolphins": 18,
-        "Bengals": 82
+        "Dolphins": 19,
+        "Bengals": 81
       },
       "eventTicker": "KXNFLGAME-26OCT11CINMIA"
     },
@@ -101,8 +101,8 @@
     },
     "Buccaneers_Cowboys": {
       "teams": {
-        "Buccaneers": 20,
-        "Cowboys": 80
+        "Buccaneers": 21,
+        "Cowboys": 79
       },
       "eventTicker": "KXNFLGAME-26OCT08TBDAL"
     },
@@ -164,8 +164,8 @@
     },
     "Buccaneers_Packers": {
       "teams": {
-        "Buccaneers": 40,
-        "Packers": 60
+        "Buccaneers": 39,
+        "Packers": 61
       },
       "eventTicker": "KXNFLGAME-26OCT04GBTB"
     },
@@ -199,8 +199,8 @@
     },
     "Cardinals_Giants": {
       "teams": {
-        "Giants": 43,
-        "Cardinals": 57
+        "Giants": 44,
+        "Cardinals": 56
       },
       "eventTicker": "KXNFLGAME-26OCT04ARINYG"
     },
