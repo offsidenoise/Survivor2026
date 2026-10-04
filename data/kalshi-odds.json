@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T21:35:59.089Z",
+  "updated": "2026-10-04T00:02:03.695Z",
   "odds": {
     "Bills_Rams": {
       "teams": {
@@ -31,8 +31,8 @@
     },
     "Cardinals_Lions": {
       "teams": {
-        "Lions": 69,
-        "Cardinals": 31
+        "Lions": 68,
+        "Cardinals": 32
       },
       "eventTicker": "KXNFLGAME-26OCT11DETARI"
     },
@@ -59,8 +59,8 @@
     },
     "Browns_Jets": {
       "teams": {
-        "Jets": 52,
-        "Browns": 48
+        "Jets": 53,
+        "Browns": 47
       },
       "eventTicker": "KXNFLGAME-26OCT11CLENYJ"
     },
