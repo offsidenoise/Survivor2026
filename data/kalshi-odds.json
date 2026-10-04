@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T05:44:14.924Z",
+  "updated": "2026-10-04T11:20:27.577Z",
   "odds": {
     "Bills_Rams": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Bears_Packers": {
       "teams": {
-        "Packers": 52,
-        "Bears": 48
+        "Packers": 50,
+        "Bears": 50
       },
       "eventTicker": "KXNFLGAME-26OCT11CHIGB"
     },
@@ -38,15 +38,15 @@
     },
     "Broncos_Chargers": {
       "teams": {
-        "Chargers": 45,
-        "Broncos": 55
+        "Chargers": 44,
+        "Broncos": 56
       },
       "eventTicker": "KXNFLGAME-26OCT11DENLAC"
     },
     "Commanders_Giants": {
       "teams": {
-        "Commanders": 60,
-        "Giants": 40
+        "Commanders": 59,
+        "Giants": 41
       },
       "eventTicker": "KXNFLGAME-26OCT11NYGWAS"
     },
@@ -66,8 +66,8 @@
     },
     "Patriots_Raiders": {
       "teams": {
-        "Patriots": 59,
-        "Raiders": 41
+        "Patriots": 60,
+        "Raiders": 40
       },
       "eventTicker": "KXNFLGAME-26OCT11LVNE"
     },
