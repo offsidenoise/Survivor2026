@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T04:29:58.943Z",
+  "updated": "2026-10-04T11:49:48.837Z",
   "season": 2026,
   "currentWeek": 4,
   "weeks": {
@@ -1096,7 +1096,7 @@
           "espnOdds": {
             "details": "IND -4.5",
             "overUnder": 46.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1123,8 +1123,8 @@
           },
           "espnOdds": {
             "details": "BUF -7",
-            "overUnder": 50.5,
-            "provider": "DraftKings",
+            "overUnder": 49.5,
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1152,7 +1152,7 @@
           "espnOdds": {
             "details": "CHI -3.5",
             "overUnder": 43.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1180,7 +1180,7 @@
           "espnOdds": {
             "details": "CIN -2.5",
             "overUnder": 51.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1208,7 +1208,7 @@
           "espnOdds": {
             "details": "ARI -2.5",
             "overUnder": 44.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1236,7 +1236,7 @@
           "espnOdds": {
             "details": "LAR -3.5",
             "overUnder": 42.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1264,7 +1264,7 @@
           "espnOdds": {
             "details": "GB -3",
             "overUnder": 38.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1291,8 +1291,8 @@
           },
           "espnOdds": {
             "details": "BAL -11.5",
-            "overUnder": 41.5,
-            "provider": "DraftKings",
+            "overUnder": 42.5,
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1320,7 +1320,7 @@
           "espnOdds": {
             "details": "HOU -3",
             "overUnder": 48.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1348,7 +1348,7 @@
           "espnOdds": {
             "details": "MIN -10",
             "overUnder": 38.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1376,7 +1376,7 @@
           "espnOdds": {
             "details": "KC -4.5",
             "overUnder": 47.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1404,7 +1404,7 @@
           "espnOdds": {
             "details": "SF -3",
             "overUnder": 48.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1432,7 +1432,7 @@
           "espnOdds": {
             "details": "SEA -7",
             "overUnder": 42.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1460,7 +1460,7 @@
           "espnOdds": {
             "details": "DET -3.5",
             "overUnder": 51.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1510,7 +1510,7 @@
           "espnOdds": {
             "details": "NO -1.5",
             "overUnder": 47.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1542,7 +1542,7 @@
           "espnOdds": {
             "details": "DAL -9.5",
             "overUnder": 47.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1570,7 +1570,7 @@
           "espnOdds": {
             "details": "JAX -3",
             "overUnder": 44.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1598,7 +1598,7 @@
           "espnOdds": {
             "details": "GB -2.5",
             "overUnder": 45.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1626,7 +1626,7 @@
           "espnOdds": {
             "details": "HOU -6.5",
             "overUnder": 39.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1654,7 +1654,7 @@
           "espnOdds": {
             "details": "CIN -8.5",
             "overUnder": 46.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1682,7 +1682,7 @@
           "espnOdds": {
             "details": "NE -3.5",
             "overUnder": 44.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1710,7 +1710,7 @@
           "espnOdds": {
             "details": "MIN -2.5",
             "overUnder": 44.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1782,7 +1782,7 @@
           "espnOdds": {
             "details": "WSH -2.5",
             "overUnder": 43.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1810,7 +1810,7 @@
           "espnOdds": {
             "details": "DEN -2.5",
             "overUnder": 43.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1838,7 +1838,7 @@
           "espnOdds": {
             "details": "DET -5.5",
             "overUnder": 52.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1866,7 +1866,7 @@
           "espnOdds": {
             "details": "SEA -3",
             "overUnder": 47.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1894,7 +1894,7 @@
           "espnOdds": {
             "details": "BAL -6",
             "overUnder": 49.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1922,7 +1922,7 @@
           "espnOdds": {
             "details": "LAR -2.5",
             "overUnder": 52.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
