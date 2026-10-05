@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T13:42:41.453Z",
+  "updated": "2026-10-05T23:46:52.990Z",
   "season": 2026,
   "currentWeek": 4,
   "weeks": {
@@ -1096,7 +1096,7 @@
           "espnOdds": {
             "details": "NO -1.5",
             "overUnder": 47.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1456,9 +1456,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
           },
           "espnOdds": {
-            "details": "DAL -10",
+            "details": "DAL -8.5",
             "overUnder": 47.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1484,9 +1484,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png"
           },
           "espnOdds": {
-            "details": "JAX -4.5",
-            "overUnder": 43.5,
-            "provider": "DraftKings",
+            "details": "JAX -6.5",
+            "overUnder": 42.5,
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1512,9 +1512,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
           },
           "espnOdds": {
-            "details": "CHI -2.5",
+            "details": "CHI -3",
             "overUnder": 44.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1540,9 +1540,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png"
           },
           "espnOdds": {
-            "details": "HOU -6.5",
+            "details": "HOU -7",
             "overUnder": 39.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1569,8 +1569,8 @@
           },
           "espnOdds": {
             "details": "CIN -7",
-            "overUnder": 41.5,
-            "provider": "DraftKings",
+            "overUnder": 42.5,
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1597,8 +1597,8 @@
           },
           "espnOdds": {
             "details": "NE -3.5",
-            "overUnder": 44.5,
-            "provider": "DraftKings",
+            "overUnder": 45.5,
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1625,8 +1625,8 @@
           },
           "espnOdds": {
             "details": "MIN -1.5",
-            "overUnder": 42.5,
-            "provider": "DraftKings",
+            "overUnder": 41.5,
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1652,9 +1652,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png"
           },
           "espnOdds": {
-            "details": "NYJ -1.5",
-            "overUnder": 40.5,
-            "provider": "DraftKings",
+            "details": "NYJ -2.5",
+            "overUnder": 39.5,
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1682,7 +1682,7 @@
           "espnOdds": {
             "details": "PIT -2.5",
             "overUnder": 44.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1710,7 +1710,7 @@
           "espnOdds": {
             "details": "WSH -3",
             "overUnder": 43.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1738,7 +1738,7 @@
           "espnOdds": {
             "details": "DEN -3.5",
             "overUnder": 42.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1765,8 +1765,8 @@
           },
           "espnOdds": {
             "details": "DET -4.5",
-            "overUnder": 53.5,
-            "provider": "DraftKings",
+            "overUnder": 54.5,
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1794,7 +1794,7 @@
           "espnOdds": {
             "details": "SEA -2.5",
             "overUnder": 47.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1820,9 +1820,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png"
           },
           "espnOdds": {
-            "details": "BAL -3.5",
-            "overUnder": 46.5,
-            "provider": "DraftKings",
+            "details": "BAL -2.5",
+            "overUnder": 44.5,
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -1849,8 +1849,8 @@
           },
           "espnOdds": {
             "details": "LAR -2.5",
-            "overUnder": 53.5,
-            "provider": "DraftKings",
+            "overUnder": 54.5,
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }

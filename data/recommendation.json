@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T13:43:42.352Z",
+  "updated": "2026-10-05T23:47:58.090Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     4,
@@ -38,7 +38,7 @@
       },
       "5": {
         "team": "Dallas Cowboys",
-        "prob": 83,
+        "prob": 82,
         "source": "kalshi",
         "opponent": "Tampa Bay Buccaneers",
         "crowdPct": null
@@ -153,7 +153,7 @@
       },
       "5": {
         "team": "Dallas Cowboys",
-        "prob": 83,
+        "prob": 82,
         "source": "kalshi",
         "opponent": "Tampa Bay Buccaneers",
         "crowdPct": null
