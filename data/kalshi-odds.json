@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T04:15:32.038Z",
+  "updated": "2026-10-05T06:57:46.833Z",
   "odds": {
     "Bills_Rams": {
       "teams": {
@@ -17,22 +17,22 @@
     },
     "Bears_Packers": {
       "teams": {
-        "Packers": 44,
-        "Bears": 56
+        "Packers": 41,
+        "Bears": 59
       },
       "eventTicker": "KXNFLGAME-26OCT11CHIGB"
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 41,
-        "Seahawks": 59
+        "49ers": 43,
+        "Seahawks": 57
       },
       "eventTicker": "KXNFLGAME-26OCT11SFSEA"
     },
     "Cardinals_Lions": {
       "teams": {
-        "Lions": 69,
-        "Cardinals": 31
+        "Lions": 68,
+        "Cardinals": 32
       },
       "eventTicker": "KXNFLGAME-26OCT11DETARI"
     },
@@ -73,8 +73,8 @@
     },
     "Bengals_Dolphins": {
       "teams": {
-        "Dolphins": 22,
-        "Bengals": 78
+        "Dolphins": 23,
+        "Bengals": 77
       },
       "eventTicker": "KXNFLGAME-26OCT11CINMIA"
     },
@@ -87,15 +87,15 @@
     },
     "Saints_Vikings": {
       "teams": {
-        "Saints": 49,
-        "Vikings": 51
+        "Saints": 48,
+        "Vikings": 52
       },
       "eventTicker": "KXNFLGAME-26OCT11MINNO"
     },
     "Eagles_Jaguars": {
       "teams": {
-        "Eagles": 35,
-        "Jaguars": 65
+        "Eagles": 34,
+        "Jaguars": 66
       },
       "eventTicker": "KXNFLGAME-26OCT11PHIJAC"
     },
