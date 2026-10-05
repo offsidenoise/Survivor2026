@@ -1,24 +1,24 @@
 {
-  "updated": "2026-10-05T01:03:47.485Z",
+  "updated": "2026-10-05T04:15:32.038Z",
   "odds": {
     "Bills_Rams": {
       "teams": {
-        "Rams": 56,
-        "Bills": 44
+        "Rams": 58,
+        "Bills": 42
       },
       "eventTicker": "KXNFLGAME-26OCT12BUFLAR"
     },
     "Falcons_Ravens": {
       "teams": {
-        "Ravens": 66,
-        "Falcons": 34
+        "Ravens": 65,
+        "Falcons": 35
       },
       "eventTicker": "KXNFLGAME-26OCT11BALATL"
     },
     "Bears_Packers": {
       "teams": {
-        "Packers": 48,
-        "Bears": 52
+        "Packers": 44,
+        "Bears": 56
       },
       "eventTicker": "KXNFLGAME-26OCT11CHIGB"
     },
@@ -31,22 +31,22 @@
     },
     "Cardinals_Lions": {
       "teams": {
-        "Lions": 70,
-        "Cardinals": 30
+        "Lions": 69,
+        "Cardinals": 31
       },
       "eventTicker": "KXNFLGAME-26OCT11DETARI"
     },
     "Broncos_Chargers": {
       "teams": {
-        "Chargers": 36,
-        "Broncos": 64
+        "Chargers": 37,
+        "Broncos": 63
       },
       "eventTicker": "KXNFLGAME-26OCT11DENLAC"
     },
     "Commanders_Giants": {
       "teams": {
-        "Commanders": 62,
-        "Giants": 38
+        "Commanders": 63,
+        "Giants": 37
       },
       "eventTicker": "KXNFLGAME-26OCT11NYGWAS"
     },
@@ -59,15 +59,15 @@
     },
     "Browns_Jets": {
       "teams": {
-        "Jets": 51,
-        "Browns": 49
+        "Jets": 55,
+        "Browns": 45
       },
       "eventTicker": "KXNFLGAME-26OCT11CLENYJ"
     },
     "Patriots_Raiders": {
       "teams": {
-        "Patriots": 64,
-        "Raiders": 36
+        "Patriots": 63,
+        "Raiders": 37
       },
       "eventTicker": "KXNFLGAME-26OCT11LVNE"
     },
@@ -80,8 +80,8 @@
     },
     "Texans_Titans": {
       "teams": {
-        "Titans": 26,
-        "Texans": 74
+        "Titans": 27,
+        "Texans": 73
       },
       "eventTicker": "KXNFLGAME-26OCT11HOUTEN"
     },
@@ -112,13 +112,6 @@
         "Falcons": 47
       },
       "eventTicker": "KXNFLGAME-26OCT05ATLNO"
-    },
-    "Lions_Panthers": {
-      "teams": {
-        "Lions": 60,
-        "Panthers": 40
-      },
-      "eventTicker": "KXNFLGAME-26OCT04DETCAR"
     }
   },
   "unmapped": []

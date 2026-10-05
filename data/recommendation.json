@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T20:55:20.480Z",
+  "updated": "2026-10-05T04:16:46.112Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     4,
@@ -24,23 +24,23 @@
   "originalRecommendation": {
     "week": 4,
     "pick": {
-      "team": "Baltimore Ravens",
+      "team": "New York Giants",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Tennessee Titans"
+      "opponent": "Arizona Cardinals"
     },
     "fullSeasonPlan": {
       "4": {
-        "team": "Baltimore Ravens",
+        "team": "New York Giants",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Tennessee Titans"
+        "opponent": "Arizona Cardinals"
       },
       "5": {
-        "team": "Cincinnati Bengals",
-        "prob": 79,
+        "team": "Dallas Cowboys",
+        "prob": 83,
         "source": "kalshi",
-        "opponent": "Miami Dolphins",
+        "opponent": "Tampa Bay Buccaneers",
         "crowdPct": null
       },
       "6": {
@@ -58,10 +58,10 @@
         "crowdPct": null
       },
       "8": {
-        "team": "Dallas Cowboys",
-        "prob": 80.894,
+        "team": "Cincinnati Bengals",
+        "prob": 78.5,
         "source": "powerindex",
-        "opponent": "Arizona Cardinals",
+        "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "9": {
@@ -139,23 +139,23 @@
   "crowdAdjustedRecommendation": {
     "week": 4,
     "pick": {
-      "team": "Baltimore Ravens",
+      "team": "New York Giants",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Tennessee Titans"
+      "opponent": "Arizona Cardinals"
     },
     "fullSeasonPlan": {
       "4": {
-        "team": "Baltimore Ravens",
+        "team": "New York Giants",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Tennessee Titans"
+        "opponent": "Arizona Cardinals"
       },
       "5": {
-        "team": "Cincinnati Bengals",
-        "prob": 79,
+        "team": "Dallas Cowboys",
+        "prob": 83,
         "source": "kalshi",
-        "opponent": "Miami Dolphins",
+        "opponent": "Tampa Bay Buccaneers",
         "crowdPct": null
       },
       "6": {
@@ -173,10 +173,10 @@
         "crowdPct": null
       },
       "8": {
-        "team": "Dallas Cowboys",
-        "prob": 80.894,
+        "team": "Cincinnati Bengals",
+        "prob": 78.5,
         "source": "powerindex",
-        "opponent": "Arizona Cardinals",
+        "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "9": {
