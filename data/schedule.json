@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T04:15:31.828Z",
+  "updated": "2026-10-05T13:42:41.453Z",
   "season": 2026,
   "currentWeek": 4,
   "weeks": {
@@ -1568,8 +1568,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png"
           },
           "espnOdds": {
-            "details": "CIN -7.5",
-            "overUnder": 42.5,
+            "details": "CIN -7",
+            "overUnder": 41.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -1597,7 +1597,7 @@
           },
           "espnOdds": {
             "details": "NE -3.5",
-            "overUnder": 45.5,
+            "overUnder": 44.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -1652,8 +1652,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png"
           },
           "espnOdds": {
-            "details": "NYJ -2.5",
-            "overUnder": 39.5,
+            "details": "NYJ -1.5",
+            "overUnder": 40.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -1681,7 +1681,7 @@
           },
           "espnOdds": {
             "details": "PIT -2.5",
-            "overUnder": 43.5,
+            "overUnder": 44.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -1737,7 +1737,7 @@
           },
           "espnOdds": {
             "details": "DEN -3.5",
-            "overUnder": 43.5,
+            "overUnder": 42.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -1764,8 +1764,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png"
           },
           "espnOdds": {
-            "details": "DET -5.5",
-            "overUnder": 54.5,
+            "details": "DET -4.5",
+            "overUnder": 53.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -1793,7 +1793,7 @@
           },
           "espnOdds": {
             "details": "SEA -2.5",
-            "overUnder": 46.5,
+            "overUnder": 47.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
