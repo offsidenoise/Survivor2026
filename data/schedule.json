@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T05:03:29.499Z",
+  "updated": "2026-10-06T12:48:54.710Z",
   "season": 2026,
   "currentWeek": 4,
   "weeks": {
@@ -1478,7 +1478,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png"
           },
           "espnOdds": {
-            "details": "JAX -7",
+            "details": "JAX -6.5",
             "overUnder": 42.5,
             "provider": "DraftKings",
             "homeProb": null,
