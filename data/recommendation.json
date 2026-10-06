@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T12:49:54.774Z",
+  "updated": "2026-10-06T22:23:49.773Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     4,
@@ -24,28 +24,28 @@
   "originalRecommendation": {
     "week": 4,
     "pick": {
-      "team": "Minnesota Vikings",
+      "team": "Baltimore Ravens",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Miami Dolphins"
+      "opponent": "Tennessee Titans"
     },
     "fullSeasonPlan": {
       "4": {
-        "team": "Minnesota Vikings",
+        "team": "Baltimore Ravens",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Miami Dolphins"
+        "opponent": "Tennessee Titans"
       },
       "5": {
         "team": "Dallas Cowboys",
-        "prob": 80,
+        "prob": 79,
         "source": "kalshi",
         "opponent": "Tampa Bay Buccaneers",
         "crowdPct": null
       },
       "6": {
         "team": "Los Angeles Rams",
-        "prob": 81,
+        "prob": 85,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
@@ -79,10 +79,10 @@
         "crowdPct": null
       },
       "11": {
-        "team": "Kansas City Chiefs",
-        "prob": 84.37599999999999,
+        "team": "Buffalo Bills",
+        "prob": 88.85,
         "source": "powerindex",
-        "opponent": "Arizona Cardinals",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "12": {
@@ -121,10 +121,10 @@
         "crowdPct": null
       },
       "17": {
-        "team": "Buffalo Bills",
-        "prob": 82.941,
-        "source": "powerindex",
-        "opponent": "Miami Dolphins",
+        "team": "Kansas City Chiefs",
+        "prob": 79,
+        "source": "kalshi",
+        "opponent": "Los Angeles Chargers",
         "crowdPct": null
       },
       "18": {
@@ -139,28 +139,28 @@
   "crowdAdjustedRecommendation": {
     "week": 4,
     "pick": {
-      "team": "Minnesota Vikings",
+      "team": "Baltimore Ravens",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Miami Dolphins"
+      "opponent": "Tennessee Titans"
     },
     "fullSeasonPlan": {
       "4": {
-        "team": "Minnesota Vikings",
+        "team": "Baltimore Ravens",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Miami Dolphins"
+        "opponent": "Tennessee Titans"
       },
       "5": {
         "team": "Dallas Cowboys",
-        "prob": 80,
+        "prob": 79,
         "source": "kalshi",
         "opponent": "Tampa Bay Buccaneers",
         "crowdPct": null
       },
       "6": {
         "team": "Los Angeles Rams",
-        "prob": 81,
+        "prob": 85,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
@@ -194,10 +194,10 @@
         "crowdPct": null
       },
       "11": {
-        "team": "Kansas City Chiefs",
-        "prob": 84.37599999999999,
+        "team": "Buffalo Bills",
+        "prob": 88.85,
         "source": "powerindex",
-        "opponent": "Arizona Cardinals",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "12": {
@@ -236,10 +236,10 @@
         "crowdPct": null
       },
       "17": {
-        "team": "Buffalo Bills",
-        "prob": 82.941,
-        "source": "powerindex",
-        "opponent": "Miami Dolphins",
+        "team": "Kansas City Chiefs",
+        "prob": 79,
+        "source": "kalshi",
+        "opponent": "Los Angeles Chargers",
         "crowdPct": null
       },
       "18": {

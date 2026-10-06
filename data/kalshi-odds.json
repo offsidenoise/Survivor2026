@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T20:54:13.640Z",
+  "updated": "2026-10-06T22:22:28.676Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -87,8 +87,8 @@
     },
     "Jaguars_Texans": {
       "teams": {
-        "Jaguars": 60,
-        "Texans": 40
+        "Jaguars": 59,
+        "Texans": 41
       },
       "eventTicker": "KXNFLGAME-26OCT18HOUJAC"
     },
@@ -101,8 +101,8 @@
     },
     "Bills_Rams": {
       "teams": {
-        "Rams": 59,
-        "Bills": 41
+        "Rams": 60,
+        "Bills": 40
       },
       "eventTicker": "KXNFLGAME-26OCT12BUFLAR"
     },
