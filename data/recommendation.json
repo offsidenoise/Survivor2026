@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T23:47:58.090Z",
+  "updated": "2026-10-06T05:04:50.860Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     4,
@@ -20,34 +20,34 @@
   ],
   "powerIndexHealthy": true,
   "yahooCrowdHealthy": true,
-  "evHealthy": true,
+  "evHealthy": false,
   "originalRecommendation": {
     "week": 4,
     "pick": {
-      "team": "Baltimore Ravens",
+      "team": "Minnesota Vikings",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Tennessee Titans"
+      "opponent": "Miami Dolphins"
     },
     "fullSeasonPlan": {
       "4": {
-        "team": "Baltimore Ravens",
+        "team": "Minnesota Vikings",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Tennessee Titans"
+        "opponent": "Miami Dolphins"
       },
       "5": {
         "team": "Dallas Cowboys",
-        "prob": 82,
+        "prob": 80,
         "source": "kalshi",
         "opponent": "Tampa Bay Buccaneers",
         "crowdPct": null
       },
       "6": {
-        "team": "Los Angeles Rams",
-        "prob": 86.21,
-        "source": "powerindex",
-        "opponent": "Arizona Cardinals",
+        "team": "Pittsburgh Steelers",
+        "prob": 60,
+        "source": "kalshi",
+        "opponent": "Tampa Bay Buccaneers",
         "crowdPct": null
       },
       "7": {
@@ -139,30 +139,30 @@
   "crowdAdjustedRecommendation": {
     "week": 4,
     "pick": {
-      "team": "Baltimore Ravens",
+      "team": "Minnesota Vikings",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Tennessee Titans"
+      "opponent": "Miami Dolphins"
     },
     "fullSeasonPlan": {
       "4": {
-        "team": "Baltimore Ravens",
+        "team": "Minnesota Vikings",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Tennessee Titans"
+        "opponent": "Miami Dolphins"
       },
       "5": {
         "team": "Dallas Cowboys",
-        "prob": 82,
+        "prob": 80,
         "source": "kalshi",
         "opponent": "Tampa Bay Buccaneers",
         "crowdPct": null
       },
       "6": {
-        "team": "Los Angeles Rams",
-        "prob": 86.21,
-        "source": "powerindex",
-        "opponent": "Arizona Cardinals",
+        "team": "Pittsburgh Steelers",
+        "prob": 60,
+        "source": "kalshi",
+        "opponent": "Tampa Bay Buccaneers",
         "crowdPct": null
       },
       "7": {
