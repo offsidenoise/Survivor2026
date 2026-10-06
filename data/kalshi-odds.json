@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T12:48:54.939Z",
+  "updated": "2026-10-06T15:58:06.571Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Chargers_Chiefs": {
       "teams": {
-        "Chargers": 24,
-        "Chiefs": 76
+        "Chargers": 23,
+        "Chiefs": 77
       },
       "eventTicker": "KXNFLGAME-26OCT18LACKC"
     },
@@ -45,8 +45,8 @@
     },
     "Eagles_Panthers": {
       "teams": {
-        "Eagles": 55,
-        "Panthers": 45
+        "Eagles": 54,
+        "Panthers": 46
       },
       "eventTicker": "KXNFLGAME-26OCT18CARPHI"
     },
@@ -73,8 +73,8 @@
     },
     "Browns_Ravens": {
       "teams": {
-        "Browns": 27,
-        "Ravens": 73
+        "Browns": 34,
+        "Ravens": 66
       },
       "eventTicker": "KXNFLGAME-26OCT18BALCLE"
     },
@@ -108,29 +108,29 @@
     },
     "Falcons_Ravens": {
       "teams": {
-        "Ravens": 55,
-        "Falcons": 45
+        "Ravens": 43,
+        "Falcons": 57
       },
       "eventTicker": "KXNFLGAME-26OCT11BALATL"
     },
     "Bears_Packers": {
       "teams": {
-        "Packers": 43,
-        "Bears": 57
+        "Packers": 42,
+        "Bears": 58
       },
       "eventTicker": "KXNFLGAME-26OCT11CHIGB"
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 43,
-        "Seahawks": 57
+        "49ers": 42,
+        "Seahawks": 58
       },
       "eventTicker": "KXNFLGAME-26OCT11SFSEA"
     },
     "Cardinals_Lions": {
       "teams": {
-        "Lions": 68,
-        "Cardinals": 32
+        "Lions": 69,
+        "Cardinals": 31
       },
       "eventTicker": "KXNFLGAME-26OCT11DETARI"
     },
@@ -192,15 +192,15 @@
     },
     "Eagles_Jaguars": {
       "teams": {
-        "Eagles": 27,
-        "Jaguars": 73
+        "Eagles": 26,
+        "Jaguars": 74
       },
       "eventTicker": "KXNFLGAME-26OCT11PHIJAC"
     },
     "Buccaneers_Cowboys": {
       "teams": {
-        "Buccaneers": 20,
-        "Cowboys": 80
+        "Buccaneers": 21,
+        "Cowboys": 79
       },
       "eventTicker": "KXNFLGAME-26OCT08TBDAL"
     }
