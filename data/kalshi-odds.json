@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T13:37:47.642Z",
+  "updated": "2026-10-07T19:32:06.361Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -10,8 +10,8 @@
     },
     "Cowboys_Packers": {
       "teams": {
-        "Packers": 44,
-        "Cowboys": 56
+        "Packers": 45,
+        "Cowboys": 55
       },
       "eventTicker": "KXNFLGAME-26OCT18DALGB"
     },
@@ -24,8 +24,8 @@
     },
     "Bills_Raiders": {
       "teams": {
-        "Raiders": 31,
-        "Bills": 69
+        "Raiders": 32,
+        "Bills": 68
       },
       "eventTicker": "KXNFLGAME-26OCT18BUFLV"
     },
@@ -38,8 +38,8 @@
     },
     "Buccaneers_Steelers": {
       "teams": {
-        "Buccaneers": 42,
-        "Steelers": 58
+        "Buccaneers": 43,
+        "Steelers": 57
       },
       "eventTicker": "KXNFLGAME-26OCT18PITTB"
     },
@@ -87,8 +87,8 @@
     },
     "Jaguars_Texans": {
       "teams": {
-        "Jaguars": 60,
-        "Texans": 40
+        "Jaguars": 61,
+        "Texans": 39
       },
       "eventTicker": "KXNFLGAME-26OCT18HOUJAC"
     },
@@ -115,29 +115,29 @@
     },
     "Bears_Packers": {
       "teams": {
-        "Packers": 41,
-        "Bears": 59
+        "Packers": 42,
+        "Bears": 58
       },
       "eventTicker": "KXNFLGAME-26OCT11CHIGB"
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 41,
-        "Seahawks": 59
+        "49ers": 40,
+        "Seahawks": 60
       },
       "eventTicker": "KXNFLGAME-26OCT11SFSEA"
     },
     "Cardinals_Lions": {
       "teams": {
-        "Lions": 70,
-        "Cardinals": 30
+        "Lions": 69,
+        "Cardinals": 31
       },
       "eventTicker": "KXNFLGAME-26OCT11DETARI"
     },
     "Broncos_Chargers": {
       "teams": {
-        "Chargers": 37,
-        "Broncos": 63
+        "Chargers": 38,
+        "Broncos": 62
       },
       "eventTicker": "KXNFLGAME-26OCT11DENLAC"
     },
@@ -192,8 +192,8 @@
     },
     "Eagles_Jaguars": {
       "teams": {
-        "Eagles": 24,
-        "Jaguars": 76
+        "Eagles": 25,
+        "Jaguars": 75
       },
       "eventTicker": "KXNFLGAME-26OCT11PHIJAC"
     },
