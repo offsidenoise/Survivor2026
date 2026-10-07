@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T04:30:36.392Z",
+  "updated": "2026-10-07T06:17:52.760Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -31,8 +31,8 @@
     },
     "Cardinals_Rams": {
       "teams": {
-        "Rams": 85,
-        "Cardinals": 15
+        "Rams": 84,
+        "Cardinals": 16
       },
       "eventTicker": "KXNFLGAME-26OCT18ARILAR"
     },
@@ -59,15 +59,15 @@
     },
     "Jets_Patriots": {
       "teams": {
-        "Jets": 26,
-        "Patriots": 74
+        "Jets": 27,
+        "Patriots": 73
       },
       "eventTicker": "KXNFLGAME-26OCT18NYJNE"
     },
     "Colts_Titans": {
       "teams": {
-        "Titans": 27,
-        "Colts": 73
+        "Titans": 28,
+        "Colts": 72
       },
       "eventTicker": "KXNFLGAME-26OCT18TENIND"
     },
@@ -101,8 +101,8 @@
     },
     "Bills_Rams": {
       "teams": {
-        "Rams": 59,
-        "Bills": 41
+        "Rams": 60,
+        "Bills": 40
       },
       "eventTicker": "KXNFLGAME-26OCT12BUFLAR"
     },
@@ -129,8 +129,8 @@
     },
     "Cardinals_Lions": {
       "teams": {
-        "Lions": 70,
-        "Cardinals": 30
+        "Lions": 69,
+        "Cardinals": 31
       },
       "eventTicker": "KXNFLGAME-26OCT11DETARI"
     },
