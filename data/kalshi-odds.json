@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T06:17:52.760Z",
+  "updated": "2026-10-07T12:43:12.501Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -24,15 +24,15 @@
     },
     "Bills_Raiders": {
       "teams": {
-        "Raiders": 33,
-        "Bills": 67
+        "Raiders": 31,
+        "Bills": 69
       },
       "eventTicker": "KXNFLGAME-26OCT18BUFLV"
     },
     "Cardinals_Rams": {
       "teams": {
-        "Rams": 84,
-        "Cardinals": 16
+        "Rams": 85,
+        "Cardinals": 15
       },
       "eventTicker": "KXNFLGAME-26OCT18ARILAR"
     },
@@ -59,22 +59,22 @@
     },
     "Jets_Patriots": {
       "teams": {
-        "Jets": 27,
-        "Patriots": 73
+        "Jets": 26,
+        "Patriots": 74
       },
       "eventTicker": "KXNFLGAME-26OCT18NYJNE"
     },
     "Colts_Titans": {
       "teams": {
-        "Titans": 28,
-        "Colts": 72
+        "Titans": 27,
+        "Colts": 73
       },
       "eventTicker": "KXNFLGAME-26OCT18TENIND"
     },
     "Browns_Ravens": {
       "teams": {
-        "Browns": 44,
-        "Ravens": 56
+        "Browns": 45,
+        "Ravens": 55
       },
       "eventTicker": "KXNFLGAME-26OCT18BALCLE"
     },
@@ -115,8 +115,8 @@
     },
     "Bears_Packers": {
       "teams": {
-        "Packers": 42,
-        "Bears": 58
+        "Packers": 41,
+        "Bears": 59
       },
       "eventTicker": "KXNFLGAME-26OCT11CHIGB"
     },
@@ -129,8 +129,8 @@
     },
     "Cardinals_Lions": {
       "teams": {
-        "Lions": 69,
-        "Cardinals": 31
+        "Lions": 70,
+        "Cardinals": 30
       },
       "eventTicker": "KXNFLGAME-26OCT11DETARI"
     },
@@ -150,15 +150,15 @@
     },
     "Colts_Steelers": {
       "teams": {
-        "Steelers": 56,
-        "Colts": 44
+        "Steelers": 57,
+        "Colts": 43
       },
       "eventTicker": "KXNFLGAME-26OCT11INDPIT"
     },
     "Browns_Jets": {
       "teams": {
-        "Jets": 54,
-        "Browns": 46
+        "Jets": 55,
+        "Browns": 45
       },
       "eventTicker": "KXNFLGAME-26OCT11CLENYJ"
     },
