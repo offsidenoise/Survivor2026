@@ -1,8 +1,7 @@
 {
-  "updated": "2026-10-06T22:23:49.773Z",
+  "updated": "2026-10-07T04:32:07.235Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
-    4,
     5,
     6,
     7,
@@ -20,28 +19,25 @@
   ],
   "powerIndexHealthy": true,
   "yahooCrowdHealthy": true,
-  "evHealthy": false,
+  "evHealthy": true,
   "originalRecommendation": {
-    "week": 4,
+    "week": 5,
     "pick": {
-      "team": "Baltimore Ravens",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "Tennessee Titans"
+      "team": "Dallas Cowboys",
+      "prob": 79,
+      "source": "kalshi",
+      "opponent": "Tampa Bay Buccaneers",
+      "crowdPct": 50.12,
+      "ev": 0.02078947368421047
     },
     "fullSeasonPlan": {
-      "4": {
-        "team": "Baltimore Ravens",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "Tennessee Titans"
-      },
       "5": {
         "team": "Dallas Cowboys",
         "prob": 79,
         "source": "kalshi",
         "opponent": "Tampa Bay Buccaneers",
-        "crowdPct": null
+        "crowdPct": 50.12,
+        "ev": 0.02078947368421047
       },
       "6": {
         "team": "Los Angeles Rams",
@@ -137,26 +133,23 @@
     }
   },
   "crowdAdjustedRecommendation": {
-    "week": 4,
+    "week": 5,
     "pick": {
-      "team": "Baltimore Ravens",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "Tennessee Titans"
+      "team": "Dallas Cowboys",
+      "prob": 79,
+      "source": "kalshi",
+      "opponent": "Tampa Bay Buccaneers",
+      "crowdPct": 50.12,
+      "ev": 0.02078947368421047
     },
     "fullSeasonPlan": {
-      "4": {
-        "team": "Baltimore Ravens",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "Tennessee Titans"
-      },
       "5": {
         "team": "Dallas Cowboys",
         "prob": 79,
         "source": "kalshi",
         "opponent": "Tampa Bay Buccaneers",
-        "crowdPct": null
+        "crowdPct": 50.12,
+        "ev": 0.02078947368421047
       },
       "6": {
         "team": "Los Angeles Rams",
