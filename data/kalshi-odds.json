@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T22:22:28.676Z",
+  "updated": "2026-10-07T00:23:42.513Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Chargers_Chiefs": {
       "teams": {
-        "Chargers": 21,
-        "Chiefs": 79
+        "Chargers": 20,
+        "Chiefs": 80
       },
       "eventTicker": "KXNFLGAME-26OCT18LACKC"
     },
@@ -45,8 +45,8 @@
     },
     "Eagles_Panthers": {
       "teams": {
-        "Eagles": 52,
-        "Panthers": 48
+        "Eagles": 51,
+        "Panthers": 49
       },
       "eventTicker": "KXNFLGAME-26OCT18CARPHI"
     },
@@ -87,8 +87,8 @@
     },
     "Jaguars_Texans": {
       "teams": {
-        "Jaguars": 59,
-        "Texans": 41
+        "Jaguars": 60,
+        "Texans": 40
       },
       "eventTicker": "KXNFLGAME-26OCT18HOUJAC"
     },
@@ -108,8 +108,8 @@
     },
     "Falcons_Ravens": {
       "teams": {
-        "Ravens": 39,
-        "Falcons": 61
+        "Ravens": 40,
+        "Falcons": 60
       },
       "eventTicker": "KXNFLGAME-26OCT11BALATL"
     },
@@ -122,8 +122,8 @@
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 42,
-        "Seahawks": 58
+        "49ers": 41,
+        "Seahawks": 59
       },
       "eventTicker": "KXNFLGAME-26OCT11SFSEA"
     },
@@ -178,8 +178,8 @@
     },
     "Texans_Titans": {
       "teams": {
-        "Titans": 26,
-        "Texans": 74
+        "Titans": 25,
+        "Texans": 75
       },
       "eventTicker": "KXNFLGAME-26OCT11HOUTEN"
     },
