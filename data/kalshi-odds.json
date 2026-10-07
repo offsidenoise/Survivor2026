@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T22:46:29.039Z",
+  "updated": "2026-10-07T23:46:34.548Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Chargers_Chiefs": {
       "teams": {
-        "Chargers": 20,
-        "Chiefs": 80
+        "Chargers": 21,
+        "Chiefs": 79
       },
       "eventTicker": "KXNFLGAME-26OCT18LACKC"
     },
@@ -73,8 +73,8 @@
     },
     "Browns_Ravens": {
       "teams": {
-        "Browns": 45,
-        "Ravens": 55
+        "Browns": 43,
+        "Ravens": 57
       },
       "eventTicker": "KXNFLGAME-26OCT18BALCLE"
     },
