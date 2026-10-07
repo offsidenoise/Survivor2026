@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T12:44:39.399Z",
+  "updated": "2026-10-07T22:47:40.313Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     5,
@@ -28,7 +28,7 @@
       "source": "kalshi",
       "opponent": "Tampa Bay Buccaneers",
       "crowdPct": 56.34,
-      "ev": 0.021351351351350956
+      "ev": 0.021351351351351525
     },
     "fullSeasonPlan": {
       "5": {
@@ -37,11 +37,11 @@
         "source": "kalshi",
         "opponent": "Tampa Bay Buccaneers",
         "crowdPct": 56.34,
-        "ev": 0.021351351351350956
+        "ev": 0.021351351351351525
       },
       "6": {
         "team": "Los Angeles Rams",
-        "prob": 85,
+        "prob": 84,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
@@ -118,7 +118,7 @@
       },
       "17": {
         "team": "Kansas City Chiefs",
-        "prob": 79,
+        "prob": 80,
         "source": "kalshi",
         "opponent": "Los Angeles Chargers",
         "crowdPct": null
@@ -140,7 +140,7 @@
       "source": "kalshi",
       "opponent": "Tampa Bay Buccaneers",
       "crowdPct": 56.34,
-      "ev": 0.021351351351350956
+      "ev": 0.021351351351351525
     },
     "fullSeasonPlan": {
       "5": {
@@ -149,11 +149,11 @@
         "source": "kalshi",
         "opponent": "Tampa Bay Buccaneers",
         "crowdPct": 56.34,
-        "ev": 0.021351351351350956
+        "ev": 0.021351351351351525
       },
       "6": {
         "team": "Los Angeles Rams",
-        "prob": 85,
+        "prob": 84,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
@@ -230,7 +230,7 @@
       },
       "17": {
         "team": "Kansas City Chiefs",
-        "prob": 79,
+        "prob": 80,
         "source": "kalshi",
         "opponent": "Los Angeles Chargers",
         "crowdPct": null
