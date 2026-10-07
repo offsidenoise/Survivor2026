@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T12:43:12.501Z",
+  "updated": "2026-10-07T13:37:47.642Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -31,8 +31,8 @@
     },
     "Cardinals_Rams": {
       "teams": {
-        "Rams": 85,
-        "Cardinals": 15
+        "Rams": 84,
+        "Cardinals": 16
       },
       "eventTicker": "KXNFLGAME-26OCT18ARILAR"
     },
@@ -178,8 +178,8 @@
     },
     "Texans_Titans": {
       "teams": {
-        "Titans": 25,
-        "Texans": 75
+        "Titans": 24,
+        "Texans": 76
       },
       "eventTicker": "KXNFLGAME-26OCT11HOUTEN"
     },
