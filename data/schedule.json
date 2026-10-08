@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T04:41:31.560Z",
+  "updated": "2026-10-08T12:52:34.332Z",
   "season": 2026,
   "currentWeek": 5,
   "weeks": {
@@ -1479,7 +1479,7 @@
           },
           "espnOdds": {
             "details": "JAX -7",
-            "overUnder": 42.5,
+            "overUnder": 41.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -1506,7 +1506,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
           },
           "espnOdds": {
-            "details": "CHI -2.5",
+            "details": "CHI -1.5",
             "overUnder": 45.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -1535,7 +1535,7 @@
           },
           "espnOdds": {
             "details": "HOU -7.5",
-            "overUnder": 37.5,
+            "overUnder": 38.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -1786,7 +1786,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
           },
           "espnOdds": {
-            "details": "SEA -2.5",
+            "details": "SEA -3",
             "overUnder": 45.5,
             "provider": "DraftKings",
             "homeProb": null,
