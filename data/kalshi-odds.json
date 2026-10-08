@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-08T04:41:31.758Z",
+  "updated": "2026-10-08T10:26:38.801Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
-        "Commanders": 21,
-        "49ers": 79
+        "Commanders": 22,
+        "49ers": 78
       },
       "eventTicker": "KXNFLGAME-26OCT19WASSF"
     },
@@ -59,15 +59,15 @@
     },
     "Jets_Patriots": {
       "teams": {
-        "Jets": 25,
-        "Patriots": 75
+        "Jets": 26,
+        "Patriots": 74
       },
       "eventTicker": "KXNFLGAME-26OCT18NYJNE"
     },
     "Colts_Titans": {
       "teams": {
-        "Titans": 27,
-        "Colts": 73
+        "Titans": 28,
+        "Colts": 72
       },
       "eventTicker": "KXNFLGAME-26OCT18TENIND"
     },
