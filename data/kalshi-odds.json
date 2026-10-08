@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-08T03:02:05.427Z",
+  "updated": "2026-10-08T04:41:31.758Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
-        "Commanders": 22,
-        "49ers": 78
+        "Commanders": 21,
+        "49ers": 79
       },
       "eventTicker": "KXNFLGAME-26OCT19WASSF"
     },
     "Cowboys_Packers": {
       "teams": {
-        "Packers": 45,
-        "Cowboys": 55
+        "Packers": 44,
+        "Cowboys": 56
       },
       "eventTicker": "KXNFLGAME-26OCT18DALGB"
     },
@@ -73,8 +73,8 @@
     },
     "Browns_Ravens": {
       "teams": {
-        "Browns": 37,
-        "Ravens": 63
+        "Browns": 39,
+        "Ravens": 61
       },
       "eventTicker": "KXNFLGAME-26OCT18BALCLE"
     },
@@ -122,8 +122,8 @@
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 39,
-        "Seahawks": 61
+        "49ers": 40,
+        "Seahawks": 60
       },
       "eventTicker": "KXNFLGAME-26OCT11SFSEA"
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T22:47:40.313Z",
+  "updated": "2026-10-08T04:42:49.805Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     5,
@@ -28,7 +28,7 @@
       "source": "kalshi",
       "opponent": "Tampa Bay Buccaneers",
       "crowdPct": 56.34,
-      "ev": 0.021351351351351525
+      "ev": 0.02135135135135137
     },
     "fullSeasonPlan": {
       "5": {
@@ -37,7 +37,7 @@
         "source": "kalshi",
         "opponent": "Tampa Bay Buccaneers",
         "crowdPct": 56.34,
-        "ev": 0.021351351351351525
+        "ev": 0.02135135135135137
       },
       "6": {
         "team": "Los Angeles Rams",
@@ -140,7 +140,7 @@
       "source": "kalshi",
       "opponent": "Tampa Bay Buccaneers",
       "crowdPct": 56.34,
-      "ev": 0.021351351351351525
+      "ev": 0.02135135135135137
     },
     "fullSeasonPlan": {
       "5": {
@@ -149,7 +149,7 @@
         "source": "kalshi",
         "opponent": "Tampa Bay Buccaneers",
         "crowdPct": 56.34,
-        "ev": 0.021351351351351525
+        "ev": 0.02135135135135137
       },
       "6": {
         "team": "Los Angeles Rams",
