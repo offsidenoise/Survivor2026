@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-08T12:52:34.635Z",
+  "updated": "2026-10-08T17:32:55.406Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
-        "Commanders": 21,
-        "49ers": 79
+        "Commanders": 22,
+        "49ers": 78
       },
       "eventTicker": "KXNFLGAME-26OCT19WASSF"
     },
@@ -17,8 +17,8 @@
     },
     "Chargers_Chiefs": {
       "teams": {
-        "Chargers": 19,
-        "Chiefs": 81
+        "Chargers": 21,
+        "Chiefs": 79
       },
       "eventTicker": "KXNFLGAME-26OCT18LACKC"
     },
@@ -31,8 +31,8 @@
     },
     "Cardinals_Rams": {
       "teams": {
-        "Rams": 84,
-        "Cardinals": 16
+        "Rams": 85,
+        "Cardinals": 15
       },
       "eventTicker": "KXNFLGAME-26OCT18ARILAR"
     },
@@ -45,8 +45,8 @@
     },
     "Eagles_Panthers": {
       "teams": {
-        "Eagles": 51,
-        "Panthers": 49
+        "Eagles": 52,
+        "Panthers": 48
       },
       "eventTicker": "KXNFLGAME-26OCT18CARPHI"
     },
@@ -66,8 +66,8 @@
     },
     "Colts_Titans": {
       "teams": {
-        "Titans": 27,
-        "Colts": 73
+        "Titans": 28,
+        "Colts": 72
       },
       "eventTicker": "KXNFLGAME-26OCT18TENIND"
     },
@@ -80,8 +80,8 @@
     },
     "Bears_Falcons": {
       "teams": {
-        "Bears": 53,
-        "Falcons": 47
+        "Bears": 55,
+        "Falcons": 45
       },
       "eventTicker": "KXNFLGAME-26OCT18CHIATL"
     },
@@ -101,8 +101,8 @@
     },
     "Bills_Rams": {
       "teams": {
-        "Rams": 60,
-        "Bills": 40
+        "Rams": 61,
+        "Bills": 39
       },
       "eventTicker": "KXNFLGAME-26OCT12BUFLAR"
     },
@@ -157,8 +157,8 @@
     },
     "Browns_Jets": {
       "teams": {
-        "Jets": 54,
-        "Browns": 46
+        "Jets": 55,
+        "Browns": 45
       },
       "eventTicker": "KXNFLGAME-26OCT11CLENYJ"
     },
