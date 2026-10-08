@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-07T23:46:34.548Z",
+  "updated": "2026-10-08T03:02:05.427Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
-        "Commanders": 24,
-        "49ers": 76
+        "Commanders": 22,
+        "49ers": 78
       },
       "eventTicker": "KXNFLGAME-26OCT19WASSF"
     },
@@ -17,8 +17,8 @@
     },
     "Chargers_Chiefs": {
       "teams": {
-        "Chargers": 21,
-        "Chiefs": 79
+        "Chargers": 20,
+        "Chiefs": 80
       },
       "eventTicker": "KXNFLGAME-26OCT18LACKC"
     },
@@ -59,8 +59,8 @@
     },
     "Jets_Patriots": {
       "teams": {
-        "Jets": 26,
-        "Patriots": 74
+        "Jets": 25,
+        "Patriots": 75
       },
       "eventTicker": "KXNFLGAME-26OCT18NYJNE"
     },
@@ -73,8 +73,8 @@
     },
     "Browns_Ravens": {
       "teams": {
-        "Browns": 43,
-        "Ravens": 57
+        "Browns": 37,
+        "Ravens": 63
       },
       "eventTicker": "KXNFLGAME-26OCT18BALCLE"
     },
@@ -122,8 +122,8 @@
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 40,
-        "Seahawks": 60
+        "49ers": 39,
+        "Seahawks": 61
       },
       "eventTicker": "KXNFLGAME-26OCT11SFSEA"
     },
@@ -164,8 +164,8 @@
     },
     "Patriots_Raiders": {
       "teams": {
-        "Patriots": 63,
-        "Raiders": 37
+        "Patriots": 62,
+        "Raiders": 38
       },
       "eventTicker": "KXNFLGAME-26OCT11LVNE"
     },
