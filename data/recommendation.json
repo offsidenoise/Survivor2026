@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T12:54:23.357Z",
+  "updated": "2026-10-08T22:58:42.932Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     5,
@@ -24,24 +24,24 @@
     "week": 5,
     "pick": {
       "team": "Dallas Cowboys",
-      "prob": 79,
+      "prob": 80,
       "source": "kalshi",
       "opponent": "Tampa Bay Buccaneers",
       "crowdPct": 55.32,
-      "ev": 0.020789473684210427
+      "ev": 0.021052631578947267
     },
     "fullSeasonPlan": {
       "5": {
         "team": "Dallas Cowboys",
-        "prob": 79,
+        "prob": 80,
         "source": "kalshi",
         "opponent": "Tampa Bay Buccaneers",
         "crowdPct": 55.32,
-        "ev": 0.020789473684210427
+        "ev": 0.021052631578947267
       },
       "6": {
         "team": "Los Angeles Rams",
-        "prob": 84,
+        "prob": 85,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
@@ -118,7 +118,7 @@
       },
       "17": {
         "team": "Kansas City Chiefs",
-        "prob": 81,
+        "prob": 79,
         "source": "kalshi",
         "opponent": "Los Angeles Chargers",
         "crowdPct": null
@@ -136,24 +136,24 @@
     "week": 5,
     "pick": {
       "team": "Dallas Cowboys",
-      "prob": 79,
+      "prob": 80,
       "source": "kalshi",
       "opponent": "Tampa Bay Buccaneers",
       "crowdPct": 55.32,
-      "ev": 0.020789473684210427
+      "ev": 0.021052631578947267
     },
     "fullSeasonPlan": {
       "5": {
         "team": "Dallas Cowboys",
-        "prob": 79,
+        "prob": 80,
         "source": "kalshi",
         "opponent": "Tampa Bay Buccaneers",
         "crowdPct": 55.32,
-        "ev": 0.020789473684210427
+        "ev": 0.021052631578947267
       },
       "6": {
         "team": "Los Angeles Rams",
-        "prob": 84,
+        "prob": 85,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
@@ -230,7 +230,7 @@
       },
       "17": {
         "team": "Kansas City Chiefs",
-        "prob": 81,
+        "prob": 79,
         "source": "kalshi",
         "opponent": "Los Angeles Chargers",
         "crowdPct": null
