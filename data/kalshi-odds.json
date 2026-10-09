@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-08T22:57:31.764Z",
+  "updated": "2026-10-09T02:25:35.318Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
-        "Commanders": 21,
-        "49ers": 79
+        "Commanders": 22,
+        "49ers": 78
       },
       "eventTicker": "KXNFLGAME-26OCT19WASSF"
     },
     "Cowboys_Packers": {
       "teams": {
-        "Packers": 45,
-        "Cowboys": 55
+        "Packers": 46,
+        "Cowboys": 54
       },
       "eventTicker": "KXNFLGAME-26OCT18DALGB"
     },
@@ -24,8 +24,8 @@
     },
     "Bills_Raiders": {
       "teams": {
-        "Raiders": 32,
-        "Bills": 68
+        "Raiders": 31,
+        "Bills": 69
       },
       "eventTicker": "KXNFLGAME-26OCT18BUFLV"
     },
@@ -38,8 +38,8 @@
     },
     "Buccaneers_Steelers": {
       "teams": {
-        "Buccaneers": 43,
-        "Steelers": 57
+        "Buccaneers": 44,
+        "Steelers": 56
       },
       "eventTicker": "KXNFLGAME-26OCT18PITTB"
     },
@@ -80,8 +80,8 @@
     },
     "Bears_Falcons": {
       "teams": {
-        "Bears": 55,
-        "Falcons": 45
+        "Bears": 54,
+        "Falcons": 46
       },
       "eventTicker": "KXNFLGAME-26OCT18CHIATL"
     },
@@ -94,8 +94,8 @@
     },
     "Broncos_Seahawks": {
       "teams": {
-        "Seahawks": 56,
-        "Broncos": 44
+        "Seahawks": 55,
+        "Broncos": 45
       },
       "eventTicker": "KXNFLGAME-26OCT15SEADEN"
     },
@@ -136,8 +136,8 @@
     },
     "Broncos_Chargers": {
       "teams": {
-        "Chargers": 38,
-        "Broncos": 62
+        "Chargers": 37,
+        "Broncos": 63
       },
       "eventTicker": "KXNFLGAME-26OCT11DENLAC"
     },
@@ -157,8 +157,8 @@
     },
     "Browns_Jets": {
       "teams": {
-        "Jets": 55,
-        "Browns": 45
+        "Jets": 56,
+        "Browns": 44
       },
       "eventTicker": "KXNFLGAME-26OCT11CLENYJ"
     },
@@ -199,8 +199,8 @@
     },
     "Buccaneers_Cowboys": {
       "teams": {
-        "Buccaneers": 20,
-        "Cowboys": 80
+        "Buccaneers": 75,
+        "Cowboys": 25
       },
       "eventTicker": "KXNFLGAME-26OCT08TBDAL"
     }
