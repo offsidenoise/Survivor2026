@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T22:58:42.932Z",
+  "updated": "2026-10-09T04:45:54.740Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     5,
@@ -23,25 +23,21 @@
   "originalRecommendation": {
     "week": 5,
     "pick": {
-      "team": "Dallas Cowboys",
-      "prob": 80,
-      "source": "kalshi",
-      "opponent": "Tampa Bay Buccaneers",
-      "crowdPct": 55.32,
-      "ev": 0.021052631578947267
+      "team": "Tampa Bay Buccaneers",
+      "prob": 100,
+      "source": "final-result",
+      "opponent": "Dallas Cowboys"
     },
     "fullSeasonPlan": {
       "5": {
-        "team": "Dallas Cowboys",
-        "prob": 80,
-        "source": "kalshi",
-        "opponent": "Tampa Bay Buccaneers",
-        "crowdPct": 55.32,
-        "ev": 0.021052631578947267
+        "team": "Tampa Bay Buccaneers",
+        "prob": 100,
+        "source": "final-result",
+        "opponent": "Dallas Cowboys"
       },
       "6": {
         "team": "Los Angeles Rams",
-        "prob": 85,
+        "prob": 84,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
@@ -117,10 +113,10 @@
         "crowdPct": null
       },
       "17": {
-        "team": "Kansas City Chiefs",
-        "prob": 79,
-        "source": "kalshi",
-        "opponent": "Los Angeles Chargers",
+        "team": "Dallas Cowboys",
+        "prob": 86.153,
+        "source": "powerindex",
+        "opponent": "New York Giants",
         "crowdPct": null
       },
       "18": {
@@ -135,25 +131,21 @@
   "crowdAdjustedRecommendation": {
     "week": 5,
     "pick": {
-      "team": "Dallas Cowboys",
-      "prob": 80,
-      "source": "kalshi",
-      "opponent": "Tampa Bay Buccaneers",
-      "crowdPct": 55.32,
-      "ev": 0.021052631578947267
+      "team": "Tampa Bay Buccaneers",
+      "prob": 100,
+      "source": "final-result",
+      "opponent": "Dallas Cowboys"
     },
     "fullSeasonPlan": {
       "5": {
-        "team": "Dallas Cowboys",
-        "prob": 80,
-        "source": "kalshi",
-        "opponent": "Tampa Bay Buccaneers",
-        "crowdPct": 55.32,
-        "ev": 0.021052631578947267
+        "team": "Tampa Bay Buccaneers",
+        "prob": 100,
+        "source": "final-result",
+        "opponent": "Dallas Cowboys"
       },
       "6": {
         "team": "Los Angeles Rams",
-        "prob": 85,
+        "prob": 84,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
@@ -229,10 +221,10 @@
         "crowdPct": null
       },
       "17": {
-        "team": "Kansas City Chiefs",
-        "prob": 79,
-        "source": "kalshi",
-        "opponent": "Los Angeles Chargers",
+        "team": "Dallas Cowboys",
+        "prob": 86.153,
+        "source": "powerindex",
+        "opponent": "New York Giants",
         "crowdPct": null
       },
       "18": {
