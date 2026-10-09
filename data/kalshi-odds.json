@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-09T12:38:13.423Z",
+  "updated": "2026-10-09T16:30:20.934Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
-        "Commanders": 22,
-        "49ers": 78
+        "Commanders": 21,
+        "49ers": 79
       },
       "eventTicker": "KXNFLGAME-26OCT19WASSF"
     },
@@ -45,8 +45,8 @@
     },
     "Eagles_Panthers": {
       "teams": {
-        "Eagles": 52,
-        "Panthers": 48
+        "Eagles": 51,
+        "Panthers": 49
       },
       "eventTicker": "KXNFLGAME-26OCT18CARPHI"
     },
@@ -136,8 +136,8 @@
     },
     "Broncos_Chargers": {
       "teams": {
-        "Chargers": 38,
-        "Broncos": 62
+        "Chargers": 37,
+        "Broncos": 63
       },
       "eventTicker": "KXNFLGAME-26OCT11DENLAC"
     },
@@ -192,8 +192,8 @@
     },
     "Eagles_Jaguars": {
       "teams": {
-        "Eagles": 24,
-        "Jaguars": 76
+        "Eagles": 23,
+        "Jaguars": 77
       },
       "eventTicker": "KXNFLGAME-26OCT11PHIJAC"
     }
