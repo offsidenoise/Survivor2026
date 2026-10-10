@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T11:58:23.391Z",
+  "updated": "2026-10-10T13:10:00.248Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -17,15 +17,15 @@
     },
     "Chargers_Chiefs": {
       "teams": {
-        "Chargers": 20,
-        "Chiefs": 80
+        "Chargers": 21,
+        "Chiefs": 79
       },
       "eventTicker": "KXNFLGAME-26OCT18LACKC"
     },
     "Bills_Raiders": {
       "teams": {
-        "Raiders": 32,
-        "Bills": 68
+        "Raiders": 31,
+        "Bills": 69
       },
       "eventTicker": "KXNFLGAME-26OCT18BUFLV"
     },
