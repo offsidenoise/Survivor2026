@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T17:52:16.726Z",
+  "updated": "2026-10-10T21:03:02.646Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -45,8 +45,8 @@
     },
     "Eagles_Panthers": {
       "teams": {
-        "Eagles": 52,
-        "Panthers": 48
+        "Eagles": 51,
+        "Panthers": 49
       },
       "eventTicker": "KXNFLGAME-26OCT18CARPHI"
     },
