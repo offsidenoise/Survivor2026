@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T04:31:49.681Z",
+  "updated": "2026-10-10T11:59:34.770Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     5,
@@ -36,10 +36,10 @@
         "opponent": "Dallas Cowboys"
       },
       "6": {
-        "team": "Los Angeles Rams",
-        "prob": 83,
+        "team": "Kansas City Chiefs",
+        "prob": 80,
         "source": "kalshi",
-        "opponent": "Arizona Cardinals",
+        "opponent": "Los Angeles Chargers",
         "crowdPct": null
       },
       "7": {
@@ -64,10 +64,10 @@
         "crowdPct": null
       },
       "10": {
-        "team": "Indianapolis Colts",
-        "prob": 79.963,
-        "source": "powerindex",
-        "opponent": "Miami Dolphins",
+        "team": "Los Angeles Rams",
+        "prob": 84,
+        "source": "kalshi",
+        "opponent": "Arizona Cardinals",
         "crowdPct": null
       },
       "11": {
@@ -144,10 +144,10 @@
         "opponent": "Dallas Cowboys"
       },
       "6": {
-        "team": "Los Angeles Rams",
-        "prob": 83,
+        "team": "Kansas City Chiefs",
+        "prob": 80,
         "source": "kalshi",
-        "opponent": "Arizona Cardinals",
+        "opponent": "Los Angeles Chargers",
         "crowdPct": null
       },
       "7": {
@@ -172,10 +172,10 @@
         "crowdPct": null
       },
       "10": {
-        "team": "Indianapolis Colts",
-        "prob": 79.963,
-        "source": "powerindex",
-        "opponent": "Miami Dolphins",
+        "team": "Los Angeles Rams",
+        "prob": 84,
+        "source": "kalshi",
+        "opponent": "Arizona Cardinals",
         "crowdPct": null
       },
       "11": {
