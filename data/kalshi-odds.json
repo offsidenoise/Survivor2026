@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T22:18:41.419Z",
+  "updated": "2026-10-10T00:55:50.679Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -185,8 +185,8 @@
     },
     "Saints_Vikings": {
       "teams": {
-        "Saints": 45,
-        "Vikings": 55
+        "Saints": 44,
+        "Vikings": 56
       },
       "eventTicker": "KXNFLGAME-26OCT11MINNO"
     },
