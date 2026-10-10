@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T04:30:22.912Z",
+  "updated": "2026-10-10T06:50:51.698Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -45,15 +45,15 @@
     },
     "Eagles_Panthers": {
       "teams": {
-        "Eagles": 51,
-        "Panthers": 49
+        "Eagles": 52,
+        "Panthers": 48
       },
       "eventTicker": "KXNFLGAME-26OCT18CARPHI"
     },
     "Giants_Saints": {
       "teams": {
-        "Giants": 49,
-        "Saints": 51
+        "Giants": 48,
+        "Saints": 52
       },
       "eventTicker": "KXNFLGAME-26OCT18NONYG"
     },
@@ -178,8 +178,8 @@
     },
     "Texans_Titans": {
       "teams": {
-        "Titans": 24,
-        "Texans": 76
+        "Titans": 25,
+        "Texans": 75
       },
       "eventTicker": "KXNFLGAME-26OCT11HOUTEN"
     },
