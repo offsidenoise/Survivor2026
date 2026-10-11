@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T12:10:20.715Z",
+  "updated": "2026-10-11T12:21:00.229Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -73,8 +73,8 @@
     },
     "Browns_Ravens": {
       "teams": {
-        "Browns": 36,
-        "Ravens": 64
+        "Browns": 35,
+        "Ravens": 65
       },
       "eventTicker": "KXNFLGAME-26OCT18BALCLE"
     },
