@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T04:13:27.802Z",
+  "updated": "2026-10-11T05:55:11.125Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Chargers_Chiefs": {
       "teams": {
-        "Chargers": 21,
-        "Chiefs": 79
+        "Chargers": 22,
+        "Chiefs": 78
       },
       "eventTicker": "KXNFLGAME-26OCT18LACKC"
     },
@@ -38,8 +38,8 @@
     },
     "Buccaneers_Steelers": {
       "teams": {
-        "Buccaneers": 45,
-        "Steelers": 55
+        "Buccaneers": 44,
+        "Steelers": 56
       },
       "eventTicker": "KXNFLGAME-26OCT18PITTB"
     },
@@ -59,8 +59,8 @@
     },
     "Jets_Patriots": {
       "teams": {
-        "Jets": 26,
-        "Patriots": 74
+        "Jets": 27,
+        "Patriots": 73
       },
       "eventTicker": "KXNFLGAME-26OCT18NYJNE"
     },
