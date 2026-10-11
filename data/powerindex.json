@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-11T12:11:35.298Z",
+  "updated": "2026-10-11T21:32:59.305Z",
   "verifiedThisRun": true,
   "gamesAttempted": 272,
-  "gamesSucceeded": 272,
+  "gamesSucceeded": 271,
   "predictions": {
     "401872656": {
       "awayProb": 38.578,
@@ -707,10 +707,6 @@
     "401873091": {
       "awayProb": 36.058,
       "homeProb": 63.652
-    },
-    "401873092": {
-      "awayProb": 53.738,
-      "homeProb": 45.893
     },
     "401873093": {
       "awayProb": 49.53,
