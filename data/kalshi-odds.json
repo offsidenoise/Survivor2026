@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T00:12:43.754Z",
+  "updated": "2026-10-11T04:13:27.802Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -17,22 +17,22 @@
     },
     "Chargers_Chiefs": {
       "teams": {
-        "Chargers": 20,
-        "Chiefs": 80
+        "Chargers": 21,
+        "Chiefs": 79
       },
       "eventTicker": "KXNFLGAME-26OCT18LACKC"
     },
     "Bills_Raiders": {
       "teams": {
-        "Raiders": 31,
-        "Bills": 69
+        "Raiders": 32,
+        "Bills": 68
       },
       "eventTicker": "KXNFLGAME-26OCT18BUFLV"
     },
     "Cardinals_Rams": {
       "teams": {
-        "Rams": 84,
-        "Cardinals": 16
+        "Rams": 83,
+        "Cardinals": 17
       },
       "eventTicker": "KXNFLGAME-26OCT18ARILAR"
     },
@@ -45,8 +45,8 @@
     },
     "Eagles_Panthers": {
       "teams": {
-        "Eagles": 51,
-        "Panthers": 49
+        "Eagles": 52,
+        "Panthers": 48
       },
       "eventTicker": "KXNFLGAME-26OCT18CARPHI"
     },
@@ -80,8 +80,8 @@
     },
     "Bears_Falcons": {
       "teams": {
-        "Bears": 54,
-        "Falcons": 46
+        "Bears": 53,
+        "Falcons": 47
       },
       "eventTicker": "KXNFLGAME-26OCT18CHIATL"
     },
@@ -94,8 +94,8 @@
     },
     "Broncos_Seahawks": {
       "teams": {
-        "Seahawks": 55,
-        "Broncos": 45
+        "Seahawks": 54,
+        "Broncos": 46
       },
       "eventTicker": "KXNFLGAME-26OCT15SEADEN"
     },
@@ -185,8 +185,8 @@
     },
     "Saints_Vikings": {
       "teams": {
-        "Saints": 44,
-        "Vikings": 56
+        "Saints": 45,
+        "Vikings": 55
       },
       "eventTicker": "KXNFLGAME-26OCT11MINNO"
     },
