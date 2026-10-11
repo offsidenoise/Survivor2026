@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T04:14:39.039Z",
+  "updated": "2026-10-11T12:11:35.359Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     5,
@@ -37,7 +37,7 @@
       },
       "6": {
         "team": "Los Angeles Rams",
-        "prob": 83,
+        "prob": 84,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
@@ -145,7 +145,7 @@
       },
       "6": {
         "team": "Los Angeles Rams",
-        "prob": 83,
+        "prob": 84,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
