@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T06:26:44.315Z",
+  "updated": "2026-10-12T14:31:24.508Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Chargers_Chiefs": {
       "teams": {
-        "Chargers": 22,
-        "Chiefs": 78
+        "Chargers": 21,
+        "Chiefs": 79
       },
       "eventTicker": "KXNFLGAME-26OCT18LACKC"
     },
@@ -38,8 +38,8 @@
     },
     "Buccaneers_Steelers": {
       "teams": {
-        "Buccaneers": 42,
-        "Steelers": 58
+        "Buccaneers": 44,
+        "Steelers": 56
       },
       "eventTicker": "KXNFLGAME-26OCT18PITTB"
     },
@@ -52,15 +52,15 @@
     },
     "Giants_Saints": {
       "teams": {
-        "Giants": 50,
-        "Saints": 50
+        "Giants": 49,
+        "Saints": 51
       },
       "eventTicker": "KXNFLGAME-26OCT18NONYG"
     },
     "Jets_Patriots": {
       "teams": {
-        "Jets": 25,
-        "Patriots": 75
+        "Jets": 24,
+        "Patriots": 76
       },
       "eventTicker": "KXNFLGAME-26OCT18NYJNE"
     },
@@ -73,8 +73,8 @@
     },
     "Browns_Ravens": {
       "teams": {
-        "Browns": 33,
-        "Ravens": 67
+        "Browns": 32,
+        "Ravens": 68
       },
       "eventTicker": "KXNFLGAME-26OCT18BALCLE"
     },
