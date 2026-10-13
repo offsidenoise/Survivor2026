@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T00:11:20.917Z",
+  "updated": "2026-10-13T13:38:11.978Z",
   "season": 2026,
   "currentWeek": 5,
   "weeks": {
@@ -1430,34 +1430,6 @@
     "5": {
       "games": [
         {
-          "id": "401872994",
-          "date": "2026-10-13T00:15Z",
-          "shortName": "BUF @ LAR",
-          "completed": false,
-          "inProgress": false,
-          "awayScore": 0,
-          "homeScore": 0,
-          "awayWinner": false,
-          "homeWinner": false,
-          "away": {
-            "code": "BUF",
-            "name": "Buffalo Bills",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
-          },
-          "home": {
-            "code": "LAR",
-            "name": "Los Angeles Rams",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
-          },
-          "espnOdds": {
-            "details": "LAR -3.5",
-            "overUnder": 55.5,
-            "provider": "Draft Kings",
-            "homeProb": null,
-            "awayProb": null
-          }
-        },
-        {
           "id": "401872980",
           "date": "2026-10-09T00:15Z",
           "shortName": "TB @ DAL",
@@ -1764,6 +1736,28 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png"
           },
           "espnOdds": null
+        },
+        {
+          "id": "401872994",
+          "date": "2026-10-13T00:15Z",
+          "shortName": "BUF @ LAR",
+          "completed": true,
+          "inProgress": false,
+          "awayScore": 37,
+          "homeScore": 34,
+          "awayWinner": true,
+          "homeWinner": false,
+          "away": {
+            "code": "BUF",
+            "name": "Buffalo Bills",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
+          },
+          "home": {
+            "code": "LAR",
+            "name": "Los Angeles Rams",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
+          },
+          "espnOdds": null
         }
       ]
     },
@@ -1790,7 +1784,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
           },
           "espnOdds": {
-            "details": "SEA -3",
+            "details": "SEA -2.5",
             "overUnder": 40.5,
             "provider": "Draft Kings",
             "homeProb": null,
@@ -2042,7 +2036,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
           },
           "espnOdds": {
-            "details": "LAR -12.5",
+            "details": "LAR -13.5",
             "overUnder": 52.5,
             "provider": "Draft Kings",
             "homeProb": null,
@@ -2099,7 +2093,7 @@
           },
           "espnOdds": {
             "details": "BUF -6",
-            "overUnder": 52.5,
+            "overUnder": 53.5,
             "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
