@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T22:52:02.203Z",
+  "updated": "2026-10-13T00:11:21.173Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -38,8 +38,8 @@
     },
     "Buccaneers_Steelers": {
       "teams": {
-        "Buccaneers": 42,
-        "Steelers": 58
+        "Buccaneers": 43,
+        "Steelers": 57
       },
       "eventTicker": "KXNFLGAME-26OCT18PITTB"
     },
@@ -52,8 +52,8 @@
     },
     "Giants_Saints": {
       "teams": {
-        "Giants": 48,
-        "Saints": 52
+        "Giants": 49,
+        "Saints": 51
       },
       "eventTicker": "KXNFLGAME-26OCT18NONYG"
     },
@@ -73,8 +73,8 @@
     },
     "Browns_Ravens": {
       "teams": {
-        "Browns": 32,
-        "Ravens": 68
+        "Browns": 33,
+        "Ravens": 67
       },
       "eventTicker": "KXNFLGAME-26OCT18BALCLE"
     },
@@ -94,8 +94,8 @@
     },
     "Broncos_Seahawks": {
       "teams": {
-        "Seahawks": 60,
-        "Broncos": 40
+        "Seahawks": 59,
+        "Broncos": 41
       },
       "eventTicker": "KXNFLGAME-26OCT15SEADEN"
     },
