@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T22:00:21.838Z",
+  "updated": "2026-10-13T22:18:58.062Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
@@ -52,8 +52,8 @@
     },
     "Bengals_Ravens": {
       "teams": {
-        "Bengals": 37,
-        "Ravens": 63
+        "Bengals": 36,
+        "Ravens": 64
       },
       "eventTicker": "KXNFLGAME-26OCT25CINBAL"
     },
@@ -108,8 +108,8 @@
     },
     "Cowboys_Packers": {
       "teams": {
-        "Packers": 53,
-        "Cowboys": 47
+        "Packers": 52,
+        "Cowboys": 48
       },
       "eventTicker": "KXNFLGAME-26OCT18DALGB"
     },
