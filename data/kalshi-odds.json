@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T00:11:21.173Z",
+  "updated": "2026-10-13T03:19:04.310Z",
   "odds": {
     "49ers_Commanders": {
       "teams": {
@@ -24,8 +24,8 @@
     },
     "Bills_Raiders": {
       "teams": {
-        "Raiders": 30,
-        "Bills": 70
+        "Raiders": 31,
+        "Bills": 69
       },
       "eventTicker": "KXNFLGAME-26OCT18BUFLV"
     },
@@ -45,8 +45,8 @@
     },
     "Eagles_Panthers": {
       "teams": {
-        "Eagles": 52,
-        "Panthers": 48
+        "Eagles": 51,
+        "Panthers": 49
       },
       "eventTicker": "KXNFLGAME-26OCT18CARPHI"
     },
@@ -101,8 +101,8 @@
     },
     "Bills_Rams": {
       "teams": {
-        "Rams": 61,
-        "Bills": 39
+        "Rams": 40,
+        "Bills": 60
       },
       "eventTicker": "KXNFLGAME-26OCT12BUFLAR"
     }
