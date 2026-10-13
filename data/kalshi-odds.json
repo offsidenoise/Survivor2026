@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T13:38:12.156Z",
+  "updated": "2026-10-13T17:49:20.975Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
@@ -24,8 +24,8 @@
     },
     "Raiders_Rams": {
       "teams": {
-        "Raiders": 27,
-        "Rams": 73
+        "Raiders": 26,
+        "Rams": 74
       },
       "eventTicker": "KXNFLGAME-26OCT25LARLV"
     },
@@ -38,8 +38,8 @@
     },
     "Dolphins_Jets": {
       "teams": {
-        "Jets": 63,
-        "Dolphins": 37
+        "Jets": 62,
+        "Dolphins": 38
       },
       "eventTicker": "KXNFLGAME-26OCT25MIANYJ"
     },
@@ -94,8 +94,8 @@
     },
     "Bears_Patriots": {
       "teams": {
-        "Patriots": 44,
-        "Bears": 56
+        "Patriots": 46,
+        "Bears": 54
       },
       "eventTicker": "KXNFLGAME-26OCT22NECHI"
     },
@@ -129,15 +129,15 @@
     },
     "Cardinals_Rams": {
       "teams": {
-        "Rams": 86,
-        "Cardinals": 14
+        "Rams": 87,
+        "Cardinals": 13
       },
       "eventTicker": "KXNFLGAME-26OCT18ARILAR"
     },
     "Buccaneers_Steelers": {
       "teams": {
-        "Buccaneers": 42,
-        "Steelers": 58
+        "Buccaneers": 45,
+        "Steelers": 55
       },
       "eventTicker": "KXNFLGAME-26OCT18PITTB"
     },
@@ -150,8 +150,8 @@
     },
     "Giants_Saints": {
       "teams": {
-        "Giants": 50,
-        "Saints": 50
+        "Giants": 49,
+        "Saints": 51
       },
       "eventTicker": "KXNFLGAME-26OCT18NONYG"
     },
@@ -164,8 +164,8 @@
     },
     "Colts_Titans": {
       "teams": {
-        "Titans": 26,
-        "Colts": 74
+        "Titans": 25,
+        "Colts": 75
       },
       "eventTicker": "KXNFLGAME-26OCT18TENIND"
     },
@@ -178,8 +178,8 @@
     },
     "Bears_Falcons": {
       "teams": {
-        "Bears": 62,
-        "Falcons": 38
+        "Bears": 61,
+        "Falcons": 39
       },
       "eventTicker": "KXNFLGAME-26OCT18CHIATL"
     },
@@ -192,8 +192,8 @@
     },
     "Broncos_Seahawks": {
       "teams": {
-        "Seahawks": 59,
-        "Broncos": 41
+        "Seahawks": 58,
+        "Broncos": 42
       },
       "eventTicker": "KXNFLGAME-26OCT15SEADEN"
     }
