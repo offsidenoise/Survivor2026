@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T11:17:25.583Z",
+  "updated": "2026-10-14T16:38:39.401Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     6,
@@ -27,7 +27,7 @@
       "source": "kalshi",
       "opponent": "Los Angeles Chargers",
       "crowdPct": 5.94,
-      "ev": 0.020526315789473556
+      "ev": 0.020526315789473826
     },
     "fullSeasonPlan": {
       "6": {
@@ -36,11 +36,11 @@
         "source": "kalshi",
         "opponent": "Los Angeles Chargers",
         "crowdPct": 5.94,
-        "ev": 0.020526315789473556
+        "ev": 0.020526315789473826
       },
       "7": {
         "team": "Houston Texans",
-        "prob": 76,
+        "prob": 78,
         "source": "kalshi",
         "opponent": "New York Giants",
         "crowdPct": null
@@ -132,7 +132,7 @@
       "source": "kalshi",
       "opponent": "Los Angeles Chargers",
       "crowdPct": 5.94,
-      "ev": 0.020526315789473556
+      "ev": 0.020526315789473826
     },
     "fullSeasonPlan": {
       "6": {
@@ -141,11 +141,11 @@
         "source": "kalshi",
         "opponent": "Los Angeles Chargers",
         "crowdPct": 5.94,
-        "ev": 0.020526315789473556
+        "ev": 0.020526315789473826
       },
       "7": {
         "team": "Houston Texans",
-        "prob": 76,
+        "prob": 78,
         "source": "kalshi",
         "opponent": "New York Giants",
         "crowdPct": null
