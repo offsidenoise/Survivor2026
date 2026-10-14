@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T20:14:01.141Z",
+  "updated": "2026-10-14T21:18:45.002Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
@@ -122,8 +122,8 @@
     },
     "Bills_Raiders": {
       "teams": {
-        "Raiders": 32,
-        "Bills": 68
+        "Raiders": 33,
+        "Bills": 67
       },
       "eventTicker": "KXNFLGAME-26OCT18BUFLV"
     },
