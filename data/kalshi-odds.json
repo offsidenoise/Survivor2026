@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T16:37:15.928Z",
+  "updated": "2026-10-14T20:14:01.141Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
@@ -136,8 +136,8 @@
     },
     "Buccaneers_Steelers": {
       "teams": {
-        "Buccaneers": 45,
-        "Steelers": 55
+        "Buccaneers": 44,
+        "Steelers": 56
       },
       "eventTicker": "KXNFLGAME-26OCT18PITTB"
     },
@@ -178,8 +178,8 @@
     },
     "Bears_Falcons": {
       "teams": {
-        "Bears": 58,
-        "Falcons": 42
+        "Bears": 53,
+        "Falcons": 47
       },
       "eventTicker": "KXNFLGAME-26OCT18CHIATL"
     },
