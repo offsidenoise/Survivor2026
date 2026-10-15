@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-15T16:48:52.422Z",
+  "updated": "2026-10-15T20:05:03.550Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
-        "Eagles": 50,
-        "Cowboys": 50
+        "Eagles": 46,
+        "Cowboys": 54
       },
       "eventTicker": "KXNFLGAME-26OCT26DALPHI"
     },
@@ -24,8 +24,8 @@
     },
     "Raiders_Rams": {
       "teams": {
-        "Raiders": 25,
-        "Rams": 75
+        "Raiders": 26,
+        "Rams": 74
       },
       "eventTicker": "KXNFLGAME-26OCT25LARLV"
     },
@@ -38,8 +38,8 @@
     },
     "Dolphins_Jets": {
       "teams": {
-        "Jets": 67,
-        "Dolphins": 33
+        "Jets": 68,
+        "Dolphins": 32
       },
       "eventTicker": "KXNFLGAME-26OCT25MIANYJ"
     },
@@ -143,8 +143,8 @@
     },
     "Eagles_Panthers": {
       "teams": {
-        "Eagles": 50,
-        "Panthers": 50
+        "Eagles": 37,
+        "Panthers": 63
       },
       "eventTicker": "KXNFLGAME-26OCT18CARPHI"
     },
@@ -171,8 +171,8 @@
     },
     "Browns_Ravens": {
       "teams": {
-        "Browns": 31,
-        "Ravens": 69
+        "Browns": 33,
+        "Ravens": 67
       },
       "eventTicker": "KXNFLGAME-26OCT18BALCLE"
     },
@@ -185,8 +185,8 @@
     },
     "Jaguars_Texans": {
       "teams": {
-        "Jaguars": 57,
-        "Texans": 43
+        "Jaguars": 56,
+        "Texans": 44
       },
       "eventTicker": "KXNFLGAME-26OCT18HOUJAC"
     },
