@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T16:24:10.751Z",
+  "updated": "2026-10-15T20:59:17.464Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     6,
@@ -27,7 +27,7 @@
       "source": "kalshi",
       "opponent": "Los Angeles Chargers",
       "crowdPct": 5.96,
-      "ev": 0.020526315789473497
+      "ev": 0.020526315789473545
     },
     "fullSeasonPlan": {
       "6": {
@@ -36,7 +36,7 @@
         "source": "kalshi",
         "opponent": "Los Angeles Chargers",
         "crowdPct": 5.96,
-        "ev": 0.020526315789473497
+        "ev": 0.020526315789473545
       },
       "7": {
         "team": "Houston Texans",
@@ -47,14 +47,14 @@
       },
       "8": {
         "team": "Cincinnati Bengals",
-        "prob": 81.602,
+        "prob": 81.925,
         "source": "powerindex",
         "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "9": {
         "team": "San Francisco 49ers",
-        "prob": 84.827,
+        "prob": 84.86399999999999,
         "source": "powerindex",
         "opponent": "Las Vegas Raiders",
         "crowdPct": null
@@ -68,56 +68,56 @@
       },
       "11": {
         "team": "Buffalo Bills",
-        "prob": 89.79,
+        "prob": 90.245,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "12": {
         "team": "Jacksonville Jaguars",
-        "prob": 85.25500000000001,
+        "prob": 84.869,
         "source": "powerindex",
         "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "13": {
         "team": "Denver Broncos",
-        "prob": 83.34700000000001,
+        "prob": 83.667,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "14": {
         "team": "Seattle Seahawks",
-        "prob": 83.025,
+        "prob": 82.588,
         "source": "powerindex",
         "opponent": "New York Giants",
         "crowdPct": null
       },
       "15": {
         "team": "Green Bay Packers",
-        "prob": 80.655,
+        "prob": 81.108,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "16": {
         "team": "Detroit Lions",
-        "prob": 78.905,
+        "prob": 78.86999999999999,
         "source": "powerindex",
         "opponent": "New York Giants",
         "crowdPct": null
       },
       "17": {
         "team": "Dallas Cowboys",
-        "prob": 80.00399999999999,
+        "prob": 79.849,
         "source": "powerindex",
         "opponent": "New York Giants",
         "crowdPct": null
       },
       "18": {
         "team": "New England Patriots",
-        "prob": 85.053,
+        "prob": 85.30499999999999,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -132,7 +132,7 @@
       "source": "kalshi",
       "opponent": "Los Angeles Chargers",
       "crowdPct": 5.96,
-      "ev": 0.020526315789473497
+      "ev": 0.020526315789473545
     },
     "fullSeasonPlan": {
       "6": {
@@ -141,7 +141,7 @@
         "source": "kalshi",
         "opponent": "Los Angeles Chargers",
         "crowdPct": 5.96,
-        "ev": 0.020526315789473497
+        "ev": 0.020526315789473545
       },
       "7": {
         "team": "Houston Texans",
@@ -152,14 +152,14 @@
       },
       "8": {
         "team": "Cincinnati Bengals",
-        "prob": 81.602,
+        "prob": 81.925,
         "source": "powerindex",
         "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "9": {
         "team": "San Francisco 49ers",
-        "prob": 84.827,
+        "prob": 84.86399999999999,
         "source": "powerindex",
         "opponent": "Las Vegas Raiders",
         "crowdPct": null
@@ -173,56 +173,56 @@
       },
       "11": {
         "team": "Buffalo Bills",
-        "prob": 89.79,
+        "prob": 90.245,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "12": {
         "team": "Jacksonville Jaguars",
-        "prob": 85.25500000000001,
+        "prob": 84.869,
         "source": "powerindex",
         "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "13": {
         "team": "Denver Broncos",
-        "prob": 83.34700000000001,
+        "prob": 83.667,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "14": {
         "team": "Seattle Seahawks",
-        "prob": 83.025,
+        "prob": 82.588,
         "source": "powerindex",
         "opponent": "New York Giants",
         "crowdPct": null
       },
       "15": {
         "team": "Green Bay Packers",
-        "prob": 80.655,
+        "prob": 81.108,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "16": {
         "team": "Detroit Lions",
-        "prob": 78.905,
+        "prob": 78.86999999999999,
         "source": "powerindex",
         "opponent": "New York Giants",
         "crowdPct": null
       },
       "17": {
         "team": "Dallas Cowboys",
-        "prob": 80.00399999999999,
+        "prob": 79.849,
         "source": "powerindex",
         "opponent": "New York Giants",
         "crowdPct": null
       },
       "18": {
         "team": "New England Patriots",
-        "prob": 85.053,
+        "prob": 85.30499999999999,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null

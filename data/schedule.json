@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T16:22:43.716Z",
+  "updated": "2026-10-15T20:57:58.140Z",
   "season": 2026,
   "currentWeek": 6,
   "weeks": {
@@ -1868,8 +1868,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png"
           },
           "espnOdds": {
-            "details": "BAL -5.5",
-            "overUnder": 42.5,
+            "details": "BAL -3.5",
+            "overUnder": 40.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -1980,8 +1980,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png"
           },
           "espnOdds": {
-            "details": "CAR -1.5",
-            "overUnder": 40.5,
+            "details": "CAR -3.5",
+            "overUnder": 38.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -2149,7 +2149,7 @@
           },
           "espnOdds": {
             "details": "SF -7.5",
-            "overUnder": 50.5,
+            "overUnder": 51.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -2543,13 +2543,7 @@
             "name": "Philadelphia Eagles",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png"
           },
-          "espnOdds": {
-            "details": "PHI -1.5",
-            "overUnder": 47.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         }
       ]
     },
