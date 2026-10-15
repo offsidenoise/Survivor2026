@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T16:22:44.246Z",
+  "updated": "2026-10-15T16:48:52.422Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
@@ -24,8 +24,8 @@
     },
     "Raiders_Rams": {
       "teams": {
-        "Raiders": 26,
-        "Rams": 74
+        "Raiders": 25,
+        "Rams": 75
       },
       "eventTicker": "KXNFLGAME-26OCT25LARLV"
     },
@@ -87,8 +87,8 @@
     },
     "Saints_Steelers": {
       "teams": {
-        "Steelers": 56,
-        "Saints": 44
+        "Steelers": 55,
+        "Saints": 45
       },
       "eventTicker": "KXNFLGAME-26OCT25PITNO"
     },
