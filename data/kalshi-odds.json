@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-15T01:34:27.477Z",
+  "updated": "2026-10-15T03:22:37.070Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
-        "Eagles": 51,
-        "Cowboys": 49
+        "Eagles": 50,
+        "Cowboys": 50
       },
       "eventTicker": "KXNFLGAME-26OCT26DALPHI"
     },
@@ -59,8 +59,8 @@
     },
     "49ers_Falcons": {
       "teams": {
-        "49ers": 66,
-        "Falcons": 34
+        "49ers": 67,
+        "Falcons": 33
       },
       "eventTicker": "KXNFLGAME-26OCT25SFATL"
     },
@@ -73,8 +73,8 @@
     },
     "Colts_Vikings": {
       "teams": {
-        "Vikings": 68,
-        "Colts": 32
+        "Vikings": 69,
+        "Colts": 31
       },
       "eventTicker": "KXNFLGAME-26OCT25INDMIN"
     },
@@ -178,8 +178,8 @@
     },
     "Bears_Falcons": {
       "teams": {
-        "Bears": 52,
-        "Falcons": 48
+        "Bears": 51,
+        "Falcons": 49
       },
       "eventTicker": "KXNFLGAME-26OCT18CHIATL"
     },
