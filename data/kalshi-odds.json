@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T20:57:58.336Z",
+  "updated": "2026-10-15T23:02:34.926Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
@@ -38,8 +38,8 @@
     },
     "Dolphins_Jets": {
       "teams": {
-        "Jets": 67,
-        "Dolphins": 33
+        "Jets": 66,
+        "Dolphins": 34
       },
       "eventTicker": "KXNFLGAME-26OCT25MIANYJ"
     },
@@ -171,8 +171,8 @@
     },
     "Browns_Ravens": {
       "teams": {
-        "Browns": 33,
-        "Ravens": 67
+        "Browns": 35,
+        "Ravens": 65
       },
       "eventTicker": "KXNFLGAME-26OCT18BALCLE"
     },
