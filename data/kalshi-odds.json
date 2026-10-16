@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T23:02:34.926Z",
+  "updated": "2026-10-16T01:14:49.337Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Lions_Packers": {
       "teams": {
-        "Packers": 35,
-        "Lions": 65
+        "Packers": 34,
+        "Lions": 66
       },
       "eventTicker": "KXNFLGAME-26OCT25GBDET"
     },
@@ -31,8 +31,8 @@
     },
     "Broncos_Cardinals": {
       "teams": {
-        "Broncos": 68,
-        "Cardinals": 32
+        "Broncos": 67,
+        "Cardinals": 33
       },
       "eventTicker": "KXNFLGAME-26OCT25DENARI"
     },
@@ -192,8 +192,8 @@
     },
     "Broncos_Seahawks": {
       "teams": {
-        "Seahawks": 56,
-        "Broncos": 44
+        "Seahawks": 26,
+        "Broncos": 74
       },
       "eventTicker": "KXNFLGAME-26OCT15SEADEN"
     }
