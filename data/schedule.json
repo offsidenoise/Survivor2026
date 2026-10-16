@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T20:57:58.140Z",
+  "updated": "2026-10-16T03:18:16.572Z",
   "season": 2026,
   "currentWeek": 6,
   "weeks": {
@@ -1768,9 +1768,9 @@
           "date": "2026-10-16T00:15Z",
           "shortName": "SEA @ DEN",
           "completed": false,
-          "inProgress": false,
-          "awayScore": 0,
-          "homeScore": 0,
+          "inProgress": true,
+          "awayScore": 11,
+          "homeScore": 14,
           "awayWinner": false,
           "homeWinner": false,
           "away": {
@@ -1783,13 +1783,7 @@
             "name": "Denver Broncos",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
           },
-          "espnOdds": {
-            "details": "SEA -2.5",
-            "overUnder": 40.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401872996",
@@ -2065,7 +2059,7 @@
           },
           "espnOdds": {
             "details": "KC -8.5",
-            "overUnder": 42.5,
+            "overUnder": 41.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -2092,7 +2086,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png"
           },
           "espnOdds": {
-            "details": "BUF -5.5",
+            "details": "BUF -4.5",
             "overUnder": 53.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -2431,13 +2425,7 @@
             "name": "Arizona Cardinals",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png"
           },
-          "espnOdds": {
-            "details": "DEN -5.5",
-            "overUnder": 45.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873020",
@@ -2515,13 +2503,7 @@
             "name": "Seattle Seahawks",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
           },
-          "espnOdds": {
-            "details": "SEA -2.5",
-            "overUnder": 44.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873009",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T01:14:49.337Z",
+  "updated": "2026-10-16T03:18:16.792Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
@@ -94,8 +94,8 @@
     },
     "Bears_Patriots": {
       "teams": {
-        "Patriots": 47,
-        "Bears": 53
+        "Patriots": 46,
+        "Bears": 54
       },
       "eventTicker": "KXNFLGAME-26OCT22NECHI"
     },
@@ -192,8 +192,8 @@
     },
     "Broncos_Seahawks": {
       "teams": {
-        "Seahawks": 26,
-        "Broncos": 74
+        "Seahawks": 57,
+        "Broncos": 43
       },
       "eventTicker": "KXNFLGAME-26OCT15SEADEN"
     }
