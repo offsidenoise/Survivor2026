@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T03:20:03.344Z",
+  "updated": "2026-10-16T10:48:50.321Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     6,
@@ -22,25 +22,21 @@
   "originalRecommendation": {
     "week": 6,
     "pick": {
-      "team": "Kansas City Chiefs",
-      "prob": 78,
-      "source": "kalshi",
-      "opponent": "Los Angeles Chargers",
-      "crowdPct": 5.96,
-      "ev": 0.020526315789473774
+      "team": "Denver Broncos",
+      "prob": 100,
+      "source": "final-result",
+      "opponent": "Seattle Seahawks"
     },
     "fullSeasonPlan": {
       "6": {
-        "team": "Kansas City Chiefs",
-        "prob": 78,
-        "source": "kalshi",
-        "opponent": "Los Angeles Chargers",
-        "crowdPct": 5.96,
-        "ev": 0.020526315789473774
+        "team": "Denver Broncos",
+        "prob": 100,
+        "source": "final-result",
+        "opponent": "Seattle Seahawks"
       },
       "7": {
         "team": "Houston Texans",
-        "prob": 78,
+        "prob": 74,
         "source": "kalshi",
         "opponent": "New York Giants",
         "crowdPct": null
@@ -53,10 +49,10 @@
         "crowdPct": null
       },
       "9": {
-        "team": "San Francisco 49ers",
-        "prob": 84.86399999999999,
+        "team": "Seattle Seahawks",
+        "prob": 83.935,
         "source": "powerindex",
-        "opponent": "Las Vegas Raiders",
+        "opponent": "Arizona Cardinals",
         "crowdPct": null
       },
       "10": {
@@ -81,17 +77,17 @@
         "crowdPct": null
       },
       "13": {
-        "team": "Denver Broncos",
-        "prob": 83.667,
+        "team": "San Francisco 49ers",
+        "prob": 85.018,
         "source": "powerindex",
-        "opponent": "Miami Dolphins",
+        "opponent": "New York Giants",
         "crowdPct": null
       },
       "14": {
-        "team": "Seattle Seahawks",
-        "prob": 82.588,
+        "team": "Chicago Bears",
+        "prob": 81.982,
         "source": "powerindex",
-        "opponent": "New York Giants",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "15": {
@@ -127,25 +123,21 @@
   "crowdAdjustedRecommendation": {
     "week": 6,
     "pick": {
-      "team": "Kansas City Chiefs",
-      "prob": 78,
-      "source": "kalshi",
-      "opponent": "Los Angeles Chargers",
-      "crowdPct": 5.96,
-      "ev": 0.020526315789473774
+      "team": "Denver Broncos",
+      "prob": 100,
+      "source": "final-result",
+      "opponent": "Seattle Seahawks"
     },
     "fullSeasonPlan": {
       "6": {
-        "team": "Kansas City Chiefs",
-        "prob": 78,
-        "source": "kalshi",
-        "opponent": "Los Angeles Chargers",
-        "crowdPct": 5.96,
-        "ev": 0.020526315789473774
+        "team": "Denver Broncos",
+        "prob": 100,
+        "source": "final-result",
+        "opponent": "Seattle Seahawks"
       },
       "7": {
         "team": "Houston Texans",
-        "prob": 78,
+        "prob": 74,
         "source": "kalshi",
         "opponent": "New York Giants",
         "crowdPct": null
@@ -158,10 +150,10 @@
         "crowdPct": null
       },
       "9": {
-        "team": "San Francisco 49ers",
-        "prob": 84.86399999999999,
+        "team": "Seattle Seahawks",
+        "prob": 83.935,
         "source": "powerindex",
-        "opponent": "Las Vegas Raiders",
+        "opponent": "Arizona Cardinals",
         "crowdPct": null
       },
       "10": {
@@ -186,17 +178,17 @@
         "crowdPct": null
       },
       "13": {
-        "team": "Denver Broncos",
-        "prob": 83.667,
+        "team": "San Francisco 49ers",
+        "prob": 85.018,
         "source": "powerindex",
-        "opponent": "Miami Dolphins",
+        "opponent": "New York Giants",
         "crowdPct": null
       },
       "14": {
-        "team": "Seattle Seahawks",
-        "prob": 82.588,
+        "team": "Chicago Bears",
+        "prob": 81.982,
         "source": "powerindex",
-        "opponent": "New York Giants",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "15": {
