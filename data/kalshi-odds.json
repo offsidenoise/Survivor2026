@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T10:12:33.210Z",
+  "updated": "2026-10-17T12:28:32.846Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
@@ -73,8 +73,8 @@
     },
     "Colts_Vikings": {
       "teams": {
-        "Vikings": 68,
-        "Colts": 32
+        "Vikings": 69,
+        "Colts": 31
       },
       "eventTicker": "KXNFLGAME-26OCT25INDMIN"
     },
