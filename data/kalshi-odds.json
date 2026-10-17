@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-17T15:53:00.147Z",
+  "updated": "2026-10-17T18:08:25.793Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
-        "Eagles": 42,
-        "Cowboys": 58
+        "Eagles": 40,
+        "Cowboys": 60
       },
       "eventTicker": "KXNFLGAME-26OCT26DALPHI"
     },
@@ -17,36 +17,36 @@
     },
     "Lions_Packers": {
       "teams": {
-        "Packers": 39,
-        "Lions": 61
+        "Packers": 40,
+        "Lions": 60
       },
       "eventTicker": "KXNFLGAME-26OCT25GBDET"
     },
     "Raiders_Rams": {
       "teams": {
-        "Raiders": 27,
-        "Rams": 73
+        "Raiders": 26,
+        "Rams": 74
       },
       "eventTicker": "KXNFLGAME-26OCT25LARLV"
     },
     "Broncos_Cardinals": {
       "teams": {
-        "Broncos": 71,
-        "Cardinals": 29
+        "Broncos": 70,
+        "Cardinals": 30
       },
       "eventTicker": "KXNFLGAME-26OCT25DENARI"
     },
     "Dolphins_Jets": {
       "teams": {
-        "Jets": 66,
-        "Dolphins": 34
+        "Jets": 67,
+        "Dolphins": 33
       },
       "eventTicker": "KXNFLGAME-26OCT25MIANYJ"
     },
     "Buccaneers_Panthers": {
       "teams": {
-        "Buccaneers": 42,
-        "Panthers": 58
+        "Buccaneers": 41,
+        "Panthers": 59
       },
       "eventTicker": "KXNFLGAME-26OCT25TBCAR"
     },
@@ -59,8 +59,8 @@
     },
     "49ers_Falcons": {
       "teams": {
-        "49ers": 67,
-        "Falcons": 33
+        "49ers": 68,
+        "Falcons": 32
       },
       "eventTicker": "KXNFLGAME-26OCT25SFATL"
     },
@@ -73,8 +73,8 @@
     },
     "Colts_Vikings": {
       "teams": {
-        "Vikings": 68,
-        "Colts": 32
+        "Vikings": 69,
+        "Colts": 31
       },
       "eventTicker": "KXNFLGAME-26OCT25INDMIN"
     },
@@ -87,15 +87,15 @@
     },
     "Saints_Steelers": {
       "teams": {
-        "Steelers": 56,
-        "Saints": 44
+        "Steelers": 55,
+        "Saints": 45
       },
       "eventTicker": "KXNFLGAME-26OCT25PITNO"
     },
     "Bears_Patriots": {
       "teams": {
-        "Patriots": 47,
-        "Bears": 53
+        "Patriots": 48,
+        "Bears": 52
       },
       "eventTicker": "KXNFLGAME-26OCT22NECHI"
     },
@@ -171,8 +171,8 @@
     },
     "Browns_Ravens": {
       "teams": {
-        "Browns": 39,
-        "Ravens": 61
+        "Browns": 40,
+        "Ravens": 60
       },
       "eventTicker": "KXNFLGAME-26OCT18BALCLE"
     },
