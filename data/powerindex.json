@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-16T20:34:15.819Z",
+  "updated": "2026-10-17T03:10:25.160Z",
   "verifiedThisRun": true,
   "gamesAttempted": 272,
-  "gamesSucceeded": 272,
+  "gamesSucceeded": 270,
   "predictions": {
     "401872656": {
       "awayProb": 38.578,
@@ -616,10 +616,6 @@
       "awayProb": 63.481,
       "homeProb": 36.228
     },
-    "401873069": {
-      "awayProb": 79.81200000000001,
-      "homeProb": 20.027
-    },
     "401873070": {
       "awayProb": 10.075000000000001,
       "homeProb": 89.84400000000001
@@ -819,10 +815,6 @@
     "401873119": {
       "awayProb": 52.048,
       "homeProb": 47.57
-    },
-    "401873120": {
-      "awayProb": 39.1,
-      "homeProb": 60.585
     },
     "401873121": {
       "awayProb": 15.995000000000001,
