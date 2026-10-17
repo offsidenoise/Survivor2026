@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T08:45:32.358Z",
+  "updated": "2026-10-17T10:12:33.210Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
@@ -10,8 +10,8 @@
     },
     "Chiefs_Seahawks": {
       "teams": {
-        "Seahawks": 53,
-        "Chiefs": 47
+        "Seahawks": 52,
+        "Chiefs": 48
       },
       "eventTicker": "KXNFLGAME-26OCT25KCSEA"
     },
@@ -73,8 +73,8 @@
     },
     "Colts_Vikings": {
       "teams": {
-        "Vikings": 67,
-        "Colts": 33
+        "Vikings": 68,
+        "Colts": 32
       },
       "eventTicker": "KXNFLGAME-26OCT25INDMIN"
     },
