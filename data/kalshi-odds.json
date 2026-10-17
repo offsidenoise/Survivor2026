@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-16T21:53:48.868Z",
+  "updated": "2026-10-17T00:10:07.958Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
-        "Eagles": 41,
-        "Cowboys": 59
+        "Eagles": 38,
+        "Cowboys": 62
       },
       "eventTicker": "KXNFLGAME-26OCT26DALPHI"
     },
     "Chiefs_Seahawks": {
       "teams": {
-        "Seahawks": 55,
-        "Chiefs": 45
+        "Seahawks": 54,
+        "Chiefs": 46
       },
       "eventTicker": "KXNFLGAME-26OCT25KCSEA"
     },
@@ -45,8 +45,8 @@
     },
     "Buccaneers_Panthers": {
       "teams": {
-        "Buccaneers": 42,
-        "Panthers": 58
+        "Buccaneers": 41,
+        "Panthers": 59
       },
       "eventTicker": "KXNFLGAME-26OCT25TBCAR"
     },
@@ -73,15 +73,15 @@
     },
     "Colts_Vikings": {
       "teams": {
-        "Vikings": 69,
-        "Colts": 31
+        "Vikings": 68,
+        "Colts": 32
       },
       "eventTicker": "KXNFLGAME-26OCT25INDMIN"
     },
     "Giants_Texans": {
       "teams": {
-        "Giants": 25,
-        "Texans": 75
+        "Giants": 24,
+        "Texans": 76
       },
       "eventTicker": "KXNFLGAME-26OCT25NYGHOU"
     },
@@ -143,8 +143,8 @@
     },
     "Eagles_Panthers": {
       "teams": {
-        "Eagles": 38,
-        "Panthers": 62
+        "Eagles": 39,
+        "Panthers": 61
       },
       "eventTicker": "KXNFLGAME-26OCT18CARPHI"
     },
