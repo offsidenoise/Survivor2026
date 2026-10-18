@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-18T20:08:59.220Z",
+  "updated": "2026-10-18T21:23:42.888Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
-        "Eagles": 36,
-        "Cowboys": 64
+        "Eagles": 33,
+        "Cowboys": 67
       },
       "eventTicker": "KXNFLGAME-26OCT26DALPHI"
     },
@@ -17,71 +17,71 @@
     },
     "Lions_Packers": {
       "teams": {
-        "Packers": 40,
-        "Lions": 60
+        "Packers": 41,
+        "Lions": 59
       },
       "eventTicker": "KXNFLGAME-26OCT25GBDET"
     },
     "Raiders_Rams": {
       "teams": {
-        "Raiders": 35,
-        "Rams": 65
+        "Raiders": 37,
+        "Rams": 63
       },
       "eventTicker": "KXNFLGAME-26OCT25LARLV"
     },
     "Broncos_Cardinals": {
       "teams": {
-        "Broncos": 70,
-        "Cardinals": 30
+        "Broncos": 71,
+        "Cardinals": 29
       },
       "eventTicker": "KXNFLGAME-26OCT25DENARI"
     },
     "Dolphins_Jets": {
       "teams": {
-        "Jets": 68,
-        "Dolphins": 32
+        "Jets": 67,
+        "Dolphins": 33
       },
       "eventTicker": "KXNFLGAME-26OCT25MIANYJ"
     },
     "Buccaneers_Panthers": {
       "teams": {
-        "Buccaneers": 48,
-        "Panthers": 52
+        "Buccaneers": 42,
+        "Panthers": 58
       },
       "eventTicker": "KXNFLGAME-26OCT25TBCAR"
     },
     "Bengals_Ravens": {
       "teams": {
-        "Bengals": 43,
-        "Ravens": 57
+        "Bengals": 48,
+        "Ravens": 52
       },
       "eventTicker": "KXNFLGAME-26OCT25CINBAL"
     },
     "49ers_Falcons": {
       "teams": {
-        "49ers": 71,
-        "Falcons": 29
+        "49ers": 70,
+        "Falcons": 30
       },
       "eventTicker": "KXNFLGAME-26OCT25SFATL"
     },
     "Browns_Titans": {
       "teams": {
-        "Titans": 41,
-        "Browns": 59
+        "Titans": 37,
+        "Browns": 63
       },
       "eventTicker": "KXNFLGAME-26OCT25CLETEN"
     },
     "Colts_Vikings": {
       "teams": {
-        "Vikings": 71,
-        "Colts": 29
+        "Vikings": 70,
+        "Colts": 30
       },
       "eventTicker": "KXNFLGAME-26OCT25INDMIN"
     },
     "Giants_Texans": {
       "teams": {
-        "Giants": 20,
-        "Texans": 80
+        "Giants": 25,
+        "Texans": 75
       },
       "eventTicker": "KXNFLGAME-26OCT25NYGHOU"
     },
@@ -94,8 +94,8 @@
     },
     "Bears_Patriots": {
       "teams": {
-        "Patriots": 47,
-        "Bears": 53
+        "Patriots": 45,
+        "Bears": 55
       },
       "eventTicker": "KXNFLGAME-26OCT22NECHI"
     },
@@ -115,66 +115,24 @@
     },
     "Chargers_Chiefs": {
       "teams": {
-        "Chargers": 22,
-        "Chiefs": 78
+        "Chargers": 19,
+        "Chiefs": 81
       },
       "eventTicker": "KXNFLGAME-26OCT18LACKC"
     },
     "Bills_Raiders": {
       "teams": {
-        "Raiders": 32,
-        "Bills": 68
+        "Raiders": 28,
+        "Bills": 72
       },
       "eventTicker": "KXNFLGAME-26OCT18BUFLV"
     },
     "Cardinals_Rams": {
       "teams": {
-        "Rams": 82,
-        "Cardinals": 18
+        "Rams": 73,
+        "Cardinals": 27
       },
       "eventTicker": "KXNFLGAME-26OCT18ARILAR"
-    },
-    "Buccaneers_Steelers": {
-      "teams": {
-        "Buccaneers": 40,
-        "Steelers": 60
-      },
-      "eventTicker": "KXNFLGAME-26OCT18PITTB"
-    },
-    "Eagles_Panthers": {
-      "teams": {
-        "Eagles": 4,
-        "Panthers": 96
-      },
-      "eventTicker": "KXNFLGAME-26OCT18CARPHI"
-    },
-    "Giants_Saints": {
-      "teams": {
-        "Giants": 4,
-        "Saints": 96
-      },
-      "eventTicker": "KXNFLGAME-26OCT18NONYG"
-    },
-    "Jets_Patriots": {
-      "teams": {
-        "Jets": 1,
-        "Patriots": 99
-      },
-      "eventTicker": "KXNFLGAME-26OCT18NYJNE"
-    },
-    "Colts_Titans": {
-      "teams": {
-        "Titans": 97,
-        "Colts": 3
-      },
-      "eventTicker": "KXNFLGAME-26OCT18TENIND"
-    },
-    "Bears_Falcons": {
-      "teams": {
-        "Bears": 97,
-        "Falcons": 3
-      },
-      "eventTicker": "KXNFLGAME-26OCT18CHIATL"
     }
   },
   "unmapped": []
