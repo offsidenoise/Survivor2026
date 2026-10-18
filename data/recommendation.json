@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T03:12:48.901Z",
+  "updated": "2026-10-18T10:28:50.621Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     6,
@@ -36,7 +36,7 @@
       },
       "7": {
         "team": "Houston Texans",
-        "prob": 75,
+        "prob": 74,
         "source": "kalshi",
         "opponent": "New York Giants",
         "crowdPct": null
@@ -137,7 +137,7 @@
       },
       "7": {
         "team": "Houston Texans",
-        "prob": 75,
+        "prob": 74,
         "source": "kalshi",
         "opponent": "New York Giants",
         "crowdPct": null

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T03:11:37.928Z",
+  "updated": "2026-10-18T10:27:50.031Z",
   "season": 2026,
   "currentWeek": 6,
   "weeks": {
@@ -1764,28 +1764,6 @@
     "6": {
       "games": [
         {
-          "id": "401872995",
-          "date": "2026-10-16T00:15Z",
-          "shortName": "SEA @ DEN",
-          "completed": true,
-          "inProgress": false,
-          "awayScore": 14,
-          "homeScore": 17,
-          "awayWinner": false,
-          "homeWinner": true,
-          "away": {
-            "code": "SEA",
-            "name": "Seattle Seahawks",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
-          },
-          "home": {
-            "code": "DEN",
-            "name": "Denver Broncos",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
-          },
-          "espnOdds": null
-        },
-        {
           "id": "401872996",
           "date": "2026-10-18T13:30Z",
           "shortName": "HOU VS JAX",
@@ -1890,7 +1868,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png"
           },
           "espnOdds": {
-            "details": "IND -7",
+            "details": "IND -6.5",
             "overUnder": 44.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -2120,6 +2098,28 @@
             "homeProb": null,
             "awayProb": null
           }
+        },
+        {
+          "id": "401872995",
+          "date": "2026-10-16T00:15Z",
+          "shortName": "SEA @ DEN",
+          "completed": true,
+          "inProgress": false,
+          "awayScore": 14,
+          "homeScore": 17,
+          "awayWinner": false,
+          "homeWinner": true,
+          "away": {
+            "code": "SEA",
+            "name": "Seattle Seahawks",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
+          },
+          "home": {
+            "code": "DEN",
+            "name": "Denver Broncos",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
+          },
+          "espnOdds": null
         },
         {
           "id": "401873008",
