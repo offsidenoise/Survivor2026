@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T20:10:48.946Z",
+  "updated": "2026-10-18T03:11:37.928Z",
   "season": 2026,
   "currentWeek": 6,
   "weeks": {
@@ -1807,7 +1807,7 @@
           },
           "espnOdds": {
             "details": "JAX -2.5",
-            "overUnder": 42.5,
+            "overUnder": 41.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -1946,7 +1946,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png"
           },
           "espnOdds": {
-            "details": "NO -1.5",
+            "details": "NYG -1.5",
             "overUnder": 46.5,
             "provider": "DraftKings",
             "homeProb": null,
