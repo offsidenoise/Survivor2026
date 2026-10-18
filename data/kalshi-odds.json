@@ -1,31 +1,31 @@
 {
-  "updated": "2026-10-18T13:22:40.786Z",
+  "updated": "2026-10-18T15:25:39.931Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
-        "Eagles": 44,
-        "Cowboys": 56
+        "Eagles": 39,
+        "Cowboys": 61
       },
       "eventTicker": "KXNFLGAME-26OCT26DALPHI"
     },
     "Chiefs_Seahawks": {
       "teams": {
-        "Seahawks": 53,
-        "Chiefs": 47
+        "Seahawks": 54,
+        "Chiefs": 46
       },
       "eventTicker": "KXNFLGAME-26OCT25KCSEA"
     },
     "Lions_Packers": {
       "teams": {
-        "Packers": 39,
-        "Lions": 61
+        "Packers": 40,
+        "Lions": 60
       },
       "eventTicker": "KXNFLGAME-26OCT25GBDET"
     },
     "Raiders_Rams": {
       "teams": {
-        "Raiders": 29,
-        "Rams": 71
+        "Raiders": 28,
+        "Rams": 72
       },
       "eventTicker": "KXNFLGAME-26OCT25LARLV"
     },
@@ -45,8 +45,8 @@
     },
     "Buccaneers_Panthers": {
       "teams": {
-        "Buccaneers": 42,
-        "Panthers": 58
+        "Buccaneers": 44,
+        "Panthers": 56
       },
       "eventTicker": "KXNFLGAME-26OCT25TBCAR"
     },
@@ -80,8 +80,8 @@
     },
     "Giants_Texans": {
       "teams": {
-        "Giants": 26,
-        "Texans": 74
+        "Giants": 28,
+        "Texans": 72
       },
       "eventTicker": "KXNFLGAME-26OCT25NYGHOU"
     },
@@ -122,8 +122,8 @@
     },
     "Bills_Raiders": {
       "teams": {
-        "Raiders": 33,
-        "Bills": 67
+        "Raiders": 32,
+        "Bills": 68
       },
       "eventTicker": "KXNFLGAME-26OCT18BUFLV"
     },
@@ -136,8 +136,8 @@
     },
     "Buccaneers_Steelers": {
       "teams": {
-        "Buccaneers": 44,
-        "Steelers": 56
+        "Buccaneers": 45,
+        "Steelers": 55
       },
       "eventTicker": "KXNFLGAME-26OCT18PITTB"
     },
@@ -164,8 +164,8 @@
     },
     "Colts_Titans": {
       "teams": {
-        "Titans": 26,
-        "Colts": 74
+        "Titans": 27,
+        "Colts": 73
       },
       "eventTicker": "KXNFLGAME-26OCT18TENIND"
     },
@@ -185,8 +185,8 @@
     },
     "Jaguars_Texans": {
       "teams": {
-        "Jaguars": 55,
-        "Texans": 45
+        "Jaguars": 37,
+        "Texans": 63
       },
       "eventTicker": "KXNFLGAME-26OCT18HOUJAC"
     }
