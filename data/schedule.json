@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T12:14:31.067Z",
+  "updated": "2026-10-19T22:01:45.408Z",
   "season": 2026,
   "currentWeek": 6,
   "weeks": {
@@ -1785,7 +1785,7 @@
           },
           "espnOdds": {
             "details": "SF -7.5",
-            "overUnder": 51.5,
+            "overUnder": 52.5,
             "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
@@ -2103,7 +2103,7 @@
           },
           "espnOdds": {
             "details": "CHI -3",
-            "overUnder": 49.5,
+            "overUnder": 50.5,
             "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
@@ -2130,7 +2130,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png"
           },
           "espnOdds": {
-            "details": "PIT -2.5",
+            "details": "PIT -3",
             "overUnder": 44.5,
             "provider": "Draft Kings",
             "homeProb": null,
@@ -2187,7 +2187,7 @@
           },
           "espnOdds": {
             "details": "CLE -1.5",
-            "overUnder": 36.5,
+            "overUnder": 38.5,
             "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
@@ -2297,7 +2297,13 @@
             "name": "Baltimore Ravens",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png"
           },
-          "espnOdds": null
+          "espnOdds": {
+            "details": "BAL -2.5",
+            "overUnder": 51.5,
+            "provider": "Draft Kings",
+            "homeProb": null,
+            "awayProb": null
+          }
         },
         {
           "id": "401873016",
@@ -2321,7 +2327,7 @@
           },
           "espnOdds": {
             "details": "HOU -9.5",
-            "overUnder": 43.5,
+            "overUnder": 42.5,
             "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
@@ -2349,7 +2355,7 @@
           },
           "espnOdds": {
             "details": "DEN -4.5",
-            "overUnder": 42.5,
+            "overUnder": 43.5,
             "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
@@ -2375,7 +2381,13 @@
             "name": "Detroit Lions",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png"
           },
-          "espnOdds": null
+          "espnOdds": {
+            "details": "DET -3",
+            "overUnder": 52.5,
+            "provider": "Draft Kings",
+            "homeProb": null,
+            "awayProb": null
+          }
         },
         {
           "id": "401873021",
@@ -2398,8 +2410,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png"
           },
           "espnOdds": {
-            "details": "LAR -5.5",
-            "overUnder": 46.5,
+            "details": "LAR -4.5",
+            "overUnder": 47.5,
             "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null

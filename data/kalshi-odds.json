@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T19:52:54.509Z",
+  "updated": "2026-10-19T22:01:45.646Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
@@ -17,15 +17,15 @@
     },
     "Lions_Packers": {
       "teams": {
-        "Packers": 41,
-        "Lions": 59
+        "Packers": 40,
+        "Lions": 60
       },
       "eventTicker": "KXNFLGAME-26OCT25GBDET"
     },
     "Raiders_Rams": {
       "teams": {
-        "Raiders": 32,
-        "Rams": 68
+        "Raiders": 33,
+        "Rams": 67
       },
       "eventTicker": "KXNFLGAME-26OCT25LARLV"
     },
@@ -52,8 +52,8 @@
     },
     "Bengals_Ravens": {
       "teams": {
-        "Bengals": 43,
-        "Ravens": 57
+        "Bengals": 44,
+        "Ravens": 56
       },
       "eventTicker": "KXNFLGAME-26OCT25CINBAL"
     },
@@ -80,8 +80,8 @@
     },
     "Giants_Texans": {
       "teams": {
-        "Giants": 22,
-        "Texans": 78
+        "Giants": 21,
+        "Texans": 79
       },
       "eventTicker": "KXNFLGAME-26OCT25NYGHOU"
     },
