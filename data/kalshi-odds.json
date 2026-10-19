@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-19T06:48:12.420Z",
+  "updated": "2026-10-19T12:14:31.592Z",
   "odds": {
     "Cowboys_Eagles": {
       "teams": {
-        "Eagles": 36,
-        "Cowboys": 64
+        "Eagles": 35,
+        "Cowboys": 65
       },
       "eventTicker": "KXNFLGAME-26OCT26DALPHI"
     },
@@ -45,8 +45,8 @@
     },
     "Buccaneers_Panthers": {
       "teams": {
-        "Buccaneers": 39,
-        "Panthers": 61
+        "Buccaneers": 38,
+        "Panthers": 62
       },
       "eventTicker": "KXNFLGAME-26OCT25TBCAR"
     },
@@ -80,8 +80,8 @@
     },
     "Giants_Texans": {
       "teams": {
-        "Giants": 23,
-        "Texans": 77
+        "Giants": 22,
+        "Texans": 78
       },
       "eventTicker": "KXNFLGAME-26OCT25NYGHOU"
     },
