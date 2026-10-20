@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-20T07:18:30.463Z",
+  "updated": "2026-10-20T10:58:17.189Z",
   "odds": {
     "Bears_Seahawks": {
       "teams": {
-        "Seahawks": 56,
-        "Bears": 44
+        "Seahawks": 58,
+        "Bears": 42
       },
       "eventTicker": "KXNFLGAME-26NOV02CHISEA"
     },
     "Commanders_Eagles": {
       "teams": {
-        "Commanders": 57,
-        "Eagles": 43
+        "Commanders": 61,
+        "Eagles": 39
       },
       "eventTicker": "KXNFLGAME-26NOV01PHIWAS"
     },
@@ -24,8 +24,8 @@
     },
     "Broncos_Chiefs": {
       "teams": {
-        "Chiefs": 51,
-        "Broncos": 49
+        "Chiefs": 52,
+        "Broncos": 48
       },
       "eventTicker": "KXNFLGAME-26NOV01KCDEN"
     },
@@ -38,8 +38,8 @@
     },
     "Buccaneers_Falcons": {
       "teams": {
-        "Buccaneers": 48,
-        "Falcons": 52
+        "Buccaneers": 45,
+        "Falcons": 55
       },
       "eventTicker": "KXNFLGAME-26NOV01ATLTB"
     },
@@ -66,22 +66,22 @@
     },
     "Lions_Vikings": {
       "teams": {
-        "Vikings": 47,
-        "Lions": 53
+        "Vikings": 45,
+        "Lions": 55
       },
       "eventTicker": "KXNFLGAME-26NOV01MINDET"
     },
     "Bengals_Titans": {
       "teams": {
-        "Titans": 38,
-        "Bengals": 62
+        "Titans": 36,
+        "Bengals": 64
       },
       "eventTicker": "KXNFLGAME-26NOV01TENCIN"
     },
     "Bills_Ravens": {
       "teams": {
-        "Bills": 62,
-        "Ravens": 38
+        "Bills": 63,
+        "Ravens": 37
       },
       "eventTicker": "KXNFLGAME-26NOV01BALBUF"
     },
@@ -108,8 +108,8 @@
     },
     "Chiefs_Seahawks": {
       "teams": {
-        "Seahawks": 56,
-        "Chiefs": 44
+        "Seahawks": 55,
+        "Chiefs": 45
       },
       "eventTicker": "KXNFLGAME-26OCT25KCSEA"
     },
@@ -157,8 +157,8 @@
     },
     "49ers_Falcons": {
       "teams": {
-        "49ers": 65,
-        "Falcons": 35
+        "49ers": 66,
+        "Falcons": 34
       },
       "eventTicker": "KXNFLGAME-26OCT25SFATL"
     },
