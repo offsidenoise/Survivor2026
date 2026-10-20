@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T16:25:33.512Z",
+  "updated": "2026-10-20T21:18:36.844Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     6,
@@ -22,17 +22,17 @@
   "originalRecommendation": {
     "week": 6,
     "pick": {
-      "team": "New England Patriots",
+      "team": "Chicago Bears",
       "prob": 100,
       "source": "final-result",
-      "opponent": "New York Jets"
+      "opponent": "Atlanta Falcons"
     },
     "fullSeasonPlan": {
       "6": {
-        "team": "New England Patriots",
+        "team": "Chicago Bears",
         "prob": 100,
         "source": "final-result",
-        "opponent": "New York Jets"
+        "opponent": "Atlanta Falcons"
       },
       "7": {
         "team": "Houston Texans",
@@ -43,16 +43,16 @@
       },
       "8": {
         "team": "Cincinnati Bengals",
-        "prob": 72,
+        "prob": 83,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "9": {
-        "team": "Seattle Seahawks",
-        "prob": 81.111,
+        "team": "Kansas City Chiefs",
+        "prob": 84.625,
         "source": "powerindex",
-        "opponent": "Arizona Cardinals",
+        "opponent": "New York Jets",
         "crowdPct": null
       },
       "10": {
@@ -84,10 +84,10 @@
         "crowdPct": null
       },
       "14": {
-        "team": "Chicago Bears",
-        "prob": 82.866,
+        "team": "Seattle Seahawks",
+        "prob": 83.538,
         "source": "powerindex",
-        "opponent": "Miami Dolphins",
+        "opponent": "New York Giants",
         "crowdPct": null
       },
       "15": {
@@ -112,10 +112,10 @@
         "crowdPct": null
       },
       "18": {
-        "team": "Kansas City Chiefs",
-        "prob": 78.935,
-        "source": "powerindex",
-        "opponent": "Las Vegas Raiders",
+        "team": "New England Patriots",
+        "prob": 76,
+        "source": "kalshi",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       }
     }
@@ -123,17 +123,17 @@
   "crowdAdjustedRecommendation": {
     "week": 6,
     "pick": {
-      "team": "New England Patriots",
+      "team": "Chicago Bears",
       "prob": 100,
       "source": "final-result",
-      "opponent": "New York Jets"
+      "opponent": "Atlanta Falcons"
     },
     "fullSeasonPlan": {
       "6": {
-        "team": "New England Patriots",
+        "team": "Chicago Bears",
         "prob": 100,
         "source": "final-result",
-        "opponent": "New York Jets"
+        "opponent": "Atlanta Falcons"
       },
       "7": {
         "team": "Houston Texans",
@@ -144,16 +144,16 @@
       },
       "8": {
         "team": "Cincinnati Bengals",
-        "prob": 72,
+        "prob": 83,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "9": {
-        "team": "Seattle Seahawks",
-        "prob": 81.111,
+        "team": "Kansas City Chiefs",
+        "prob": 84.625,
         "source": "powerindex",
-        "opponent": "Arizona Cardinals",
+        "opponent": "New York Jets",
         "crowdPct": null
       },
       "10": {
@@ -185,10 +185,10 @@
         "crowdPct": null
       },
       "14": {
-        "team": "Chicago Bears",
-        "prob": 82.866,
+        "team": "Seattle Seahawks",
+        "prob": 83.538,
         "source": "powerindex",
-        "opponent": "Miami Dolphins",
+        "opponent": "New York Giants",
         "crowdPct": null
       },
       "15": {
@@ -213,10 +213,10 @@
         "crowdPct": null
       },
       "18": {
-        "team": "Kansas City Chiefs",
-        "prob": 78.935,
-        "source": "powerindex",
-        "opponent": "Las Vegas Raiders",
+        "team": "New England Patriots",
+        "prob": 76,
+        "source": "kalshi",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       }
     }
