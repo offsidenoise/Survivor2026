@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T21:17:39.400Z",
+  "updated": "2026-10-20T23:34:56.274Z",
   "odds": {
     "Bears_Seahawks": {
       "teams": {
@@ -45,15 +45,15 @@
     },
     "Browns_Steelers": {
       "teams": {
-        "Steelers": 68,
-        "Browns": 32
+        "Steelers": 66,
+        "Browns": 34
       },
       "eventTicker": "KXNFLGAME-26NOV01CLEPIT"
     },
     "Jets_Raiders": {
       "teams": {
-        "Jets": 51,
-        "Raiders": 49
+        "Jets": 50,
+        "Raiders": 50
       },
       "eventTicker": "KXNFLGAME-26NOV01LVNYJ"
     },
@@ -73,8 +73,8 @@
     },
     "Bengals_Titans": {
       "teams": {
-        "Titans": 17,
-        "Bengals": 83
+        "Titans": 18,
+        "Bengals": 82
       },
       "eventTicker": "KXNFLGAME-26NOV01TENCIN"
     },
@@ -87,8 +87,8 @@
     },
     "Cardinals_Cowboys": {
       "teams": {
-        "Cowboys": 71,
-        "Cardinals": 29
+        "Cowboys": 72,
+        "Cardinals": 28
       },
       "eventTicker": "KXNFLGAME-26NOV01ARIDAL"
     },
@@ -108,8 +108,8 @@
     },
     "Chiefs_Seahawks": {
       "teams": {
-        "Seahawks": 55,
-        "Chiefs": 45
+        "Seahawks": 56,
+        "Chiefs": 44
       },
       "eventTicker": "KXNFLGAME-26OCT25KCSEA"
     },
@@ -122,8 +122,8 @@
     },
     "Raiders_Rams": {
       "teams": {
-        "Raiders": 35,
-        "Rams": 65
+        "Raiders": 34,
+        "Rams": 66
       },
       "eventTicker": "KXNFLGAME-26OCT25LARLV"
     },
@@ -150,8 +150,8 @@
     },
     "Bengals_Ravens": {
       "teams": {
-        "Bengals": 44,
-        "Ravens": 56
+        "Bengals": 43,
+        "Ravens": 57
       },
       "eventTicker": "KXNFLGAME-26OCT25CINBAL"
     },
@@ -178,15 +178,15 @@
     },
     "Giants_Texans": {
       "teams": {
-        "Giants": 21,
-        "Texans": 79
+        "Giants": 20,
+        "Texans": 80
       },
       "eventTicker": "KXNFLGAME-26OCT25NYGHOU"
     },
     "Saints_Steelers": {
       "teams": {
-        "Steelers": 63,
-        "Saints": 37
+        "Steelers": 62,
+        "Saints": 38
       },
       "eventTicker": "KXNFLGAME-26OCT25PITNO"
     },
