@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-21T13:08:56.968Z",
+  "updated": "2026-10-21T16:40:35.639Z",
   "odds": {
     "Bears_Seahawks": {
       "teams": {
-        "Seahawks": 59,
-        "Bears": 41
+        "Seahawks": 60,
+        "Bears": 40
       },
       "eventTicker": "KXNFLGAME-26NOV02CHISEA"
     },
@@ -73,8 +73,8 @@
     },
     "Bengals_Titans": {
       "teams": {
-        "Titans": 17,
-        "Bengals": 83
+        "Titans": 18,
+        "Bengals": 82
       },
       "eventTicker": "KXNFLGAME-26NOV01TENCIN"
     },
@@ -108,8 +108,8 @@
     },
     "Chiefs_Seahawks": {
       "teams": {
-        "Seahawks": 57,
-        "Chiefs": 43
+        "Seahawks": 56,
+        "Chiefs": 44
       },
       "eventTicker": "KXNFLGAME-26OCT25KCSEA"
     },
@@ -143,8 +143,8 @@
     },
     "Buccaneers_Panthers": {
       "teams": {
-        "Buccaneers": 39,
-        "Panthers": 61
+        "Buccaneers": 40,
+        "Panthers": 60
       },
       "eventTicker": "KXNFLGAME-26OCT25TBCAR"
     },
@@ -157,8 +157,8 @@
     },
     "49ers_Falcons": {
       "teams": {
-        "49ers": 63,
-        "Falcons": 37
+        "49ers": 61,
+        "Falcons": 39
       },
       "eventTicker": "KXNFLGAME-26OCT25SFATL"
     },
