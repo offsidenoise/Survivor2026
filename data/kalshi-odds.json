@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-21T03:27:53.812Z",
+  "updated": "2026-10-21T07:28:12.845Z",
   "odds": {
     "Bears_Seahawks": {
       "teams": {
-        "Seahawks": 59,
-        "Bears": 41
+        "Seahawks": 60,
+        "Bears": 40
       },
       "eventTicker": "KXNFLGAME-26NOV02CHISEA"
     },
@@ -45,15 +45,15 @@
     },
     "Browns_Steelers": {
       "teams": {
-        "Steelers": 66,
-        "Browns": 34
+        "Steelers": 65,
+        "Browns": 35
       },
       "eventTicker": "KXNFLGAME-26NOV01CLEPIT"
     },
     "Jets_Raiders": {
       "teams": {
-        "Jets": 50,
-        "Raiders": 50
+        "Jets": 51,
+        "Raiders": 49
       },
       "eventTicker": "KXNFLGAME-26NOV01LVNYJ"
     },
@@ -73,8 +73,8 @@
     },
     "Bengals_Titans": {
       "teams": {
-        "Titans": 17,
-        "Bengals": 83
+        "Titans": 18,
+        "Bengals": 82
       },
       "eventTicker": "KXNFLGAME-26NOV01TENCIN"
     },
@@ -87,22 +87,22 @@
     },
     "Cardinals_Cowboys": {
       "teams": {
-        "Cowboys": 72,
-        "Cardinals": 28
+        "Cowboys": 73,
+        "Cardinals": 27
       },
       "eventTicker": "KXNFLGAME-26NOV01ARIDAL"
     },
     "Packers_Panthers": {
       "teams": {
-        "Packers": 59,
-        "Panthers": 41
+        "Packers": 58,
+        "Panthers": 42
       },
       "eventTicker": "KXNFLGAME-26OCT29CARGB"
     },
     "Cowboys_Eagles": {
       "teams": {
-        "Eagles": 35,
-        "Cowboys": 65
+        "Eagles": 36,
+        "Cowboys": 64
       },
       "eventTicker": "KXNFLGAME-26OCT26DALPHI"
     },
@@ -157,8 +157,8 @@
     },
     "49ers_Falcons": {
       "teams": {
-        "49ers": 62,
-        "Falcons": 38
+        "49ers": 63,
+        "Falcons": 37
       },
       "eventTicker": "KXNFLGAME-26OCT25SFATL"
     },
@@ -185,8 +185,8 @@
     },
     "Saints_Steelers": {
       "teams": {
-        "Steelers": 62,
-        "Saints": 38
+        "Steelers": 63,
+        "Saints": 37
       },
       "eventTicker": "KXNFLGAME-26OCT25PITNO"
     },
