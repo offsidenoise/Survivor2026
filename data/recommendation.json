@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T16:41:54.545Z",
+  "updated": "2026-10-21T21:18:20.324Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     7,
@@ -26,7 +26,7 @@
       "source": "kalshi",
       "opponent": "New York Giants",
       "crowdPct": 28.68,
-      "ev": 0.021621621621621533
+      "ev": 0.021621621621621574
     },
     "fullSeasonPlan": {
       "7": {
@@ -35,7 +35,7 @@
         "source": "kalshi",
         "opponent": "New York Giants",
         "crowdPct": 28.68,
-        "ev": 0.021621621621621533
+        "ev": 0.021621621621621574
       },
       "8": {
         "team": "Cincinnati Bengals",
@@ -109,7 +109,7 @@
       },
       "18": {
         "team": "New England Patriots",
-        "prob": 76,
+        "prob": 77,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -124,7 +124,7 @@
       "source": "kalshi",
       "opponent": "New York Giants",
       "crowdPct": 28.68,
-      "ev": 0.021621621621621533
+      "ev": 0.021621621621621574
     },
     "fullSeasonPlan": {
       "7": {
@@ -133,7 +133,7 @@
         "source": "kalshi",
         "opponent": "New York Giants",
         "crowdPct": 28.68,
-        "ev": 0.021621621621621533
+        "ev": 0.021621621621621574
       },
       "8": {
         "team": "Cincinnati Bengals",
@@ -207,7 +207,7 @@
       },
       "18": {
         "team": "New England Patriots",
-        "prob": 76,
+        "prob": 77,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null

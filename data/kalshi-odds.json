@@ -1,24 +1,24 @@
 {
-  "updated": "2026-10-21T18:02:13.359Z",
+  "updated": "2026-10-21T21:17:23.287Z",
   "odds": {
     "Bears_Seahawks": {
       "teams": {
-        "Seahawks": 58,
-        "Bears": 42
+        "Seahawks": 59,
+        "Bears": 41
       },
       "eventTicker": "KXNFLGAME-26NOV02CHISEA"
     },
     "Commanders_Eagles": {
       "teams": {
-        "Commanders": 64,
-        "Eagles": 36
+        "Commanders": 63,
+        "Eagles": 37
       },
       "eventTicker": "KXNFLGAME-26NOV01PHIWAS"
     },
     "Dolphins_Patriots": {
       "teams": {
-        "Patriots": 76,
-        "Dolphins": 24
+        "Patriots": 77,
+        "Dolphins": 23
       },
       "eventTicker": "KXNFLGAME-26NOV01NEMIA"
     },
@@ -38,8 +38,8 @@
     },
     "Buccaneers_Falcons": {
       "teams": {
-        "Buccaneers": 52,
-        "Falcons": 48
+        "Buccaneers": 51,
+        "Falcons": 49
       },
       "eventTicker": "KXNFLGAME-26NOV01ATLTB"
     },
@@ -80,8 +80,8 @@
     },
     "Bills_Ravens": {
       "teams": {
-        "Bills": 59,
-        "Ravens": 41
+        "Bills": 61,
+        "Ravens": 39
       },
       "eventTicker": "KXNFLGAME-26NOV01BALBUF"
     },
@@ -94,8 +94,8 @@
     },
     "Packers_Panthers": {
       "teams": {
-        "Packers": 59,
-        "Panthers": 41
+        "Packers": 58,
+        "Panthers": 42
       },
       "eventTicker": "KXNFLGAME-26OCT29CARGB"
     },
@@ -108,8 +108,8 @@
     },
     "Chiefs_Seahawks": {
       "teams": {
-        "Seahawks": 56,
-        "Chiefs": 44
+        "Seahawks": 57,
+        "Chiefs": 43
       },
       "eventTicker": "KXNFLGAME-26OCT25KCSEA"
     },
@@ -150,15 +150,15 @@
     },
     "Bengals_Ravens": {
       "teams": {
-        "Bengals": 50,
-        "Ravens": 50
+        "Bengals": 51,
+        "Ravens": 49
       },
       "eventTicker": "KXNFLGAME-26OCT25CINBAL"
     },
     "49ers_Falcons": {
       "teams": {
-        "49ers": 61,
-        "Falcons": 39
+        "49ers": 58,
+        "Falcons": 42
       },
       "eventTicker": "KXNFLGAME-26OCT25SFATL"
     },
