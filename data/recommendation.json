@@ -1,8 +1,7 @@
 {
-  "updated": "2026-10-21T03:29:08.438Z",
+  "updated": "2026-10-21T11:15:47.501Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
-    6,
     7,
     8,
     9,
@@ -18,28 +17,25 @@
   ],
   "powerIndexHealthy": true,
   "yahooCrowdHealthy": true,
-  "evHealthy": false,
+  "evHealthy": true,
   "originalRecommendation": {
-    "week": 6,
+    "week": 7,
     "pick": {
-      "team": "Chicago Bears",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "Atlanta Falcons"
+      "team": "Houston Texans",
+      "prob": 80,
+      "source": "kalshi",
+      "opponent": "New York Giants",
+      "crowdPct": 28.68,
+      "ev": 0.021621621621621605
     },
     "fullSeasonPlan": {
-      "6": {
-        "team": "Chicago Bears",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "Atlanta Falcons"
-      },
       "7": {
         "team": "Houston Texans",
         "prob": 80,
         "source": "kalshi",
         "opponent": "New York Giants",
-        "crowdPct": null
+        "crowdPct": 28.68,
+        "ev": 0.021621621621621605
       },
       "8": {
         "team": "Cincinnati Bengals",
@@ -57,14 +53,14 @@
       },
       "10": {
         "team": "Indianapolis Colts",
-        "prob": 77.127,
+        "prob": 77.46499999999999,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "11": {
         "team": "Buffalo Bills",
-        "prob": 89.183,
+        "prob": 89.318,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -78,7 +74,7 @@
       },
       "13": {
         "team": "Denver Broncos",
-        "prob": 83.21300000000001,
+        "prob": 83.418,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -92,7 +88,7 @@
       },
       "15": {
         "team": "Green Bay Packers",
-        "prob": 82.23700000000001,
+        "prob": 82.389,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -121,26 +117,23 @@
     }
   },
   "crowdAdjustedRecommendation": {
-    "week": 6,
+    "week": 7,
     "pick": {
-      "team": "Chicago Bears",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "Atlanta Falcons"
+      "team": "Houston Texans",
+      "prob": 80,
+      "source": "kalshi",
+      "opponent": "New York Giants",
+      "crowdPct": 28.68,
+      "ev": 0.021621621621621605
     },
     "fullSeasonPlan": {
-      "6": {
-        "team": "Chicago Bears",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "Atlanta Falcons"
-      },
       "7": {
         "team": "Houston Texans",
         "prob": 80,
         "source": "kalshi",
         "opponent": "New York Giants",
-        "crowdPct": null
+        "crowdPct": 28.68,
+        "ev": 0.021621621621621605
       },
       "8": {
         "team": "Cincinnati Bengals",
@@ -158,14 +151,14 @@
       },
       "10": {
         "team": "Indianapolis Colts",
-        "prob": 77.127,
+        "prob": 77.46499999999999,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "11": {
         "team": "Buffalo Bills",
-        "prob": 89.183,
+        "prob": 89.318,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -179,7 +172,7 @@
       },
       "13": {
         "team": "Denver Broncos",
-        "prob": 83.21300000000001,
+        "prob": 83.418,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -193,7 +186,7 @@
       },
       "15": {
         "team": "Green Bay Packers",
-        "prob": 82.23700000000001,
+        "prob": 82.389,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
