@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T21:18:20.324Z",
+  "updated": "2026-10-22T03:28:20.935Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     7,
@@ -26,7 +26,7 @@
       "source": "kalshi",
       "opponent": "New York Giants",
       "crowdPct": 28.68,
-      "ev": 0.021621621621621574
+      "ev": 0.02162162162162154
     },
     "fullSeasonPlan": {
       "7": {
@@ -35,7 +35,7 @@
         "source": "kalshi",
         "opponent": "New York Giants",
         "crowdPct": 28.68,
-        "ev": 0.021621621621621574
+        "ev": 0.02162162162162154
       },
       "8": {
         "team": "Cincinnati Bengals",
@@ -124,7 +124,7 @@
       "source": "kalshi",
       "opponent": "New York Giants",
       "crowdPct": 28.68,
-      "ev": 0.021621621621621574
+      "ev": 0.02162162162162154
     },
     "fullSeasonPlan": {
       "7": {
@@ -133,7 +133,7 @@
         "source": "kalshi",
         "opponent": "New York Giants",
         "crowdPct": 28.68,
-        "ev": 0.021621621621621574
+        "ev": 0.02162162162162154
       },
       "8": {
         "team": "Cincinnati Bengals",

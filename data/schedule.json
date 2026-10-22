@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T21:17:23.100Z",
+  "updated": "2026-10-22T03:26:58.108Z",
   "season": 2026,
   "currentWeek": 7,
   "weeks": {
@@ -2632,7 +2632,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png"
           },
           "espnOdds": {
-            "details": "NYJ -1.5",
+            "details": "LV -1.5",
             "overUnder": 42.5,
             "provider": "DraftKings",
             "homeProb": null,
