@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T03:26:58.310Z",
+  "updated": "2026-10-22T04:55:17.307Z",
   "odds": {
     "Bears_Seahawks": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Dolphins_Patriots": {
       "teams": {
-        "Patriots": 77,
-        "Dolphins": 23
+        "Patriots": 79,
+        "Dolphins": 21
       },
       "eventTicker": "KXNFLGAME-26NOV01NEMIA"
     },
@@ -108,8 +108,8 @@
     },
     "Chiefs_Seahawks": {
       "teams": {
-        "Seahawks": 56,
-        "Chiefs": 44
+        "Seahawks": 57,
+        "Chiefs": 43
       },
       "eventTicker": "KXNFLGAME-26OCT25KCSEA"
     },
