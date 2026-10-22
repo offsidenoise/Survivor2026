@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T03:28:20.885Z",
+  "updated": "2026-10-22T11:14:36.387Z",
   "verifiedThisRun": true,
   "gamesAttempted": 272,
   "gamesSucceeded": 272,
@@ -405,16 +405,16 @@
       "homeProb": 66.048
     },
     "401873016": {
-      "awayProb": 15.787,
-      "homeProb": 84.087
+      "awayProb": 15.412999999999998,
+      "homeProb": 84.463
     },
     "401873017": {
       "awayProb": 78.74,
       "homeProb": 21.09
     },
     "401873018": {
-      "awayProb": 31.229000000000003,
-      "homeProb": 68.52000000000001
+      "awayProb": 43.034,
+      "homeProb": 56.621
     },
     "401873019": {
       "awayProb": 68.83399999999999,
@@ -441,8 +441,8 @@
       "homeProb": 76.521
     },
     "401873025": {
-      "awayProb": 44.048,
-      "homeProb": 55.598000000000006
+      "awayProb": 33.232,
+      "homeProb": 66.501
     },
     "401873026": {
       "awayProb": 40.495,
@@ -517,8 +517,8 @@
       "homeProb": 29.970999999999997
     },
     "401873044": {
-      "awayProb": 41.686,
-      "homeProb": 57.979
+      "awayProb": 40.548,
+      "homeProb": 59.126
     },
     "401873045": {
       "awayProb": 15.251999999999999,
