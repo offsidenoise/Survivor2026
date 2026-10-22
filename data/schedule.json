@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T11:13:14.487Z",
+  "updated": "2026-10-22T16:41:15.947Z",
   "season": 2026,
   "currentWeek": 7,
   "weeks": {
@@ -2152,7 +2152,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png"
           },
           "espnOdds": {
-            "details": "SF -3",
+            "details": "SF -2.5",
             "overUnder": 49.5,
             "provider": "Draft Kings",
             "homeProb": null,
@@ -2404,7 +2404,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png"
           },
           "espnOdds": {
-            "details": "LAR -4.5",
+            "details": "LAR -3.5",
             "overUnder": 48.5,
             "provider": "Draft Kings",
             "homeProb": null,
@@ -2432,7 +2432,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
           },
           "espnOdds": {
-            "details": "SEA -2.5",
+            "details": "SEA -3",
             "overUnder": 42.5,
             "provider": "Draft Kings",
             "homeProb": null,
