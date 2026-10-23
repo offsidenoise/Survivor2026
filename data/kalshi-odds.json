@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T10:25:58.454Z",
+  "updated": "2026-10-23T11:04:36.825Z",
   "odds": {
     "Bears_Seahawks": {
       "teams": {
@@ -10,8 +10,8 @@
     },
     "Commanders_Eagles": {
       "teams": {
-        "Commanders": 63,
-        "Eagles": 37
+        "Commanders": 64,
+        "Eagles": 36
       },
       "eventTicker": "KXNFLGAME-26NOV01PHIWAS"
     },
@@ -80,8 +80,8 @@
     },
     "Bills_Ravens": {
       "teams": {
-        "Bills": 63,
-        "Ravens": 37
+        "Bills": 62,
+        "Ravens": 38
       },
       "eventTicker": "KXNFLGAME-26NOV01BALBUF"
     },
