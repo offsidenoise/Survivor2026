@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T22:15:50.839Z",
+  "updated": "2026-10-23T00:43:50.835Z",
   "odds": {
     "Bears_Seahawks": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Dolphins_Patriots": {
       "teams": {
-        "Patriots": 79,
-        "Dolphins": 21
+        "Patriots": 78,
+        "Dolphins": 22
       },
       "eventTicker": "KXNFLGAME-26NOV01NEMIA"
     },
@@ -31,8 +31,8 @@
     },
     "Chargers_Rams": {
       "teams": {
-        "Rams": 76,
-        "Chargers": 24
+        "Rams": 75,
+        "Chargers": 25
       },
       "eventTicker": "KXNFLGAME-26NOV01LACLAR"
     },
@@ -122,8 +122,8 @@
     },
     "Raiders_Rams": {
       "teams": {
-        "Raiders": 35,
-        "Rams": 65
+        "Raiders": 36,
+        "Rams": 64
       },
       "eventTicker": "KXNFLGAME-26OCT25LARLV"
     },
@@ -192,8 +192,8 @@
     },
     "Bears_Patriots": {
       "teams": {
-        "Patriots": 41,
-        "Bears": 59
+        "Patriots": 31,
+        "Bears": 69
       },
       "eventTicker": "KXNFLGAME-26OCT22NECHI"
     }
