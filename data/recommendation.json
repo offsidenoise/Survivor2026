@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T21:14:28.635Z",
+  "updated": "2026-10-23T03:33:40.495Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     7,
@@ -21,21 +21,17 @@
   "originalRecommendation": {
     "week": 7,
     "pick": {
-      "team": "Houston Texans",
-      "prob": 80,
-      "source": "kalshi",
-      "opponent": "New York Giants",
-      "crowdPct": 28.79,
-      "ev": 0.022222222222222462
+      "team": "Chicago Bears",
+      "prob": 100,
+      "source": "final-result",
+      "opponent": "New England Patriots"
     },
     "fullSeasonPlan": {
       "7": {
-        "team": "Houston Texans",
-        "prob": 80,
-        "source": "kalshi",
-        "opponent": "New York Giants",
-        "crowdPct": 28.79,
-        "ev": 0.022222222222222462
+        "team": "Chicago Bears",
+        "prob": 100,
+        "source": "final-result",
+        "opponent": "New England Patriots"
       },
       "8": {
         "team": "Cincinnati Bengals",
@@ -108,10 +104,10 @@
         "crowdPct": null
       },
       "18": {
-        "team": "New England Patriots",
-        "prob": 79,
-        "source": "kalshi",
-        "opponent": "Miami Dolphins",
+        "team": "Houston Texans",
+        "prob": 80.212,
+        "source": "powerindex",
+        "opponent": "Tennessee Titans",
         "crowdPct": null
       }
     }
@@ -119,21 +115,17 @@
   "crowdAdjustedRecommendation": {
     "week": 7,
     "pick": {
-      "team": "Houston Texans",
-      "prob": 80,
-      "source": "kalshi",
-      "opponent": "New York Giants",
-      "crowdPct": 28.79,
-      "ev": 0.022222222222222462
+      "team": "Chicago Bears",
+      "prob": 100,
+      "source": "final-result",
+      "opponent": "New England Patriots"
     },
     "fullSeasonPlan": {
       "7": {
-        "team": "Houston Texans",
-        "prob": 80,
-        "source": "kalshi",
-        "opponent": "New York Giants",
-        "crowdPct": 28.79,
-        "ev": 0.022222222222222462
+        "team": "Chicago Bears",
+        "prob": 100,
+        "source": "final-result",
+        "opponent": "New England Patriots"
       },
       "8": {
         "team": "Cincinnati Bengals",
@@ -206,10 +198,10 @@
         "crowdPct": null
       },
       "18": {
-        "team": "New England Patriots",
-        "prob": 79,
-        "source": "kalshi",
-        "opponent": "Miami Dolphins",
+        "team": "Houston Texans",
+        "prob": 80.212,
+        "source": "powerindex",
+        "opponent": "Tennessee Titans",
         "crowdPct": null
       }
     }
