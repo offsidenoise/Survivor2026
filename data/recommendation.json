@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T15:27:50.785Z",
+  "updated": "2026-10-24T20:18:03.598Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     7,
@@ -35,7 +35,7 @@
       },
       "8": {
         "team": "Cincinnati Bengals",
-        "prob": 83,
+        "prob": 82,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": null
@@ -129,7 +129,7 @@
       },
       "8": {
         "team": "Cincinnati Bengals",
-        "prob": 83,
+        "prob": 82,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": null
