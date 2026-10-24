@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T21:02:11.530Z",
+  "updated": "2026-10-24T03:26:23.211Z",
   "season": 2026,
   "currentWeek": 7,
   "weeks": {
@@ -2175,7 +2175,7 @@
           },
           "espnOdds": {
             "details": "CLE -2.5",
-            "overUnder": 37.5,
+            "overUnder": 36.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -2426,7 +2426,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
           },
           "espnOdds": {
-            "details": "SEA -2.5",
+            "details": "SEA -3",
             "overUnder": 42.5,
             "provider": "DraftKings",
             "homeProb": null,
