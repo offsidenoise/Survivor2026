@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T22:32:28.159Z",
+  "updated": "2026-10-24T01:01:00.435Z",
   "odds": {
     "Bears_Seahawks": {
       "teams": {
@@ -17,15 +17,15 @@
     },
     "Dolphins_Patriots": {
       "teams": {
-        "Patriots": 80,
-        "Dolphins": 20
+        "Patriots": 79,
+        "Dolphins": 21
       },
       "eventTicker": "KXNFLGAME-26NOV01NEMIA"
     },
     "Broncos_Chiefs": {
       "teams": {
-        "Chiefs": 53,
-        "Broncos": 47
+        "Chiefs": 54,
+        "Broncos": 46
       },
       "eventTicker": "KXNFLGAME-26NOV01KCDEN"
     },
@@ -73,8 +73,8 @@
     },
     "Bengals_Titans": {
       "teams": {
-        "Titans": 18,
-        "Bengals": 82
+        "Titans": 20,
+        "Bengals": 80
       },
       "eventTicker": "KXNFLGAME-26NOV01TENCIN"
     },
@@ -94,8 +94,8 @@
     },
     "Packers_Panthers": {
       "teams": {
-        "Packers": 58,
-        "Panthers": 42
+        "Packers": 59,
+        "Panthers": 41
       },
       "eventTicker": "KXNFLGAME-26OCT29CARGB"
     },
@@ -185,8 +185,8 @@
     },
     "Saints_Steelers": {
       "teams": {
-        "Steelers": 61,
-        "Saints": 39
+        "Steelers": 60,
+        "Saints": 40
       },
       "eventTicker": "KXNFLGAME-26OCT25PITNO"
     }
