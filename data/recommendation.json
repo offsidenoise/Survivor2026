@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T03:27:24.396Z",
+  "updated": "2026-10-24T10:21:56.740Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     7,
@@ -34,10 +34,10 @@
         "opponent": "New England Patriots"
       },
       "8": {
-        "team": "Cincinnati Bengals",
-        "prob": 80,
+        "team": "New England Patriots",
+        "prob": 79,
         "source": "kalshi",
-        "opponent": "Tennessee Titans",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "9": {
@@ -128,10 +128,10 @@
         "opponent": "New England Patriots"
       },
       "8": {
-        "team": "Cincinnati Bengals",
-        "prob": 80,
+        "team": "New England Patriots",
+        "prob": 79,
         "source": "kalshi",
-        "opponent": "Tennessee Titans",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "9": {
