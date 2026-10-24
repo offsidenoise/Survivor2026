@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-24T21:45:32.436Z",
+  "updated": "2026-10-24T23:48:15.173Z",
   "odds": {
     "Bears_Seahawks": {
       "teams": {
-        "Seahawks": 57,
-        "Bears": 43
+        "Seahawks": 56,
+        "Bears": 44
       },
       "eventTicker": "KXNFLGAME-26NOV02CHISEA"
     },
@@ -31,22 +31,22 @@
     },
     "Chargers_Rams": {
       "teams": {
-        "Rams": 73,
-        "Chargers": 27
+        "Rams": 74,
+        "Chargers": 26
       },
       "eventTicker": "KXNFLGAME-26NOV01LACLAR"
     },
     "Buccaneers_Falcons": {
       "teams": {
-        "Buccaneers": 52,
-        "Falcons": 48
+        "Buccaneers": 51,
+        "Falcons": 49
       },
       "eventTicker": "KXNFLGAME-26NOV01ATLTB"
     },
     "Browns_Steelers": {
       "teams": {
-        "Steelers": 64,
-        "Browns": 36
+        "Steelers": 65,
+        "Browns": 35
       },
       "eventTicker": "KXNFLGAME-26NOV01CLEPIT"
     },
@@ -59,8 +59,8 @@
     },
     "Colts_Jaguars": {
       "teams": {
-        "Jaguars": 77,
-        "Colts": 23
+        "Jaguars": 76,
+        "Colts": 24
       },
       "eventTicker": "KXNFLGAME-26NOV01INDJAC"
     },
@@ -73,29 +73,29 @@
     },
     "Bengals_Titans": {
       "teams": {
-        "Titans": 17,
-        "Bengals": 83
+        "Titans": 18,
+        "Bengals": 82
       },
       "eventTicker": "KXNFLGAME-26NOV01TENCIN"
     },
     "Bills_Ravens": {
       "teams": {
-        "Bills": 66,
-        "Ravens": 34
+        "Bills": 64,
+        "Ravens": 36
       },
       "eventTicker": "KXNFLGAME-26NOV01BALBUF"
     },
     "Cardinals_Cowboys": {
       "teams": {
-        "Cowboys": 71,
-        "Cardinals": 29
+        "Cowboys": 68,
+        "Cardinals": 32
       },
       "eventTicker": "KXNFLGAME-26NOV01ARIDAL"
     },
     "Packers_Panthers": {
       "teams": {
-        "Packers": 59,
-        "Panthers": 41
+        "Packers": 60,
+        "Panthers": 40
       },
       "eventTicker": "KXNFLGAME-26OCT29CARGB"
     },
@@ -150,8 +150,8 @@
     },
     "Bengals_Ravens": {
       "teams": {
-        "Bengals": 57,
-        "Ravens": 43
+        "Bengals": 59,
+        "Ravens": 41
       },
       "eventTicker": "KXNFLGAME-26OCT25CINBAL"
     },
