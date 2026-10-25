@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T15:36:45.163Z",
+  "updated": "2026-10-25T20:25:21.363Z",
   "season": 2026,
   "currentWeek": 7,
   "weeks": {
@@ -2076,14 +2076,58 @@
     "7": {
       "games": [
         {
+          "id": "401873016",
+          "date": "2026-10-25T17:00Z",
+          "shortName": "NYG @ HOU",
+          "completed": true,
+          "inProgress": false,
+          "awayScore": 27,
+          "homeScore": 21,
+          "awayWinner": true,
+          "homeWinner": false,
+          "away": {
+            "code": "NYG",
+            "name": "New York Giants",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png"
+          },
+          "home": {
+            "code": "HOU",
+            "name": "Houston Texans",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png"
+          },
+          "espnOdds": null
+        },
+        {
+          "id": "401873019",
+          "date": "2026-10-25T20:05Z",
+          "shortName": "DEN @ ARI",
+          "completed": false,
+          "inProgress": true,
+          "awayScore": 3,
+          "homeScore": 0,
+          "awayWinner": false,
+          "homeWinner": false,
+          "away": {
+            "code": "DEN",
+            "name": "Denver Broncos",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
+          },
+          "home": {
+            "code": "ARI",
+            "name": "Arizona Cardinals",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png"
+          },
+          "espnOdds": null
+        },
+        {
           "id": "401873011",
           "date": "2026-10-25T13:30Z",
           "shortName": "PIT VS NO",
-          "completed": false,
-          "inProgress": true,
-          "awayScore": 13,
+          "completed": true,
+          "inProgress": false,
+          "awayScore": 16,
           "homeScore": 10,
-          "awayWinner": false,
+          "awayWinner": true,
           "homeWinner": false,
           "away": {
             "code": "PIT",
@@ -2101,12 +2145,12 @@
           "id": "401873017",
           "date": "2026-10-25T17:00Z",
           "shortName": "SF @ ATL",
-          "completed": false,
+          "completed": true,
           "inProgress": false,
-          "awayScore": 0,
-          "homeScore": 0,
+          "awayScore": 20,
+          "homeScore": 29,
           "awayWinner": false,
-          "homeWinner": false,
+          "homeWinner": true,
           "away": {
             "code": "SF",
             "name": "San Francisco 49ers",
@@ -2117,23 +2161,17 @@
             "name": "Atlanta Falcons",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png"
           },
-          "espnOdds": {
-            "details": "SF -2.5",
-            "overUnder": 49.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873013",
           "date": "2026-10-25T17:00Z",
           "shortName": "CLE @ TEN",
-          "completed": false,
+          "completed": true,
           "inProgress": false,
-          "awayScore": 0,
-          "homeScore": 0,
-          "awayWinner": false,
+          "awayScore": 27,
+          "homeScore": 24,
+          "awayWinner": true,
           "homeWinner": false,
           "away": {
             "code": "CLE",
@@ -2145,24 +2183,18 @@
             "name": "Tennessee Titans",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png"
           },
-          "espnOdds": {
-            "details": "CLE -2.5",
-            "overUnder": 36.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873014",
           "date": "2026-10-25T17:00Z",
           "shortName": "IND @ MIN",
-          "completed": false,
+          "completed": true,
           "inProgress": false,
-          "awayScore": 0,
-          "homeScore": 0,
+          "awayScore": 10,
+          "homeScore": 16,
           "awayWinner": false,
-          "homeWinner": false,
+          "homeWinner": true,
           "away": {
             "code": "IND",
             "name": "Indianapolis Colts",
@@ -2173,23 +2205,17 @@
             "name": "Minnesota Vikings",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png"
           },
-          "espnOdds": {
-            "details": "MIN -6.5",
-            "overUnder": 41.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873015",
           "date": "2026-10-25T17:00Z",
           "shortName": "MIA @ NYJ",
-          "completed": false,
+          "completed": true,
           "inProgress": false,
-          "awayScore": 0,
-          "homeScore": 0,
-          "awayWinner": false,
+          "awayScore": 28,
+          "homeScore": 25,
+          "awayWinner": true,
           "homeWinner": false,
           "away": {
             "code": "MIA",
@@ -2201,23 +2227,17 @@
             "name": "New York Jets",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png"
           },
-          "espnOdds": {
-            "details": "NYJ -3.5",
-            "overUnder": 39.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873018",
           "date": "2026-10-25T17:00Z",
           "shortName": "TB @ CAR",
-          "completed": false,
+          "completed": true,
           "inProgress": false,
-          "awayScore": 0,
-          "homeScore": 0,
-          "awayWinner": false,
+          "awayScore": 43,
+          "homeScore": 13,
+          "awayWinner": true,
           "homeWinner": false,
           "away": {
             "code": "TB",
@@ -2229,23 +2249,17 @@
             "name": "Carolina Panthers",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png"
           },
-          "espnOdds": {
-            "details": "CAR -3",
-            "overUnder": 44.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873012",
           "date": "2026-10-25T17:00Z",
           "shortName": "CIN @ BAL",
-          "completed": false,
+          "completed": true,
           "inProgress": false,
-          "awayScore": 0,
-          "homeScore": 0,
-          "awayWinner": false,
+          "awayScore": 35,
+          "homeScore": 13,
+          "awayWinner": true,
           "homeWinner": false,
           "away": {
             "code": "CIN",
@@ -2257,69 +2271,7 @@
             "name": "Baltimore Ravens",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png"
           },
-          "espnOdds": {
-            "details": "CIN -3",
-            "overUnder": 46.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
-        },
-        {
-          "id": "401873016",
-          "date": "2026-10-25T17:00Z",
-          "shortName": "NYG @ HOU",
-          "completed": false,
-          "inProgress": false,
-          "awayScore": 0,
-          "homeScore": 0,
-          "awayWinner": false,
-          "homeWinner": false,
-          "away": {
-            "code": "NYG",
-            "name": "New York Giants",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png"
-          },
-          "home": {
-            "code": "HOU",
-            "name": "Houston Texans",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png"
-          },
-          "espnOdds": {
-            "details": "HOU -10.5",
-            "overUnder": 42.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
-        },
-        {
-          "id": "401873019",
-          "date": "2026-10-25T20:05Z",
-          "shortName": "DEN @ ARI",
-          "completed": false,
-          "inProgress": false,
-          "awayScore": 0,
-          "homeScore": 0,
-          "awayWinner": false,
-          "homeWinner": false,
-          "away": {
-            "code": "DEN",
-            "name": "Denver Broncos",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
-          },
-          "home": {
-            "code": "ARI",
-            "name": "Arizona Cardinals",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png"
-          },
-          "espnOdds": {
-            "details": "DEN -4.5",
-            "overUnder": 42.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873020",
@@ -2371,7 +2323,7 @@
           },
           "espnOdds": {
             "details": "LAR -3.5",
-            "overUnder": 48.5,
+            "overUnder": 49.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -2479,13 +2431,7 @@
             "name": "Green Bay Packers",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
           },
-          "espnOdds": {
-            "details": "GB -3",
-            "overUnder": 47.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873026",
@@ -2507,13 +2453,7 @@
             "name": "Buffalo Bills",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
           },
-          "espnOdds": {
-            "details": "BUF -3",
-            "overUnder": 52.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873031",
@@ -2535,13 +2475,7 @@
             "name": "Cincinnati Bengals",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
           },
-          "espnOdds": {
-            "details": "CIN -10",
-            "overUnder": 46.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873024",
@@ -2563,13 +2497,7 @@
             "name": "Dallas Cowboys",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
           },
-          "espnOdds": {
-            "details": "DAL -6.5",
-            "overUnder": 51.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873030",
@@ -2591,13 +2519,7 @@
             "name": "Detroit Lions",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png"
           },
-          "espnOdds": {
-            "details": "DET -2.5",
-            "overUnder": 46.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873029",
@@ -2619,13 +2541,7 @@
             "name": "New York Jets",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png"
           },
-          "espnOdds": {
-            "details": "LV -1.5",
-            "overUnder": 42.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873027",
@@ -2669,13 +2585,7 @@
             "name": "Tampa Bay Buccaneers",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png"
           },
-          "espnOdds": {
-            "details": "TB -1.5",
-            "overUnder": 44.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873028",
@@ -2697,13 +2607,7 @@
             "name": "Jacksonville Jaguars",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png"
           },
-          "espnOdds": {
-            "details": "JAX -7.5",
-            "overUnder": 47.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873032",
@@ -2725,13 +2629,7 @@
             "name": "Los Angeles Rams",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
           },
-          "espnOdds": {
-            "details": "LAR -7",
-            "overUnder": 45.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873033",
@@ -2753,13 +2651,7 @@
             "name": "Denver Broncos",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
           },
-          "espnOdds": {
-            "details": "KC -1.5",
-            "overUnder": 42.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873034",
@@ -2781,13 +2673,7 @@
             "name": "Miami Dolphins",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png"
           },
-          "espnOdds": {
-            "details": "NE -8.5",
-            "overUnder": 44.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873035",
@@ -2809,13 +2695,7 @@
             "name": "Washington Commanders",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png"
           },
-          "espnOdds": {
-            "details": "WSH -3.5",
-            "overUnder": 41.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         },
         {
           "id": "401873036",
@@ -2837,13 +2717,7 @@
             "name": "Seattle Seahawks",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
           },
-          "espnOdds": {
-            "details": "SEA -3",
-            "overUnder": 46.5,
-            "provider": "DraftKings",
-            "homeProb": null,
-            "awayProb": null
-          }
+          "espnOdds": null
         }
       ]
     },

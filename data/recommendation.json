@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T15:38:10.970Z",
+  "updated": "2026-10-25T20:26:22.145Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     7,
@@ -21,17 +21,17 @@
   "originalRecommendation": {
     "week": 7,
     "pick": {
-      "team": "Chicago Bears",
+      "team": "Tampa Bay Buccaneers",
       "prob": 100,
       "source": "final-result",
-      "opponent": "New England Patriots"
+      "opponent": "Carolina Panthers"
     },
     "fullSeasonPlan": {
       "7": {
-        "team": "Chicago Bears",
+        "team": "Tampa Bay Buccaneers",
         "prob": 100,
         "source": "final-result",
-        "opponent": "New England Patriots"
+        "opponent": "Carolina Panthers"
       },
       "8": {
         "team": "Cincinnati Bengals",
@@ -115,17 +115,17 @@
   "crowdAdjustedRecommendation": {
     "week": 7,
     "pick": {
-      "team": "Chicago Bears",
+      "team": "Tampa Bay Buccaneers",
       "prob": 100,
       "source": "final-result",
-      "opponent": "New England Patriots"
+      "opponent": "Carolina Panthers"
     },
     "fullSeasonPlan": {
       "7": {
-        "team": "Chicago Bears",
+        "team": "Tampa Bay Buccaneers",
         "prob": 100,
         "source": "final-result",
-        "opponent": "New England Patriots"
+        "opponent": "Carolina Panthers"
       },
       "8": {
         "team": "Cincinnati Bengals",
