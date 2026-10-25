@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-25T01:48:12.190Z",
+  "updated": "2026-10-25T03:22:03.708Z",
   "odds": {
     "Bears_Seahawks": {
       "teams": {
-        "Seahawks": 57,
-        "Bears": 43
+        "Seahawks": 56,
+        "Bears": 44
       },
       "eventTicker": "KXNFLGAME-26NOV02CHISEA"
     },
@@ -31,22 +31,22 @@
     },
     "Chargers_Rams": {
       "teams": {
-        "Rams": 74,
-        "Chargers": 26
+        "Rams": 73,
+        "Chargers": 27
       },
       "eventTicker": "KXNFLGAME-26NOV01LACLAR"
     },
     "Buccaneers_Falcons": {
       "teams": {
-        "Buccaneers": 52,
-        "Falcons": 48
+        "Buccaneers": 51,
+        "Falcons": 49
       },
       "eventTicker": "KXNFLGAME-26NOV01ATLTB"
     },
     "Browns_Steelers": {
       "teams": {
-        "Steelers": 65,
-        "Browns": 35
+        "Steelers": 64,
+        "Browns": 36
       },
       "eventTicker": "KXNFLGAME-26NOV01CLEPIT"
     },
@@ -59,8 +59,8 @@
     },
     "Colts_Jaguars": {
       "teams": {
-        "Jaguars": 75,
-        "Colts": 25
+        "Jaguars": 76,
+        "Colts": 24
       },
       "eventTicker": "KXNFLGAME-26NOV01INDJAC"
     },
@@ -73,15 +73,15 @@
     },
     "Bengals_Titans": {
       "teams": {
-        "Titans": 18,
-        "Bengals": 82
+        "Titans": 17,
+        "Bengals": 83
       },
       "eventTicker": "KXNFLGAME-26NOV01TENCIN"
     },
     "Bills_Ravens": {
       "teams": {
-        "Bills": 64,
-        "Ravens": 36
+        "Bills": 65,
+        "Ravens": 35
       },
       "eventTicker": "KXNFLGAME-26NOV01BALBUF"
     },
@@ -94,8 +94,8 @@
     },
     "Packers_Panthers": {
       "teams": {
-        "Packers": 59,
-        "Panthers": 41
+        "Packers": 60,
+        "Panthers": 40
       },
       "eventTicker": "KXNFLGAME-26OCT29CARGB"
     },
@@ -115,8 +115,8 @@
     },
     "Lions_Packers": {
       "teams": {
-        "Packers": 38,
-        "Lions": 62
+        "Packers": 37,
+        "Lions": 63
       },
       "eventTicker": "KXNFLGAME-26OCT25GBDET"
     },
