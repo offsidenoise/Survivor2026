@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T03:22:03.531Z",
+  "updated": "2026-10-25T10:48:14.038Z",
   "season": 2026,
   "currentWeek": 7,
   "weeks": {
@@ -2076,28 +2076,6 @@
     "7": {
       "games": [
         {
-          "id": "401873010",
-          "date": "2026-10-23T00:15Z",
-          "shortName": "NE @ CHI",
-          "completed": true,
-          "inProgress": false,
-          "awayScore": 24,
-          "homeScore": 30,
-          "awayWinner": false,
-          "homeWinner": true,
-          "away": {
-            "code": "NE",
-            "name": "New England Patriots",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png"
-          },
-          "home": {
-            "code": "CHI",
-            "name": "Chicago Bears",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png"
-          },
-          "espnOdds": null
-        },
-        {
           "id": "401873011",
           "date": "2026-10-25T13:30Z",
           "shortName": "PIT VS NO",
@@ -2174,7 +2152,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ten.png"
           },
           "espnOdds": {
-            "details": "CLE -2.5",
+            "details": "CLE -1.5",
             "overUnder": 36.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -2314,7 +2292,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png"
           },
           "espnOdds": {
-            "details": "HOU -10",
+            "details": "HOU -10.5",
             "overUnder": 42.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -2371,7 +2349,7 @@
           },
           "espnOdds": {
             "details": "DET -3.5",
-            "overUnder": 54.5,
+            "overUnder": 55.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -2432,6 +2410,28 @@
             "homeProb": null,
             "awayProb": null
           }
+        },
+        {
+          "id": "401873010",
+          "date": "2026-10-23T00:15Z",
+          "shortName": "NE @ CHI",
+          "completed": true,
+          "inProgress": false,
+          "awayScore": 24,
+          "homeScore": 30,
+          "awayWinner": false,
+          "homeWinner": true,
+          "away": {
+            "code": "NE",
+            "name": "New England Patriots",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png"
+          },
+          "home": {
+            "code": "CHI",
+            "name": "Chicago Bears",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png"
+          },
+          "espnOdds": null
         },
         {
           "id": "401873009",
