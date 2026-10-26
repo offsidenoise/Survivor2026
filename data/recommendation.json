@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T20:26:22.145Z",
+  "updated": "2026-10-26T03:25:17.647Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     7,
@@ -21,21 +21,21 @@
   "originalRecommendation": {
     "week": 7,
     "pick": {
-      "team": "Tampa Bay Buccaneers",
+      "team": "Los Angeles Rams",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Carolina Panthers"
+      "opponent": "Las Vegas Raiders"
     },
     "fullSeasonPlan": {
       "7": {
-        "team": "Tampa Bay Buccaneers",
+        "team": "Los Angeles Rams",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Carolina Panthers"
+        "opponent": "Las Vegas Raiders"
       },
       "8": {
         "team": "Cincinnati Bengals",
-        "prob": 80,
+        "prob": 82,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": null
@@ -115,21 +115,21 @@
   "crowdAdjustedRecommendation": {
     "week": 7,
     "pick": {
-      "team": "Tampa Bay Buccaneers",
+      "team": "Los Angeles Rams",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Carolina Panthers"
+      "opponent": "Las Vegas Raiders"
     },
     "fullSeasonPlan": {
       "7": {
-        "team": "Tampa Bay Buccaneers",
+        "team": "Los Angeles Rams",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Carolina Panthers"
+        "opponent": "Las Vegas Raiders"
       },
       "8": {
         "team": "Cincinnati Bengals",
-        "prob": 80,
+        "prob": 82,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": null
