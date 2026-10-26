@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-25T21:57:15.516Z",
+  "updated": "2026-10-26T00:04:51.184Z",
   "odds": {
     "Bears_Seahawks": {
       "teams": {
-        "Seahawks": 54,
-        "Bears": 46
+        "Seahawks": 58,
+        "Bears": 42
       },
       "eventTicker": "KXNFLGAME-26NOV02CHISEA"
     },
     "Commanders_Eagles": {
       "teams": {
-        "Commanders": 62,
-        "Eagles": 38
+        "Commanders": 64,
+        "Eagles": 36
       },
       "eventTicker": "KXNFLGAME-26NOV01PHIWAS"
     },
@@ -24,22 +24,22 @@
     },
     "Broncos_Chiefs": {
       "teams": {
-        "Chiefs": 55,
-        "Broncos": 45
+        "Chiefs": 54,
+        "Broncos": 46
       },
       "eventTicker": "KXNFLGAME-26NOV01KCDEN"
     },
     "Chargers_Rams": {
       "teams": {
-        "Rams": 71,
-        "Chargers": 29
+        "Rams": 75,
+        "Chargers": 25
       },
       "eventTicker": "KXNFLGAME-26NOV01LACLAR"
     },
     "Buccaneers_Falcons": {
       "teams": {
-        "Buccaneers": 51,
-        "Falcons": 49
+        "Buccaneers": 52,
+        "Falcons": 48
       },
       "eventTicker": "KXNFLGAME-26NOV01ATLTB"
     },
@@ -59,8 +59,8 @@
     },
     "Colts_Jaguars": {
       "teams": {
-        "Jaguars": 76,
-        "Colts": 24
+        "Jaguars": 77,
+        "Colts": 23
       },
       "eventTicker": "KXNFLGAME-26NOV01INDJAC"
     },
@@ -80,22 +80,22 @@
     },
     "Bills_Ravens": {
       "teams": {
-        "Bills": 63,
-        "Ravens": 37
+        "Bills": 62,
+        "Ravens": 38
       },
       "eventTicker": "KXNFLGAME-26NOV01BALBUF"
     },
     "Cardinals_Cowboys": {
       "teams": {
-        "Cowboys": 69,
-        "Cardinals": 31
+        "Cowboys": 72,
+        "Cardinals": 28
       },
       "eventTicker": "KXNFLGAME-26NOV01ARIDAL"
     },
     "Packers_Panthers": {
       "teams": {
-        "Packers": 61,
-        "Panthers": 39
+        "Packers": 63,
+        "Panthers": 37
       },
       "eventTicker": "KXNFLGAME-26OCT29CARGB"
     },
@@ -112,27 +112,6 @@
         "Chiefs": 42
       },
       "eventTicker": "KXNFLGAME-26OCT25KCSEA"
-    },
-    "Lions_Packers": {
-      "teams": {
-        "Packers": 28,
-        "Lions": 72
-      },
-      "eventTicker": "KXNFLGAME-26OCT25GBDET"
-    },
-    "Raiders_Rams": {
-      "teams": {
-        "Raiders": 2,
-        "Rams": 98
-      },
-      "eventTicker": "KXNFLGAME-26OCT25LARLV"
-    },
-    "Broncos_Cardinals": {
-      "teams": {
-        "Broncos": 75,
-        "Cardinals": 25
-      },
-      "eventTicker": "KXNFLGAME-26OCT25DENARI"
     }
   },
   "unmapped": []
