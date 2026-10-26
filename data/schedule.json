@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T12:19:15.811Z",
+  "updated": "2026-10-26T22:20:06.837Z",
   "season": 2026,
   "currentWeek": 7,
   "weeks": {
@@ -2098,7 +2098,7 @@
           "espnOdds": {
             "details": "DAL -4.5",
             "overUnder": 43.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -2416,7 +2416,7 @@
           "espnOdds": {
             "details": "GB -3.5",
             "overUnder": 47.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -2444,7 +2444,7 @@
           "espnOdds": {
             "details": "BUF -3.5",
             "overUnder": 53.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -2470,9 +2470,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
           },
           "espnOdds": {
-            "details": "CIN -10.5",
-            "overUnder": 47.5,
-            "provider": "DraftKings",
+            "details": "CIN -10",
+            "overUnder": 46.5,
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -2498,9 +2498,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
           },
           "espnOdds": {
-            "details": "DAL -6.5",
-            "overUnder": 53.5,
-            "provider": "DraftKings",
+            "details": "DAL -6",
+            "overUnder": 54.5,
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -2528,7 +2528,7 @@
           "espnOdds": {
             "details": "DET -3",
             "overUnder": 46.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -2554,9 +2554,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png"
           },
           "espnOdds": {
-            "details": "LV -1.5",
-            "overUnder": 44.5,
-            "provider": "DraftKings",
+            "details": "NYJ -1.5",
+            "overUnder": 45.5,
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -2583,8 +2583,8 @@
           },
           "espnOdds": {
             "details": "PIT -3.5",
-            "overUnder": 38.5,
-            "provider": "DraftKings",
+            "overUnder": 39.5,
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -2610,9 +2610,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png"
           },
           "espnOdds": {
-            "details": "TB -1.5",
-            "overUnder": 44.5,
-            "provider": "DraftKings",
+            "details": "TB -2.5",
+            "overUnder": 46.5,
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -2640,7 +2640,7 @@
           "espnOdds": {
             "details": "JAX -7.5",
             "overUnder": 46.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -2666,9 +2666,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png"
           },
           "espnOdds": {
-            "details": "LAR -7",
-            "overUnder": 43.5,
-            "provider": "DraftKings",
+            "details": "LAR -6.5",
+            "overUnder": 44.5,
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -2696,7 +2696,7 @@
           "espnOdds": {
             "details": "KC -1.5",
             "overUnder": 41.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -2722,9 +2722,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png"
           },
           "espnOdds": {
-            "details": "NE -7",
+            "details": "NE -7.5",
             "overUnder": 44.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -2752,7 +2752,7 @@
           "espnOdds": {
             "details": "WSH -3.5",
             "overUnder": 40.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -2780,7 +2780,7 @@
           "espnOdds": {
             "details": "SEA -3",
             "overUnder": 46.5,
-            "provider": "DraftKings",
+            "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
           }
@@ -3010,28 +3010,6 @@
           "espnOdds": null
         },
         {
-          "id": "401873047",
-          "date": "2026-11-08T21:05Z",
-          "shortName": "LV @ SF",
-          "completed": false,
-          "inProgress": false,
-          "awayScore": 0,
-          "homeScore": 0,
-          "awayWinner": false,
-          "homeWinner": false,
-          "away": {
-            "code": "LV",
-            "name": "Las Vegas Raiders",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png"
-          },
-          "home": {
-            "code": "SF",
-            "name": "San Francisco 49ers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
-          },
-          "espnOdds": null
-        },
-        {
           "id": "401873049",
           "date": "2026-11-08T21:25Z",
           "shortName": "GB @ NE",
@@ -3050,6 +3028,28 @@
             "code": "NE",
             "name": "New England Patriots",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png"
+          },
+          "espnOdds": null
+        },
+        {
+          "id": "401873047",
+          "date": "2026-11-08T21:25Z",
+          "shortName": "LV @ SF",
+          "completed": false,
+          "inProgress": false,
+          "awayScore": 0,
+          "homeScore": 0,
+          "awayWinner": false,
+          "homeWinner": false,
+          "away": {
+            "code": "LV",
+            "name": "Las Vegas Raiders",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png"
+          },
+          "home": {
+            "code": "SF",
+            "name": "San Francisco 49ers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
           },
           "espnOdds": null
         },
