@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T16:57:52.064Z",
+  "updated": "2026-10-26T21:33:00.603Z",
   "odds": {
     "Bears_Seahawks": {
       "teams": {
@@ -45,8 +45,8 @@
     },
     "Browns_Steelers": {
       "teams": {
-        "Steelers": 64,
-        "Browns": 36
+        "Steelers": 63,
+        "Browns": 37
       },
       "eventTicker": "KXNFLGAME-26NOV01CLEPIT"
     },
@@ -66,8 +66,8 @@
     },
     "Lions_Vikings": {
       "teams": {
-        "Vikings": 40,
-        "Lions": 60
+        "Vikings": 39,
+        "Lions": 61
       },
       "eventTicker": "KXNFLGAME-26NOV01MINDET"
     },
@@ -80,15 +80,15 @@
     },
     "Bills_Ravens": {
       "teams": {
-        "Bills": 63,
-        "Ravens": 37
+        "Bills": 62,
+        "Ravens": 38
       },
       "eventTicker": "KXNFLGAME-26NOV01BALBUF"
     },
     "Cardinals_Cowboys": {
       "teams": {
-        "Cowboys": 70,
-        "Cardinals": 30
+        "Cowboys": 71,
+        "Cardinals": 29
       },
       "eventTicker": "KXNFLGAME-26NOV01ARIDAL"
     },
