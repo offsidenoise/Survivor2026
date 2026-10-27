@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T16:32:37.929Z",
+  "updated": "2026-10-27T17:31:19.492Z",
   "odds": {
     "Bills_Vikings": {
       "teams": {
@@ -17,29 +17,29 @@
     },
     "Packers_Patriots": {
       "teams": {
-        "Patriots": 51,
-        "Packers": 49
+        "Patriots": 57,
+        "Packers": 43
       },
       "eventTicker": "KXNFLGAME-26NOV08GBNE"
     },
     "Cardinals_Seahawks": {
       "teams": {
-        "Seahawks": 70,
-        "Cardinals": 30
+        "Seahawks": 69,
+        "Cardinals": 31
       },
       "eventTicker": "KXNFLGAME-26NOV08ARISEA"
     },
     "49ers_Raiders": {
       "teams": {
-        "49ers": 72,
-        "Raiders": 28
+        "49ers": 69,
+        "Raiders": 31
       },
       "eventTicker": "KXNFLGAME-26NOV08LVSF"
     },
     "Chargers_Texans": {
       "teams": {
-        "Chargers": 34,
-        "Texans": 66
+        "Chargers": 35,
+        "Texans": 65
       },
       "eventTicker": "KXNFLGAME-26NOV08HOULAC"
     },
@@ -52,8 +52,8 @@
     },
     "Eagles_Giants": {
       "teams": {
-        "Eagles": 40,
-        "Giants": 60
+        "Eagles": 38,
+        "Giants": 62
       },
       "eventTicker": "KXNFLGAME-26NOV08NYGPHI"
     },
@@ -73,8 +73,8 @@
     },
     "Broncos_Panthers": {
       "teams": {
-        "Broncos": 57,
-        "Panthers": 43
+        "Broncos": 56,
+        "Panthers": 44
       },
       "eventTicker": "KXNFLGAME-26NOV08DENCAR"
     },
@@ -94,15 +94,15 @@
     },
     "Bengals_Falcons": {
       "teams": {
-        "Bengals": 55,
-        "Falcons": 45
+        "Bengals": 56,
+        "Falcons": 44
       },
       "eventTicker": "KXNFLGAME-26NOV08CINATL"
     },
     "Jaguars_Ravens": {
       "teams": {
-        "Jaguars": 53,
-        "Ravens": 47
+        "Jaguars": 50,
+        "Ravens": 50
       },
       "eventTicker": "KXNFLGAME-26NOV05JACBAL"
     },
@@ -115,8 +115,8 @@
     },
     "Commanders_Eagles": {
       "teams": {
-        "Commanders": 66,
-        "Eagles": 34
+        "Commanders": 68,
+        "Eagles": 32
       },
       "eventTicker": "KXNFLGAME-26NOV01PHIWAS"
     },
