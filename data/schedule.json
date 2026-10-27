@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T03:51:25.823Z",
+  "updated": "2026-10-27T11:39:25.560Z",
   "season": 2026,
   "currentWeek": 7,
   "weeks": {
@@ -2076,28 +2076,6 @@
     "7": {
       "games": [
         {
-          "id": "401873009",
-          "date": "2026-10-27T00:15Z",
-          "shortName": "DAL @ PHI",
-          "completed": true,
-          "inProgress": false,
-          "awayScore": 38,
-          "homeScore": 21,
-          "awayWinner": true,
-          "homeWinner": false,
-          "away": {
-            "code": "DAL",
-            "name": "Dallas Cowboys",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
-          },
-          "home": {
-            "code": "PHI",
-            "name": "Philadelphia Eagles",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png"
-          },
-          "espnOdds": null
-        },
-        {
           "id": "401873010",
           "date": "2026-10-23T00:15Z",
           "shortName": "NE @ CHI",
@@ -2380,6 +2358,28 @@
             "code": "SEA",
             "name": "Seattle Seahawks",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png"
+          },
+          "espnOdds": null
+        },
+        {
+          "id": "401873009",
+          "date": "2026-10-27T00:15Z",
+          "shortName": "DAL @ PHI",
+          "completed": true,
+          "inProgress": false,
+          "awayScore": 38,
+          "homeScore": 21,
+          "awayWinner": true,
+          "homeWinner": false,
+          "away": {
+            "code": "DAL",
+            "name": "Dallas Cowboys",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
+          },
+          "home": {
+            "code": "PHI",
+            "name": "Philadelphia Eagles",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png"
           },
           "espnOdds": null
         }

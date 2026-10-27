@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:04:15.329Z",
+  "updated": "2026-10-27T11:39:25.762Z",
   "odds": {
     "Bills_Vikings": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Packers_Patriots": {
       "teams": {
-        "Patriots": 55,
-        "Packers": 45
+        "Patriots": 59,
+        "Packers": 41
       },
       "eventTicker": "KXNFLGAME-26NOV08GBNE"
     },
@@ -38,8 +38,8 @@
     },
     "Chargers_Texans": {
       "teams": {
-        "Chargers": 39,
-        "Texans": 61
+        "Chargers": 40,
+        "Texans": 60
       },
       "eventTicker": "KXNFLGAME-26NOV08HOULAC"
     },
@@ -52,8 +52,8 @@
     },
     "Eagles_Giants": {
       "teams": {
-        "Eagles": 44,
-        "Giants": 56
+        "Eagles": 38,
+        "Giants": 62
       },
       "eventTicker": "KXNFLGAME-26NOV08NYGPHI"
     },
@@ -66,8 +66,8 @@
     },
     "Colts_Cowboys": {
       "teams": {
-        "Colts": 42,
-        "Cowboys": 58
+        "Colts": 43,
+        "Cowboys": 57
       },
       "eventTicker": "KXNFLGAME-26NOV08DALIND"
     },
@@ -101,8 +101,8 @@
     },
     "Jaguars_Ravens": {
       "teams": {
-        "Jaguars": 52,
-        "Ravens": 48
+        "Jaguars": 53,
+        "Ravens": 47
       },
       "eventTicker": "KXNFLGAME-26NOV05JACBAL"
     },
@@ -129,15 +129,15 @@
     },
     "Broncos_Chiefs": {
       "teams": {
-        "Chiefs": 51,
-        "Broncos": 49
+        "Chiefs": 52,
+        "Broncos": 48
       },
       "eventTicker": "KXNFLGAME-26NOV01KCDEN"
     },
     "Chargers_Rams": {
       "teams": {
-        "Rams": 74,
-        "Chargers": 26
+        "Rams": 73,
+        "Chargers": 27
       },
       "eventTicker": "KXNFLGAME-26NOV01LACLAR"
     },
@@ -157,8 +157,8 @@
     },
     "Jets_Raiders": {
       "teams": {
-        "Jets": 49,
-        "Raiders": 51
+        "Jets": 50,
+        "Raiders": 50
       },
       "eventTicker": "KXNFLGAME-26NOV01LVNYJ"
     },
@@ -192,8 +192,8 @@
     },
     "Cardinals_Cowboys": {
       "teams": {
-        "Cowboys": 70,
-        "Cardinals": 30
+        "Cowboys": 72,
+        "Cardinals": 28
       },
       "eventTicker": "KXNFLGAME-26NOV01ARIDAL"
     },
