@@ -1,8 +1,7 @@
 {
-  "updated": "2026-10-28T04:12:39.733Z",
+  "updated": "2026-10-28T12:11:53.612Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
-    7,
     8,
     9,
     10,
@@ -17,28 +16,25 @@
   ],
   "powerIndexHealthy": true,
   "yahooCrowdHealthy": true,
-  "evHealthy": false,
+  "evHealthy": true,
   "originalRecommendation": {
-    "week": 7,
+    "week": 8,
     "pick": {
-      "team": "Minnesota Vikings",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "Indianapolis Colts"
+      "team": "Cincinnati Bengals",
+      "prob": 83,
+      "source": "kalshi",
+      "opponent": "Tennessee Titans",
+      "crowdPct": 41.85,
+      "ev": 0.022432432432432474
     },
     "fullSeasonPlan": {
-      "7": {
-        "team": "Minnesota Vikings",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "Indianapolis Colts"
-      },
       "8": {
         "team": "Cincinnati Bengals",
         "prob": 83,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
-        "crowdPct": null
+        "crowdPct": 41.85,
+        "ev": 0.022432432432432474
       },
       "9": {
         "team": "Seattle Seahawks",
@@ -113,26 +109,23 @@
     }
   },
   "crowdAdjustedRecommendation": {
-    "week": 7,
+    "week": 8,
     "pick": {
-      "team": "Minnesota Vikings",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "Indianapolis Colts"
+      "team": "Cincinnati Bengals",
+      "prob": 83,
+      "source": "kalshi",
+      "opponent": "Tennessee Titans",
+      "crowdPct": 41.85,
+      "ev": 0.022432432432432474
     },
     "fullSeasonPlan": {
-      "7": {
-        "team": "Minnesota Vikings",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "Indianapolis Colts"
-      },
       "8": {
         "team": "Cincinnati Bengals",
         "prob": 83,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
-        "crowdPct": null
+        "crowdPct": 41.85,
+        "ev": 0.022432432432432474
       },
       "9": {
         "team": "Seattle Seahawks",

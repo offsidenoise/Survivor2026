@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-28T04:11:11.655Z",
+  "updated": "2026-10-28T12:10:58.253Z",
   "season": 2026,
-  "currentWeek": 7,
+  "currentWeek": 8,
   "weeks": {
     "1": {
       "games": [
@@ -2436,7 +2436,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
           },
           "espnOdds": {
-            "details": "BUF -3.5",
+            "details": "BUF -3",
             "overUnder": 54.5,
             "provider": "DraftKings",
             "homeProb": null,
