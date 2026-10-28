@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T12:11:53.612Z",
+  "updated": "2026-10-28T22:15:37.640Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     8,
@@ -25,7 +25,7 @@
       "source": "kalshi",
       "opponent": "Tennessee Titans",
       "crowdPct": 41.85,
-      "ev": 0.022432432432432474
+      "ev": 0.022432432432432432
     },
     "fullSeasonPlan": {
       "8": {
@@ -34,11 +34,11 @@
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": 41.85,
-        "ev": 0.022432432432432474
+        "ev": 0.022432432432432432
       },
       "9": {
         "team": "Seattle Seahawks",
-        "prob": 86,
+        "prob": 85,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
@@ -116,7 +116,7 @@
       "source": "kalshi",
       "opponent": "Tennessee Titans",
       "crowdPct": 41.85,
-      "ev": 0.022432432432432474
+      "ev": 0.022432432432432432
     },
     "fullSeasonPlan": {
       "8": {
@@ -125,11 +125,11 @@
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": 41.85,
-        "ev": 0.022432432432432474
+        "ev": 0.022432432432432432
       },
       "9": {
         "team": "Seattle Seahawks",
-        "prob": 86,
+        "prob": 85,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
