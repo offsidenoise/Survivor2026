@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T21:52:07.822Z",
+  "updated": "2026-10-28T04:12:39.733Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     7,
@@ -21,17 +21,17 @@
   "originalRecommendation": {
     "week": 7,
     "pick": {
-      "team": "New York Giants",
+      "team": "Minnesota Vikings",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Houston Texans"
+      "opponent": "Indianapolis Colts"
     },
     "fullSeasonPlan": {
       "7": {
-        "team": "New York Giants",
+        "team": "Minnesota Vikings",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Houston Texans"
+        "opponent": "Indianapolis Colts"
       },
       "8": {
         "team": "Cincinnati Bengals",
@@ -42,7 +42,7 @@
       },
       "9": {
         "team": "Seattle Seahawks",
-        "prob": 85,
+        "prob": 86,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
@@ -115,17 +115,17 @@
   "crowdAdjustedRecommendation": {
     "week": 7,
     "pick": {
-      "team": "New York Giants",
+      "team": "Minnesota Vikings",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Houston Texans"
+      "opponent": "Indianapolis Colts"
     },
     "fullSeasonPlan": {
       "7": {
-        "team": "New York Giants",
+        "team": "Minnesota Vikings",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Houston Texans"
+        "opponent": "Indianapolis Colts"
       },
       "8": {
         "team": "Cincinnati Bengals",
@@ -136,7 +136,7 @@
       },
       "9": {
         "team": "Seattle Seahawks",
-        "prob": 85,
+        "prob": 86,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
