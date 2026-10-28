@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T12:10:58.473Z",
+  "updated": "2026-10-28T12:40:31.378Z",
   "odds": {
     "Bills_Vikings": {
       "teams": {
@@ -52,8 +52,8 @@
     },
     "Eagles_Giants": {
       "teams": {
-        "Eagles": 44,
-        "Giants": 56
+        "Eagles": 45,
+        "Giants": 55
       },
       "eventTicker": "KXNFLGAME-26NOV08NYGPHI"
     },
@@ -66,8 +66,8 @@
     },
     "Colts_Cowboys": {
       "teams": {
-        "Colts": 35,
-        "Cowboys": 65
+        "Colts": 34,
+        "Cowboys": 66
       },
       "eventTicker": "KXNFLGAME-26NOV08DALIND"
     },
