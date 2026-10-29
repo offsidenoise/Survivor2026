@@ -1,24 +1,24 @@
 {
-  "updated": "2026-10-29T04:33:13.091Z",
+  "updated": "2026-10-29T08:20:55.508Z",
   "odds": {
     "Bills_Vikings": {
       "teams": {
-        "Vikings": 44,
-        "Bills": 56
+        "Vikings": 45,
+        "Bills": 55
       },
       "eventTicker": "KXNFLGAME-26NOV09BUFMIN"
     },
     "Bears_Buccaneers": {
       "teams": {
-        "Buccaneers": 28,
-        "Bears": 72
+        "Buccaneers": 29,
+        "Bears": 71
       },
       "eventTicker": "KXNFLGAME-26NOV08TBCHI"
     },
     "Packers_Patriots": {
       "teams": {
-        "Patriots": 58,
-        "Packers": 42
+        "Patriots": 57,
+        "Packers": 43
       },
       "eventTicker": "KXNFLGAME-26NOV08GBNE"
     },
@@ -31,8 +31,8 @@
     },
     "49ers_Raiders": {
       "teams": {
-        "49ers": 81,
-        "Raiders": 19
+        "49ers": 80,
+        "Raiders": 20
       },
       "eventTicker": "KXNFLGAME-26NOV08LVSF"
     },
@@ -45,15 +45,15 @@
     },
     "Commanders_Rams": {
       "teams": {
-        "Commanders": 33,
-        "Rams": 67
+        "Commanders": 34,
+        "Rams": 66
       },
       "eventTicker": "KXNFLGAME-26NOV08LARWAS"
     },
     "Eagles_Giants": {
       "teams": {
-        "Eagles": 44,
-        "Giants": 56
+        "Eagles": 43,
+        "Giants": 57
       },
       "eventTicker": "KXNFLGAME-26NOV08NYGPHI"
     },
@@ -66,15 +66,15 @@
     },
     "Colts_Cowboys": {
       "teams": {
-        "Colts": 34,
-        "Cowboys": 66
+        "Colts": 37,
+        "Cowboys": 63
       },
       "eventTicker": "KXNFLGAME-26NOV08DALIND"
     },
     "Broncos_Panthers": {
       "teams": {
-        "Broncos": 55,
-        "Panthers": 45
+        "Broncos": 56,
+        "Panthers": 44
       },
       "eventTicker": "KXNFLGAME-26NOV08DENCAR"
     },
@@ -87,15 +87,15 @@
     },
     "Chiefs_Jets": {
       "teams": {
-        "Jets": 18,
-        "Chiefs": 82
+        "Jets": 20,
+        "Chiefs": 80
       },
       "eventTicker": "KXNFLGAME-26NOV08NYJKC"
     },
     "Bengals_Falcons": {
       "teams": {
-        "Bengals": 61,
-        "Falcons": 39
+        "Bengals": 62,
+        "Falcons": 38
       },
       "eventTicker": "KXNFLGAME-26NOV08CINATL"
     },
