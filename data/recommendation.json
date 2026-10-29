@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T12:22:54.245Z",
+  "updated": "2026-10-29T22:29:05.581Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     8,
@@ -21,20 +21,20 @@
     "week": 8,
     "pick": {
       "team": "Cincinnati Bengals",
-      "prob": 83,
+      "prob": 84,
       "source": "kalshi",
       "opponent": "Tennessee Titans",
       "crowdPct": 40.22,
-      "ev": 0.021842105263157954
+      "ev": 0.022105263157894742
     },
     "fullSeasonPlan": {
       "8": {
         "team": "Cincinnati Bengals",
-        "prob": 83,
+        "prob": 84,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": 40.22,
-        "ev": 0.021842105263157954
+        "ev": 0.022105263157894742
       },
       "9": {
         "team": "Seattle Seahawks",
@@ -112,20 +112,20 @@
     "week": 8,
     "pick": {
       "team": "Cincinnati Bengals",
-      "prob": 83,
+      "prob": 84,
       "source": "kalshi",
       "opponent": "Tennessee Titans",
       "crowdPct": 40.22,
-      "ev": 0.021842105263157954
+      "ev": 0.022105263157894742
     },
     "fullSeasonPlan": {
       "8": {
         "team": "Cincinnati Bengals",
-        "prob": 83,
+        "prob": 84,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": 40.22,
-        "ev": 0.021842105263157954
+        "ev": 0.022105263157894742
       },
       "9": {
         "team": "Seattle Seahawks",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T12:21:38.569Z",
+  "updated": "2026-10-29T22:28:07.579Z",
   "season": 2026,
   "currentWeek": 8,
   "weeks": {
@@ -2409,7 +2409,7 @@
           },
           "espnOdds": {
             "details": "GB -3.5",
-            "overUnder": 47.5,
+            "overUnder": 46.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -2464,7 +2464,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
           },
           "espnOdds": {
-            "details": "CIN -10",
+            "details": "CIN -11.5",
             "overUnder": 46.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -2860,7 +2860,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png"
           },
           "espnOdds": {
-            "details": "DAL -3.5",
+            "details": "DAL -4.5",
             "overUnder": 51.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -2917,7 +2917,7 @@
           },
           "espnOdds": {
             "details": "DET -7",
-            "overUnder": 47.5,
+            "overUnder": 48.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -2945,7 +2945,7 @@
           },
           "espnOdds": {
             "details": "NO -2.5",
-            "overUnder": 42.5,
+            "overUnder": 43.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -3056,7 +3056,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png"
           },
           "espnOdds": {
-            "details": "HOU -3",
+            "details": "HOU -3.5",
             "overUnder": 42.5,
             "provider": "DraftKings",
             "homeProb": null,
