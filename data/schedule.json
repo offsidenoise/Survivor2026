@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T12:11:53.325Z",
+  "updated": "2026-10-30T21:57:32.117Z",
   "season": 2026,
   "currentWeek": 8,
   "weeks": {
@@ -2599,7 +2599,7 @@
           },
           "espnOdds": {
             "details": "TB -2.5",
-            "overUnder": 44.5,
+            "overUnder": 43.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -3021,7 +3021,13 @@
             "name": "Carolina Panthers",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png"
           },
-          "espnOdds": null
+          "espnOdds": {
+            "details": "DEN -2.5",
+            "overUnder": 44.5,
+            "provider": "DraftKings",
+            "homeProb": null,
+            "awayProb": null
+          }
         },
         {
           "id": "401873046",
@@ -3094,7 +3100,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
           },
           "espnOdds": {
-            "details": "SF -9.5",
+            "details": "SF -10",
             "overUnder": 48.5,
             "provider": "DraftKings",
             "homeProb": null,
