@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T12:11:53.520Z",
+  "updated": "2026-10-30T17:14:46.634Z",
   "odds": {
     "Bills_Vikings": {
       "teams": {
@@ -10,15 +10,15 @@
     },
     "Bears_Buccaneers": {
       "teams": {
-        "Buccaneers": 29,
-        "Bears": 71
+        "Buccaneers": 28,
+        "Bears": 72
       },
       "eventTicker": "KXNFLGAME-26NOV08TBCHI"
     },
     "Packers_Patriots": {
       "teams": {
-        "Patriots": 52,
-        "Packers": 48
+        "Patriots": 56,
+        "Packers": 44
       },
       "eventTicker": "KXNFLGAME-26NOV08GBNE"
     },
@@ -31,8 +31,8 @@
     },
     "49ers_Raiders": {
       "teams": {
-        "49ers": 81,
-        "Raiders": 19
+        "49ers": 82,
+        "Raiders": 18
       },
       "eventTicker": "KXNFLGAME-26NOV08LVSF"
     },
@@ -52,29 +52,29 @@
     },
     "Eagles_Giants": {
       "teams": {
-        "Eagles": 45,
-        "Giants": 55
+        "Eagles": 46,
+        "Giants": 54
       },
       "eventTicker": "KXNFLGAME-26NOV08NYGPHI"
     },
     "Dolphins_Lions": {
       "teams": {
-        "Dolphins": 20,
-        "Lions": 80
+        "Dolphins": 21,
+        "Lions": 79
       },
       "eventTicker": "KXNFLGAME-26NOV08DETMIA"
     },
     "Colts_Cowboys": {
       "teams": {
-        "Colts": 33,
-        "Cowboys": 67
+        "Colts": 32,
+        "Cowboys": 68
       },
       "eventTicker": "KXNFLGAME-26NOV08DALIND"
     },
     "Broncos_Panthers": {
       "teams": {
-        "Broncos": 56,
-        "Panthers": 44
+        "Broncos": 57,
+        "Panthers": 43
       },
       "eventTicker": "KXNFLGAME-26NOV08DENCAR"
     },
@@ -94,15 +94,15 @@
     },
     "Bengals_Falcons": {
       "teams": {
-        "Bengals": 60,
-        "Falcons": 40
+        "Bengals": 61,
+        "Falcons": 39
       },
       "eventTicker": "KXNFLGAME-26NOV08CINATL"
     },
     "Jaguars_Ravens": {
       "teams": {
-        "Jaguars": 42,
-        "Ravens": 58
+        "Jaguars": 43,
+        "Ravens": 57
       },
       "eventTicker": "KXNFLGAME-26NOV05JACBAL"
     },
@@ -178,8 +178,8 @@
     },
     "Bengals_Titans": {
       "teams": {
-        "Titans": 15,
-        "Bengals": 85
+        "Titans": 14,
+        "Bengals": 86
       },
       "eventTicker": "KXNFLGAME-26NOV01TENCIN"
     },
