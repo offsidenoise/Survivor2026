@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T11:45:09.557Z",
+  "updated": "2026-10-31T16:53:30.102Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     8,
@@ -34,7 +34,7 @@
       },
       "9": {
         "team": "Kansas City Chiefs",
-        "prob": 80,
+        "prob": 81,
         "source": "kalshi",
         "opponent": "New York Jets",
         "crowdPct": null
@@ -121,7 +121,7 @@
       },
       "9": {
         "team": "Kansas City Chiefs",
-        "prob": 80,
+        "prob": 81,
         "source": "kalshi",
         "opponent": "New York Jets",
         "crowdPct": null
