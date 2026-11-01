@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T12:44:50.268Z",
+  "updated": "2026-11-01T21:44:59.031Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     8,
@@ -20,23 +20,23 @@
   "originalRecommendation": {
     "week": 8,
     "pick": {
-      "team": "Green Bay Packers",
+      "team": "Tampa Bay Buccaneers",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Carolina Panthers"
+      "opponent": "Atlanta Falcons"
     },
     "fullSeasonPlan": {
       "8": {
-        "team": "Green Bay Packers",
+        "team": "Tampa Bay Buccaneers",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Carolina Panthers"
+        "opponent": "Atlanta Falcons"
       },
       "9": {
-        "team": "Kansas City Chiefs",
-        "prob": 80,
+        "team": "Seattle Seahawks",
+        "prob": 84,
         "source": "kalshi",
-        "opponent": "New York Jets",
+        "opponent": "Arizona Cardinals",
         "crowdPct": null
       },
       "10": {
@@ -75,10 +75,10 @@
         "crowdPct": null
       },
       "15": {
-        "team": "Seattle Seahawks",
-        "prob": 80.312,
+        "team": "Green Bay Packers",
+        "prob": 81.89800000000001,
         "source": "powerindex",
-        "opponent": "Philadelphia Eagles",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "16": {
@@ -96,10 +96,10 @@
         "crowdPct": null
       },
       "18": {
-        "team": "Cincinnati Bengals",
-        "prob": 80.471,
-        "source": "powerindex",
-        "opponent": "Cleveland Browns",
+        "team": "New England Patriots",
+        "prob": 83,
+        "source": "kalshi",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       }
     }
@@ -107,23 +107,23 @@
   "crowdAdjustedRecommendation": {
     "week": 8,
     "pick": {
-      "team": "Green Bay Packers",
+      "team": "Tampa Bay Buccaneers",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Carolina Panthers"
+      "opponent": "Atlanta Falcons"
     },
     "fullSeasonPlan": {
       "8": {
-        "team": "Green Bay Packers",
+        "team": "Tampa Bay Buccaneers",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Carolina Panthers"
+        "opponent": "Atlanta Falcons"
       },
       "9": {
-        "team": "Kansas City Chiefs",
-        "prob": 80,
+        "team": "Seattle Seahawks",
+        "prob": 84,
         "source": "kalshi",
-        "opponent": "New York Jets",
+        "opponent": "Arizona Cardinals",
         "crowdPct": null
       },
       "10": {
@@ -162,10 +162,10 @@
         "crowdPct": null
       },
       "15": {
-        "team": "Seattle Seahawks",
-        "prob": 80.312,
+        "team": "Green Bay Packers",
+        "prob": 81.89800000000001,
         "source": "powerindex",
-        "opponent": "Philadelphia Eagles",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "16": {
@@ -183,10 +183,10 @@
         "crowdPct": null
       },
       "18": {
-        "team": "Cincinnati Bengals",
-        "prob": 80.471,
-        "source": "powerindex",
-        "opponent": "Cleveland Browns",
+        "team": "New England Patriots",
+        "prob": 83,
+        "source": "kalshi",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       }
     }
