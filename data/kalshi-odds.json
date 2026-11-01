@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T04:35:36.821Z",
+  "updated": "2026-11-01T05:52:29.830Z",
   "odds": {
     "Bills_Vikings": {
       "teams": {
@@ -24,8 +24,8 @@
     },
     "Cardinals_Seahawks": {
       "teams": {
-        "Seahawks": 81,
-        "Cardinals": 19
+        "Seahawks": 83,
+        "Cardinals": 17
       },
       "eventTicker": "KXNFLGAME-26NOV08ARISEA"
     },
@@ -38,8 +38,8 @@
     },
     "Chargers_Texans": {
       "teams": {
-        "Chargers": 35,
-        "Texans": 65
+        "Chargers": 36,
+        "Texans": 64
       },
       "eventTicker": "KXNFLGAME-26NOV08HOULAC"
     },
@@ -52,8 +52,8 @@
     },
     "Eagles_Giants": {
       "teams": {
-        "Eagles": 45,
-        "Giants": 55
+        "Eagles": 46,
+        "Giants": 54
       },
       "eventTicker": "KXNFLGAME-26NOV08NYGPHI"
     },
@@ -66,8 +66,8 @@
     },
     "Colts_Cowboys": {
       "teams": {
-        "Colts": 31,
-        "Cowboys": 69
+        "Colts": 32,
+        "Cowboys": 68
       },
       "eventTicker": "KXNFLGAME-26NOV08DALIND"
     },
