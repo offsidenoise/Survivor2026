@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T12:35:47.531Z",
+  "updated": "2026-11-01T12:43:25.408Z",
   "odds": {
     "Bills_Vikings": {
       "teams": {
@@ -31,8 +31,8 @@
     },
     "49ers_Raiders": {
       "teams": {
-        "49ers": 79,
-        "Raiders": 21
+        "49ers": 80,
+        "Raiders": 20
       },
       "eventTicker": "KXNFLGAME-26NOV08LVSF"
     },
@@ -94,8 +94,8 @@
     },
     "Bengals_Falcons": {
       "teams": {
-        "Bengals": 62,
-        "Falcons": 38
+        "Bengals": 61,
+        "Falcons": 39
       },
       "eventTicker": "KXNFLGAME-26NOV08CINATL"
     },
