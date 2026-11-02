@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T21:44:59.031Z",
+  "updated": "2026-11-02T04:39:37.471Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     8,
@@ -20,21 +20,21 @@
   "originalRecommendation": {
     "week": 8,
     "pick": {
-      "team": "Tampa Bay Buccaneers",
+      "team": "Arizona Cardinals",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Atlanta Falcons"
+      "opponent": "Dallas Cowboys"
     },
     "fullSeasonPlan": {
       "8": {
-        "team": "Tampa Bay Buccaneers",
+        "team": "Arizona Cardinals",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Atlanta Falcons"
+        "opponent": "Dallas Cowboys"
       },
       "9": {
         "team": "Seattle Seahawks",
-        "prob": 84,
+        "prob": 85,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
@@ -97,8 +97,8 @@
       },
       "18": {
         "team": "New England Patriots",
-        "prob": 83,
-        "source": "kalshi",
+        "prob": 83.261,
+        "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       }
@@ -107,21 +107,21 @@
   "crowdAdjustedRecommendation": {
     "week": 8,
     "pick": {
-      "team": "Tampa Bay Buccaneers",
+      "team": "Arizona Cardinals",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Atlanta Falcons"
+      "opponent": "Dallas Cowboys"
     },
     "fullSeasonPlan": {
       "8": {
-        "team": "Tampa Bay Buccaneers",
+        "team": "Arizona Cardinals",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Atlanta Falcons"
+        "opponent": "Dallas Cowboys"
       },
       "9": {
         "team": "Seattle Seahawks",
-        "prob": 84,
+        "prob": 85,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
@@ -184,8 +184,8 @@
       },
       "18": {
         "team": "New England Patriots",
-        "prob": 83,
-        "source": "kalshi",
+        "prob": 83.261,
+        "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       }

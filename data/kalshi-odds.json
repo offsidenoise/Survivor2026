@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T01:26:47.142Z",
+  "updated": "2026-11-02T04:38:27.073Z",
   "odds": {
     "Bills_Vikings": {
       "teams": {
@@ -10,15 +10,15 @@
     },
     "Bears_Buccaneers": {
       "teams": {
-        "Buccaneers": 28,
-        "Bears": 72
+        "Buccaneers": 29,
+        "Bears": 71
       },
       "eventTicker": "KXNFLGAME-26NOV08TBCHI"
     },
     "Packers_Patriots": {
       "teams": {
-        "Patriots": 54,
-        "Packers": 46
+        "Patriots": 56,
+        "Packers": 44
       },
       "eventTicker": "KXNFLGAME-26NOV08GBNE"
     },
@@ -38,8 +38,8 @@
     },
     "Chargers_Texans": {
       "teams": {
-        "Chargers": 37,
-        "Texans": 63
+        "Chargers": 36,
+        "Texans": 64
       },
       "eventTicker": "KXNFLGAME-26NOV08HOULAC"
     },
@@ -52,15 +52,15 @@
     },
     "Eagles_Giants": {
       "teams": {
-        "Eagles": 44,
-        "Giants": 56
+        "Eagles": 34,
+        "Giants": 66
       },
       "eventTicker": "KXNFLGAME-26NOV08NYGPHI"
     },
     "Dolphins_Lions": {
       "teams": {
-        "Dolphins": 24,
-        "Lions": 76
+        "Dolphins": 26,
+        "Lions": 74
       },
       "eventTicker": "KXNFLGAME-26NOV08DETMIA"
     },
@@ -73,8 +73,8 @@
     },
     "Broncos_Panthers": {
       "teams": {
-        "Broncos": 59,
-        "Panthers": 41
+        "Broncos": 58,
+        "Panthers": 42
       },
       "eventTicker": "KXNFLGAME-26NOV08DENCAR"
     },
@@ -87,22 +87,22 @@
     },
     "Chiefs_Jets": {
       "teams": {
-        "Jets": 18,
-        "Chiefs": 82
+        "Jets": 19,
+        "Chiefs": 81
       },
       "eventTicker": "KXNFLGAME-26NOV08NYJKC"
     },
     "Bengals_Falcons": {
       "teams": {
-        "Bengals": 62,
-        "Falcons": 38
+        "Bengals": 61,
+        "Falcons": 39
       },
       "eventTicker": "KXNFLGAME-26NOV08CINATL"
     },
     "Jaguars_Ravens": {
       "teams": {
-        "Jaguars": 76,
-        "Ravens": 24
+        "Jaguars": 79,
+        "Ravens": 21
       },
       "eventTicker": "KXNFLGAME-26NOV05JACBAL"
     },
@@ -112,13 +112,6 @@
         "Bears": 39
       },
       "eventTicker": "KXNFLGAME-26NOV02CHISEA"
-    },
-    "Commanders_Eagles": {
-      "teams": {
-        "Commanders": 71,
-        "Eagles": 29
-      },
-      "eventTicker": "KXNFLGAME-26NOV01PHIWAS"
     }
   },
   "unmapped": []
