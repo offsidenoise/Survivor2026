@@ -1,6 +1,104 @@
 {
-  "updated": "2026-11-03T01:07:09.235Z",
+  "updated": "2026-11-03T07:53:39.182Z",
   "odds": {
+    "Chargers_Ravens": {
+      "teams": {
+        "Chargers": 47,
+        "Ravens": 53
+      },
+      "eventTicker": "KXNFLGAME-26NOV16LACBAL"
+    },
+    "Bengals_Steelers": {
+      "teams": {
+        "Steelers": 47,
+        "Bengals": 53
+      },
+      "eventTicker": "KXNFLGAME-26NOV15PITCIN"
+    },
+    "49ers_Cowboys": {
+      "teams": {
+        "49ers": 56,
+        "Cowboys": 44
+      },
+      "eventTicker": "KXNFLGAME-26NOV15SFDAL"
+    },
+    "Cardinals_Rams": {
+      "teams": {
+        "Rams": 70,
+        "Cardinals": 30
+      },
+      "eventTicker": "KXNFLGAME-26NOV15LARARI"
+    },
+    "Raiders_Seahawks": {
+      "teams": {
+        "Seahawks": 52,
+        "Raiders": 48
+      },
+      "eventTicker": "KXNFLGAME-26NOV15SEALV"
+    },
+    "Bills_Jets": {
+      "teams": {
+        "Jets": 35,
+        "Bills": 65
+      },
+      "eventTicker": "KXNFLGAME-26NOV15BUFNYJ"
+    },
+    "Colts_Dolphins": {
+      "teams": {
+        "Dolphins": 42,
+        "Colts": 58
+      },
+      "eventTicker": "KXNFLGAME-26NOV15MIAIND"
+    },
+    "Browns_Texans": {
+      "teams": {
+        "Texans": 56,
+        "Browns": 44
+      },
+      "eventTicker": "KXNFLGAME-26NOV15HOUCLE"
+    },
+    "Chiefs_Falcons": {
+      "teams": {
+        "Chiefs": 56,
+        "Falcons": 44
+      },
+      "eventTicker": "KXNFLGAME-26NOV15KCATL"
+    },
+    "Jaguars_Titans": {
+      "teams": {
+        "Titans": 34,
+        "Jaguars": 66
+      },
+      "eventTicker": "KXNFLGAME-26NOV15JACTEN"
+    },
+    "Panthers_Saints": {
+      "teams": {
+        "Saints": 51,
+        "Panthers": 49
+      },
+      "eventTicker": "KXNFLGAME-26NOV15CARNO"
+    },
+    "Packers_Vikings": {
+      "teams": {
+        "Vikings": 46,
+        "Packers": 54
+      },
+      "eventTicker": "KXNFLGAME-26NOV15MINGB"
+    },
+    "Lions_Patriots": {
+      "teams": {
+        "Patriots": 43,
+        "Lions": 57
+      },
+      "eventTicker": "KXNFLGAME-26NOV15NEDET"
+    },
+    "Commanders_Giants": {
+      "teams": {
+        "Commanders": 46,
+        "Giants": 54
+      },
+      "eventTicker": "KXNFLGAME-26NOV12WASNYG"
+    },
     "Bills_Vikings": {
       "teams": {
         "Vikings": 37,
@@ -10,22 +108,22 @@
     },
     "Bears_Buccaneers": {
       "teams": {
-        "Buccaneers": 34,
-        "Bears": 66
+        "Buccaneers": 28,
+        "Bears": 72
       },
       "eventTicker": "KXNFLGAME-26NOV08TBCHI"
     },
     "Packers_Patriots": {
       "teams": {
-        "Patriots": 58,
-        "Packers": 42
+        "Patriots": 59,
+        "Packers": 41
       },
       "eventTicker": "KXNFLGAME-26NOV08GBNE"
     },
     "Cardinals_Seahawks": {
       "teams": {
-        "Seahawks": 84,
-        "Cardinals": 16
+        "Seahawks": 83,
+        "Cardinals": 17
       },
       "eventTicker": "KXNFLGAME-26NOV08ARISEA"
     },
@@ -38,8 +136,8 @@
     },
     "Chargers_Texans": {
       "teams": {
-        "Chargers": 36,
-        "Texans": 64
+        "Chargers": 35,
+        "Texans": 65
       },
       "eventTicker": "KXNFLGAME-26NOV08HOULAC"
     },
@@ -52,8 +150,8 @@
     },
     "Eagles_Giants": {
       "teams": {
-        "Eagles": 38,
-        "Giants": 62
+        "Eagles": 37,
+        "Giants": 63
       },
       "eventTicker": "KXNFLGAME-26NOV08NYGPHI"
     },
@@ -66,8 +164,8 @@
     },
     "Colts_Cowboys": {
       "teams": {
-        "Colts": 31,
-        "Cowboys": 69
+        "Colts": 30,
+        "Cowboys": 70
       },
       "eventTicker": "KXNFLGAME-26NOV08DALIND"
     },
@@ -87,8 +185,8 @@
     },
     "Chiefs_Jets": {
       "teams": {
-        "Jets": 20,
-        "Chiefs": 80
+        "Jets": 21,
+        "Chiefs": 79
       },
       "eventTicker": "KXNFLGAME-26NOV08NYJKC"
     },
@@ -105,13 +203,6 @@
         "Ravens": 21
       },
       "eventTicker": "KXNFLGAME-26NOV05JACBAL"
-    },
-    "Bears_Seahawks": {
-      "teams": {
-        "Seahawks": 61,
-        "Bears": 39
-      },
-      "eventTicker": "KXNFLGAME-26NOV02CHISEA"
     }
   },
   "unmapped": []
