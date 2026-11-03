@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T13:42:44.402Z",
+  "updated": "2026-11-03T22:57:02.462Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     8,
@@ -40,10 +40,10 @@
         "crowdPct": null
       },
       "10": {
-        "team": "Los Angeles Rams",
-        "prob": 70,
+        "team": "Jacksonville Jaguars",
+        "prob": 81,
         "source": "kalshi",
-        "opponent": "Arizona Cardinals",
+        "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "11": {
@@ -127,10 +127,10 @@
         "crowdPct": null
       },
       "10": {
-        "team": "Los Angeles Rams",
-        "prob": 70,
+        "team": "Jacksonville Jaguars",
+        "prob": 81,
         "source": "kalshi",
-        "opponent": "Arizona Cardinals",
+        "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "11": {
