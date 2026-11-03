@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-02T18:21:30.935Z",
+  "updated": "2026-11-03T00:34:03.577Z",
   "odds": {
     "Bills_Vikings": {
       "teams": {
-        "Vikings": 40,
-        "Bills": 60
+        "Vikings": 37,
+        "Bills": 63
       },
       "eventTicker": "KXNFLGAME-26NOV09BUFMIN"
     },
     "Bears_Buccaneers": {
       "teams": {
-        "Buccaneers": 30,
-        "Bears": 70
+        "Buccaneers": 34,
+        "Bears": 66
       },
       "eventTicker": "KXNFLGAME-26NOV08TBCHI"
     },
@@ -24,22 +24,22 @@
     },
     "Cardinals_Seahawks": {
       "teams": {
-        "Seahawks": 85,
-        "Cardinals": 15
+        "Seahawks": 84,
+        "Cardinals": 16
       },
       "eventTicker": "KXNFLGAME-26NOV08ARISEA"
     },
     "49ers_Raiders": {
       "teams": {
-        "49ers": 79,
-        "Raiders": 21
+        "49ers": 80,
+        "Raiders": 20
       },
       "eventTicker": "KXNFLGAME-26NOV08LVSF"
     },
     "Chargers_Texans": {
       "teams": {
-        "Chargers": 35,
-        "Texans": 65
+        "Chargers": 36,
+        "Texans": 64
       },
       "eventTicker": "KXNFLGAME-26NOV08HOULAC"
     },
@@ -80,15 +80,15 @@
     },
     "Browns_Saints": {
       "teams": {
-        "Saints": 58,
-        "Browns": 42
+        "Saints": 57,
+        "Browns": 43
       },
       "eventTicker": "KXNFLGAME-26NOV08CLENO"
     },
     "Chiefs_Jets": {
       "teams": {
-        "Jets": 19,
-        "Chiefs": 81
+        "Jets": 20,
+        "Chiefs": 80
       },
       "eventTicker": "KXNFLGAME-26NOV08NYJKC"
     },
