@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T22:56:05.209Z",
+  "updated": "2026-11-04T01:31:47.832Z",
   "odds": {
     "Chargers_Ravens": {
       "teams": {
@@ -10,22 +10,22 @@
     },
     "Bengals_Steelers": {
       "teams": {
-        "Steelers": 40,
-        "Bengals": 60
+        "Steelers": 41,
+        "Bengals": 59
       },
       "eventTicker": "KXNFLGAME-26NOV15PITCIN"
     },
     "49ers_Cowboys": {
       "teams": {
-        "49ers": 65,
-        "Cowboys": 35
+        "49ers": 66,
+        "Cowboys": 34
       },
       "eventTicker": "KXNFLGAME-26NOV15SFDAL"
     },
     "Cardinals_Rams": {
       "teams": {
-        "Rams": 75,
-        "Cardinals": 25
+        "Rams": 76,
+        "Cardinals": 24
       },
       "eventTicker": "KXNFLGAME-26NOV15LARARI"
     },
@@ -45,8 +45,8 @@
     },
     "Colts_Dolphins": {
       "teams": {
-        "Dolphins": 45,
-        "Colts": 55
+        "Dolphins": 46,
+        "Colts": 54
       },
       "eventTicker": "KXNFLGAME-26NOV15MIAIND"
     },
@@ -66,29 +66,29 @@
     },
     "Jaguars_Titans": {
       "teams": {
-        "Titans": 19,
-        "Jaguars": 81
+        "Titans": 18,
+        "Jaguars": 82
       },
       "eventTicker": "KXNFLGAME-26NOV15JACTEN"
     },
     "Panthers_Saints": {
       "teams": {
-        "Saints": 48,
-        "Panthers": 52
+        "Saints": 49,
+        "Panthers": 51
       },
       "eventTicker": "KXNFLGAME-26NOV15CARNO"
     },
     "Packers_Vikings": {
       "teams": {
-        "Vikings": 43,
-        "Packers": 57
+        "Vikings": 45,
+        "Packers": 55
       },
       "eventTicker": "KXNFLGAME-26NOV15MINGB"
     },
     "Lions_Patriots": {
       "teams": {
-        "Patriots": 51,
-        "Lions": 49
+        "Patriots": 53,
+        "Lions": 47
       },
       "eventTicker": "KXNFLGAME-26NOV15NEDET"
     },
@@ -171,8 +171,8 @@
     },
     "Broncos_Panthers": {
       "teams": {
-        "Broncos": 59,
-        "Panthers": 41
+        "Broncos": 58,
+        "Panthers": 42
       },
       "eventTicker": "KXNFLGAME-26NOV08DENCAR"
     },
@@ -185,8 +185,8 @@
     },
     "Chiefs_Jets": {
       "teams": {
-        "Jets": 20,
-        "Chiefs": 80
+        "Jets": 19,
+        "Chiefs": 81
       },
       "eventTicker": "KXNFLGAME-26NOV08NYJKC"
     },
@@ -199,8 +199,8 @@
     },
     "Jaguars_Ravens": {
       "teams": {
-        "Jaguars": 80,
-        "Ravens": 20
+        "Jaguars": 81,
+        "Ravens": 19
       },
       "eventTicker": "KXNFLGAME-26NOV05JACBAL"
     }
