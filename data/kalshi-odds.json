@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-04T16:09:47.963Z",
+  "updated": "2026-11-04T21:53:39.401Z",
   "odds": {
     "Chargers_Ravens": {
       "teams": {
-        "Chargers": 51,
-        "Ravens": 49
+        "Chargers": 44,
+        "Ravens": 56
       },
       "eventTicker": "KXNFLGAME-26NOV16LACBAL"
     },
@@ -31,15 +31,15 @@
     },
     "Raiders_Seahawks": {
       "teams": {
-        "Seahawks": 69,
-        "Raiders": 31
+        "Seahawks": 65,
+        "Raiders": 35
       },
       "eventTicker": "KXNFLGAME-26NOV15SEALV"
     },
     "Bills_Jets": {
       "teams": {
-        "Jets": 18,
-        "Bills": 82
+        "Jets": 20,
+        "Bills": 80
       },
       "eventTicker": "KXNFLGAME-26NOV15BUFNYJ"
     },
@@ -52,15 +52,15 @@
     },
     "Browns_Texans": {
       "teams": {
-        "Texans": 62,
-        "Browns": 38
+        "Texans": 64,
+        "Browns": 36
       },
       "eventTicker": "KXNFLGAME-26NOV15HOUCLE"
     },
     "Chiefs_Falcons": {
       "teams": {
-        "Chiefs": 62,
-        "Falcons": 38
+        "Chiefs": 63,
+        "Falcons": 37
       },
       "eventTicker": "KXNFLGAME-26NOV15KCATL"
     },
@@ -73,8 +73,8 @@
     },
     "Panthers_Saints": {
       "teams": {
-        "Saints": 49,
-        "Panthers": 51
+        "Saints": 48,
+        "Panthers": 52
       },
       "eventTicker": "KXNFLGAME-26NOV15CARNO"
     },
@@ -122,8 +122,8 @@
     },
     "Cardinals_Seahawks": {
       "teams": {
-        "Seahawks": 85,
-        "Cardinals": 15
+        "Seahawks": 77,
+        "Cardinals": 23
       },
       "eventTicker": "KXNFLGAME-26NOV08ARISEA"
     },
@@ -157,22 +157,22 @@
     },
     "Dolphins_Lions": {
       "teams": {
-        "Dolphins": 25,
-        "Lions": 75
+        "Dolphins": 26,
+        "Lions": 74
       },
       "eventTicker": "KXNFLGAME-26NOV08DETMIA"
     },
     "Colts_Cowboys": {
       "teams": {
-        "Colts": 31,
-        "Cowboys": 69
+        "Colts": 30,
+        "Cowboys": 70
       },
       "eventTicker": "KXNFLGAME-26NOV08DALIND"
     },
     "Broncos_Panthers": {
       "teams": {
-        "Broncos": 58,
-        "Panthers": 42
+        "Broncos": 56,
+        "Panthers": 44
       },
       "eventTicker": "KXNFLGAME-26NOV08DENCAR"
     },
@@ -192,8 +192,8 @@
     },
     "Bengals_Falcons": {
       "teams": {
-        "Bengals": 60,
-        "Falcons": 40
+        "Bengals": 61,
+        "Falcons": 39
       },
       "eventTicker": "KXNFLGAME-26NOV08CINATL"
     },
