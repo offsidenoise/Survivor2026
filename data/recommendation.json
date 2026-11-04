@@ -1,8 +1,7 @@
 {
-  "updated": "2026-11-04T04:59:09.745Z",
+  "updated": "2026-11-04T13:51:06.070Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
-    8,
     9,
     10,
     11,
@@ -16,28 +15,25 @@
   ],
   "powerIndexHealthy": true,
   "yahooCrowdHealthy": true,
-  "evHealthy": false,
+  "evHealthy": true,
   "originalRecommendation": {
-    "week": 8,
+    "week": 9,
     "pick": {
-      "team": "Arizona Cardinals",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "Dallas Cowboys"
+      "team": "Seattle Seahawks",
+      "prob": 85,
+      "source": "kalshi",
+      "opponent": "Arizona Cardinals",
+      "crowdPct": 16.98,
+      "ev": 0.02125000000000011
     },
     "fullSeasonPlan": {
-      "8": {
-        "team": "Arizona Cardinals",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "Dallas Cowboys"
-      },
       "9": {
         "team": "Seattle Seahawks",
-        "prob": 84,
+        "prob": 85,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
-        "crowdPct": null
+        "crowdPct": 16.98,
+        "ev": 0.02125000000000011
       },
       "10": {
         "team": "Jacksonville Jaguars",
@@ -105,26 +101,23 @@
     }
   },
   "crowdAdjustedRecommendation": {
-    "week": 8,
+    "week": 9,
     "pick": {
-      "team": "Arizona Cardinals",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "Dallas Cowboys"
+      "team": "Seattle Seahawks",
+      "prob": 85,
+      "source": "kalshi",
+      "opponent": "Arizona Cardinals",
+      "crowdPct": 16.98,
+      "ev": 0.02125000000000011
     },
     "fullSeasonPlan": {
-      "8": {
-        "team": "Arizona Cardinals",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "Dallas Cowboys"
-      },
       "9": {
         "team": "Seattle Seahawks",
-        "prob": 84,
+        "prob": 85,
         "source": "kalshi",
         "opponent": "Arizona Cardinals",
-        "crowdPct": null
+        "crowdPct": 16.98,
+        "ev": 0.02125000000000011
       },
       "10": {
         "team": "Jacksonville Jaguars",
