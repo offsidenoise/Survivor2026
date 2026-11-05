@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-05T14:02:21.590Z",
+  "updated": "2026-11-05T17:30:52.363Z",
   "odds": {
     "Chargers_Ravens": {
       "teams": {
-        "Chargers": 45,
-        "Ravens": 55
+        "Chargers": 44,
+        "Ravens": 56
       },
       "eventTicker": "KXNFLGAME-26NOV16LACBAL"
     },
@@ -31,8 +31,8 @@
     },
     "Raiders_Seahawks": {
       "teams": {
-        "Seahawks": 59,
-        "Raiders": 41
+        "Seahawks": 61,
+        "Raiders": 39
       },
       "eventTicker": "KXNFLGAME-26NOV15SEALV"
     },
@@ -45,8 +45,8 @@
     },
     "Colts_Dolphins": {
       "teams": {
-        "Dolphins": 47,
-        "Colts": 53
+        "Dolphins": 48,
+        "Colts": 52
       },
       "eventTicker": "KXNFLGAME-26NOV15MIAIND"
     },
@@ -66,8 +66,8 @@
     },
     "Jaguars_Titans": {
       "teams": {
-        "Titans": 18,
-        "Jaguars": 82
+        "Titans": 19,
+        "Jaguars": 81
       },
       "eventTicker": "KXNFLGAME-26NOV15JACTEN"
     },
@@ -87,8 +87,8 @@
     },
     "Lions_Patriots": {
       "teams": {
-        "Patriots": 53,
-        "Lions": 47
+        "Patriots": 50,
+        "Lions": 50
       },
       "eventTicker": "KXNFLGAME-26NOV15NEDET"
     },
@@ -136,8 +136,8 @@
     },
     "Chargers_Texans": {
       "teams": {
-        "Chargers": 33,
-        "Texans": 67
+        "Chargers": 32,
+        "Texans": 68
       },
       "eventTicker": "KXNFLGAME-26NOV08HOULAC"
     },
@@ -150,15 +150,15 @@
     },
     "Eagles_Giants": {
       "teams": {
-        "Eagles": 38,
-        "Giants": 62
+        "Eagles": 37,
+        "Giants": 63
       },
       "eventTicker": "KXNFLGAME-26NOV08NYGPHI"
     },
     "Dolphins_Lions": {
       "teams": {
-        "Dolphins": 26,
-        "Lions": 74
+        "Dolphins": 25,
+        "Lions": 75
       },
       "eventTicker": "KXNFLGAME-26NOV08DETMIA"
     },
@@ -171,8 +171,8 @@
     },
     "Broncos_Panthers": {
       "teams": {
-        "Broncos": 57,
-        "Panthers": 43
+        "Broncos": 56,
+        "Panthers": 44
       },
       "eventTicker": "KXNFLGAME-26NOV08DENCAR"
     },
