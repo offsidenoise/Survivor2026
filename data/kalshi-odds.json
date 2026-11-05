@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-05T09:21:46.050Z",
+  "updated": "2026-11-05T14:02:21.590Z",
   "odds": {
     "Chargers_Ravens": {
       "teams": {
-        "Chargers": 44,
-        "Ravens": 56
+        "Chargers": 45,
+        "Ravens": 55
       },
       "eventTicker": "KXNFLGAME-26NOV16LACBAL"
     },
     "Bengals_Steelers": {
       "teams": {
-        "Steelers": 40,
-        "Bengals": 60
+        "Steelers": 41,
+        "Bengals": 59
       },
       "eventTicker": "KXNFLGAME-26NOV15PITCIN"
     },
@@ -24,36 +24,36 @@
     },
     "Cardinals_Rams": {
       "teams": {
-        "Rams": 74,
-        "Cardinals": 26
+        "Rams": 76,
+        "Cardinals": 24
       },
       "eventTicker": "KXNFLGAME-26NOV15LARARI"
     },
     "Raiders_Seahawks": {
       "teams": {
-        "Seahawks": 60,
-        "Raiders": 40
+        "Seahawks": 59,
+        "Raiders": 41
       },
       "eventTicker": "KXNFLGAME-26NOV15SEALV"
     },
     "Bills_Jets": {
       "teams": {
-        "Jets": 23,
-        "Bills": 77
+        "Jets": 21,
+        "Bills": 79
       },
       "eventTicker": "KXNFLGAME-26NOV15BUFNYJ"
     },
     "Colts_Dolphins": {
       "teams": {
-        "Dolphins": 48,
-        "Colts": 52
+        "Dolphins": 47,
+        "Colts": 53
       },
       "eventTicker": "KXNFLGAME-26NOV15MIAIND"
     },
     "Browns_Texans": {
       "teams": {
-        "Texans": 63,
-        "Browns": 37
+        "Texans": 62,
+        "Browns": 38
       },
       "eventTicker": "KXNFLGAME-26NOV15HOUCLE"
     },
@@ -66,15 +66,15 @@
     },
     "Jaguars_Titans": {
       "teams": {
-        "Titans": 24,
-        "Jaguars": 76
+        "Titans": 18,
+        "Jaguars": 82
       },
       "eventTicker": "KXNFLGAME-26NOV15JACTEN"
     },
     "Panthers_Saints": {
       "teams": {
-        "Saints": 47,
-        "Panthers": 53
+        "Saints": 49,
+        "Panthers": 51
       },
       "eventTicker": "KXNFLGAME-26NOV15CARNO"
     },
@@ -87,15 +87,15 @@
     },
     "Lions_Patriots": {
       "teams": {
-        "Patriots": 52,
-        "Lions": 48
+        "Patriots": 53,
+        "Lions": 47
       },
       "eventTicker": "KXNFLGAME-26NOV15NEDET"
     },
     "Commanders_Giants": {
       "teams": {
-        "Commanders": 48,
-        "Giants": 52
+        "Commanders": 47,
+        "Giants": 53
       },
       "eventTicker": "KXNFLGAME-26NOV12WASNYG"
     },

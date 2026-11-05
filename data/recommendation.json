@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T05:19:40.563Z",
+  "updated": "2026-11-05T14:03:49.244Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     9,
@@ -23,8 +23,8 @@
       "prob": 80,
       "source": "kalshi",
       "opponent": "New York Jets",
-      "crowdPct": 23.04,
-      "ev": 0.019999999999999823
+      "crowdPct": 23.58,
+      "ev": 0.020512820512820513
     },
     "fullSeasonPlan": {
       "9": {
@@ -32,8 +32,8 @@
         "prob": 80,
         "source": "kalshi",
         "opponent": "New York Jets",
-        "crowdPct": 23.04,
-        "ev": 0.019999999999999823
+        "crowdPct": 23.58,
+        "ev": 0.020512820512820513
       },
       "10": {
         "team": "Jacksonville Jaguars",
@@ -107,8 +107,8 @@
       "prob": 80,
       "source": "kalshi",
       "opponent": "New York Jets",
-      "crowdPct": 23.04,
-      "ev": 0.019999999999999823
+      "crowdPct": 23.58,
+      "ev": 0.020512820512820513
     },
     "fullSeasonPlan": {
       "9": {
@@ -116,8 +116,8 @@
         "prob": 80,
         "source": "kalshi",
         "opponent": "New York Jets",
-        "crowdPct": 23.04,
-        "ev": 0.019999999999999823
+        "crowdPct": 23.58,
+        "ev": 0.020512820512820513
       },
       "10": {
         "team": "Jacksonville Jaguars",
