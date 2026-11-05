@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T23:16:35.520Z",
+  "updated": "2026-11-05T05:19:40.563Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     9,
@@ -20,24 +20,24 @@
     "week": 9,
     "pick": {
       "team": "Kansas City Chiefs",
-      "prob": 81,
+      "prob": 80,
       "source": "kalshi",
       "opponent": "New York Jets",
       "crowdPct": 23.04,
-      "ev": 0.020250000000000004
+      "ev": 0.019999999999999823
     },
     "fullSeasonPlan": {
       "9": {
         "team": "Kansas City Chiefs",
-        "prob": 81,
+        "prob": 80,
         "source": "kalshi",
         "opponent": "New York Jets",
         "crowdPct": 23.04,
-        "ev": 0.020250000000000004
+        "ev": 0.019999999999999823
       },
       "10": {
         "team": "Jacksonville Jaguars",
-        "prob": 83,
+        "prob": 82,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": null
@@ -104,24 +104,24 @@
     "week": 9,
     "pick": {
       "team": "Kansas City Chiefs",
-      "prob": 81,
+      "prob": 80,
       "source": "kalshi",
       "opponent": "New York Jets",
       "crowdPct": 23.04,
-      "ev": 0.020250000000000004
+      "ev": 0.019999999999999823
     },
     "fullSeasonPlan": {
       "9": {
         "team": "Kansas City Chiefs",
-        "prob": 81,
+        "prob": 80,
         "source": "kalshi",
         "opponent": "New York Jets",
         "crowdPct": 23.04,
-        "ev": 0.020250000000000004
+        "ev": 0.019999999999999823
       },
       "10": {
         "team": "Jacksonville Jaguars",
-        "prob": 83,
+        "prob": 82,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": null
