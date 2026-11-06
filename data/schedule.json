@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T05:18:13.673Z",
+  "updated": "2026-11-06T13:47:41.315Z",
   "season": 2026,
   "currentWeek": 9,
   "weeks": {
@@ -2826,7 +2826,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png"
           },
           "espnOdds": {
-            "details": "DET -7",
+            "details": "DET -6.5",
             "overUnder": 50.5,
             "provider": "Draft Kings",
             "homeProb": null,
