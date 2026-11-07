@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T08:52:28.905Z",
+  "updated": "2026-11-07T12:30:51.070Z",
   "odds": {
     "Chargers_Ravens": {
       "teams": {
@@ -10,8 +10,8 @@
     },
     "Bengals_Steelers": {
       "teams": {
-        "Steelers": 43,
-        "Bengals": 57
+        "Steelers": 42,
+        "Bengals": 58
       },
       "eventTicker": "KXNFLGAME-26NOV15PITCIN"
     },
@@ -38,8 +38,8 @@
     },
     "Bills_Jets": {
       "teams": {
-        "Jets": 18,
-        "Bills": 82
+        "Jets": 19,
+        "Bills": 81
       },
       "eventTicker": "KXNFLGAME-26NOV15BUFNYJ"
     },
@@ -171,8 +171,8 @@
     },
     "Broncos_Panthers": {
       "teams": {
-        "Broncos": 57,
-        "Panthers": 43
+        "Broncos": 58,
+        "Panthers": 42
       },
       "eventTicker": "KXNFLGAME-26NOV08DENCAR"
     },
