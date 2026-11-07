@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-07T12:30:51.070Z",
+  "updated": "2026-11-07T15:22:42.257Z",
   "odds": {
     "Chargers_Ravens": {
       "teams": {
-        "Chargers": 45,
-        "Ravens": 55
+        "Chargers": 46,
+        "Ravens": 54
       },
       "eventTicker": "KXNFLGAME-26NOV16LACBAL"
     },
@@ -17,8 +17,8 @@
     },
     "49ers_Cowboys": {
       "teams": {
-        "49ers": 67,
-        "Cowboys": 33
+        "49ers": 65,
+        "Cowboys": 35
       },
       "eventTicker": "KXNFLGAME-26NOV15SFDAL"
     },
@@ -31,8 +31,8 @@
     },
     "Raiders_Seahawks": {
       "teams": {
-        "Seahawks": 66,
-        "Raiders": 34
+        "Seahawks": 64,
+        "Raiders": 36
       },
       "eventTicker": "KXNFLGAME-26NOV15SEALV"
     },
@@ -45,8 +45,8 @@
     },
     "Colts_Dolphins": {
       "teams": {
-        "Dolphins": 46,
-        "Colts": 54
+        "Dolphins": 47,
+        "Colts": 53
       },
       "eventTicker": "KXNFLGAME-26NOV15MIAIND"
     },
@@ -80,8 +80,8 @@
     },
     "Packers_Vikings": {
       "teams": {
-        "Vikings": 41,
-        "Packers": 59
+        "Vikings": 42,
+        "Packers": 58
       },
       "eventTicker": "KXNFLGAME-26NOV15MINGB"
     },
@@ -129,8 +129,8 @@
     },
     "49ers_Raiders": {
       "teams": {
-        "49ers": 78,
-        "Raiders": 22
+        "49ers": 80,
+        "Raiders": 20
       },
       "eventTicker": "KXNFLGAME-26NOV08LVSF"
     },
@@ -164,15 +164,15 @@
     },
     "Colts_Cowboys": {
       "teams": {
-        "Colts": 32,
-        "Cowboys": 68
+        "Colts": 33,
+        "Cowboys": 67
       },
       "eventTicker": "KXNFLGAME-26NOV08DALIND"
     },
     "Broncos_Panthers": {
       "teams": {
-        "Broncos": 58,
-        "Panthers": 42
+        "Broncos": 57,
+        "Panthers": 43
       },
       "eventTicker": "KXNFLGAME-26NOV08DENCAR"
     },
