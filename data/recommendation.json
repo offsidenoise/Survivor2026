@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T12:50:16.793Z",
+  "updated": "2026-11-08T21:44:19.591Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     9,
@@ -19,23 +19,23 @@
   "originalRecommendation": {
     "week": 9,
     "pick": {
-      "team": "Jacksonville Jaguars",
+      "team": "Los Angeles Rams",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Baltimore Ravens"
+      "opponent": "Washington Commanders"
     },
     "fullSeasonPlan": {
       "9": {
-        "team": "Jacksonville Jaguars",
+        "team": "Los Angeles Rams",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Baltimore Ravens"
+        "opponent": "Washington Commanders"
       },
       "10": {
-        "team": "Los Angeles Rams",
-        "prob": 76,
+        "team": "Jacksonville Jaguars",
+        "prob": 83,
         "source": "kalshi",
-        "opponent": "Arizona Cardinals",
+        "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "11": {
@@ -99,23 +99,23 @@
   "crowdAdjustedRecommendation": {
     "week": 9,
     "pick": {
-      "team": "Jacksonville Jaguars",
+      "team": "Los Angeles Rams",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Baltimore Ravens"
+      "opponent": "Washington Commanders"
     },
     "fullSeasonPlan": {
       "9": {
-        "team": "Jacksonville Jaguars",
+        "team": "Los Angeles Rams",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Baltimore Ravens"
+        "opponent": "Washington Commanders"
       },
       "10": {
-        "team": "Los Angeles Rams",
-        "prob": 76,
+        "team": "Jacksonville Jaguars",
+        "prob": 83,
         "source": "kalshi",
-        "opponent": "Arizona Cardinals",
+        "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "11": {
