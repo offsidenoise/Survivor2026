@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T04:38:54.525Z",
+  "updated": "2026-11-08T12:48:48.300Z",
   "season": 2026,
   "currentWeek": 9,
   "weeks": {
@@ -2700,28 +2700,6 @@
     "9": {
       "games": [
         {
-          "id": "401873037",
-          "date": "2026-11-06T01:15Z",
-          "shortName": "JAX @ BAL",
-          "completed": true,
-          "inProgress": false,
-          "awayScore": 33,
-          "homeScore": 10,
-          "awayWinner": true,
-          "homeWinner": false,
-          "away": {
-            "code": "JAX",
-            "name": "Jacksonville Jaguars",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png"
-          },
-          "home": {
-            "code": "BAL",
-            "name": "Baltimore Ravens",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png"
-          },
-          "espnOdds": null
-        },
-        {
           "id": "401873038",
           "date": "2026-11-08T14:30Z",
           "shortName": "CIN VS ATL",
@@ -2827,7 +2805,7 @@
           },
           "espnOdds": {
             "details": "DET -6.5",
-            "overUnder": 49.5,
+            "overUnder": 50.5,
             "provider": "Draft Kings",
             "homeProb": null,
             "awayProb": null
@@ -2966,7 +2944,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png"
           },
           "espnOdds": {
-            "details": "HOU -5.5",
+            "details": "HOU -6",
             "overUnder": 40.5,
             "provider": "Draft Kings",
             "homeProb": null,
@@ -2994,7 +2972,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png"
           },
           "espnOdds": {
-            "details": "NE -3.5",
+            "details": "NE -3",
             "overUnder": 44.5,
             "provider": "Draft Kings",
             "homeProb": null,
@@ -3084,6 +3062,28 @@
             "homeProb": null,
             "awayProb": null
           }
+        },
+        {
+          "id": "401873037",
+          "date": "2026-11-06T01:15Z",
+          "shortName": "JAX @ BAL",
+          "completed": true,
+          "inProgress": false,
+          "awayScore": 33,
+          "homeScore": 10,
+          "awayWinner": true,
+          "homeWinner": false,
+          "away": {
+            "code": "JAX",
+            "name": "Jacksonville Jaguars",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png"
+          },
+          "home": {
+            "code": "BAL",
+            "name": "Baltimore Ravens",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png"
+          },
+          "espnOdds": null
         },
         {
           "id": "401873051",
