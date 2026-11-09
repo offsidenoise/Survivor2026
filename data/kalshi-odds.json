@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-09T04:49:08.128Z",
+  "updated": "2026-11-09T13:24:05.163Z",
   "odds": {
     "Chargers_Ravens": {
       "teams": {
-        "Chargers": 33,
-        "Ravens": 67
+        "Chargers": 31,
+        "Ravens": 69
       },
       "eventTicker": "KXNFLGAME-26NOV16LACBAL"
     },
@@ -38,8 +38,8 @@
     },
     "Bills_Jets": {
       "teams": {
-        "Jets": 19,
-        "Bills": 81
+        "Jets": 20,
+        "Bills": 80
       },
       "eventTicker": "KXNFLGAME-26NOV15BUFNYJ"
     },
@@ -59,8 +59,8 @@
     },
     "Chiefs_Falcons": {
       "teams": {
-        "Chiefs": 64,
-        "Falcons": 36
+        "Chiefs": 63,
+        "Falcons": 37
       },
       "eventTicker": "KXNFLGAME-26NOV15KCATL"
     },
@@ -73,8 +73,8 @@
     },
     "Panthers_Saints": {
       "teams": {
-        "Saints": 48,
-        "Panthers": 52
+        "Saints": 50,
+        "Panthers": 50
       },
       "eventTicker": "KXNFLGAME-26NOV15CARNO"
     },
