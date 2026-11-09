@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T13:24:05.163Z",
+  "updated": "2026-11-09T15:18:17.712Z",
   "odds": {
     "Chargers_Ravens": {
       "teams": {
@@ -31,8 +31,8 @@
     },
     "Raiders_Seahawks": {
       "teams": {
-        "Seahawks": 61,
-        "Raiders": 39
+        "Seahawks": 63,
+        "Raiders": 37
       },
       "eventTicker": "KXNFLGAME-26NOV15SEALV"
     },
@@ -94,8 +94,8 @@
     },
     "Commanders_Giants": {
       "teams": {
-        "Commanders": 45,
-        "Giants": 55
+        "Commanders": 46,
+        "Giants": 54
       },
       "eventTicker": "KXNFLGAME-26NOV12WASNYG"
     },
