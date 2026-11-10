@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T14:25:08.641Z",
+  "updated": "2026-11-10T22:53:41.850Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     9,
@@ -40,7 +40,7 @@
       },
       "11": {
         "team": "Buffalo Bills",
-        "prob": 81,
+        "prob": 91,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -54,14 +54,14 @@
       },
       "13": {
         "team": "Denver Broncos",
-        "prob": 85.738,
+        "prob": 91.67,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "14": {
         "team": "Chicago Bears",
-        "prob": 83.951,
+        "prob": 87.214,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -88,10 +88,10 @@
         "crowdPct": null
       },
       "18": {
-        "team": "Cincinnati Bengals",
-        "prob": 85.232,
+        "team": "Kansas City Chiefs",
+        "prob": 87.921,
         "source": "powerindex",
-        "opponent": "Cleveland Browns",
+        "opponent": "Las Vegas Raiders",
         "crowdPct": null
       }
     }
@@ -120,7 +120,7 @@
       },
       "11": {
         "team": "Buffalo Bills",
-        "prob": 81,
+        "prob": 91,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -134,14 +134,14 @@
       },
       "13": {
         "team": "Denver Broncos",
-        "prob": 85.738,
+        "prob": 91.67,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "14": {
         "team": "Chicago Bears",
-        "prob": 83.951,
+        "prob": 87.214,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -168,10 +168,10 @@
         "crowdPct": null
       },
       "18": {
-        "team": "Cincinnati Bengals",
-        "prob": 85.232,
+        "team": "Kansas City Chiefs",
+        "prob": 87.921,
         "source": "powerindex",
-        "opponent": "Cleveland Browns",
+        "opponent": "Las Vegas Raiders",
         "crowdPct": null
       }
     }
