@@ -1,8 +1,7 @@
 {
-  "updated": "2026-11-11T04:53:19.155Z",
+  "updated": "2026-11-11T13:39:29.441Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
-    9,
     10,
     11,
     12,
@@ -15,32 +14,29 @@
   ],
   "powerIndexHealthy": true,
   "yahooCrowdHealthy": true,
-  "evHealthy": false,
+  "evHealthy": true,
   "originalRecommendation": {
-    "week": 9,
+    "week": 10,
     "pick": {
-      "team": "Seattle Seahawks",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "Arizona Cardinals"
+      "team": "Jacksonville Jaguars",
+      "prob": 83,
+      "source": "kalshi",
+      "opponent": "Tennessee Titans",
+      "crowdPct": 24.15,
+      "ev": 0.02184210526315799
     },
     "fullSeasonPlan": {
-      "9": {
-        "team": "Seattle Seahawks",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "Arizona Cardinals"
-      },
       "10": {
         "team": "Jacksonville Jaguars",
         "prob": 83,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
-        "crowdPct": null
+        "crowdPct": 24.15,
+        "ev": 0.02184210526315799
       },
       "11": {
         "team": "Buffalo Bills",
-        "prob": 92,
+        "prob": 91,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -97,30 +93,27 @@
     }
   },
   "crowdAdjustedRecommendation": {
-    "week": 9,
+    "week": 10,
     "pick": {
-      "team": "Seattle Seahawks",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "Arizona Cardinals"
+      "team": "Jacksonville Jaguars",
+      "prob": 83,
+      "source": "kalshi",
+      "opponent": "Tennessee Titans",
+      "crowdPct": 24.15,
+      "ev": 0.02184210526315799
     },
     "fullSeasonPlan": {
-      "9": {
-        "team": "Seattle Seahawks",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "Arizona Cardinals"
-      },
       "10": {
         "team": "Jacksonville Jaguars",
         "prob": 83,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
-        "crowdPct": null
+        "crowdPct": 24.15,
+        "ev": 0.02184210526315799
       },
       "11": {
         "team": "Buffalo Bills",
-        "prob": 92,
+        "prob": 91,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
