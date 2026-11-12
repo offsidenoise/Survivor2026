@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T00:05:34.675Z",
+  "updated": "2026-11-12T14:41:07.606Z",
   "season": 2026,
   "currentWeek": 10,
   "weeks": {
@@ -3362,7 +3362,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
           },
           "espnOdds": {
-            "details": "SF -4.5",
+            "details": "SF -3.5",
             "overUnder": 55.5,
             "provider": "DraftKings",
             "homeProb": null,
