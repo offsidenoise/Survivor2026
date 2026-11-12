@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T14:41:07.606Z",
+  "updated": "2026-11-12T23:14:53.305Z",
   "season": 2026,
   "currentWeek": 10,
   "weeks": {
@@ -3054,7 +3054,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png"
           },
           "espnOdds": {
-            "details": "NYG -2.5",
+            "details": "NYG -1.5",
             "overUnder": 40.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -3139,7 +3139,7 @@
           },
           "espnOdds": {
             "details": "HOU -4.5",
-            "overUnder": 41.5,
+            "overUnder": 40.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null

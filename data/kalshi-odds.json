@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T18:44:51.630Z",
+  "updated": "2026-11-12T23:14:53.525Z",
   "odds": {
     "Bengals_Commanders": {
       "teams": {
@@ -10,15 +10,15 @@
     },
     "49ers_Vikings": {
       "teams": {
-        "49ers": 67,
-        "Vikings": 33
+        "49ers": 68,
+        "Vikings": 32
       },
       "eventTicker": "KXNFLGAME-26NOV22MINSF"
     },
     "Giants_Jaguars": {
       "teams": {
-        "Giants": 31,
-        "Jaguars": 69
+        "Giants": 30,
+        "Jaguars": 70
       },
       "eventTicker": "KXNFLGAME-26NOV22JACNYG"
     },
@@ -31,8 +31,8 @@
     },
     "Chargers_Jets": {
       "teams": {
-        "Jets": 47,
-        "Chargers": 53
+        "Jets": 46,
+        "Chargers": 54
       },
       "eventTicker": "KXNFLGAME-26NOV22NYJLAC"
     },
@@ -52,22 +52,22 @@
     },
     "Panthers_Ravens": {
       "teams": {
-        "Panthers": 53,
-        "Ravens": 47
+        "Panthers": 54,
+        "Ravens": 46
       },
       "eventTicker": "KXNFLGAME-26NOV22BALCAR"
     },
     "Bills_Dolphins": {
       "teams": {
-        "Dolphins": 8,
-        "Bills": 92
+        "Dolphins": 9,
+        "Bills": 91
       },
       "eventTicker": "KXNFLGAME-26NOV22MIABUF"
     },
     "Cardinals_Chiefs": {
       "teams": {
-        "Chiefs": 90,
-        "Cardinals": 10
+        "Chiefs": 89,
+        "Cardinals": 11
       },
       "eventTicker": "KXNFLGAME-26NOV22ARIKC"
     },
@@ -87,8 +87,8 @@
     },
     "Colts_Texans": {
       "teams": {
-        "Colts": 19,
-        "Texans": 81
+        "Colts": 20,
+        "Texans": 80
       },
       "eventTicker": "KXNFLGAME-26NOV19INDHOU"
     },
@@ -101,8 +101,8 @@
     },
     "Bengals_Steelers": {
       "teams": {
-        "Steelers": 37,
-        "Bengals": 63
+        "Steelers": 38,
+        "Bengals": 62
       },
       "eventTicker": "KXNFLGAME-26NOV15PITCIN"
     },
@@ -171,8 +171,8 @@
     },
     "Packers_Vikings": {
       "teams": {
-        "Vikings": 40,
-        "Packers": 60
+        "Vikings": 41,
+        "Packers": 59
       },
       "eventTicker": "KXNFLGAME-26NOV15MINGB"
     },
@@ -185,8 +185,8 @@
     },
     "Commanders_Giants": {
       "teams": {
-        "Commanders": 45,
-        "Giants": 55
+        "Commanders": 47,
+        "Giants": 53
       },
       "eventTicker": "KXNFLGAME-26NOV12WASNYG"
     }
