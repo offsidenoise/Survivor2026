@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T13:39:29.441Z",
+  "updated": "2026-11-12T00:07:12.293Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     10,
@@ -23,7 +23,7 @@
       "source": "kalshi",
       "opponent": "Tennessee Titans",
       "crowdPct": 24.15,
-      "ev": 0.02184210526315799
+      "ev": 0.021842105263157927
     },
     "fullSeasonPlan": {
       "10": {
@@ -32,7 +32,7 @@
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": 24.15,
-        "ev": 0.02184210526315799
+        "ev": 0.021842105263157927
       },
       "11": {
         "team": "Buffalo Bills",
@@ -100,7 +100,7 @@
       "source": "kalshi",
       "opponent": "Tennessee Titans",
       "crowdPct": 24.15,
-      "ev": 0.02184210526315799
+      "ev": 0.021842105263157927
     },
     "fullSeasonPlan": {
       "10": {
@@ -109,7 +109,7 @@
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": 24.15,
-        "ev": 0.02184210526315799
+        "ev": 0.021842105263157927
       },
       "11": {
         "team": "Buffalo Bills",

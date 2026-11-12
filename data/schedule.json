@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T13:38:04.551Z",
+  "updated": "2026-11-12T00:05:34.675Z",
   "season": 2026,
   "currentWeek": 10,
   "weeks": {
@@ -3055,7 +3055,7 @@
           },
           "espnOdds": {
             "details": "NYG -2.5",
-            "overUnder": 41.5,
+            "overUnder": 40.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -3110,8 +3110,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png"
           },
           "espnOdds": {
-            "details": "KC -3.5",
-            "overUnder": 45.5,
+            "details": "KC -3",
+            "overUnder": 46.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -3139,7 +3139,7 @@
           },
           "espnOdds": {
             "details": "HOU -4.5",
-            "overUnder": 39.5,
+            "overUnder": 41.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -3166,8 +3166,8 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png"
           },
           "espnOdds": {
-            "details": "GB -3.5",
-            "overUnder": 41.5,
+            "details": "GB -3",
+            "overUnder": 42.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -3362,7 +3362,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png"
           },
           "espnOdds": {
-            "details": "SF -3.5",
+            "details": "SF -4.5",
             "overUnder": 55.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -3674,7 +3674,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png"
           },
           "espnOdds": {
-            "details": "LAC -2.5",
+            "details": "LAC -1.5",
             "overUnder": 42.5,
             "provider": "DraftKings",
             "homeProb": null,
