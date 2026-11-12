@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-12T03:01:43.316Z",
+  "updated": "2026-11-12T10:55:47.104Z",
   "odds": {
     "Bengals_Commanders": {
       "teams": {
-        "Commanders": 34,
-        "Bengals": 66
+        "Commanders": 35,
+        "Bengals": 65
       },
       "eventTicker": "KXNFLGAME-26NOV23CINWAS"
     },
@@ -17,8 +17,8 @@
     },
     "Giants_Jaguars": {
       "teams": {
-        "Giants": 31,
-        "Jaguars": 69
+        "Giants": 30,
+        "Jaguars": 70
       },
       "eventTicker": "KXNFLGAME-26NOV22JACNYG"
     },
@@ -31,15 +31,15 @@
     },
     "Chargers_Jets": {
       "teams": {
-        "Jets": 46,
-        "Chargers": 54
+        "Jets": 47,
+        "Chargers": 53
       },
       "eventTicker": "KXNFLGAME-26NOV22NYJLAC"
     },
     "Eagles_Steelers": {
       "teams": {
-        "Steelers": 66,
-        "Eagles": 34
+        "Steelers": 64,
+        "Eagles": 36
       },
       "eventTicker": "KXNFLGAME-26NOV22PITPHI"
     },
@@ -52,22 +52,22 @@
     },
     "Panthers_Ravens": {
       "teams": {
-        "Panthers": 52,
-        "Ravens": 48
+        "Panthers": 53,
+        "Ravens": 47
       },
       "eventTicker": "KXNFLGAME-26NOV22BALCAR"
     },
     "Bills_Dolphins": {
       "teams": {
-        "Dolphins": 9,
-        "Bills": 91
+        "Dolphins": 8,
+        "Bills": 92
       },
       "eventTicker": "KXNFLGAME-26NOV22MIABUF"
     },
     "Cardinals_Chiefs": {
       "teams": {
-        "Chiefs": 89,
-        "Cardinals": 11
+        "Chiefs": 90,
+        "Cardinals": 10
       },
       "eventTicker": "KXNFLGAME-26NOV22ARIKC"
     },
@@ -129,8 +129,8 @@
     },
     "Bills_Jets": {
       "teams": {
-        "Jets": 20,
-        "Bills": 80
+        "Jets": 22,
+        "Bills": 78
       },
       "eventTicker": "KXNFLGAME-26NOV15BUFNYJ"
     },
