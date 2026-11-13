@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T05:15:39.181Z",
+  "updated": "2026-11-13T05:23:01.155Z",
   "odds": {
     "Bengals_Commanders": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Giants_Jaguars": {
       "teams": {
-        "Giants": 30,
-        "Jaguars": 70
+        "Giants": 31,
+        "Jaguars": 69
       },
       "eventTicker": "KXNFLGAME-26NOV22JACNYG"
     },
@@ -73,8 +73,8 @@
     },
     "Cowboys_Titans": {
       "teams": {
-        "Titans": 20,
-        "Cowboys": 80
+        "Titans": 21,
+        "Cowboys": 79
       },
       "eventTicker": "KXNFLGAME-26NOV22TENDAL"
     },
