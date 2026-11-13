@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T23:16:18.978Z",
+  "updated": "2026-11-13T05:16:59.515Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     10,
@@ -18,21 +18,17 @@
   "originalRecommendation": {
     "week": 10,
     "pick": {
-      "team": "Jacksonville Jaguars",
-      "prob": 83,
-      "source": "kalshi",
-      "opponent": "Tennessee Titans",
-      "crowdPct": 23.83,
-      "ev": 0.02074999999999998
+      "team": "Washington Commanders",
+      "prob": 100,
+      "source": "final-result",
+      "opponent": "New York Giants"
     },
     "fullSeasonPlan": {
       "10": {
-        "team": "Jacksonville Jaguars",
-        "prob": 83,
-        "source": "kalshi",
-        "opponent": "Tennessee Titans",
-        "crowdPct": 23.83,
-        "ev": 0.02074999999999998
+        "team": "Washington Commanders",
+        "prob": 100,
+        "source": "final-result",
+        "opponent": "New York Giants"
       },
       "11": {
         "team": "Buffalo Bills",
@@ -42,10 +38,10 @@
         "crowdPct": null
       },
       "12": {
-        "team": "Dallas Cowboys",
-        "prob": 81.173,
-        "source": "powerindex",
-        "opponent": "Philadelphia Eagles",
+        "team": "Jacksonville Jaguars",
+        "prob": 83,
+        "source": "kalshi",
+        "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "13": {
@@ -95,21 +91,17 @@
   "crowdAdjustedRecommendation": {
     "week": 10,
     "pick": {
-      "team": "Jacksonville Jaguars",
-      "prob": 83,
-      "source": "kalshi",
-      "opponent": "Tennessee Titans",
-      "crowdPct": 23.83,
-      "ev": 0.02074999999999998
+      "team": "Washington Commanders",
+      "prob": 100,
+      "source": "final-result",
+      "opponent": "New York Giants"
     },
     "fullSeasonPlan": {
       "10": {
-        "team": "Jacksonville Jaguars",
-        "prob": 83,
-        "source": "kalshi",
-        "opponent": "Tennessee Titans",
-        "crowdPct": 23.83,
-        "ev": 0.02074999999999998
+        "team": "Washington Commanders",
+        "prob": 100,
+        "source": "final-result",
+        "opponent": "New York Giants"
       },
       "11": {
         "team": "Buffalo Bills",
@@ -119,10 +111,10 @@
         "crowdPct": null
       },
       "12": {
-        "team": "Dallas Cowboys",
-        "prob": 81.173,
-        "source": "powerindex",
-        "opponent": "Philadelphia Eagles",
+        "team": "Jacksonville Jaguars",
+        "prob": 83,
+        "source": "kalshi",
+        "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "13": {
