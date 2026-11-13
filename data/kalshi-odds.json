@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T13:19:02.022Z",
+  "updated": "2026-11-13T13:58:26.841Z",
   "odds": {
     "Bengals_Commanders": {
       "teams": {
@@ -24,8 +24,8 @@
     },
     "Broncos_Raiders": {
       "teams": {
-        "Raiders": 20,
-        "Broncos": 80
+        "Raiders": 21,
+        "Broncos": 79
       },
       "eventTicker": "KXNFLGAME-26NOV22LVDEN"
     },
@@ -171,15 +171,15 @@
     },
     "Packers_Vikings": {
       "teams": {
-        "Vikings": 41,
-        "Packers": 59
+        "Vikings": 42,
+        "Packers": 58
       },
       "eventTicker": "KXNFLGAME-26NOV15MINGB"
     },
     "Lions_Patriots": {
       "teams": {
-        "Patriots": 42,
-        "Lions": 58
+        "Patriots": 43,
+        "Lions": 57
       },
       "eventTicker": "KXNFLGAME-26NOV15NEDET"
     }
