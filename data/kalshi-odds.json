@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T21:59:40.486Z",
+  "updated": "2026-11-14T23:16:18.232Z",
   "odds": {
     "Bengals_Commanders": {
       "teams": {
@@ -66,8 +66,8 @@
     },
     "Cardinals_Chiefs": {
       "teams": {
-        "Chiefs": 85,
-        "Cardinals": 15
+        "Chiefs": 86,
+        "Cardinals": 14
       },
       "eventTicker": "KXNFLGAME-26NOV22ARIKC"
     },
@@ -101,8 +101,8 @@
     },
     "Bengals_Steelers": {
       "teams": {
-        "Steelers": 38,
-        "Bengals": 62
+        "Steelers": 37,
+        "Bengals": 63
       },
       "eventTicker": "KXNFLGAME-26NOV15PITCIN"
     },
