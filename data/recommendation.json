@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T05:06:16.381Z",
+  "updated": "2026-11-14T13:01:34.634Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     10,
@@ -32,7 +32,7 @@
       },
       "11": {
         "team": "Buffalo Bills",
-        "prob": 91,
+        "prob": 89,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -105,7 +105,7 @@
       },
       "11": {
         "team": "Buffalo Bills",
-        "prob": 91,
+        "prob": 89,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
