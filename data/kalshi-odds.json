@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-14T05:05:00.706Z",
+  "updated": "2026-11-14T07:32:03.562Z",
   "odds": {
     "Bengals_Commanders": {
       "teams": {
-        "Commanders": 35,
-        "Bengals": 65
+        "Commanders": 36,
+        "Bengals": 64
       },
       "eventTicker": "KXNFLGAME-26NOV23CINWAS"
     },
     "49ers_Vikings": {
       "teams": {
-        "49ers": 69,
-        "Vikings": 31
+        "49ers": 68,
+        "Vikings": 32
       },
       "eventTicker": "KXNFLGAME-26NOV22MINSF"
     },
@@ -24,15 +24,15 @@
     },
     "Broncos_Raiders": {
       "teams": {
-        "Raiders": 20,
-        "Broncos": 80
+        "Raiders": 21,
+        "Broncos": 79
       },
       "eventTicker": "KXNFLGAME-26NOV22LVDEN"
     },
     "Chargers_Jets": {
       "teams": {
-        "Jets": 47,
-        "Chargers": 53
+        "Jets": 48,
+        "Chargers": 52
       },
       "eventTicker": "KXNFLGAME-26NOV22NYJLAC"
     },
@@ -52,15 +52,15 @@
     },
     "Panthers_Ravens": {
       "teams": {
-        "Panthers": 53,
-        "Ravens": 47
+        "Panthers": 52,
+        "Ravens": 48
       },
       "eventTicker": "KXNFLGAME-26NOV22BALCAR"
     },
     "Bills_Dolphins": {
       "teams": {
-        "Dolphins": 9,
-        "Bills": 91
+        "Dolphins": 10,
+        "Bills": 90
       },
       "eventTicker": "KXNFLGAME-26NOV22MIABUF"
     },
@@ -87,29 +87,29 @@
     },
     "Colts_Texans": {
       "teams": {
-        "Colts": 19,
-        "Texans": 81
+        "Colts": 20,
+        "Texans": 80
       },
       "eventTicker": "KXNFLGAME-26NOV19INDHOU"
     },
     "Chargers_Ravens": {
       "teams": {
-        "Chargers": 34,
-        "Ravens": 66
+        "Chargers": 35,
+        "Ravens": 65
       },
       "eventTicker": "KXNFLGAME-26NOV16LACBAL"
     },
     "Bengals_Steelers": {
       "teams": {
-        "Steelers": 37,
-        "Bengals": 63
+        "Steelers": 38,
+        "Bengals": 62
       },
       "eventTicker": "KXNFLGAME-26NOV15PITCIN"
     },
     "49ers_Cowboys": {
       "teams": {
-        "49ers": 66,
-        "Cowboys": 34
+        "49ers": 65,
+        "Cowboys": 35
       },
       "eventTicker": "KXNFLGAME-26NOV15SFDAL"
     },
@@ -164,8 +164,8 @@
     },
     "Panthers_Saints": {
       "teams": {
-        "Saints": 55,
-        "Panthers": 45
+        "Saints": 54,
+        "Panthers": 46
       },
       "eventTicker": "KXNFLGAME-26NOV15CARNO"
     },
