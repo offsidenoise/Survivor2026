@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T17:01:23.707Z",
+  "updated": "2026-11-15T21:42:16.374Z",
   "odds": {
     "Bengals_Commanders": {
       "teams": {
@@ -10,43 +10,43 @@
     },
     "49ers_Vikings": {
       "teams": {
-        "49ers": 67,
-        "Vikings": 33
+        "49ers": 56,
+        "Vikings": 44
       },
       "eventTicker": "KXNFLGAME-26NOV22MINSF"
     },
     "Giants_Jaguars": {
       "teams": {
-        "Giants": 33,
-        "Jaguars": 67
+        "Giants": 25,
+        "Jaguars": 75
       },
       "eventTicker": "KXNFLGAME-26NOV22JACNYG"
     },
     "Broncos_Raiders": {
       "teams": {
-        "Raiders": 21,
-        "Broncos": 79
+        "Raiders": 33,
+        "Broncos": 67
       },
       "eventTicker": "KXNFLGAME-26NOV22LVDEN"
     },
     "Chargers_Jets": {
       "teams": {
-        "Jets": 47,
-        "Chargers": 53
+        "Jets": 43,
+        "Chargers": 57
       },
       "eventTicker": "KXNFLGAME-26NOV22NYJLAC"
     },
     "Eagles_Steelers": {
       "teams": {
-        "Steelers": 66,
-        "Eagles": 34
+        "Steelers": 67,
+        "Eagles": 33
       },
       "eventTicker": "KXNFLGAME-26NOV22PITPHI"
     },
     "Buccaneers_Lions": {
       "teams": {
-        "Buccaneers": 29,
-        "Lions": 71
+        "Buccaneers": 31,
+        "Lions": 69
       },
       "eventTicker": "KXNFLGAME-26NOV22TBDET"
     },
@@ -73,22 +73,22 @@
     },
     "Cowboys_Titans": {
       "teams": {
-        "Titans": 20,
-        "Cowboys": 80
+        "Titans": 22,
+        "Cowboys": 78
       },
       "eventTicker": "KXNFLGAME-26NOV22TENDAL"
     },
     "Bears_Saints": {
       "teams": {
-        "Saints": 18,
-        "Bears": 82
+        "Saints": 16,
+        "Bears": 84
       },
       "eventTicker": "KXNFLGAME-26NOV22NOCHI"
     },
     "Colts_Texans": {
       "teams": {
-        "Colts": 20,
-        "Texans": 80
+        "Colts": 27,
+        "Texans": 73
       },
       "eventTicker": "KXNFLGAME-26NOV19INDHOU"
     },
@@ -101,87 +101,31 @@
     },
     "Bengals_Steelers": {
       "teams": {
-        "Steelers": 37,
-        "Bengals": 63
+        "Steelers": 36,
+        "Bengals": 64
       },
       "eventTicker": "KXNFLGAME-26NOV15PITCIN"
     },
     "49ers_Cowboys": {
       "teams": {
-        "49ers": 65,
-        "Cowboys": 35
+        "49ers": 67,
+        "Cowboys": 33
       },
       "eventTicker": "KXNFLGAME-26NOV15SFDAL"
     },
     "Cardinals_Rams": {
       "teams": {
-        "Rams": 80,
-        "Cardinals": 20
+        "Rams": 79,
+        "Cardinals": 21
       },
       "eventTicker": "KXNFLGAME-26NOV15LARARI"
     },
     "Raiders_Seahawks": {
       "teams": {
-        "Seahawks": 71,
-        "Raiders": 29
+        "Seahawks": 63,
+        "Raiders": 37
       },
       "eventTicker": "KXNFLGAME-26NOV15SEALV"
-    },
-    "Bills_Jets": {
-      "teams": {
-        "Jets": 21,
-        "Bills": 79
-      },
-      "eventTicker": "KXNFLGAME-26NOV15BUFNYJ"
-    },
-    "Colts_Dolphins": {
-      "teams": {
-        "Dolphins": 34,
-        "Colts": 66
-      },
-      "eventTicker": "KXNFLGAME-26NOV15MIAIND"
-    },
-    "Browns_Texans": {
-      "teams": {
-        "Texans": 64,
-        "Browns": 36
-      },
-      "eventTicker": "KXNFLGAME-26NOV15HOUCLE"
-    },
-    "Chiefs_Falcons": {
-      "teams": {
-        "Chiefs": 62,
-        "Falcons": 38
-      },
-      "eventTicker": "KXNFLGAME-26NOV15KCATL"
-    },
-    "Jaguars_Titans": {
-      "teams": {
-        "Titans": 17,
-        "Jaguars": 83
-      },
-      "eventTicker": "KXNFLGAME-26NOV15JACTEN"
-    },
-    "Panthers_Saints": {
-      "teams": {
-        "Saints": 50,
-        "Panthers": 50
-      },
-      "eventTicker": "KXNFLGAME-26NOV15CARNO"
-    },
-    "Packers_Vikings": {
-      "teams": {
-        "Vikings": 43,
-        "Packers": 57
-      },
-      "eventTicker": "KXNFLGAME-26NOV15MINGB"
-    },
-    "Lions_Patriots": {
-      "teams": {
-        "Patriots": 1,
-        "Lions": 99
-      },
-      "eventTicker": "KXNFLGAME-26NOV15NEDET"
     }
   },
   "unmapped": []
