@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T21:42:16.374Z",
+  "updated": "2026-11-15T22:30:26.292Z",
   "odds": {
     "Bengals_Commanders": {
       "teams": {
@@ -10,36 +10,36 @@
     },
     "49ers_Vikings": {
       "teams": {
-        "49ers": 56,
-        "Vikings": 44
+        "49ers": 58,
+        "Vikings": 42
       },
       "eventTicker": "KXNFLGAME-26NOV22MINSF"
     },
     "Giants_Jaguars": {
       "teams": {
-        "Giants": 25,
-        "Jaguars": 75
+        "Giants": 22,
+        "Jaguars": 78
       },
       "eventTicker": "KXNFLGAME-26NOV22JACNYG"
     },
     "Broncos_Raiders": {
       "teams": {
-        "Raiders": 33,
-        "Broncos": 67
+        "Raiders": 31,
+        "Broncos": 69
       },
       "eventTicker": "KXNFLGAME-26NOV22LVDEN"
     },
     "Chargers_Jets": {
       "teams": {
-        "Jets": 43,
-        "Chargers": 57
+        "Jets": 40,
+        "Chargers": 60
       },
       "eventTicker": "KXNFLGAME-26NOV22NYJLAC"
     },
     "Eagles_Steelers": {
       "teams": {
-        "Steelers": 67,
-        "Eagles": 33
+        "Steelers": 69,
+        "Eagles": 31
       },
       "eventTicker": "KXNFLGAME-26NOV22PITPHI"
     },
@@ -66,29 +66,29 @@
     },
     "Cardinals_Chiefs": {
       "teams": {
-        "Chiefs": 88,
-        "Cardinals": 12
+        "Chiefs": 90,
+        "Cardinals": 10
       },
       "eventTicker": "KXNFLGAME-26NOV22ARIKC"
     },
     "Cowboys_Titans": {
       "teams": {
-        "Titans": 22,
-        "Cowboys": 78
+        "Titans": 23,
+        "Cowboys": 77
       },
       "eventTicker": "KXNFLGAME-26NOV22TENDAL"
     },
     "Bears_Saints": {
       "teams": {
-        "Saints": 16,
-        "Bears": 84
+        "Saints": 18,
+        "Bears": 82
       },
       "eventTicker": "KXNFLGAME-26NOV22NOCHI"
     },
     "Colts_Texans": {
       "teams": {
-        "Colts": 27,
-        "Texans": 73
+        "Colts": 25,
+        "Texans": 75
       },
       "eventTicker": "KXNFLGAME-26NOV19INDHOU"
     },
@@ -108,22 +108,22 @@
     },
     "49ers_Cowboys": {
       "teams": {
-        "49ers": 67,
-        "Cowboys": 33
+        "49ers": 52,
+        "Cowboys": 48
       },
       "eventTicker": "KXNFLGAME-26NOV15SFDAL"
     },
     "Cardinals_Rams": {
       "teams": {
-        "Rams": 79,
-        "Cardinals": 21
+        "Rams": 95,
+        "Cardinals": 5
       },
       "eventTicker": "KXNFLGAME-26NOV15LARARI"
     },
     "Raiders_Seahawks": {
       "teams": {
-        "Seahawks": 63,
-        "Raiders": 37
+        "Seahawks": 52,
+        "Raiders": 48
       },
       "eventTicker": "KXNFLGAME-26NOV15SEALV"
     }
