@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-14T23:16:18.232Z",
+  "updated": "2026-11-15T02:49:45.977Z",
   "odds": {
     "Bengals_Commanders": {
       "teams": {
-        "Commanders": 34,
-        "Bengals": 66
+        "Commanders": 35,
+        "Bengals": 65
       },
       "eventTicker": "KXNFLGAME-26NOV23CINWAS"
     },
@@ -24,8 +24,8 @@
     },
     "Broncos_Raiders": {
       "teams": {
-        "Raiders": 21,
-        "Broncos": 79
+        "Raiders": 20,
+        "Broncos": 80
       },
       "eventTicker": "KXNFLGAME-26NOV22LVDEN"
     },
@@ -66,8 +66,8 @@
     },
     "Cardinals_Chiefs": {
       "teams": {
-        "Chiefs": 86,
-        "Cardinals": 14
+        "Chiefs": 87,
+        "Cardinals": 13
       },
       "eventTicker": "KXNFLGAME-26NOV22ARIKC"
     },
