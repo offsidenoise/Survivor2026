@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T04:57:52.553Z",
+  "updated": "2026-11-15T10:03:42.813Z",
   "odds": {
     "Bengals_Commanders": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Giants_Jaguars": {
       "teams": {
-        "Giants": 31,
-        "Jaguars": 69
+        "Giants": 32,
+        "Jaguars": 68
       },
       "eventTicker": "KXNFLGAME-26NOV22JACNYG"
     },
@@ -45,36 +45,36 @@
     },
     "Buccaneers_Lions": {
       "teams": {
-        "Buccaneers": 39,
-        "Lions": 61
+        "Buccaneers": 38,
+        "Lions": 62
       },
       "eventTicker": "KXNFLGAME-26NOV22TBDET"
     },
     "Panthers_Ravens": {
       "teams": {
-        "Panthers": 53,
-        "Ravens": 47
+        "Panthers": 54,
+        "Ravens": 46
       },
       "eventTicker": "KXNFLGAME-26NOV22BALCAR"
     },
     "Bills_Dolphins": {
       "teams": {
-        "Dolphins": 9,
-        "Bills": 91
+        "Dolphins": 10,
+        "Bills": 90
       },
       "eventTicker": "KXNFLGAME-26NOV22MIABUF"
     },
     "Cardinals_Chiefs": {
       "teams": {
-        "Chiefs": 86,
-        "Cardinals": 14
+        "Chiefs": 87,
+        "Cardinals": 13
       },
       "eventTicker": "KXNFLGAME-26NOV22ARIKC"
     },
     "Cowboys_Titans": {
       "teams": {
-        "Titans": 21,
-        "Cowboys": 79
+        "Titans": 20,
+        "Cowboys": 80
       },
       "eventTicker": "KXNFLGAME-26NOV22TENDAL"
     },
@@ -122,8 +122,8 @@
     },
     "Raiders_Seahawks": {
       "teams": {
-        "Seahawks": 72,
-        "Raiders": 28
+        "Seahawks": 71,
+        "Raiders": 29
       },
       "eventTicker": "KXNFLGAME-26NOV15SEALV"
     },
@@ -164,8 +164,8 @@
     },
     "Panthers_Saints": {
       "teams": {
-        "Saints": 54,
-        "Panthers": 46
+        "Saints": 53,
+        "Panthers": 47
       },
       "eventTicker": "KXNFLGAME-26NOV15CARNO"
     },
