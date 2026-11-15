@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-15T10:03:42.813Z",
+  "updated": "2026-11-15T13:28:48.187Z",
   "odds": {
     "Bengals_Commanders": {
       "teams": {
-        "Commanders": 35,
-        "Bengals": 65
+        "Commanders": 34,
+        "Bengals": 66
       },
       "eventTicker": "KXNFLGAME-26NOV23CINWAS"
     },
@@ -24,8 +24,8 @@
     },
     "Broncos_Raiders": {
       "teams": {
-        "Raiders": 22,
-        "Broncos": 78
+        "Raiders": 21,
+        "Broncos": 79
       },
       "eventTicker": "KXNFLGAME-26NOV22LVDEN"
     },
@@ -52,8 +52,8 @@
     },
     "Panthers_Ravens": {
       "teams": {
-        "Panthers": 54,
-        "Ravens": 46
+        "Panthers": 53,
+        "Ravens": 47
       },
       "eventTicker": "KXNFLGAME-26NOV22BALCAR"
     },
@@ -73,8 +73,8 @@
     },
     "Cowboys_Titans": {
       "teams": {
-        "Titans": 20,
-        "Cowboys": 80
+        "Titans": 19,
+        "Cowboys": 81
       },
       "eventTicker": "KXNFLGAME-26NOV22TENDAL"
     },
@@ -164,8 +164,8 @@
     },
     "Panthers_Saints": {
       "teams": {
-        "Saints": 53,
-        "Panthers": 47
+        "Saints": 52,
+        "Panthers": 48
       },
       "eventTicker": "KXNFLGAME-26NOV15CARNO"
     },
