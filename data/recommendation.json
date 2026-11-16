@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T22:31:24.756Z",
+  "updated": "2026-11-16T04:56:49.058Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     10,
@@ -18,21 +18,21 @@
   "originalRecommendation": {
     "week": 10,
     "pick": {
-      "team": "Detroit Lions",
+      "team": "Seattle Seahawks",
       "prob": 100,
       "source": "final-result",
-      "opponent": "New England Patriots"
+      "opponent": "Las Vegas Raiders"
     },
     "fullSeasonPlan": {
       "10": {
-        "team": "Detroit Lions",
+        "team": "Seattle Seahawks",
         "prob": 100,
         "source": "final-result",
-        "opponent": "New England Patriots"
+        "opponent": "Las Vegas Raiders"
       },
       "11": {
         "team": "Buffalo Bills",
-        "prob": 90,
+        "prob": 91,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -91,21 +91,21 @@
   "crowdAdjustedRecommendation": {
     "week": 10,
     "pick": {
-      "team": "Detroit Lions",
+      "team": "Seattle Seahawks",
       "prob": 100,
       "source": "final-result",
-      "opponent": "New England Patriots"
+      "opponent": "Las Vegas Raiders"
     },
     "fullSeasonPlan": {
       "10": {
-        "team": "Detroit Lions",
+        "team": "Seattle Seahawks",
         "prob": 100,
         "source": "final-result",
-        "opponent": "New England Patriots"
+        "opponent": "Las Vegas Raiders"
       },
       "11": {
         "team": "Buffalo Bills",
-        "prob": 90,
+        "prob": 91,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
