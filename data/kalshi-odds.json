@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T08:27:21.028Z",
+  "updated": "2026-11-16T14:54:00.860Z",
   "odds": {
     "Bengals_Commanders": {
       "teams": {
@@ -73,8 +73,8 @@
     },
     "Cowboys_Titans": {
       "teams": {
-        "Titans": 21,
-        "Cowboys": 79
+        "Titans": 22,
+        "Cowboys": 78
       },
       "eventTicker": "KXNFLGAME-26NOV22TENDAL"
     },
@@ -94,8 +94,8 @@
     },
     "Chargers_Ravens": {
       "teams": {
-        "Chargers": 32,
-        "Ravens": 68
+        "Chargers": 33,
+        "Ravens": 67
       },
       "eventTicker": "KXNFLGAME-26NOV16LACBAL"
     }
