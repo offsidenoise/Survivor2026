@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T01:37:38.229Z",
+  "updated": "2026-11-17T15:32:13.521Z",
   "season": 2026,
   "currentWeek": 10,
   "weeks": {
@@ -3034,28 +3034,6 @@
     "10": {
       "games": [
         {
-          "id": "401873065",
-          "date": "2026-11-17T01:15Z",
-          "shortName": "LAC @ BAL",
-          "completed": false,
-          "inProgress": true,
-          "awayScore": 7,
-          "homeScore": 0,
-          "awayWinner": false,
-          "homeWinner": false,
-          "away": {
-            "code": "LAC",
-            "name": "Los Angeles Chargers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png"
-          },
-          "home": {
-            "code": "BAL",
-            "name": "Baltimore Ravens",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png"
-          },
-          "espnOdds": null
-        },
-        {
           "id": "401873052",
           "date": "2026-11-13T01:15Z",
           "shortName": "WSH @ NYG",
@@ -3340,6 +3318,28 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
           },
           "espnOdds": null
+        },
+        {
+          "id": "401873065",
+          "date": "2026-11-17T01:15Z",
+          "shortName": "LAC @ BAL",
+          "completed": true,
+          "inProgress": false,
+          "awayScore": 23,
+          "homeScore": 20,
+          "awayWinner": true,
+          "homeWinner": false,
+          "away": {
+            "code": "LAC",
+            "name": "Los Angeles Chargers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png"
+          },
+          "home": {
+            "code": "BAL",
+            "name": "Baltimore Ravens",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/bal.png"
+          },
+          "espnOdds": null
         }
       ]
     },
@@ -3366,9 +3366,9 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png"
           },
           "espnOdds": {
-            "details": "HOU -11.5",
+            "details": "HOU -12.5",
             "overUnder": 44.5,
-            "provider": "Draft Kings",
+            "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
           }
@@ -3396,7 +3396,7 @@
           "espnOdds": {
             "details": "BUF -16.5",
             "overUnder": 45.5,
-            "provider": "Draft Kings",
+            "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
           }
@@ -3423,8 +3423,8 @@
           },
           "espnOdds": {
             "details": "CHI -11.5",
-            "overUnder": 48.5,
-            "provider": "Draft Kings",
+            "overUnder": 49.5,
+            "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
           }
@@ -3452,7 +3452,7 @@
           "espnOdds": {
             "details": "DAL -8.5",
             "overUnder": 54.5,
-            "provider": "Draft Kings",
+            "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
           }
@@ -3479,8 +3479,8 @@
           },
           "espnOdds": {
             "details": "DET -6.5",
-            "overUnder": 46.5,
-            "provider": "Draft Kings",
+            "overUnder": 45.5,
+            "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
           }
@@ -3508,7 +3508,7 @@
           "espnOdds": {
             "details": "KC -16.5",
             "overUnder": 41.5,
-            "provider": "Draft Kings",
+            "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
           }
@@ -3536,7 +3536,7 @@
           "espnOdds": {
             "details": "PIT -4.5",
             "overUnder": 38.5,
-            "provider": "Draft Kings",
+            "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
           }
@@ -3561,7 +3561,13 @@
             "name": "Carolina Panthers",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png"
           },
-          "espnOdds": null
+          "espnOdds": {
+            "details": "CAR -2.5",
+            "overUnder": 43.5,
+            "provider": "DraftKings",
+            "homeProb": null,
+            "awayProb": null
+          }
         },
         {
           "id": "401873074",
@@ -3583,7 +3589,13 @@
             "name": "Los Angeles Chargers",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png"
           },
-          "espnOdds": null
+          "espnOdds": {
+            "details": "LAC -3.5",
+            "overUnder": 40.5,
+            "provider": "DraftKings",
+            "homeProb": null,
+            "awayProb": null
+          }
         },
         {
           "id": "401873075",
@@ -3608,7 +3620,7 @@
           "espnOdds": {
             "details": "DEN -10",
             "overUnder": 40.5,
-            "provider": "Draft Kings",
+            "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
           }
@@ -3636,7 +3648,7 @@
           "espnOdds": {
             "details": "JAX -6",
             "overUnder": 46.5,
-            "provider": "Draft Kings",
+            "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
           }
@@ -3664,7 +3676,7 @@
           "espnOdds": {
             "details": "SF -3",
             "overUnder": 46.5,
-            "provider": "Draft Kings",
+            "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
           }
@@ -3692,7 +3704,7 @@
           "espnOdds": {
             "details": "CIN -6.5",
             "overUnder": 52.5,
-            "provider": "Draft Kings",
+            "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
           }
