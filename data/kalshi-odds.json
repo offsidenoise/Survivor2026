@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T00:34:50.080Z",
+  "updated": "2026-11-18T01:49:24.600Z",
   "odds": {
     "Buccaneers_Panthers": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Cardinals_Commanders": {
       "teams": {
-        "Commanders": 71,
-        "Cardinals": 29
+        "Commanders": 72,
+        "Cardinals": 28
       },
       "eventTicker": "KXNFLGAME-26NOV29WASARI"
     },
@@ -52,8 +52,8 @@
     },
     "Browns_Raiders": {
       "teams": {
-        "Raiders": 35,
-        "Browns": 65
+        "Raiders": 36,
+        "Browns": 64
       },
       "eventTicker": "KXNFLGAME-26NOV29LVCLE"
     },
@@ -108,8 +108,8 @@
     },
     "Packers_Rams": {
       "teams": {
-        "Rams": 64,
-        "Packers": 36
+        "Rams": 62,
+        "Packers": 38
       },
       "eventTicker": "KXNFLGAME-26NOV25GBLAR"
     },
