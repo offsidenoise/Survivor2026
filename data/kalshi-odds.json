@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-18T01:49:24.600Z",
+  "updated": "2026-11-18T09:20:56.190Z",
   "odds": {
     "Buccaneers_Panthers": {
       "teams": {
-        "Buccaneers": 55,
-        "Panthers": 45
+        "Buccaneers": 54,
+        "Panthers": 46
       },
       "eventTicker": "KXNFLGAME-26NOV30CARTB"
     },
     "Chargers_Patriots": {
       "teams": {
-        "Patriots": 34,
-        "Chargers": 66
+        "Patriots": 32,
+        "Chargers": 68
       },
       "eventTicker": "KXNFLGAME-26NOV29NELAC"
     },
@@ -80,15 +80,15 @@
     },
     "Broncos_Steelers": {
       "teams": {
-        "Steelers": 47,
-        "Broncos": 53
+        "Steelers": 46,
+        "Broncos": 54
       },
       "eventTicker": "KXNFLGAME-26NOV27DENPIT"
     },
     "Bills_Chiefs": {
       "teams": {
-        "Chiefs": 41,
-        "Bills": 59
+        "Chiefs": 42,
+        "Bills": 58
       },
       "eventTicker": "KXNFLGAME-26NOV26KCBUF"
     },
@@ -164,8 +164,8 @@
     },
     "Panthers_Ravens": {
       "teams": {
-        "Panthers": 56,
-        "Ravens": 44
+        "Panthers": 57,
+        "Ravens": 43
       },
       "eventTicker": "KXNFLGAME-26NOV22BALCAR"
     },
@@ -178,8 +178,8 @@
     },
     "Cardinals_Chiefs": {
       "teams": {
-        "Chiefs": 91,
-        "Cardinals": 9
+        "Chiefs": 90,
+        "Cardinals": 10
       },
       "eventTicker": "KXNFLGAME-26NOV22ARIKC"
     },
