@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T18:15:54.775Z",
+  "updated": "2026-11-18T23:54:52.437Z",
   "odds": {
     "Buccaneers_Panthers": {
       "teams": {
@@ -10,29 +10,29 @@
     },
     "Chargers_Patriots": {
       "teams": {
-        "Patriots": 33,
-        "Chargers": 67
+        "Patriots": 32,
+        "Chargers": 68
       },
       "eventTicker": "KXNFLGAME-26NOV29NELAC"
     },
     "Cardinals_Commanders": {
       "teams": {
-        "Commanders": 72,
-        "Cardinals": 28
+        "Commanders": 74,
+        "Cardinals": 26
       },
       "eventTicker": "KXNFLGAME-26NOV29WASARI"
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 57,
-        "Seahawks": 43
+        "49ers": 58,
+        "Seahawks": 42
       },
       "eventTicker": "KXNFLGAME-26NOV29SEASF"
     },
     "Jaguars_Titans": {
       "teams": {
-        "Titans": 13,
-        "Jaguars": 87
+        "Titans": 11,
+        "Jaguars": 89
       },
       "eventTicker": "KXNFLGAME-26NOV29TENJAC"
     },
@@ -52,8 +52,8 @@
     },
     "Browns_Raiders": {
       "teams": {
-        "Raiders": 35,
-        "Browns": 65
+        "Raiders": 34,
+        "Browns": 66
       },
       "eventTicker": "KXNFLGAME-26NOV29LVCLE"
     },
@@ -80,22 +80,22 @@
     },
     "Broncos_Steelers": {
       "teams": {
-        "Steelers": 45,
-        "Broncos": 55
+        "Steelers": 46,
+        "Broncos": 54
       },
       "eventTicker": "KXNFLGAME-26NOV27DENPIT"
     },
     "Bills_Chiefs": {
       "teams": {
-        "Chiefs": 42,
-        "Bills": 58
+        "Chiefs": 41,
+        "Bills": 59
       },
       "eventTicker": "KXNFLGAME-26NOV26KCBUF"
     },
     "Cowboys_Eagles": {
       "teams": {
-        "Eagles": 23,
-        "Cowboys": 77
+        "Eagles": 22,
+        "Cowboys": 78
       },
       "eventTicker": "KXNFLGAME-26NOV26PHIDAL"
     },
@@ -143,8 +143,8 @@
     },
     "Chargers_Jets": {
       "teams": {
-        "Jets": 39,
-        "Chargers": 61
+        "Jets": 40,
+        "Chargers": 60
       },
       "eventTicker": "KXNFLGAME-26NOV22NYJLAC"
     },
