@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T00:36:18.151Z",
+  "updated": "2026-11-18T15:11:43.756Z",
   "verifiedThisRun": true,
   "gamesAttempted": 272,
   "gamesSucceeded": 272,
@@ -605,492 +605,492 @@
       "homeProb": 43.533
     },
     "401873066": {
-      "awayProb": 25.406000000000002,
-      "homeProb": 74.39
+      "awayProb": 25.116,
+      "homeProb": 74.682
     },
     "401873067": {
-      "awayProb": 11.695,
-      "homeProb": 88.211
+      "awayProb": 11.562,
+      "homeProb": 88.345
     },
     "401873068": {
-      "awayProb": 31.1,
-      "homeProb": 68.65
+      "awayProb": 31.017,
+      "homeProb": 68.734
     },
     "401873069": {
-      "awayProb": 81.342,
-      "homeProb": 18.509
+      "awayProb": 80.79899999999999,
+      "homeProb": 19.049
     },
     "401873070": {
-      "awayProb": 5.005,
-      "homeProb": 94.955
+      "awayProb": 5.179,
+      "homeProb": 94.779
     },
     "401873071": {
-      "awayProb": 21.182000000000002,
-      "homeProb": 78.648
+      "awayProb": 21.298000000000002,
+      "homeProb": 78.53099999999999
     },
     "401873072": {
-      "awayProb": 38.74,
-      "homeProb": 60.949
+      "awayProb": 38.417,
+      "homeProb": 61.275
     },
     "401873073": {
-      "awayProb": 19.986,
-      "homeProb": 79.853
+      "awayProb": 19.297,
+      "homeProb": 80.548
     },
     "401873074": {
-      "awayProb": 29.887999999999998,
-      "homeProb": 69.872
+      "awayProb": 30.208000000000002,
+      "homeProb": 69.55
     },
     "401873075": {
-      "awayProb": 14.002,
-      "homeProb": 85.885
+      "awayProb": 13.636999999999999,
+      "homeProb": 86.25399999999999
     },
     "401873076": {
-      "awayProb": 64.06500000000001,
-      "homeProb": 35.649
+      "awayProb": 63.915,
+      "homeProb": 35.798
     },
     "401873077": {
-      "awayProb": 36.187999999999995,
-      "homeProb": 63.52100000000001
+      "awayProb": 36.611,
+      "homeProb": 63.095
     },
     "401873078": {
-      "awayProb": 76.456,
-      "homeProb": 23.355999999999998
+      "awayProb": 76.172,
+      "homeProb": 23.638
     },
     "401873079": {
-      "awayProb": 33.906,
-      "homeProb": 65.822
+      "awayProb": 33.764,
+      "homeProb": 65.964
     },
     "401873080": {
-      "awayProb": 21.025,
-      "homeProb": 78.807
+      "awayProb": 20.985,
+      "homeProb": 78.847
     },
     "401873081": {
-      "awayProb": 48.888,
-      "homeProb": 50.719
+      "awayProb": 49.119,
+      "homeProb": 50.487
     },
     "401873082": {
-      "awayProb": 43.864,
-      "homeProb": 55.784
+      "awayProb": 44.101,
+      "homeProb": 55.545
     },
     "401873083": {
-      "awayProb": 59.268,
-      "homeProb": 40.407
+      "awayProb": 59.40299999999999,
+      "homeProb": 40.274
     },
     "401873084": {
-      "awayProb": 17.294,
-      "homeProb": 82.56700000000001
+      "awayProb": 17.187,
+      "homeProb": 82.675
     },
     "401873085": {
-      "awayProb": 18.633,
-      "homeProb": 81.217
+      "awayProb": 18.708,
+      "homeProb": 81.14099999999999
     },
     "401873086": {
-      "awayProb": 35.435,
-      "homeProb": 64.28
+      "awayProb": 35.615,
+      "homeProb": 64.09899999999999
     },
     "401873087": {
-      "awayProb": 17.708,
-      "homeProb": 82.149
+      "awayProb": 17.835,
+      "homeProb": 82.02199999999999
     },
     "401873088": {
-      "awayProb": 43.730999999999995,
-      "homeProb": 55.918
+      "awayProb": 44.008,
+      "homeProb": 55.638
     },
     "401873089": {
-      "awayProb": 64.41900000000001,
-      "homeProb": 35.298
+      "awayProb": 64.374,
+      "homeProb": 35.342
     },
     "401873090": {
-      "awayProb": 9.795,
-      "homeProb": 90.12599999999999
+      "awayProb": 10.075000000000001,
+      "homeProb": 89.84400000000001
     },
     "401873091": {
-      "awayProb": 35.422,
-      "homeProb": 64.293
+      "awayProb": 36.297000000000004,
+      "homeProb": 63.412
     },
     "401873092": {
-      "awayProb": 58.29299999999999,
-      "homeProb": 41.375
+      "awayProb": 58.387,
+      "homeProb": 41.281
     },
     "401873093": {
-      "awayProb": 35.536,
-      "homeProb": 64.179
+      "awayProb": 35.964,
+      "homeProb": 63.747
     },
     "401873094": {
-      "awayProb": 30.867,
-      "homeProb": 68.886
+      "awayProb": 30.891999999999996,
+      "homeProb": 68.86
     },
     "401873095": {
-      "awayProb": 82.95,
-      "homeProb": 16.914
+      "awayProb": 82.857,
+      "homeProb": 17.007
     },
     "401873096": {
-      "awayProb": 45.792,
-      "homeProb": 53.839999999999996
+      "awayProb": 46.217000000000006,
+      "homeProb": 53.412000000000006
     },
     "401873097": {
-      "awayProb": 81.866,
-      "homeProb": 17.990000000000002
+      "awayProb": 82.03200000000001,
+      "homeProb": 17.825
     },
     "401873098": {
-      "awayProb": 77.766,
-      "homeProb": 22.057
+      "awayProb": 77.79899999999999,
+      "homeProb": 22.024
     },
     "401873099": {
-      "awayProb": 67.015,
-      "homeProb": 32.722
+      "awayProb": 66.863,
+      "homeProb": 32.873000000000005
     },
     "401873100": {
-      "awayProb": 55.216,
-      "homeProb": 44.427
+      "awayProb": 55.155,
+      "homeProb": 44.488
     },
     "401873101": {
-      "awayProb": 27.93,
-      "homeProb": 71.846
+      "awayProb": 28.051,
+      "homeProb": 71.724
     },
     "401873102": {
-      "awayProb": 59.065999999999995,
-      "homeProb": 40.608
+      "awayProb": 59.044,
+      "homeProb": 40.629
     },
     "401873103": {
-      "awayProb": 9.778,
-      "homeProb": 90.143
+      "awayProb": 9.812999999999999,
+      "homeProb": 90.108
     },
     "401873104": {
-      "awayProb": 47.635,
-      "homeProb": 51.98199999999999
+      "awayProb": 47.368,
+      "homeProb": 52.251999999999995
     },
     "401873105": {
-      "awayProb": 85.855,
-      "homeProb": 14.032
+      "awayProb": 85.871,
+      "homeProb": 14.016
     },
     "401873106": {
-      "awayProb": 27.712999999999997,
-      "homeProb": 72.064
+      "awayProb": 27.342,
+      "homeProb": 72.438
     },
     "401873107": {
-      "awayProb": 57.755,
-      "homeProb": 41.908
+      "awayProb": 58.403000000000006,
+      "homeProb": 41.265
     },
     "401873108": {
-      "awayProb": 37.408,
-      "homeProb": 62.291
+      "awayProb": 37.621,
+      "homeProb": 62.077000000000005
     },
     "401873109": {
-      "awayProb": 78.924,
-      "homeProb": 20.907999999999998
+      "awayProb": 79.416,
+      "homeProb": 20.419999999999998
     },
     "401873110": {
-      "awayProb": 42.996,
-      "homeProb": 56.657999999999994
+      "awayProb": 43.695,
+      "homeProb": 55.954
     },
     "401873111": {
-      "awayProb": 85.70100000000001,
-      "homeProb": 14.185
+      "awayProb": 85.52,
+      "homeProb": 14.363999999999999
     },
     "401873112": {
-      "awayProb": 73.18599999999999,
-      "homeProb": 26.6
+      "awayProb": 73.65,
+      "homeProb": 26.14
     },
     "401873113": {
-      "awayProb": 65.65100000000001,
-      "homeProb": 34.075
+      "awayProb": 65.924,
+      "homeProb": 33.804
     },
     "401873114": {
-      "awayProb": 57.04,
-      "homeProb": 42.617
+      "awayProb": 57.476000000000006,
+      "homeProb": 42.185
     },
     "401873115": {
-      "awayProb": 41.115,
-      "homeProb": 58.555
+      "awayProb": 41.105000000000004,
+      "homeProb": 58.565
     },
     "401873116": {
       "awayProb": 68.598,
       "homeProb": 31.152
     },
     "401873117": {
-      "awayProb": 16.811999999999998,
-      "homeProb": 83.052
+      "awayProb": 16.651,
+      "homeProb": 83.21499999999999
     },
     "401873118": {
-      "awayProb": 63.285000000000004,
-      "homeProb": 36.422
+      "awayProb": 62.980000000000004,
+      "homeProb": 36.725
     },
     "401873119": {
-      "awayProb": 46.282000000000004,
-      "homeProb": 53.346000000000004
+      "awayProb": 46.562,
+      "homeProb": 53.064
     },
     "401873120": {
-      "awayProb": 41.265,
-      "homeProb": 58.404
+      "awayProb": 40.949999999999996,
+      "homeProb": 58.721000000000004
     },
     "401873121": {
-      "awayProb": 20.416,
-      "homeProb": 79.42
+      "awayProb": 19.616,
+      "homeProb": 80.226
     },
     "401873122": {
-      "awayProb": 61.411,
-      "homeProb": 38.282
+      "awayProb": 60.976,
+      "homeProb": 38.712999999999994
     },
     "401873123": {
-      "awayProb": 22.663,
-      "homeProb": 77.155
+      "awayProb": 22.34,
+      "homeProb": 77.481
     },
     "401873124": {
-      "awayProb": 79.557,
-      "homeProb": 20.28
+      "awayProb": 79.738,
+      "homeProb": 20.101
     },
     "401873125": {
-      "awayProb": 80.32000000000001,
-      "homeProb": 19.524
+      "awayProb": 79.989,
+      "homeProb": 19.851
     },
     "401873126": {
-      "awayProb": 37.997,
-      "homeProb": 61.698
+      "awayProb": 37.989,
+      "homeProb": 61.706
     },
     "401873127": {
-      "awayProb": 35.480000000000004,
-      "homeProb": 64.235
+      "awayProb": 35.624,
+      "homeProb": 64.09
     },
     "401873128": {
-      "awayProb": 34.877,
-      "homeProb": 64.84299999999999
+      "awayProb": 35.024,
+      "homeProb": 64.69500000000001
     },
     "401873129": {
-      "awayProb": 72.88799999999999,
-      "homeProb": 26.895999999999997
+      "awayProb": 72.85199999999999,
+      "homeProb": 26.932000000000002
     },
     "401873130": {
-      "awayProb": 42.204,
-      "homeProb": 57.457
+      "awayProb": 42.466,
+      "homeProb": 57.193000000000005
     },
     "401873131": {
-      "awayProb": 56.802,
-      "homeProb": 42.854
+      "awayProb": 57.235,
+      "homeProb": 42.424
     },
     "401873132": {
-      "awayProb": 60.49,
-      "homeProb": 39.196
+      "awayProb": 60.734,
+      "homeProb": 38.954
     },
     "401873133": {
-      "awayProb": 17.183999999999997,
-      "homeProb": 82.678
+      "awayProb": 17.156,
+      "homeProb": 82.706
     },
     "401873134": {
-      "awayProb": 26.373,
-      "homeProb": 73.41499999999999
+      "awayProb": 26.143,
+      "homeProb": 73.64699999999999
     },
     "401873135": {
-      "awayProb": 47.825,
-      "homeProb": 51.791
+      "awayProb": 47.994,
+      "homeProb": 51.620999999999995
     },
     "401873136": {
-      "awayProb": 33,
-      "homeProb": 66.735
+      "awayProb": 32.956,
+      "homeProb": 66.779
     },
     "401873137": {
-      "awayProb": 80.34599999999999,
-      "homeProb": 19.497
+      "awayProb": 80.352,
+      "homeProb": 19.491
     },
     "401873138": {
-      "awayProb": 44.049,
-      "homeProb": 55.598000000000006
+      "awayProb": 44.059,
+      "homeProb": 55.586999999999996
     },
     "401873139": {
-      "awayProb": 12.831000000000001,
-      "homeProb": 87.066
+      "awayProb": 12.645000000000001,
+      "homeProb": 87.254
     },
     "401873140": {
-      "awayProb": 75.086,
-      "homeProb": 24.715
+      "awayProb": 74.933,
+      "homeProb": 24.867
     },
     "401873141": {
-      "awayProb": 39.67,
-      "homeProb": 60.012
+      "awayProb": 39.776,
+      "homeProb": 59.904999999999994
     },
     "401873142": {
-      "awayProb": 59.852000000000004,
-      "homeProb": 39.828
+      "awayProb": 59.480999999999995,
+      "homeProb": 40.196
     },
     "401873143": {
-      "awayProb": 51.24999999999999,
-      "homeProb": 48.362
+      "awayProb": 51.611,
+      "homeProb": 48.003
     },
     "401873144": {
-      "awayProb": 41.953,
-      "homeProb": 57.709999999999994
+      "awayProb": 42.32,
+      "homeProb": 57.34
     },
     "401873145": {
-      "awayProb": 77.43100000000001,
-      "homeProb": 22.389
+      "awayProb": 77.3,
+      "homeProb": 22.519
     },
     "401873146": {
-      "awayProb": 75.749,
-      "homeProb": 24.058
+      "awayProb": 75.354,
+      "homeProb": 24.45
     },
     "401873147": {
-      "awayProb": 24.852,
-      "homeProb": 74.94800000000001
+      "awayProb": 24.673000000000002,
+      "homeProb": 75.129
     },
     "401873148": {
-      "awayProb": 35.503,
-      "homeProb": 64.211
+      "awayProb": 35.935,
+      "homeProb": 63.776999999999994
     },
     "401873149": {
-      "awayProb": 42.931000000000004,
-      "homeProb": 56.725
+      "awayProb": 42.75,
+      "homeProb": 56.907
     },
     "401873150": {
-      "awayProb": 62.839999999999996,
-      "homeProb": 36.864000000000004
+      "awayProb": 63.121,
+      "homeProb": 36.585
     },
     "401873151": {
-      "awayProb": 49.863,
-      "homeProb": 49.738
+      "awayProb": 50.09400000000001,
+      "homeProb": 49.508
     },
     "401873152": {
-      "awayProb": 51.559,
-      "homeProb": 48.055
+      "awayProb": 51.468,
+      "homeProb": 48.144999999999996
     },
     "401873153": {
-      "awayProb": 52.54299999999999,
-      "homeProb": 47.079
+      "awayProb": 52.776,
+      "homeProb": 46.848
     },
     "401873154": {
-      "awayProb": 63.980000000000004,
-      "homeProb": 35.733
+      "awayProb": 63.735,
+      "homeProb": 35.976
     },
     "401873155": {
-      "awayProb": 23.358999999999998,
-      "homeProb": 76.453
+      "awayProb": 22.947,
+      "homeProb": 76.86800000000001
     },
     "401873156": {
-      "awayProb": 17.456,
-      "homeProb": 82.404
+      "awayProb": 17.637,
+      "homeProb": 82.222
     },
     "401873157": {
-      "awayProb": 70.718,
-      "homeProb": 29.049000000000003
+      "awayProb": 70.7,
+      "homeProb": 29.067
     },
     "401873158": {
-      "awayProb": 75.108,
-      "homeProb": 24.694
+      "awayProb": 74.78200000000001,
+      "homeProb": 25.017
     },
     "401873159": {
-      "awayProb": 57.472,
-      "homeProb": 42.189
+      "awayProb": 57.57600000000001,
+      "homeProb": 42.086
     },
     "401873160": {
-      "awayProb": 17.918,
-      "homeProb": 81.938
+      "awayProb": 17.9,
+      "homeProb": 81.95599999999999
     },
     "401873161": {
-      "awayProb": 87.335,
-      "homeProb": 12.564
+      "awayProb": 86.996,
+      "homeProb": 12.9
     },
     "401873162": {
-      "awayProb": 52.581999999999994,
-      "homeProb": 47.04
+      "awayProb": 52.803,
+      "homeProb": 46.821
     },
     "401873163": {
-      "awayProb": 77.476,
-      "homeProb": 22.344
+      "awayProb": 77.605,
+      "homeProb": 22.217000000000002
     },
     "401873164": {
-      "awayProb": 55.528,
-      "homeProb": 44.117
+      "awayProb": 54.952,
+      "homeProb": 44.689
     },
     "401873165": {
-      "awayProb": 27.871000000000002,
-      "homeProb": 71.905
+      "awayProb": 27.066000000000003,
+      "homeProb": 72.71600000000001
     },
     "401873166": {
-      "awayProb": 66.634,
-      "homeProb": 33.1
+      "awayProb": 66.807,
+      "homeProb": 32.928000000000004
     },
     "401873167": {
-      "awayProb": 68.31099999999999,
-      "homeProb": 31.436999999999998
+      "awayProb": 68.76,
+      "homeProb": 30.991000000000003
     },
     "401873168": {
-      "awayProb": 41.423,
-      "homeProb": 58.24399999999999
+      "awayProb": 41.932,
+      "homeProb": 57.731
     },
     "401873169": {
-      "awayProb": 42.726,
-      "homeProb": 56.931
+      "awayProb": 42.584,
+      "homeProb": 57.074000000000005
     },
     "401873170": {
-      "awayProb": 10.416,
-      "homeProb": 89.5
+      "awayProb": 10.651,
+      "homeProb": 89.264
     },
     "401873171": {
-      "awayProb": 47.105000000000004,
-      "homeProb": 52.516
+      "awayProb": 47.386,
+      "homeProb": 52.234
     },
     "401873172": {
-      "awayProb": 32.614,
-      "homeProb": 67.124
+      "awayProb": 32.704,
+      "homeProb": 67.033
     },
     "401873173": {
-      "awayProb": 47.208,
-      "homeProb": 52.413
+      "awayProb": 47.243,
+      "homeProb": 52.378
     },
     "401873174": {
-      "awayProb": 14.188999999999998,
-      "homeProb": 85.697
+      "awayProb": 14.06,
+      "homeProb": 85.827
     },
     "401873175": {
-      "awayProb": 62.305,
-      "homeProb": 37.395
+      "awayProb": 61.773,
+      "homeProb": 37.922
     },
     "401873176": {
-      "awayProb": 50.163000000000004,
-      "homeProb": 49.44
+      "awayProb": 49.628,
+      "homeProb": 49.973
     },
     "401873177": {
-      "awayProb": 78.968,
-      "homeProb": 20.864
+      "awayProb": 78.752,
+      "homeProb": 21.078
     },
     "401873178": {
-      "awayProb": 10.172,
-      "homeProb": 89.74600000000001
+      "awayProb": 9.973,
+      "homeProb": 89.947
     },
     "401873179": {
-      "awayProb": 28.731,
-      "homeProb": 71.039
+      "awayProb": 28.596,
+      "homeProb": 71.175
     },
     "401873180": {
-      "awayProb": 36.864999999999995,
-      "homeProb": 62.839
+      "awayProb": 36.551,
+      "homeProb": 63.154999999999994
     },
     "401873181": {
-      "awayProb": 12.187000000000001,
-      "homeProb": 87.715
+      "awayProb": 12.595999999999998,
+      "homeProb": 87.303
     },
     "401873182": {
-      "awayProb": 38.815,
-      "homeProb": 60.873
+      "awayProb": 39.003,
+      "homeProb": 60.684000000000005
     },
     "401873183": {
-      "awayProb": 58.495,
-      "homeProb": 41.174
+      "awayProb": 58.330000000000005,
+      "homeProb": 41.338
     },
     "401873184": {
-      "awayProb": 87.435,
-      "homeProb": 12.465
+      "awayProb": 87.058,
+      "homeProb": 12.839
     },
     "401873185": {
-      "awayProb": 41.404999999999994,
-      "homeProb": 58.262
+      "awayProb": 41.24,
+      "homeProb": 58.428999999999995
     },
     "401873186": {
-      "awayProb": 67.645,
-      "homeProb": 32.096999999999994
+      "awayProb": 67.692,
+      "homeProb": 32.051
     },
     "401873187": {
-      "awayProb": 20.003,
-      "homeProb": 79.837
+      "awayProb": 19.356,
+      "homeProb": 80.489
     }
   }
 }

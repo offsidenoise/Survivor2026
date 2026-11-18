@@ -1,8 +1,7 @@
 {
-  "updated": "2026-11-18T00:36:18.196Z",
+  "updated": "2026-11-18T15:11:43.799Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
-    10,
     11,
     12,
     13,
@@ -16,20 +15,15 @@
   "yahooCrowdHealthy": false,
   "evHealthy": false,
   "originalRecommendation": {
-    "week": 10,
+    "week": 11,
     "pick": {
-      "team": "Seattle Seahawks",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "Las Vegas Raiders"
+      "team": "Buffalo Bills",
+      "prob": 91,
+      "source": "kalshi",
+      "opponent": "Miami Dolphins",
+      "crowdPct": null
     },
     "fullSeasonPlan": {
-      "10": {
-        "team": "Seattle Seahawks",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "Las Vegas Raiders"
-      },
       "11": {
         "team": "Buffalo Bills",
         "prob": 91,
@@ -46,63 +40,58 @@
       },
       "13": {
         "team": "Denver Broncos",
-        "prob": 90.143,
+        "prob": 90.108,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "14": {
         "team": "Chicago Bears",
-        "prob": 85.70100000000001,
+        "prob": 85.52,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "15": {
-        "team": "Green Bay Packers",
-        "prob": 82.678,
+        "team": "Kansas City Chiefs",
+        "prob": 87.254,
         "source": "powerindex",
-        "opponent": "Miami Dolphins",
+        "opponent": "New England Patriots",
         "crowdPct": null
       },
       "16": {
-        "team": "Cincinnati Bengals",
-        "prob": 77.43100000000001,
+        "team": "Detroit Lions",
+        "prob": 76.86800000000001,
         "source": "powerindex",
-        "opponent": "Indianapolis Colts",
+        "opponent": "New York Giants",
         "crowdPct": null
       },
       "17": {
         "team": "San Francisco 49ers",
-        "prob": 89.5,
+        "prob": 89.264,
         "source": "powerindex",
         "opponent": "Philadelphia Eagles",
         "crowdPct": null
       },
       "18": {
-        "team": "Kansas City Chiefs",
-        "prob": 89.74600000000001,
+        "team": "Cincinnati Bengals",
+        "prob": 85.827,
         "source": "powerindex",
-        "opponent": "Las Vegas Raiders",
+        "opponent": "Cleveland Browns",
         "crowdPct": null
       }
     }
   },
   "crowdAdjustedRecommendation": {
-    "week": 10,
+    "week": 11,
     "pick": {
-      "team": "Seattle Seahawks",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "Las Vegas Raiders"
+      "team": "Buffalo Bills",
+      "prob": 91,
+      "source": "kalshi",
+      "opponent": "Miami Dolphins",
+      "crowdPct": null
     },
     "fullSeasonPlan": {
-      "10": {
-        "team": "Seattle Seahawks",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "Las Vegas Raiders"
-      },
       "11": {
         "team": "Buffalo Bills",
         "prob": 91,
@@ -119,44 +108,44 @@
       },
       "13": {
         "team": "Denver Broncos",
-        "prob": 90.143,
+        "prob": 90.108,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "14": {
         "team": "Chicago Bears",
-        "prob": 85.70100000000001,
+        "prob": 85.52,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "15": {
-        "team": "Green Bay Packers",
-        "prob": 82.678,
+        "team": "Kansas City Chiefs",
+        "prob": 87.254,
         "source": "powerindex",
-        "opponent": "Miami Dolphins",
+        "opponent": "New England Patriots",
         "crowdPct": null
       },
       "16": {
-        "team": "Cincinnati Bengals",
-        "prob": 77.43100000000001,
+        "team": "Detroit Lions",
+        "prob": 76.86800000000001,
         "source": "powerindex",
-        "opponent": "Indianapolis Colts",
+        "opponent": "New York Giants",
         "crowdPct": null
       },
       "17": {
         "team": "San Francisco 49ers",
-        "prob": 89.5,
+        "prob": 89.264,
         "source": "powerindex",
         "opponent": "Philadelphia Eagles",
         "crowdPct": null
       },
       "18": {
-        "team": "Kansas City Chiefs",
-        "prob": 89.74600000000001,
+        "team": "Cincinnati Bengals",
+        "prob": 85.827,
         "source": "powerindex",
-        "opponent": "Las Vegas Raiders",
+        "opponent": "Cleveland Browns",
         "crowdPct": null
       }
     }
