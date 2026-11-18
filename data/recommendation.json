@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T15:33:10.996Z",
+  "updated": "2026-11-18T00:36:18.196Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     10,
@@ -39,7 +39,7 @@
       },
       "12": {
         "team": "Jacksonville Jaguars",
-        "prob": 82,
+        "prob": 87,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": null
@@ -112,7 +112,7 @@
       },
       "12": {
         "team": "Jacksonville Jaguars",
-        "prob": 82,
+        "prob": 87,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": null
