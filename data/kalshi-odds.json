@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T17:01:28.456Z",
+  "updated": "2026-11-19T19:59:02.428Z",
   "odds": {
     "Buccaneers_Panthers": {
       "teams": {
@@ -59,8 +59,8 @@
     },
     "Bengals_Saints": {
       "teams": {
-        "Saints": 17,
-        "Bengals": 83
+        "Saints": 16,
+        "Bengals": 84
       },
       "eventTicker": "KXNFLGAME-26NOV29NOCIN"
     },
@@ -73,8 +73,8 @@
     },
     "Ravens_Texans": {
       "teams": {
-        "Texans": 71,
-        "Ravens": 29
+        "Texans": 72,
+        "Ravens": 28
       },
       "eventTicker": "KXNFLGAME-26NOV29BALHOU"
     },
@@ -122,8 +122,8 @@
     },
     "49ers_Vikings": {
       "teams": {
-        "49ers": 59,
-        "Vikings": 41
+        "49ers": 60,
+        "Vikings": 40
       },
       "eventTicker": "KXNFLGAME-26NOV22MINSF"
     },
@@ -143,8 +143,8 @@
     },
     "Chargers_Jets": {
       "teams": {
-        "Jets": 41,
-        "Chargers": 59
+        "Jets": 40,
+        "Chargers": 60
       },
       "eventTicker": "KXNFLGAME-26NOV22NYJLAC"
     },
@@ -157,15 +157,15 @@
     },
     "Buccaneers_Lions": {
       "teams": {
-        "Buccaneers": 27,
-        "Lions": 73
+        "Buccaneers": 29,
+        "Lions": 71
       },
       "eventTicker": "KXNFLGAME-26NOV22TBDET"
     },
     "Panthers_Ravens": {
       "teams": {
-        "Panthers": 56,
-        "Ravens": 44
+        "Panthers": 57,
+        "Ravens": 43
       },
       "eventTicker": "KXNFLGAME-26NOV22BALCAR"
     },
