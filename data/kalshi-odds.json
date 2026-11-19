@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T06:02:20.716Z",
+  "updated": "2026-11-19T07:52:49.688Z",
   "odds": {
     "Buccaneers_Panthers": {
       "teams": {
@@ -164,8 +164,8 @@
     },
     "Panthers_Ravens": {
       "teams": {
-        "Panthers": 57,
-        "Ravens": 43
+        "Panthers": 56,
+        "Ravens": 44
       },
       "eventTicker": "KXNFLGAME-26NOV22BALCAR"
     },
@@ -185,8 +185,8 @@
     },
     "Cowboys_Titans": {
       "teams": {
-        "Titans": 23,
-        "Cowboys": 77
+        "Titans": 24,
+        "Cowboys": 76
       },
       "eventTicker": "KXNFLGAME-26NOV22TENDAL"
     },
