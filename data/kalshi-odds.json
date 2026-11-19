@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T07:52:49.688Z",
+  "updated": "2026-11-19T17:01:28.456Z",
   "odds": {
     "Buccaneers_Panthers": {
       "teams": {
@@ -17,8 +17,8 @@
     },
     "Cardinals_Commanders": {
       "teams": {
-        "Commanders": 74,
-        "Cardinals": 26
+        "Commanders": 73,
+        "Cardinals": 27
       },
       "eventTicker": "KXNFLGAME-26NOV29WASARI"
     },
@@ -45,8 +45,8 @@
     },
     "Colts_Giants": {
       "teams": {
-        "Giants": 65,
-        "Colts": 35
+        "Giants": 66,
+        "Colts": 34
       },
       "eventTicker": "KXNFLGAME-26NOV29NYGIND"
     },
@@ -73,8 +73,8 @@
     },
     "Ravens_Texans": {
       "teams": {
-        "Texans": 72,
-        "Ravens": 28
+        "Texans": 71,
+        "Ravens": 29
       },
       "eventTicker": "KXNFLGAME-26NOV29BALHOU"
     },
@@ -101,8 +101,8 @@
     },
     "Bears_Lions": {
       "teams": {
-        "Lions": 45,
-        "Bears": 55
+        "Lions": 44,
+        "Bears": 56
       },
       "eventTicker": "KXNFLGAME-26NOV26CHIDET"
     },
@@ -136,15 +136,15 @@
     },
     "Broncos_Raiders": {
       "teams": {
-        "Raiders": 18,
-        "Broncos": 82
+        "Raiders": 17,
+        "Broncos": 83
       },
       "eventTicker": "KXNFLGAME-26NOV22LVDEN"
     },
     "Chargers_Jets": {
       "teams": {
-        "Jets": 40,
-        "Chargers": 60
+        "Jets": 41,
+        "Chargers": 59
       },
       "eventTicker": "KXNFLGAME-26NOV22NYJLAC"
     },
@@ -157,8 +157,8 @@
     },
     "Buccaneers_Lions": {
       "teams": {
-        "Buccaneers": 26,
-        "Lions": 74
+        "Buccaneers": 27,
+        "Lions": 73
       },
       "eventTicker": "KXNFLGAME-26NOV22TBDET"
     },
@@ -178,8 +178,8 @@
     },
     "Cardinals_Chiefs": {
       "teams": {
-        "Chiefs": 90,
-        "Cardinals": 10
+        "Chiefs": 91,
+        "Cardinals": 9
       },
       "eventTicker": "KXNFLGAME-26NOV22ARIKC"
     },
@@ -192,8 +192,8 @@
     },
     "Bears_Saints": {
       "teams": {
-        "Saints": 17,
-        "Bears": 83
+        "Saints": 16,
+        "Bears": 84
       },
       "eventTicker": "KXNFLGAME-26NOV22NOCHI"
     },
