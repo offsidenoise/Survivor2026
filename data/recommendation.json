@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T05:52:36.833Z",
+  "updated": "2026-11-20T14:57:39.017Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     11,
@@ -38,28 +38,28 @@
       },
       "13": {
         "team": "Denver Broncos",
-        "prob": 90.108,
+        "prob": 89.955,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "14": {
         "team": "Chicago Bears",
-        "prob": 85.52,
+        "prob": 85.327,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "15": {
         "team": "Kansas City Chiefs",
-        "prob": 87.254,
+        "prob": 87.636,
         "source": "powerindex",
         "opponent": "New England Patriots",
         "crowdPct": null
       },
       "16": {
         "team": "Cincinnati Bengals",
-        "prob": 77.3,
+        "prob": 80.119,
         "source": "powerindex",
         "opponent": "Indianapolis Colts",
         "crowdPct": null
@@ -73,7 +73,7 @@
       },
       "18": {
         "team": "San Francisco 49ers",
-        "prob": 87.058,
+        "prob": 86.85000000000001,
         "source": "powerindex",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
@@ -104,28 +104,28 @@
       },
       "13": {
         "team": "Denver Broncos",
-        "prob": 90.108,
+        "prob": 89.955,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "14": {
         "team": "Chicago Bears",
-        "prob": 85.52,
+        "prob": 85.327,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "15": {
         "team": "Kansas City Chiefs",
-        "prob": 87.254,
+        "prob": 87.636,
         "source": "powerindex",
         "opponent": "New England Patriots",
         "crowdPct": null
       },
       "16": {
         "team": "Cincinnati Bengals",
-        "prob": 77.3,
+        "prob": 80.119,
         "source": "powerindex",
         "opponent": "Indianapolis Colts",
         "crowdPct": null
@@ -139,7 +139,7 @@
       },
       "18": {
         "team": "San Francisco 49ers",
-        "prob": 87.058,
+        "prob": 86.85000000000001,
         "source": "powerindex",
         "opponent": "Arizona Cardinals",
         "crowdPct": null
