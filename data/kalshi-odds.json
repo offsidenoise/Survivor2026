@@ -1,24 +1,24 @@
 {
-  "updated": "2026-11-20T14:56:27.857Z",
+  "updated": "2026-11-20T21:04:00.211Z",
   "odds": {
     "Buccaneers_Panthers": {
       "teams": {
-        "Buccaneers": 54,
-        "Panthers": 46
+        "Buccaneers": 57,
+        "Panthers": 43
       },
       "eventTicker": "KXNFLGAME-26NOV30CARTB"
     },
     "Chargers_Patriots": {
       "teams": {
-        "Patriots": 33,
-        "Chargers": 67
+        "Patriots": 34,
+        "Chargers": 66
       },
       "eventTicker": "KXNFLGAME-26NOV29NELAC"
     },
     "Cardinals_Commanders": {
       "teams": {
-        "Commanders": 73,
-        "Cardinals": 27
+        "Commanders": 74,
+        "Cardinals": 26
       },
       "eventTicker": "KXNFLGAME-26NOV29WASARI"
     },
@@ -38,29 +38,29 @@
     },
     "Dolphins_Jets": {
       "teams": {
-        "Jets": 60,
-        "Dolphins": 40
+        "Jets": 61,
+        "Dolphins": 39
       },
       "eventTicker": "KXNFLGAME-26NOV29NYJMIA"
     },
     "Colts_Giants": {
       "teams": {
-        "Giants": 69,
-        "Colts": 31
+        "Giants": 73,
+        "Colts": 27
       },
       "eventTicker": "KXNFLGAME-26NOV29NYGIND"
     },
     "Browns_Raiders": {
       "teams": {
-        "Raiders": 35,
-        "Browns": 65
+        "Raiders": 34,
+        "Browns": 66
       },
       "eventTicker": "KXNFLGAME-26NOV29LVCLE"
     },
     "Bengals_Saints": {
       "teams": {
-        "Saints": 18,
-        "Bengals": 82
+        "Saints": 17,
+        "Bengals": 83
       },
       "eventTicker": "KXNFLGAME-26NOV29NOCIN"
     },
@@ -80,8 +80,8 @@
     },
     "Broncos_Steelers": {
       "teams": {
-        "Steelers": 44,
-        "Broncos": 56
+        "Steelers": 46,
+        "Broncos": 54
       },
       "eventTicker": "KXNFLGAME-26NOV27DENPIT"
     },
@@ -94,8 +94,8 @@
     },
     "Cowboys_Eagles": {
       "teams": {
-        "Eagles": 23,
-        "Cowboys": 77
+        "Eagles": 22,
+        "Cowboys": 78
       },
       "eventTicker": "KXNFLGAME-26NOV26PHIDAL"
     },
@@ -108,8 +108,8 @@
     },
     "Packers_Rams": {
       "teams": {
-        "Rams": 62,
-        "Packers": 38
+        "Rams": 60,
+        "Packers": 40
       },
       "eventTicker": "KXNFLGAME-26NOV25GBLAR"
     },
@@ -129,8 +129,8 @@
     },
     "Giants_Jaguars": {
       "teams": {
-        "Giants": 29,
-        "Jaguars": 71
+        "Giants": 30,
+        "Jaguars": 70
       },
       "eventTicker": "KXNFLGAME-26NOV22JACNYG"
     },
