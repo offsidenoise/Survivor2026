@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T23:30:29.128Z",
+  "updated": "2026-11-20T04:14:01.578Z",
   "odds": {
     "Buccaneers_Panthers": {
       "teams": {
@@ -10,8 +10,8 @@
     },
     "Chargers_Patriots": {
       "teams": {
-        "Patriots": 33,
-        "Chargers": 67
+        "Patriots": 34,
+        "Chargers": 66
       },
       "eventTicker": "KXNFLGAME-26NOV29NELAC"
     },
@@ -24,8 +24,8 @@
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 58,
-        "Seahawks": 42
+        "49ers": 57,
+        "Seahawks": 43
       },
       "eventTicker": "KXNFLGAME-26NOV29SEASF"
     },
@@ -45,8 +45,8 @@
     },
     "Colts_Giants": {
       "teams": {
-        "Giants": 66,
-        "Colts": 34
+        "Giants": 68,
+        "Colts": 32
       },
       "eventTicker": "KXNFLGAME-26NOV29NYGIND"
     },
@@ -59,29 +59,29 @@
     },
     "Bengals_Saints": {
       "teams": {
-        "Saints": 16,
-        "Bengals": 84
+        "Saints": 17,
+        "Bengals": 83
       },
       "eventTicker": "KXNFLGAME-26NOV29NOCIN"
     },
     "Falcons_Vikings": {
       "teams": {
-        "Vikings": 74,
-        "Falcons": 26
+        "Vikings": 75,
+        "Falcons": 25
       },
       "eventTicker": "KXNFLGAME-26NOV29ATLMIN"
     },
     "Ravens_Texans": {
       "teams": {
-        "Texans": 72,
-        "Ravens": 28
+        "Texans": 74,
+        "Ravens": 26
       },
       "eventTicker": "KXNFLGAME-26NOV29BALHOU"
     },
     "Broncos_Steelers": {
       "teams": {
-        "Steelers": 46,
-        "Broncos": 54
+        "Steelers": 45,
+        "Broncos": 55
       },
       "eventTicker": "KXNFLGAME-26NOV27DENPIT"
     },
@@ -94,15 +94,15 @@
     },
     "Cowboys_Eagles": {
       "teams": {
-        "Eagles": 22,
-        "Cowboys": 78
+        "Eagles": 24,
+        "Cowboys": 76
       },
       "eventTicker": "KXNFLGAME-26NOV26PHIDAL"
     },
     "Bears_Lions": {
       "teams": {
-        "Lions": 43,
-        "Bears": 57
+        "Lions": 42,
+        "Bears": 58
       },
       "eventTicker": "KXNFLGAME-26NOV26CHIDET"
     },
@@ -157,8 +157,8 @@
     },
     "Buccaneers_Lions": {
       "teams": {
-        "Buccaneers": 29,
-        "Lions": 71
+        "Buccaneers": 30,
+        "Lions": 70
       },
       "eventTicker": "KXNFLGAME-26NOV22TBDET"
     },
@@ -196,13 +196,6 @@
         "Bears": 84
       },
       "eventTicker": "KXNFLGAME-26NOV22NOCHI"
-    },
-    "Colts_Texans": {
-      "teams": {
-        "Colts": 16,
-        "Texans": 84
-      },
-      "eventTicker": "KXNFLGAME-26NOV19INDHOU"
     }
   },
   "unmapped": []
