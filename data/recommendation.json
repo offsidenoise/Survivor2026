@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T14:57:39.017Z",
+  "updated": "2026-11-20T23:43:13.684Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     11,
@@ -58,10 +58,10 @@
         "crowdPct": null
       },
       "16": {
-        "team": "Cincinnati Bengals",
-        "prob": 80.119,
+        "team": "Detroit Lions",
+        "prob": 77.227,
         "source": "powerindex",
-        "opponent": "Indianapolis Colts",
+        "opponent": "New York Giants",
         "crowdPct": null
       },
       "17": {
@@ -124,10 +124,10 @@
         "crowdPct": null
       },
       "16": {
-        "team": "Cincinnati Bengals",
-        "prob": 80.119,
+        "team": "Detroit Lions",
+        "prob": 77.227,
         "source": "powerindex",
-        "opponent": "Indianapolis Colts",
+        "opponent": "New York Giants",
         "crowdPct": null
       },
       "17": {
