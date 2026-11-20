@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T20:00:18.920Z",
+  "updated": "2026-11-20T05:52:36.833Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     11,
@@ -17,19 +17,17 @@
   "originalRecommendation": {
     "week": 11,
     "pick": {
-      "team": "Buffalo Bills",
-      "prob": 91,
-      "source": "kalshi",
-      "opponent": "Miami Dolphins",
-      "crowdPct": null
+      "team": "Houston Texans",
+      "prob": 100,
+      "source": "final-result",
+      "opponent": "Indianapolis Colts"
     },
     "fullSeasonPlan": {
       "11": {
-        "team": "Buffalo Bills",
-        "prob": 91,
-        "source": "kalshi",
-        "opponent": "Miami Dolphins",
-        "crowdPct": null
+        "team": "Houston Texans",
+        "prob": 100,
+        "source": "final-result",
+        "opponent": "Indianapolis Colts"
       },
       "12": {
         "team": "Jacksonville Jaguars",
@@ -60,24 +58,24 @@
         "crowdPct": null
       },
       "16": {
-        "team": "Detroit Lions",
-        "prob": 76.86800000000001,
+        "team": "Cincinnati Bengals",
+        "prob": 77.3,
         "source": "powerindex",
-        "opponent": "New York Giants",
+        "opponent": "Indianapolis Colts",
         "crowdPct": null
       },
       "17": {
-        "team": "San Francisco 49ers",
-        "prob": 89.264,
-        "source": "powerindex",
-        "opponent": "Philadelphia Eagles",
+        "team": "Buffalo Bills",
+        "prob": 91,
+        "source": "kalshi",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "18": {
-        "team": "Cincinnati Bengals",
-        "prob": 85.827,
+        "team": "San Francisco 49ers",
+        "prob": 87.058,
         "source": "powerindex",
-        "opponent": "Cleveland Browns",
+        "opponent": "Arizona Cardinals",
         "crowdPct": null
       }
     }
@@ -85,19 +83,17 @@
   "crowdAdjustedRecommendation": {
     "week": 11,
     "pick": {
-      "team": "Buffalo Bills",
-      "prob": 91,
-      "source": "kalshi",
-      "opponent": "Miami Dolphins",
-      "crowdPct": null
+      "team": "Houston Texans",
+      "prob": 100,
+      "source": "final-result",
+      "opponent": "Indianapolis Colts"
     },
     "fullSeasonPlan": {
       "11": {
-        "team": "Buffalo Bills",
-        "prob": 91,
-        "source": "kalshi",
-        "opponent": "Miami Dolphins",
-        "crowdPct": null
+        "team": "Houston Texans",
+        "prob": 100,
+        "source": "final-result",
+        "opponent": "Indianapolis Colts"
       },
       "12": {
         "team": "Jacksonville Jaguars",
@@ -128,24 +124,24 @@
         "crowdPct": null
       },
       "16": {
-        "team": "Detroit Lions",
-        "prob": 76.86800000000001,
+        "team": "Cincinnati Bengals",
+        "prob": 77.3,
         "source": "powerindex",
-        "opponent": "New York Giants",
+        "opponent": "Indianapolis Colts",
         "crowdPct": null
       },
       "17": {
-        "team": "San Francisco 49ers",
-        "prob": 89.264,
-        "source": "powerindex",
-        "opponent": "Philadelphia Eagles",
+        "team": "Buffalo Bills",
+        "prob": 91,
+        "source": "kalshi",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "18": {
-        "team": "Cincinnati Bengals",
-        "prob": 85.827,
+        "team": "San Francisco 49ers",
+        "prob": 87.058,
         "source": "powerindex",
-        "opponent": "Cleveland Browns",
+        "opponent": "Arizona Cardinals",
         "crowdPct": null
       }
     }
