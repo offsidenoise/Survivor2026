@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T23:42:07.531Z",
+  "updated": "2026-11-21T05:46:34.270Z",
   "season": 2026,
   "currentWeek": 11,
   "weeks": {
@@ -3981,7 +3981,7 @@
           },
           "espnOdds": {
             "details": "JAX -14.5",
-            "overUnder": 46.5,
+            "overUnder": 47.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
