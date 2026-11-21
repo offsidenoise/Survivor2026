@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T05:46:34.440Z",
+  "updated": "2026-11-21T09:50:07.262Z",
   "odds": {
     "Buccaneers_Panthers": {
       "teams": {
@@ -24,8 +24,8 @@
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 56,
-        "Seahawks": 44
+        "49ers": 57,
+        "Seahawks": 43
       },
       "eventTicker": "KXNFLGAME-26NOV29SEASF"
     },
@@ -80,8 +80,8 @@
     },
     "Broncos_Steelers": {
       "teams": {
-        "Steelers": 46,
-        "Broncos": 54
+        "Steelers": 45,
+        "Broncos": 55
       },
       "eventTicker": "KXNFLGAME-26NOV27DENPIT"
     },
@@ -94,8 +94,8 @@
     },
     "Cowboys_Eagles": {
       "teams": {
-        "Eagles": 22,
-        "Cowboys": 78
+        "Eagles": 23,
+        "Cowboys": 77
       },
       "eventTicker": "KXNFLGAME-26NOV26PHIDAL"
     },
