@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T22:08:28.201Z",
+  "updated": "2026-11-21T22:48:04.973Z",
   "odds": {
     "Buccaneers_Panthers": {
       "teams": {
@@ -59,8 +59,8 @@
     },
     "Bengals_Saints": {
       "teams": {
-        "Saints": 17,
-        "Bengals": 83
+        "Saints": 16,
+        "Bengals": 84
       },
       "eventTicker": "KXNFLGAME-26NOV29NOCIN"
     },
@@ -87,8 +87,8 @@
     },
     "Bills_Chiefs": {
       "teams": {
-        "Chiefs": 42,
-        "Bills": 58
+        "Chiefs": 41,
+        "Bills": 59
       },
       "eventTicker": "KXNFLGAME-26NOV26KCBUF"
     },
