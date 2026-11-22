@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T17:37:37.931Z",
+  "updated": "2026-11-22T22:48:18.237Z",
   "odds": {
     "Buccaneers_Panthers": {
       "teams": {
@@ -17,15 +17,15 @@
     },
     "Cardinals_Commanders": {
       "teams": {
-        "Commanders": 74,
-        "Cardinals": 26
+        "Commanders": 75,
+        "Cardinals": 25
       },
       "eventTicker": "KXNFLGAME-26NOV29WASARI"
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 56,
-        "Seahawks": 44
+        "49ers": 57,
+        "Seahawks": 43
       },
       "eventTicker": "KXNFLGAME-26NOV29SEASF"
     },
@@ -38,29 +38,29 @@
     },
     "Dolphins_Jets": {
       "teams": {
-        "Jets": 61,
-        "Dolphins": 39
+        "Jets": 62,
+        "Dolphins": 38
       },
       "eventTicker": "KXNFLGAME-26NOV29NYJMIA"
     },
     "Colts_Giants": {
       "teams": {
-        "Giants": 73,
-        "Colts": 27
+        "Giants": 74,
+        "Colts": 26
       },
       "eventTicker": "KXNFLGAME-26NOV29NYGIND"
     },
     "Browns_Raiders": {
       "teams": {
-        "Raiders": 36,
-        "Browns": 64
+        "Raiders": 33,
+        "Browns": 67
       },
       "eventTicker": "KXNFLGAME-26NOV29LVCLE"
     },
     "Bengals_Saints": {
       "teams": {
-        "Saints": 17,
-        "Bengals": 83
+        "Saints": 18,
+        "Bengals": 82
       },
       "eventTicker": "KXNFLGAME-26NOV29NOCIN"
     },
@@ -80,29 +80,29 @@
     },
     "Broncos_Steelers": {
       "teams": {
-        "Steelers": 45,
-        "Broncos": 55
+        "Steelers": 42,
+        "Broncos": 58
       },
       "eventTicker": "KXNFLGAME-26NOV27DENPIT"
     },
     "Bills_Chiefs": {
       "teams": {
-        "Chiefs": 41,
-        "Bills": 59
+        "Chiefs": 43,
+        "Bills": 57
       },
       "eventTicker": "KXNFLGAME-26NOV26KCBUF"
     },
     "Cowboys_Eagles": {
       "teams": {
-        "Eagles": 23,
-        "Cowboys": 77
+        "Eagles": 22,
+        "Cowboys": 78
       },
       "eventTicker": "KXNFLGAME-26NOV26PHIDAL"
     },
     "Bears_Lions": {
       "teams": {
-        "Lions": 42,
-        "Bears": 58
+        "Lions": 45,
+        "Bears": 55
       },
       "eventTicker": "KXNFLGAME-26NOV26CHIDET"
     },
@@ -122,80 +122,31 @@
     },
     "49ers_Vikings": {
       "teams": {
-        "49ers": 62,
-        "Vikings": 38
+        "49ers": 64,
+        "Vikings": 36
       },
       "eventTicker": "KXNFLGAME-26NOV22MINSF"
     },
     "Giants_Jaguars": {
       "teams": {
-        "Giants": 29,
-        "Jaguars": 71
+        "Giants": 64,
+        "Jaguars": 36
       },
       "eventTicker": "KXNFLGAME-26NOV22JACNYG"
     },
     "Broncos_Raiders": {
       "teams": {
-        "Raiders": 17,
-        "Broncos": 83
+        "Raiders": 9,
+        "Broncos": 91
       },
       "eventTicker": "KXNFLGAME-26NOV22LVDEN"
     },
     "Chargers_Jets": {
       "teams": {
-        "Jets": 40,
-        "Chargers": 60
+        "Jets": 80,
+        "Chargers": 20
       },
       "eventTicker": "KXNFLGAME-26NOV22NYJLAC"
-    },
-    "Eagles_Steelers": {
-      "teams": {
-        "Steelers": 65,
-        "Eagles": 35
-      },
-      "eventTicker": "KXNFLGAME-26NOV22PITPHI"
-    },
-    "Buccaneers_Lions": {
-      "teams": {
-        "Buccaneers": 34,
-        "Lions": 66
-      },
-      "eventTicker": "KXNFLGAME-26NOV22TBDET"
-    },
-    "Panthers_Ravens": {
-      "teams": {
-        "Panthers": 56,
-        "Ravens": 44
-      },
-      "eventTicker": "KXNFLGAME-26NOV22BALCAR"
-    },
-    "Bills_Dolphins": {
-      "teams": {
-        "Dolphins": 9,
-        "Bills": 91
-      },
-      "eventTicker": "KXNFLGAME-26NOV22MIABUF"
-    },
-    "Cardinals_Chiefs": {
-      "teams": {
-        "Chiefs": 91,
-        "Cardinals": 9
-      },
-      "eventTicker": "KXNFLGAME-26NOV22ARIKC"
-    },
-    "Cowboys_Titans": {
-      "teams": {
-        "Titans": 24,
-        "Cowboys": 76
-      },
-      "eventTicker": "KXNFLGAME-26NOV22TENDAL"
-    },
-    "Bears_Saints": {
-      "teams": {
-        "Saints": 16,
-        "Bears": 84
-      },
-      "eventTicker": "KXNFLGAME-26NOV22NOCHI"
     }
   },
   "unmapped": []
