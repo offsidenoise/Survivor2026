@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T14:07:44.540Z",
+  "updated": "2026-11-22T23:17:29.249Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     11,
@@ -17,21 +17,21 @@
   "originalRecommendation": {
     "week": 11,
     "pick": {
-      "team": "Houston Texans",
+      "team": "Philadelphia Eagles",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Indianapolis Colts"
+      "opponent": "Pittsburgh Steelers"
     },
     "fullSeasonPlan": {
       "11": {
-        "team": "Houston Texans",
+        "team": "Philadelphia Eagles",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Indianapolis Colts"
+        "opponent": "Pittsburgh Steelers"
       },
       "12": {
         "team": "Jacksonville Jaguars",
-        "prob": 88,
+        "prob": 89,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": null
@@ -65,17 +65,17 @@
         "crowdPct": null
       },
       "17": {
-        "team": "Buffalo Bills",
-        "prob": 91,
-        "source": "kalshi",
-        "opponent": "Miami Dolphins",
+        "team": "San Francisco 49ers",
+        "prob": 89.537,
+        "source": "powerindex",
+        "opponent": "Philadelphia Eagles",
         "crowdPct": null
       },
       "18": {
-        "team": "San Francisco 49ers",
-        "prob": 86.85000000000001,
+        "team": "Buffalo Bills",
+        "prob": 87.505,
         "source": "powerindex",
-        "opponent": "Arizona Cardinals",
+        "opponent": "New York Jets",
         "crowdPct": null
       }
     }
@@ -83,21 +83,21 @@
   "crowdAdjustedRecommendation": {
     "week": 11,
     "pick": {
-      "team": "Houston Texans",
+      "team": "Philadelphia Eagles",
       "prob": 100,
       "source": "final-result",
-      "opponent": "Indianapolis Colts"
+      "opponent": "Pittsburgh Steelers"
     },
     "fullSeasonPlan": {
       "11": {
-        "team": "Houston Texans",
+        "team": "Philadelphia Eagles",
         "prob": 100,
         "source": "final-result",
-        "opponent": "Indianapolis Colts"
+        "opponent": "Pittsburgh Steelers"
       },
       "12": {
         "team": "Jacksonville Jaguars",
-        "prob": 88,
+        "prob": 89,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
         "crowdPct": null
@@ -131,17 +131,17 @@
         "crowdPct": null
       },
       "17": {
-        "team": "Buffalo Bills",
-        "prob": 91,
-        "source": "kalshi",
-        "opponent": "Miami Dolphins",
+        "team": "San Francisco 49ers",
+        "prob": 89.537,
+        "source": "powerindex",
+        "opponent": "Philadelphia Eagles",
         "crowdPct": null
       },
       "18": {
-        "team": "San Francisco 49ers",
-        "prob": 86.85000000000001,
+        "team": "Buffalo Bills",
+        "prob": 87.505,
         "source": "powerindex",
-        "opponent": "Arizona Cardinals",
+        "opponent": "New York Jets",
         "crowdPct": null
       }
     }

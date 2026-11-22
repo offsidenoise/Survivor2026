@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T22:48:18.237Z",
+  "updated": "2026-11-22T23:16:11.921Z",
   "odds": {
     "Buccaneers_Panthers": {
       "teams": {
@@ -10,8 +10,8 @@
     },
     "Chargers_Patriots": {
       "teams": {
-        "Patriots": 39,
-        "Chargers": 61
+        "Patriots": 38,
+        "Chargers": 62
       },
       "eventTicker": "KXNFLGAME-26NOV29NELAC"
     },
@@ -31,15 +31,15 @@
     },
     "Jaguars_Titans": {
       "teams": {
-        "Titans": 12,
-        "Jaguars": 88
+        "Titans": 11,
+        "Jaguars": 89
       },
       "eventTicker": "KXNFLGAME-26NOV29TENJAC"
     },
     "Dolphins_Jets": {
       "teams": {
-        "Jets": 62,
-        "Dolphins": 38
+        "Jets": 65,
+        "Dolphins": 35
       },
       "eventTicker": "KXNFLGAME-26NOV29NYJMIA"
     },
@@ -66,8 +66,8 @@
     },
     "Falcons_Vikings": {
       "teams": {
-        "Vikings": 74,
-        "Falcons": 26
+        "Vikings": 75,
+        "Falcons": 25
       },
       "eventTicker": "KXNFLGAME-26NOV29ATLMIN"
     },
@@ -80,8 +80,8 @@
     },
     "Broncos_Steelers": {
       "teams": {
-        "Steelers": 42,
-        "Broncos": 58
+        "Steelers": 43,
+        "Broncos": 57
       },
       "eventTicker": "KXNFLGAME-26NOV27DENPIT"
     },
@@ -108,8 +108,8 @@
     },
     "Packers_Rams": {
       "teams": {
-        "Rams": 59,
-        "Packers": 41
+        "Rams": 58,
+        "Packers": 42
       },
       "eventTicker": "KXNFLGAME-26NOV25GBLAR"
     },
@@ -129,22 +129,22 @@
     },
     "Giants_Jaguars": {
       "teams": {
-        "Giants": 64,
-        "Jaguars": 36
+        "Giants": 80,
+        "Jaguars": 20
       },
       "eventTicker": "KXNFLGAME-26NOV22JACNYG"
     },
     "Broncos_Raiders": {
       "teams": {
-        "Raiders": 9,
-        "Broncos": 91
+        "Raiders": 11,
+        "Broncos": 89
       },
       "eventTicker": "KXNFLGAME-26NOV22LVDEN"
     },
     "Chargers_Jets": {
       "teams": {
-        "Jets": 80,
-        "Chargers": 20
+        "Jets": 75,
+        "Chargers": 25
       },
       "eventTicker": "KXNFLGAME-26NOV22NYJLAC"
     }
