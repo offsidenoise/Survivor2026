@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T05:18:15.495Z",
+  "updated": "2026-11-22T14:07:44.540Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     11,
@@ -38,14 +38,14 @@
       },
       "13": {
         "team": "Denver Broncos",
-        "prob": 89.955,
+        "prob": 89.87899999999999,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "14": {
         "team": "Chicago Bears",
-        "prob": 85.327,
+        "prob": 85.27,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -104,14 +104,14 @@
       },
       "13": {
         "team": "Denver Broncos",
-        "prob": 89.955,
+        "prob": 89.87899999999999,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "14": {
         "team": "Chicago Bears",
-        "prob": 85.327,
+        "prob": 85.27,
         "source": "powerindex",
         "opponent": "Miami Dolphins",
         "crowdPct": null
