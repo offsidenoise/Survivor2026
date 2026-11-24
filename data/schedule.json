@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T03:50:36.373Z",
+  "updated": "2026-11-24T17:00:07.097Z",
   "season": 2026,
   "currentWeek": 11,
   "weeks": {
@@ -3346,28 +3346,6 @@
     "11": {
       "games": [
         {
-          "id": "401873078",
-          "date": "2026-11-24T01:15Z",
-          "shortName": "CIN @ WSH",
-          "completed": false,
-          "inProgress": true,
-          "awayScore": 17,
-          "homeScore": 16,
-          "awayWinner": false,
-          "homeWinner": false,
-          "away": {
-            "code": "CIN",
-            "name": "Cincinnati Bengals",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
-          },
-          "home": {
-            "code": "WSH",
-            "name": "Washington Commanders",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png"
-          },
-          "espnOdds": null
-        },
-        {
           "id": "401873066",
           "date": "2026-11-20T01:15Z",
           "shortName": "IND @ HOU",
@@ -3630,6 +3608,28 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png"
           },
           "espnOdds": null
+        },
+        {
+          "id": "401873078",
+          "date": "2026-11-24T01:15Z",
+          "shortName": "CIN @ WSH",
+          "completed": true,
+          "inProgress": false,
+          "awayScore": 20,
+          "homeScore": 22,
+          "awayWinner": false,
+          "homeWinner": true,
+          "away": {
+            "code": "CIN",
+            "name": "Cincinnati Bengals",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
+          },
+          "home": {
+            "code": "WSH",
+            "name": "Washington Commanders",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png"
+          },
+          "espnOdds": null
         }
       ]
     },
@@ -3713,7 +3713,7 @@
           },
           "espnOdds": {
             "details": "DAL -8.5",
-            "overUnder": 48.5,
+            "overUnder": 47.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
@@ -3795,7 +3795,13 @@
             "name": "Cincinnati Bengals",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
           },
-          "espnOdds": null
+          "espnOdds": {
+            "details": "CIN -9.5",
+            "overUnder": 50.5,
+            "provider": "DraftKings",
+            "homeProb": null,
+            "awayProb": null
+          }
         },
         {
           "id": "401873088",
@@ -3874,7 +3880,7 @@
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png"
           },
           "espnOdds": {
-            "details": "MIN -6.5",
+            "details": "MIN -7",
             "overUnder": 42.5,
             "provider": "DraftKings",
             "homeProb": null,
@@ -3985,7 +3991,13 @@
             "name": "Arizona Cardinals",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png"
           },
-          "espnOdds": null
+          "espnOdds": {
+            "details": "WSH -7.5",
+            "overUnder": 42.5,
+            "provider": "DraftKings",
+            "homeProb": null,
+            "awayProb": null
+          }
         },
         {
           "id": "401873091",

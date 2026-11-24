@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T03:51:39.902Z",
+  "updated": "2026-11-24T17:01:17.247Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     11,
@@ -12,7 +12,7 @@
     18
   ],
   "powerIndexHealthy": true,
-  "yahooCrowdHealthy": false,
+  "yahooCrowdHealthy": true,
   "evHealthy": false,
   "originalRecommendation": {
     "week": 11,
@@ -37,43 +37,43 @@
         "crowdPct": null
       },
       "13": {
-        "team": "Denver Broncos",
-        "prob": 91.629,
-        "source": "powerindex",
-        "opponent": "Miami Dolphins",
+        "team": "Washington Commanders",
+        "prob": 76,
+        "source": "kalshi",
+        "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "14": {
         "team": "Detroit Lions",
-        "prob": 85.847,
+        "prob": 86.04899999999999,
         "source": "powerindex",
         "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "15": {
         "team": "Kansas City Chiefs",
-        "prob": 88.924,
+        "prob": 89.333,
         "source": "powerindex",
         "opponent": "New England Patriots",
         "crowdPct": null
       },
       "16": {
         "team": "Houston Texans",
-        "prob": 77.591,
+        "prob": 77.563,
         "source": "powerindex",
         "opponent": "Philadelphia Eagles",
         "crowdPct": null
       },
       "17": {
         "team": "San Francisco 49ers",
-        "prob": 91.822,
+        "prob": 91.99000000000001,
         "source": "powerindex",
         "opponent": "Philadelphia Eagles",
         "crowdPct": null
       },
       "18": {
         "team": "Buffalo Bills",
-        "prob": 86.464,
+        "prob": 86.34100000000001,
         "source": "powerindex",
         "opponent": "New York Jets",
         "crowdPct": null
@@ -103,43 +103,43 @@
         "crowdPct": null
       },
       "13": {
-        "team": "Denver Broncos",
-        "prob": 91.629,
-        "source": "powerindex",
-        "opponent": "Miami Dolphins",
+        "team": "Washington Commanders",
+        "prob": 76,
+        "source": "kalshi",
+        "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "14": {
         "team": "Detroit Lions",
-        "prob": 85.847,
+        "prob": 86.04899999999999,
         "source": "powerindex",
         "opponent": "Tennessee Titans",
         "crowdPct": null
       },
       "15": {
         "team": "Kansas City Chiefs",
-        "prob": 88.924,
+        "prob": 89.333,
         "source": "powerindex",
         "opponent": "New England Patriots",
         "crowdPct": null
       },
       "16": {
         "team": "Houston Texans",
-        "prob": 77.591,
+        "prob": 77.563,
         "source": "powerindex",
         "opponent": "Philadelphia Eagles",
         "crowdPct": null
       },
       "17": {
         "team": "San Francisco 49ers",
-        "prob": 91.822,
+        "prob": 91.99000000000001,
         "source": "powerindex",
         "opponent": "Philadelphia Eagles",
         "crowdPct": null
       },
       "18": {
         "team": "Buffalo Bills",
-        "prob": 86.464,
+        "prob": 86.34100000000001,
         "source": "powerindex",
         "opponent": "New York Jets",
         "crowdPct": null
