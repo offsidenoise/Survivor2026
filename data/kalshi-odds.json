@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T01:01:09.492Z",
+  "updated": "2026-11-24T03:50:36.553Z",
   "odds": {
     "Buccaneers_Panthers": {
       "teams": {
@@ -80,8 +80,8 @@
     },
     "Broncos_Steelers": {
       "teams": {
-        "Steelers": 42,
-        "Broncos": 58
+        "Steelers": 43,
+        "Broncos": 57
       },
       "eventTicker": "KXNFLGAME-26NOV27DENPIT"
     },
@@ -115,8 +115,8 @@
     },
     "Bengals_Commanders": {
       "teams": {
-        "Commanders": 27,
-        "Bengals": 73
+        "Commanders": 39,
+        "Bengals": 61
       },
       "eventTicker": "KXNFLGAME-26NOV23CINWAS"
     }
