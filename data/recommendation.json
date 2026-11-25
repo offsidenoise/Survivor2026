@@ -1,8 +1,7 @@
 {
-  "updated": "2026-11-25T01:57:12.329Z",
+  "updated": "2026-11-25T16:52:59.926Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
-    11,
     12,
     13,
     14,
@@ -13,28 +12,25 @@
   ],
   "powerIndexHealthy": true,
   "yahooCrowdHealthy": true,
-  "evHealthy": false,
+  "evHealthy": true,
   "originalRecommendation": {
-    "week": 11,
+    "week": 12,
     "pick": {
-      "team": "Philadelphia Eagles",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "Pittsburgh Steelers"
+      "team": "Jacksonville Jaguars",
+      "prob": 89,
+      "source": "kalshi",
+      "opponent": "Tennessee Titans",
+      "crowdPct": 11.16,
+      "ev": 0.02282051282051267
     },
     "fullSeasonPlan": {
-      "11": {
-        "team": "Philadelphia Eagles",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "Pittsburgh Steelers"
-      },
       "12": {
         "team": "Jacksonville Jaguars",
         "prob": 89,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
-        "crowdPct": null
+        "crowdPct": 11.16,
+        "ev": 0.02282051282051267
       },
       "13": {
         "team": "Denver Broncos",
@@ -81,26 +77,23 @@
     }
   },
   "crowdAdjustedRecommendation": {
-    "week": 11,
+    "week": 12,
     "pick": {
-      "team": "Philadelphia Eagles",
-      "prob": 100,
-      "source": "final-result",
-      "opponent": "Pittsburgh Steelers"
+      "team": "Jacksonville Jaguars",
+      "prob": 89,
+      "source": "kalshi",
+      "opponent": "Tennessee Titans",
+      "crowdPct": 11.16,
+      "ev": 0.02282051282051267
     },
     "fullSeasonPlan": {
-      "11": {
-        "team": "Philadelphia Eagles",
-        "prob": 100,
-        "source": "final-result",
-        "opponent": "Pittsburgh Steelers"
-      },
       "12": {
         "team": "Jacksonville Jaguars",
         "prob": 89,
         "source": "kalshi",
         "opponent": "Tennessee Titans",
-        "crowdPct": null
+        "crowdPct": 11.16,
+        "ev": 0.02282051282051267
       },
       "13": {
         "team": "Denver Broncos",
