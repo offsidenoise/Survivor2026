@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T17:01:17.247Z",
+  "updated": "2026-11-25T01:57:12.329Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     11,
@@ -37,10 +37,10 @@
         "crowdPct": null
       },
       "13": {
-        "team": "Washington Commanders",
-        "prob": 76,
+        "team": "Denver Broncos",
+        "prob": 90,
         "source": "kalshi",
-        "opponent": "Tennessee Titans",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "14": {
@@ -103,10 +103,10 @@
         "crowdPct": null
       },
       "13": {
-        "team": "Washington Commanders",
-        "prob": 76,
+        "team": "Denver Broncos",
+        "prob": 90,
         "source": "kalshi",
-        "opponent": "Tennessee Titans",
+        "opponent": "Miami Dolphins",
         "crowdPct": null
       },
       "14": {

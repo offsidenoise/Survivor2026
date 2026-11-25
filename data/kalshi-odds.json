@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T20:55:39.881Z",
+  "updated": "2026-11-25T01:56:08.347Z",
   "odds": {
     "Cowboys_Seahawks": {
       "teams": {
@@ -87,15 +87,15 @@
     },
     "Bears_Jaguars": {
       "teams": {
-        "Jaguars": 44,
-        "Bears": 56
+        "Jaguars": 43,
+        "Bears": 57
       },
       "eventTicker": "KXNFLGAME-26DEC06JACCHI"
     },
     "Chiefs_Rams": {
       "teams": {
-        "Rams": 48,
-        "Chiefs": 52
+        "Rams": 47,
+        "Chiefs": 53
       },
       "eventTicker": "KXNFLGAME-26DEC03KCLAR"
     },
@@ -122,8 +122,8 @@
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 62,
-        "Seahawks": 38
+        "49ers": 61,
+        "Seahawks": 39
       },
       "eventTicker": "KXNFLGAME-26NOV29SEASF"
     },
@@ -150,8 +150,8 @@
     },
     "Browns_Raiders": {
       "teams": {
-        "Raiders": 33,
-        "Browns": 67
+        "Raiders": 32,
+        "Browns": 68
       },
       "eventTicker": "KXNFLGAME-26NOV29LVCLE"
     },
@@ -171,8 +171,8 @@
     },
     "Ravens_Texans": {
       "teams": {
-        "Texans": 73,
-        "Ravens": 27
+        "Texans": 74,
+        "Ravens": 26
       },
       "eventTicker": "KXNFLGAME-26NOV29BALHOU"
     },
@@ -199,8 +199,8 @@
     },
     "Bears_Lions": {
       "teams": {
-        "Lions": 45,
-        "Bears": 55
+        "Lions": 46,
+        "Bears": 54
       },
       "eventTicker": "KXNFLGAME-26NOV26CHIDET"
     },
