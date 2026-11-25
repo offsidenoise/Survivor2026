@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T01:56:08.347Z",
+  "updated": "2026-11-25T04:00:14.845Z",
   "odds": {
     "Cowboys_Seahawks": {
       "teams": {
@@ -52,8 +52,8 @@
     },
     "49ers_Giants": {
       "teams": {
-        "49ers": 73,
-        "Giants": 27
+        "49ers": 74,
+        "Giants": 26
       },
       "eventTicker": "KXNFLGAME-26DEC06SFNYG"
     },
@@ -73,8 +73,8 @@
     },
     "Commanders_Titans": {
       "teams": {
-        "Commanders": 66,
-        "Titans": 34
+        "Commanders": 67,
+        "Titans": 33
       },
       "eventTicker": "KXNFLGAME-26DEC06WASTEN"
     },
@@ -94,8 +94,8 @@
     },
     "Chiefs_Rams": {
       "teams": {
-        "Rams": 47,
-        "Chiefs": 53
+        "Rams": 48,
+        "Chiefs": 52
       },
       "eventTicker": "KXNFLGAME-26DEC03KCLAR"
     },
@@ -143,8 +143,8 @@
     },
     "Colts_Giants": {
       "teams": {
-        "Giants": 75,
-        "Colts": 25
+        "Giants": 74,
+        "Colts": 26
       },
       "eventTicker": "KXNFLGAME-26NOV29NYGIND"
     },
@@ -199,8 +199,8 @@
     },
     "Bears_Lions": {
       "teams": {
-        "Lions": 46,
-        "Bears": 54
+        "Lions": 47,
+        "Bears": 53
       },
       "eventTicker": "KXNFLGAME-26NOV26CHIDET"
     },
