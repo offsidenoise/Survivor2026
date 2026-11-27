@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-26T23:42:29.241Z",
+  "updated": "2026-11-27T01:30:21.287Z",
   "odds": {
     "Cowboys_Seahawks": {
       "teams": {
-        "Seahawks": 69,
-        "Cowboys": 31
+        "Seahawks": 70,
+        "Cowboys": 30
       },
       "eventTicker": "KXNFLGAME-26DEC07DALSEA"
     },
@@ -17,8 +17,8 @@
     },
     "Bills_Patriots": {
       "teams": {
-        "Patriots": 13,
-        "Bills": 87
+        "Patriots": 14,
+        "Bills": 86
       },
       "eventTicker": "KXNFLGAME-26DEC06BUFNE"
     },
@@ -38,8 +38,8 @@
     },
     "Cardinals_Eagles": {
       "teams": {
-        "Eagles": 58,
-        "Cardinals": 42
+        "Eagles": 59,
+        "Cardinals": 41
       },
       "eventTicker": "KXNFLGAME-26DEC06PHIARI"
     },
@@ -87,8 +87,8 @@
     },
     "Bears_Jaguars": {
       "teams": {
-        "Jaguars": 50,
-        "Bears": 50
+        "Jaguars": 41,
+        "Bears": 59
       },
       "eventTicker": "KXNFLGAME-26DEC06JACCHI"
     },
@@ -178,8 +178,8 @@
     },
     "Broncos_Steelers": {
       "teams": {
-        "Steelers": 33,
-        "Broncos": 67
+        "Steelers": 32,
+        "Broncos": 68
       },
       "eventTicker": "KXNFLGAME-26NOV27DENPIT"
     },
@@ -192,8 +192,8 @@
     },
     "Cowboys_Eagles": {
       "teams": {
-        "Eagles": 4,
-        "Cowboys": 96
+        "Eagles": 54,
+        "Cowboys": 46
       },
       "eventTicker": "KXNFLGAME-26NOV26PHIDAL"
     }
