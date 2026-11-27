@@ -1,10 +1,10 @@
 {
-  "updated": "2026-11-27T15:27:59.351Z",
+  "updated": "2026-11-27T16:13:11.133Z",
   "odds": {
     "Cowboys_Seahawks": {
       "teams": {
-        "Seahawks": 73,
-        "Cowboys": 27
+        "Seahawks": 72,
+        "Cowboys": 28
       },
       "eventTicker": "KXNFLGAME-26DEC07DALSEA"
     },
@@ -17,15 +17,15 @@
     },
     "Bills_Patriots": {
       "teams": {
-        "Patriots": 14,
-        "Bills": 86
+        "Patriots": 15,
+        "Bills": 85
       },
       "eventTicker": "KXNFLGAME-26DEC06BUFNE"
     },
     "Panthers_Vikings": {
       "teams": {
-        "Vikings": 68,
-        "Panthers": 32
+        "Vikings": 69,
+        "Panthers": 31
       },
       "eventTicker": "KXNFLGAME-26DEC06CARMIN"
     },
@@ -87,15 +87,15 @@
     },
     "Bears_Jaguars": {
       "teams": {
-        "Jaguars": 43,
-        "Bears": 57
+        "Jaguars": 41,
+        "Bears": 59
       },
       "eventTicker": "KXNFLGAME-26DEC06JACCHI"
     },
     "Chiefs_Rams": {
       "teams": {
-        "Rams": 49,
-        "Chiefs": 51
+        "Rams": 50,
+        "Chiefs": 50
       },
       "eventTicker": "KXNFLGAME-26DEC03KCLAR"
     },
@@ -122,8 +122,8 @@
     },
     "49ers_Seahawks": {
       "teams": {
-        "49ers": 57,
-        "Seahawks": 43
+        "49ers": 58,
+        "Seahawks": 42
       },
       "eventTicker": "KXNFLGAME-26NOV29SEASF"
     },
