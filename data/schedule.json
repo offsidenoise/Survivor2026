@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T01:08:05.314Z",
+  "updated": "2026-11-28T15:05:43.659Z",
   "season": 2026,
   "currentWeek": 12,
   "weeks": {
@@ -3636,28 +3636,6 @@
     "12": {
       "games": [
         {
-          "id": "401873083",
-          "date": "2026-11-27T20:00Z",
-          "shortName": "DEN @ PIT",
-          "completed": true,
-          "inProgress": false,
-          "awayScore": 5,
-          "homeScore": 27,
-          "awayWinner": false,
-          "homeWinner": true,
-          "away": {
-            "code": "DEN",
-            "name": "Denver Broncos",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
-          },
-          "home": {
-            "code": "PIT",
-            "name": "Pittsburgh Steelers",
-            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png"
-          },
-          "espnOdds": null
-        },
-        {
           "id": "401873079",
           "date": "2026-11-26T01:00Z",
           "shortName": "GB @ LAR",
@@ -3742,6 +3720,28 @@
             "code": "BUF",
             "name": "Buffalo Bills",
             "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
+          },
+          "espnOdds": null
+        },
+        {
+          "id": "401873083",
+          "date": "2026-11-27T20:00Z",
+          "shortName": "DEN @ PIT",
+          "completed": true,
+          "inProgress": false,
+          "awayScore": 5,
+          "homeScore": 27,
+          "awayWinner": false,
+          "homeWinner": true,
+          "away": {
+            "code": "DEN",
+            "name": "Denver Broncos",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png"
+          },
+          "home": {
+            "code": "PIT",
+            "name": "Pittsburgh Steelers",
+            "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png"
           },
           "espnOdds": null
         },
@@ -4019,7 +4019,7 @@
           },
           "espnOdds": {
             "details": "CLE -4.5",
-            "overUnder": 39.5,
+            "overUnder": 38.5,
             "provider": "DraftKings",
             "homeProb": null,
             "awayProb": null
