@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T16:14:38.713Z",
+  "updated": "2026-11-28T01:08:59.721Z",
   "usedTeamsConsidered": [],
   "remainingWeeks": [
     12,
@@ -30,7 +30,7 @@
       },
       "13": {
         "team": "Denver Broncos",
-        "prob": 89,
+        "prob": 88,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null
@@ -89,7 +89,7 @@
       },
       "13": {
         "team": "Denver Broncos",
-        "prob": 89,
+        "prob": 88,
         "source": "kalshi",
         "opponent": "Miami Dolphins",
         "crowdPct": null

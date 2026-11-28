@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-27T23:40:24.845Z",
+  "updated": "2026-11-28T01:08:05.522Z",
   "odds": {
     "Cowboys_Seahawks": {
       "teams": {
-        "Seahawks": 71,
-        "Cowboys": 29
+        "Seahawks": 72,
+        "Cowboys": 28
       },
       "eventTicker": "KXNFLGAME-26DEC07DALSEA"
     },
     "Steelers_Texans": {
       "teams": {
-        "Steelers": 38,
-        "Texans": 62
+        "Steelers": 37,
+        "Texans": 63
       },
       "eventTicker": "KXNFLGAME-26DEC06HOUPIT"
     },
@@ -31,15 +31,15 @@
     },
     "Broncos_Dolphins": {
       "teams": {
-        "Dolphins": 13,
-        "Broncos": 87
+        "Dolphins": 12,
+        "Broncos": 88
       },
       "eventTicker": "KXNFLGAME-26DEC06MIADEN"
     },
     "Cardinals_Eagles": {
       "teams": {
-        "Eagles": 63,
-        "Cardinals": 37
+        "Eagles": 62,
+        "Cardinals": 38
       },
       "eventTicker": "KXNFLGAME-26DEC06PHIARI"
     },
@@ -80,15 +80,15 @@
     },
     "Packers_Saints": {
       "teams": {
-        "Saints": 31,
-        "Packers": 69
+        "Saints": 33,
+        "Packers": 67
       },
       "eventTicker": "KXNFLGAME-26DEC06GBNO"
     },
     "Bears_Jaguars": {
       "teams": {
-        "Jaguars": 39,
-        "Bears": 61
+        "Jaguars": 40,
+        "Bears": 60
       },
       "eventTicker": "KXNFLGAME-26DEC06JACCHI"
     },
